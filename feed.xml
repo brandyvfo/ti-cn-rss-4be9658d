@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>The Information 中文翻译</title>
-<link>https://example.com/ti-cn</link>
+<link>https://brandyvfo.github.io/ti-cn-rss-4be9658d</link>
 <description>The Information 新闻简报的中文全文翻译</description>
 <language>zh-cn</language>
-<atom:link href="https://example.com/ti-cn/feed.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
 <lastBuildDate>Sun, 27 Sep 2026 17:22:05 -0400</lastBuildDate>
 <item>
 <title>【中文翻译】深入了解通用汽车不顾质疑、执意量产的新型电池</title>
