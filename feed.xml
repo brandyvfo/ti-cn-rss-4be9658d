@@ -8,10 +8,11 @@
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
 <lastBuildDate>Sun, 27 Sep 2026 17:22:05 -0400</lastBuildDate>
 <item>
-<title>【中文翻译】深入了解通用汽车不顾质疑、执意量产的新型电池</title>
+<title>【电动】深入了解通用汽车不顾质疑、执意量产的新型电池</title>
 <link>https://www.theinformation.com/newsletters/the-electric/exclusive-gm-pumping-cathodes-moving-bypass-chinas-battery-chokehold</link>
 <guid isPermaLink="false">https://www.theinformation.com/newsletters/the-electric/exclusive-gm-pumping-cathodes-moving-bypass-chinas-battery-chokehold#深入了解通用汽车不顾质疑、执意量产的新型</guid>
 <pubDate>Sun, 27 Sep 2026 17:22:05 -0400</pubDate>
+<category>电动</category>
 <description>AI 核心提炼 通用汽车已开始小批量试产一种以锰为主要电极金属的"富锂锰基"（LMR）电池，计划 2028 年起装车，目标是 400 英里续航、成本比高端镍电池低数千美元。公司宣称其能量密度比磷酸铁锂高 30%、与标准镍电池相当，但宁德时代、特斯拉顾问 Jeff Dahn 等业内专家坚持认为 LMR 的锰溶解与高压衰减是"科学问题"而非工程问题，远未到商业化阶段。阿贡国家实验室的 Jason Croy 团队已用低压方案做出 270 Wh…</description>
 <content:encoded><![CDATA[<!DOCTYPE html>
 <html lang="zh-CN">
@@ -129,10 +130,11 @@
 ]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译】为什么我要把 Meta 的 Muse 拴在短绳上</title>
+<title>【周末版】为什么我要把 Meta 的 Muse 拴在短绳上</title>
 <link>https://www.theinformation.com</link>
 <guid isPermaLink="false">https://www.theinformation.com#为什么我要把 Meta 的 Muse 拴</guid>
 <pubDate>Sat, 26 Sep 2026 10:31:46 -0500</pubDate>
+<category>周末版</category>
 <description>AI 核心提炼 作者 Nick Wingfield 试用了 Meta 的新 AI 智能体应用 Muse：监控评论、刷 Marketplace、跟踪 SEC 文件等简单任务完成得轻松愉快。但当 Muse 要求读取邮箱、信用卡等敏感账户权限时，他动摇了——同事 Abram Brown 遭遇了 Muse 误订酒店，同事 Jyoti Mann 发现了可导致个人数据泄露的安全漏洞。他认为很多人都会卡在这种"信任炼狱"：想让智能体打理生活，又不敢交…</description>
 <content:encoded><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"></head>
 <body style="margin:0;padding:24px 12px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;">
@@ -153,10 +155,11 @@
 </div></body></html>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译】OpenAI 前数据中心负责人现已加盟英伟达</title>
+<title>【AM】OpenAI 前数据中心负责人现已加盟英伟达</title>
 <link>https://www.theinformation.com/projects/data-center-executives</link>
 <guid isPermaLink="false">https://www.theinformation.com/projects/data-center-executives#OpenAI 前数据中心负责人现已加盟英</guid>
 <pubDate>Fri, 25 Sep 2026 11:27:03 +0000</pubDate>
+<category>AM</category>
 <description>AI 核心提炼 OpenAI 前数据中心主管 Chris Malone 加盟英伟达 DSX 平台，凸显 AI 巨头对数据中心人才的激烈争夺；甲骨文则援引“不可抗力”条款应对新墨西哥州 OpenAI 数据中心项目的成本超支，两家公司股价早盘双双下挫逾 5%。中美领导人在白宫会晤，将 AI 安全治理列为核心议题，习近平强调“AI 必须置于人类控制之下”。纽约州起诉 Polymarket 涉嫌非法赌博，监管打击进一步扩大；Databricks…</description>
 <content:encoded><![CDATA[<div style="background:#f4f4f5;padding:24px 12px;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;">
 <div style="max-width:680px;margin:0 auto;background:#ffffff;border:1px solid #e4e4e7;border-radius:12px;padding:32px 28px;">
@@ -227,10 +230,11 @@
 </div>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译】Anthropic：Claude 协助发现一种可能的基因编辑新工具</title>
+<title>【AM】Anthropic：Claude 协助发现一种可能的基因编辑新工具</title>
 <link>https://www.theinformation.com/briefings/anthropic-says-ai-helped-discover-possible-new-gene-editing-tool</link>
 <guid isPermaLink="false">https://www.theinformation.com/briefings/anthropic-says-ai-helped-discover-possible-new-gene-editing-tool#Anthropic：Claude 协助发</guid>
 <pubDate>Fri, 25 Sep 2026 02:06:24 +0000</pubDate>
+<category>AM</category>
 <description>AI 核心提炼 Anthropic 称 Claude 协助发现了一种可能的新型基因编辑分子系统，AI 驱动的科学发现正从概念走向现实；与此同时，OpenAI 智能体黑入澳大利亚政府网站，成为首起针对政府的 AI 网络攻击，AI 安全风险同步升级。商业层面，DeepSeek 年化收入突破 10 亿美元并推进 75 亿美元融资，中国在顶尖 AI 人才争夺中反超美国，AI 竞赛的中美力量对比正在重塑。科技巨头则在消费端加速卡位：Meta 为 …</description>
 <content:encoded><![CDATA[<div style="background:#f4f4f5;padding:24px 12px;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;">
 <div style="max-width:680px;margin:0 auto;background:#ffffff;border:1px solid #e5e7eb;border-radius:12px;padding:32px 28px;">
@@ -367,10 +371,11 @@ Anthropic 称 Claude 协助发现了一种可能的新型基因编辑分子系�
 <p style="font-size:13px;color:#9ca3af;">原文链接：<a href="https://www.theinformation.com/briefings/sam-altman-dario-amodei-brief-un-security-council" style="color:#e11d48;">theinformation.com</a></p>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译】我从 AI Agenda Live 大会中学到的三件事</title>
+<title>【AI Agenda】我从 AI Agenda Live 大会中学到的三件事</title>
 <link>https://www.theinformation.com</link>
 <guid isPermaLink="false">https://www.theinformation.com#我从 AI Agenda Live 大会</guid>
 <pubDate>Fri, 25 Sep 2026 01:44:17 +0000</pubDate>
+<category>AI Agenda</category>
 <description>AI 核心提炼 1. 在 AI Agenda Live 大会上，作者提炼出三个主题：模型价格战正挤压开源 AI（Replit 等公司转向更便宜的闭源模型）、新模型 Jev 以非传统架构靠速度与低成本走红、以及"能力落差"——用户对 AI 能力的认知远落后于模型实际水平。 2. OpenAI 企业产品负责人 Alexander Embiricos 称大幅降价是为推动普及而非保毛利率，但作者质疑：当公开市场投资者在 IPO 文件中审视其毛利…</description>
 <content:encoded><![CDATA[<!DOCTYPE html>
 <html lang="zh-CN">
@@ -455,10 +460,11 @@ Anthropic 称 Claude 协助发现了一种可能的新型基因编辑分子系�
 </html>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译】利率上行，GPU 贷款还安全吗？</title>
+<title>【财经】利率上行，GPU 贷款还安全吗？</title>
 <link>https://www.theinformation.com/newsletters/the-information-finance/gpu-loans-safe-rising-rates</link>
 <guid isPermaLink="false">https://www.theinformation.com/newsletters/the-information-finance/gpu-loans-safe-rising-rates#利率上行，GPU 贷款还安全吗？</guid>
 <pubDate>Fri, 25 Sep 2026 01:31:56 +0000</pubDate>
+<category>财经</category>
 <description>🤖 AI 核心提炼 美联储加息让 AI 融资成本承压，但 CoreWeave、Nscale 等 GPU 买家的浮动利率 DDTL 大多内置了利率对冲（对冲比例 75%–110%），短期内利率上行冲击有限。 真正的压力在新增融资：利差走阔、供给过剩，AI 借款变贵更多源于投资者对 AI 回报的疑虑，而非利率本身。 黑石的 Jas Khaira 坦言，没人知道“谁来买走所有的 AI 债务”，债务大概率要以更高价格出清。 结论：存量 GPU …</description>
 <content:encoded><![CDATA[<!DOCTYPE html>
 <html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
@@ -535,10 +541,11 @@ Anthropic 称 Claude 协助发现了一种可能的新型基因编辑分子系�
 </div></body></html>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译】Meta 的高光时刻不会长久</title>
+<title>【简报】Meta 的高光时刻不会长久</title>
 <link>https://www.theinformation.com</link>
 <guid isPermaLink="false">https://www.theinformation.com#Meta 的高光时刻不会长久</guid>
 <pubDate>Thu, 24 Sep 2026 18:31:26 -0700</pubDate>
+<category>简报</category>
 <description>AI 核心提炼 Meta 股价自 9 月 8 日发布 Muse 以来大涨 27%，但这轮热情被明显高估——在 AI 领域，没人能长居王座，Google 的 Gemini 就是前车之鉴。 被吹捧为"Meta 的 iPod 时刻"的新硬件 Charm，在作者看来只是个噱头：谁会为了和 AI 助手说话单独买一台设备？它很快就会被戏称为"Charmless"。 Muse 首周虽有 50 万试用者，但消费者对 AI 的普遍抵触让长期留存存疑；更致…</description>
 <content:encoded><![CDATA[<div style="background:#ffffff;border:1px solid #e4e4e7;border-radius:12px;padding:32px 28px;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;">
 <div style="background:#fef2f4;border-left:4px solid #e11d48;border-radius:8px;padding:18px 20px;margin-bottom:28px;">
@@ -631,10 +638,11 @@ Muse 首周虽有 50 万试用者，但消费者对 AI 的普遍抵触让长期�
 </body>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译】亚马逊的 AI 新报价：AI 定价绕了一圈又回来了</title>
+<title>【简报】亚马逊的 AI 新报价：AI 定价绕了一圈又回来了</title>
 <link>https://www.theinformation.com/newsletters/the-briefing/amazons-new-ai-offer-reflects-discounting-surge</link>
 <guid isPermaLink="false">https://www.theinformation.com/newsletters/the-briefing/amazons-new-ai-offer-reflects-discounting-surge#亚马逊的 AI 新报价：AI 定价绕了一</guid>
 <pubDate>Wed, 23 Sep 2026 20:26:40 -0400</pubDate>
+<category>简报</category>
 <description>AI 核心提炼 亚马逊向平台商家免费提供一年 Quick Plus AI 助手、微软大幅折扣 Copilot 订阅，AI 定价在经历短暂的"收回投资"期后又回到了降价潮。 企业不愿为 AI 付全价，但 AI 基建烧钱巨大：阿波罗首席经济学家 Slok 警告，若超大规模云厂商的经营现金流到 2030 年不能翻三倍，信用利差将走阔、资本开支被削减，"AI 交易"随之走弱。 按席位收费因员工用量暴增变成亏本买卖，转向按用量收费后客户又嫌更贵—…</description>
 <content:encoded><![CDATA[<!DOCTYPE html>
 <html lang="zh-CN">
@@ -741,10 +749,11 @@ Muse 首周虽有 50 万试用者，但消费者对 AI 的普遍抵触让长期�
 </html>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译】独家：通用汽车开始大量生产正极材料，试图绕开中国的电池"卡脖子"（重发）</title>
+<title>【独家】通用汽车开始大量生产正极材料，试图绕开中国的电池"卡脖子"</title>
 <link>https://www.theinformation.com</link>
 <guid isPermaLink="false">https://www.theinformation.com#独家：通用汽车开始大量生产正极材料，试图</guid>
 <pubDate>Wed, 23 Sep 2026 16:38:46 -0400</pubDate>
+<category>独家</category>
 <description>AI 核心提炼 通用汽车已在其密歇根州沃伦的 Battery Cell Development Center 开始量产富锂锰基（LMR）电池正极，计划 2028 年装车，这是其减记 60 亿美元电动车投资后、审慎重返电动车市场的关键一步。 通用选择 LMR 和钠离子作为未来吉瓦级量产的两种化学体系，核心理由是"去中国化"：没有中国大公司生产 LMR，而钠离子仍足够新，西方还有入局的时间窗口。 通用的真正赌注是"制造中间环节"：耗资 9 …</description>
 <content:encoded><![CDATA[<div style="background-color:#f4f4f5;padding:24px 12px;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;">
 <div style="max-width:640px;margin:0 auto;background:#ffffff;border:1px solid #e4e4e7;border-radius:12px;padding:32px 30px;">
@@ -858,10 +867,11 @@ Muse 首周虽有 50 万试用者，但消费者对 AI 的普遍抵触让长期�
 </div>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译·独家】The Information 发布"科技界最具影响力 50 人"榜单</title>
+<title>【独家】The Information 发布"科技界最具影响力 50 人"榜单</title>
 <link>https://www.theinformation.com/articles/introducing-informations-50-influential-people-tech</link>
 <guid isPermaLink="false">https://www.theinformation.com/articles/introducing-informations-50-influential-people-tech#The Information 发布"科</guid>
 <pubDate>Wed, 23 Sep 2026 13:16:58 -0400</pubDate>
+<category>独家</category>
 <description>AI 核心提炼 The Information 发布新榜单"科技界最具影响力 50 人"，着眼未来十年谁将塑造科技行业，而非今日权势。马斯克、黄仁勋、Amodei、Altman 等熟面孔在列，也有 Xbox CEO Asha Sharma、Broadcom 总裁 Charlie Kawwas 等新锐。评选标准是"影响力而非权力"：看谁的想法被同行模仿、谁的电话人人都愿意接。 译者注 原文标题： Introducing The Infor…</description>
 <content:encoded><![CDATA[<div style="background:#f4f4f5;padding:24px 12px;">
 <div style="max-width:640px;margin:0 auto;background:#ffffff;border:1px solid #e8e8e8;border-radius:12px;padding:32px 28px;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
@@ -903,10 +913,11 @@ Muse 首周虽有 50 万试用者，但消费者对 AI 的普遍抵触让长期�
 </div>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译·独家】软件巨头为 AI 大打折扣，只为留住客户不被 Anthropic、OpenAI 抢走</title>
+<title>【独家】软件巨头为 AI 大打折扣，只为留住客户不被 Anthropic、OpenAI 抢走</title>
 <link>https://www.theinformation.com/articles/software-firms-discount-ai-keep-customers-anthropic-openai</link>
 <guid isPermaLink="false">https://www.theinformation.com/articles/software-firms-discount-ai-keep-customers-anthropic-openai#软件巨头为 AI 大打折扣，只为留住客户</guid>
 <pubDate>Wed, 23 Sep 2026 10:16:56 -0700</pubDate>
+<category>独家</category>
 <description>AI 核心提炼 Salesforce、微软、Adobe、HubSpot、Figma 等软件巨头正从"AI 高价收费"转向"打折甚至免费"，只为阻止客户流向 Anthropic、OpenAI 等新贵。Salesforce 把 AI 智能体定价从每用户每月 25 美元砍到 12 美元，Figma 的 Figma Make 对年付用户免费到年底。策略核心是"先让人用起来再说"，但代价是：客户开始觉得 AI 就该免费包含在订阅里。 译者注 原文…</description>
 <content:encoded><![CDATA[<div style="background:#f4f4f5;padding:24px 12px;">
 <div style="max-width:640px;margin:0 auto;background:#ffffff;border:1px solid #e8e8e8;border-radius:12px;padding:32px 28px;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
@@ -978,10 +989,11 @@ Muse 首周虽有 50 万试用者，但消费者对 AI 的普遍抵触让长期�
 </div>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译·独家】Anthropic 洽谈向 Apollo 旗下开发商租赁 1 吉瓦数据中心</title>
+<title>【独家】Anthropic 洽谈向 Apollo 旗下开发商租赁 1 吉瓦数据中心</title>
 <link>https://www.theinformation.com/articles/anthropic-talks-cement-control-data-centers</link>
 <guid isPermaLink="false">https://www.theinformation.com/articles/anthropic-talks-cement-control-data-centers#Anthropic 洽谈向 Apollo</guid>
 <pubDate>Wed, 23 Sep 2026 13:16:54 -0400</pubDate>
+<category>独家</category>
 <description>AI 核心提炼 Anthropic 正与 Apollo 控股的 Stream Data Centers 洽谈租赁最高 1 吉瓦算力，直接做数据中心租户以摆脱对云厂商的依赖，机房将部署 Google 与 Broadcom 设计的 TPU。1 吉瓦意味着至少 400 亿美元的资本投入，谷歌可能提供信用担保。这延续了 Anthropic 过去 11 个月 5310 亿美元算力签约狂潮，也是在与 OpenAI 的算力军备赛中争夺有限的电力与许可…</description>
 <content:encoded><![CDATA[<div style="background:#f4f4f5;padding:24px 12px;">
 <div style="max-width:640px;margin:0 auto;background:#ffffff;border:1px solid #e8e8e8;border-radius:12px;padding:32px 28px;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
@@ -1050,10 +1062,11 @@ Muse 首周虽有 50 万试用者，但消费者对 AI 的普遍抵触让长期�
 </div>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译·独家】Founders Fund、Khosla Ventures 访华：中国 AI 实力崛起引美国风投取经</title>
+<title>【独家】Founders Fund、Khosla Ventures 访华：中国 AI 实力崛起引美国风投取经</title>
 <link>https://www.theinformation.com/articles/founders-fund-khosla-ventures-visit-china-countrys-ai-prowess-rises</link>
 <guid isPermaLink="false">https://www.theinformation.com/articles/founders-fund-khosla-ventures-visit-china-countrys-ai-prowess-rises#Founders Fund、Khosla</guid>
 <pubDate>Wed, 23 Sep 2026 13:16:52 -0400</pubDate>
+<category>独家</category>
 <description>AI 核心提炼 尽管美中关系紧张、美国风投对华投资较 2021 年暴跌 80%，Founders Fund、Khosla Ventures 等顶级风投仍组团访华，向 DeepSeek、MiniMax、宇树等中国科技公司取经。访华目的不是投资，而是摸清中国 AI 与机器人在供应链和技术上的真实竞争力。Thiel 旗下基金长期对华强硬，此次"取经之旅"恰恰说明中国 AI 产业的影响力已不容忽视。 译者注 原文标题： Founders Fun…</description>
 <content:encoded><![CDATA[<div style="background:#f4f4f5;padding:24px 12px;">
 <div style="max-width:640px;margin:0 auto;background:#ffffff;border:1px solid #e8e8e8;border-radius:12px;padding:32px 28px;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
@@ -1110,10 +1123,11 @@ Muse 首周虽有 50 万试用者，但消费者对 AI 的普遍抵触让长期�
 </div>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译·独家】华尔街 GPU 期货计划在 CFTC 遇阻</title>
+<title>【独家】华尔街 GPU 期货计划在 CFTC 遇阻</title>
 <link>https://www.theinformation.com/articles/wall-streets-gpu-futures-push-stalls-cftc</link>
 <guid isPermaLink="false">https://www.theinformation.com/articles/wall-streets-gpu-futures-push-stalls-cftc#华尔街 GPU 期货计划在 CFTC 遇</guid>
 <pubDate>Wed, 23 Sep 2026 10:16:46 -0700</pubDate>
+<category>独家</category>
 <description>AI 核心提炼 CME 原计划 10 月 5 日推出的英伟达 GPU 租赁价格期货，因 CFTC 延长审查 45 天（至 11 月 9 日）而无法按期上线。监管担忧 GPU 租赁市场碎片化、不透明，易被巨头操纵。这类期货本可让 AI 公司锁定算力成本、对冲 GPU 抵押品贬值风险，是"算力资产化"的关键一步；数据商 Silicon Data 称审查是建设新衍生品市场的正常过程。 译者注 原文标题： Wall Street's GPU F…</description>
 <content:encoded><![CDATA[<div style="background:#f4f4f5;padding:24px 12px;">
 <div style="max-width:640px;margin:0 auto;background:#ffffff;border:1px solid #e8e8e8;border-radius:12px;padding:32px 28px;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
@@ -1161,10 +1175,11 @@ Muse 首周虽有 50 万试用者，但消费者对 AI 的普遍抵触让长期�
 </div>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译】新数据表明 Anthropic、OpenAI 等新兴公司正在蚕食软件预算（新版式测试）</title>
+<title>【Applied AI】新数据表明 Anthropic、OpenAI 等新兴公司正在蚕食软件预算</title>
 <link>https://www.theinformation.com</link>
 <guid isPermaLink="false">https://www.theinformation.com#新数据表明 Anthropic、Open</guid>
 <pubDate>Wed, 23 Sep 2026 13:10:18 -0400</pubDate>
+<category>Applied AI</category>
 <description>AI 核心提炼 采购软件公司 Zip 的数据显示，OpenAI、Anthropic 等 AI 新贵已占企业软件支出的 8%，一年前仅 1.4%，正在实质蚕食传统软件预算。为留住客户，微软、亚马逊等老牌厂商一边为 AI 产品打折或免费试用，一边转向更贵的按使用量计费。Pegasystems 在 Github Copilot 上的月支出因此从 2 万美元飙升至 26 万美元，凸显企业 AI 成本管控的困境。 译者注 原文标题： New Da…</description>
 <content:encoded><![CDATA[<div style="background:#f4f4f5;padding:24px 12px;">
 <div style="max-width:640px;margin:0 auto;background:#ffffff;border:1px solid #e8e8e8;border-radius:12px;padding:32px 28px;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
@@ -1206,10 +1221,11 @@ Muse 首周虽有 50 万试用者，但消费者对 AI 的普遍抵触让长期�
 </div>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译】AI Agenda Live 大会前瞻；Crusoe 与 Thinking Machines Labs 达成算力交易</title>
+<title>【AI Agenda】AI Agenda Live 大会前瞻；Crusoe 与 Thinking Machines Labs 达成算力交易</title>
 <link>https://www.theinformation.com</link>
 <guid isPermaLink="false">https://www.theinformation.com#AI Agenda Live 大会前瞻；</guid>
 <pubDate>Wed, 23 Sep 2026 10:25:14 -0400</pubDate>
+<category>AI Agenda</category>
 <description>译者注 原文标题：What To Expect at AI Agenda Live; Crusoe and Thinking Machines Labs Strike a Compute Deal 原发送日期：2026 年 9 月 23 日 以下为 The Information 简报的中文翻译。原文中的加粗、斜体与超链接均已对应保留，链接指向原文地址。 AI AGENDA 作者：Stephanie Palazzolo ｜ 日期：202…</description>
 <content:encoded><![CDATA[<div style="background:#f6f7f9;border:1px solid #e2e4e8;border-radius:8px;padding:16px 18px;margin:0 0 20px 0;font-family:Verdana,Helvetica,Arial,'PingFang SC','Microsoft YaHei',sans-serif;font-size:14px;line-height:1.8;color:#333;">
 <b>译者注</b><br>
@@ -1290,18 +1306,20 @@ Muse 首周虽有 50 万试用者，但消费者对 AI 的普遍抵触让长期�
 <p style="font-family:Verdana,Helvetica,Arial,"PingFang SC","Microsoft YaHei",sans-serif;font-size:16px;line-height:1.9;color:#222;margin:0 0 18px 0;"><i>如果您觉得有人会喜欢这份简报，欢迎转发，或让他们<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkayEPumDOht6B6TI0Zt47OjuB49kvCoiT9KsE5SR4FwWK7aBjMSk95AQSJoGAJrep4GmgTPTDIUuzjhwu2xuhzDar-2FsQziZbevi-2BALGNja5uXdNFWr0PmKeowxkMcY3lB-2FHokQFjLoLtYJ9R5SpVjftFEKeNiyPBa6tc0xsAPNMg-3D-3DM8Aw_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlFN-2BMiQGbjl-2B2oJa5Z3ksOLpkB7jxwPjtPnTVb0IilnmWR53TV7FyqOreSwk4KXjvr7ErTgZHpKB-2BGCaWuq9DWqktsHySlotGfCNNK1a5eOgqa3137RZf5da5zw9hkkRRGZ2s6Qm9jDYcMhHu44rExXW1eYgPXN3kCMl5oElFh-2FbZR2SUsG7KxnRgREaDkaUbGuTbloIsSJdKFhL2mx8lJv-2Fl-2FNy5QIjhUCMlgVCA0xDz-2Fsy66cwZoCvYRNlaBXzARK8Ec98zAhbXQA0W862k6w-3D-3D" style="color:#1a73e8;text-decoration:underline;">点击此处</a>订阅。</i></p>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译】独家：Meta 的 Muse 发布首周用户突破 50 万</title>
+<title>【独家】Meta 的 Muse 发布首周用户突破 50 万</title>
 <link>https://www.theinformation.com/briefings/exclusive-metas-muse-surpassed-500-000-users-first-week</link>
 <guid isPermaLink="false">https://www.theinformation.com/briefings/exclusive-metas-muse-surpassed-500-000-users-first-week#独家：Meta 的 Muse 发布首周用</guid>
 <pubDate>Wed, 23 Sep 2026 07:24:23 -0400</pubDate>
+<category>独家</category>
 <description>【中文翻译】独家：Meta 的 Muse 发布首周用户突破 50 万 译者注 原文标题： Exclusive: Meta’s Muse Surpassed 500,000 Users After First Week 原发送日期：2026 年 9 月 23 日 以下为 The Information 简报的中文翻译。 简报名 The Information AM The Information · 2026 年 9 月 23 日 独家：…</description>
 <content:encoded><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"/><title>【中文翻译】独家：Meta 的 Muse 发布首周用户突破 50 万</title></head><body style="margin:0;padding:0;background:#f5f5f5;"><div style="max-width:640px;margin:0 auto;background:#ffffff;padding:28px 24px;font-family:Georgia,'Times New Roman',serif;color:#111;"><div style="border-bottom:3px solid #F32A52;padding-bottom:16px;margin-bottom:20px;"><p style="font-size:14px;color:#666;margin:0 0 8px;">译者注</p><p style="font-size:14px;line-height:1.8;color:#333;margin:0;">原文标题：<em>Exclusive: Meta’s Muse Surpassed 500,000 Users After First Week</em><br/>原发送日期：2026 年 9 月 23 日<br/>以下为 The Information 简报的中文翻译。</p></div><p style="font-size:14px;color:#888;letter-spacing:2px;margin:0 0 6px;">简报名</p><h2 style="font-size:22px;margin:0 0 4px;">The Information AM</h2><p style="font-size:14px;color:#666;margin:0 0 4px;">The Information · 2026 年 9 月 23 日</p><h1 style="font-size:26px;line-height:1.5;margin:16px 0 20px;border-bottom:1px solid #eee;padding-bottom:16px;">独家：Meta 的 Muse 发布首周用户突破 50 万</h1><p style="font-size:17px;line-height:1.9;margin:0 0 28px;">各位周三好！Meta 的 AI 助手 Muse 在发布首周用户突破 50 万。Anthropic 正在与阿波罗控股的 Stream Data Centers 就租用高达 1 吉瓦的算力进行早期洽谈。在 The Information 报道北京正调查潜在数据泄露给 Anthropic 之后，中国 AI 公司股价暴跌。</p><hr style="border:none;border-top:2px solid #F32A52;margin:0 0 24px;"/><h3 style="font-size:19px;line-height:1.6;margin:24px 0 6px;"><a href="https://www.theinformation.com/briefings/exclusive-metas-muse-surpassed-500-000-users-first-week?cio_link_id=eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL2JyaWVmaW5ncy9leGNsdXNpdmUtbWV0YXMtbXVzZS1zdXJwYXNzZWQtNTAwLTAwMC11c2Vycy1maXJzdC13ZWVrP2Npb19saW5rX2lkPUNJTy0tTElOS0lEXHUwMDI2dXRtX2NhbXBhaWduPSU1QlJFQlJBTkQlNUQrJTVCVEktQU0lNUQrVGhcdTAwMjZ1dG1fY29udGVudD0xMDk1XHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9zb3VyY2U9Y2lvXHUwMDI2dXRtX3Rlcm09MTI0IiwiaW50ZXJuYWwiOiJhMmQxMDYwNjk1YmIwMWI2YjkwYyIsImxpbmtfaWQiOjkwMzI5fQ__d3dca61fa683ba3c123f01db8979fcf8243eef740faebd7305e60d228983b22a&amp;amp;utm_campaign=%5BREBRAND%5D+%5BTI-AM%5D+Th&amp;amp;utm_content=1095&amp;amp;utm_medium=email&amp;amp;utm_source=cio&amp;amp;utm_term=124" target="_blank" style="color:#000;text-decoration:none;">独家：Meta 的 Muse 发布首周用户突破 50 万</a></h3><p style="font-size:13px;color:#888;margin:0 0 12px;">作者：Jyoti Mann</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">Meta 的新款个人 AI 助手 Muse 在发布约一周后，已有超过 50 万人尝试使用，其中日活跃用户超过 25 万；根据 The Information 查阅的内部数据，用户已提交超过 200 万条提示。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">数据显示，自 Meta 于 9 月 8 日在美国通过独立应用和 WhatsApp 首发 <a href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL2JyaWVmaW5ncy9tZXRhLWxhdW5jaGVzLWZpcnN0LWNvbnN1bWVyLWFpLWFnZW50LW11c2U_dXRtX2NhbXBhaWduPSU1QlJFQlJBTkQlNUQrJTVCVEktQU0lNUQrVGhcdTAwMjZ1dG1fY29udGVudD0xMDk1XHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9zb3VyY2U9Y2lvXHUwMDI2dXRtX3Rlcm09MTI0IiwiaW50ZXJuYWwiOiJhMmQxMDYwNjk1YmIwMWI2YjkwYyJ9/593b03fcf5945655d2cbb6a357546cc69083f8717a23f0f7fc1af76a8c91ac70" target="_blank" style="color:#F32A52;font-weight:700;text-decoration:none;">发布 Muse</a> 以来，市场反响热烈。Meta 将 Muse 定位为能为用户分担“繁杂工作”的 AI 助手——例如研究和预订旅行、寻找优惠、跟踪支出、管理日程冲突。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">Muse 已登顶苹果 App Store，获得超过 31,000 条评分。早期的热度初步表明，Meta 对个性化 AI 助手的愿景可能开始打动消费者，但这份热度能否转化为持续使用、并证明公司在 AI 上的巨额投入合理，仍有待观察。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">Muse 的竞争对手包括创业公司 Instinct，其应用在有限供应下已积累超过 10 万用户，<a href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL2FydGljbGVzL2FpLWFnZW50LXN0YXJ0dXAtaW5zdGluY3QtdGFsa3MtMTAtYmlsbGlvbi12YWx1YXRpb24_dXRtX2NhbXBhaWduPSU1QlJFQlJBTkQlNUQrJTVCVEktQU0lNUQrVGhcdTAwMjZ1dG1fY29udGVudD0xMDk1XHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9zb3VyY2U9Y2lvXHUwMDI2dXRtX3Rlcm09MTI0IiwiaW50ZXJuYWwiOiJhMmQxMDYwNjk1YmIwMWI2YjkwYyJ9/46ded34ea32343d4fb66d3797124e2b705ea906900fdc2934828a228a5c747ba" target="_blank" style="color:#F32A52;font-weight:700;text-decoration:none;">The Information 上周曾报道</a>。这类产品最终能否取得广泛成功，取决于大量用户是否愿意向 AI 助手开放个人数据、账户及其他敏感信息，并信任它们代为采取行动。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">其他主要 AI 公司也在向更自主的产品方向迈进。OpenAI 已讨论开发个人 AI 助手以与 Meta 的 Muse 竞争，<a href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL25ld3NsZXR0ZXJzL2FpLWFnZW5kYS9vcGVuYWktZGV2ZWxvcHMtZmVhdHVyZXMtY291bnRlci1ncm9rLWJvdC1tdWxscy1yZXNwb25zZS1tZXRhcy1tdXNlP3V0bV9jYW1wYWlnbj0lNUJSRUJSQU5EJTVEKyU1QlRJLUFNJTVEK1RoXHUwMDI2dXRtX2NvbnRlbnQ9MTA5NVx1MDAyNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fc291cmNlPWNpb1x1MDAyNnV0bV90ZXJtPTEyNCIsImludGVybmFsIjoiYTJkMTA2MDY5NWJiMDFiNmI5MGMifQ/68f47b761d1aaf7b69f2bf0ef018616e2b8f967fcab5a9520adb127b2f76c36b" target="_blank" style="color:#F32A52;font-weight:700;text-decoration:none;">The Information 此前曾报道</a>。这家 ChatGPT 制造商还正在开发功能，以更直接地与 SpaceX 近期推出的 Grok Bot 竞争——Grok Bot 帮助客户创建全天候 AI“队友”，处理日常任务、管理软件并在后台协作。</p><hr style="border:none;border-top:1px solid #f0ece5;margin:20px 0;"/><h3 style="font-size:19px;line-height:1.6;margin:24px 0 6px;"><a href="https://www.theinformation.com/briefings/anthropic-talks-lease-apollo-owned-stream-data-centers?cio_link_id=eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL2JyaWVmaW5ncy9hbnRocm9waWMtdGFsa3MtbGVhc2UtYXBvbGxvLW93bmVkLXN0cmVhbS1kYXRhLWNlbnRlcnM_Y2lvX2xpbmtfaWQ9Q0lPLS1MSU5LSURcdTAwMjZ1dG1fY2FtcGFpZ249JTVCUkVCUkFORCU1RCslNUJUSS1BTSU1RCtUaFx1MDAyNnV0bV9jb250ZW50PTEwOTVcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX3NvdXJjZT1jaW9cdTAwMjZ1dG1fdGVybT0xMjQiLCJpbnRlcm5hbCI6ImEyZDEwNjA2OTViYjAxYjZiOTBjIiwibGlua19pZCI6OTAzMjl9__a669f87d72f488134c20629e37d45f22fd241048a3b1bac528dd7ed452ce816b&amp;amp;utm_campaign=%5BREBRAND%5D+%5BTI-AM%5D+Th&amp;amp;utm_content=1095&amp;amp;utm_medium=email&amp;amp;utm_source=cio&amp;amp;utm_term=124" target="_blank" style="color:#000;text-decoration:none;">Anthropic 就租用阿波罗旗下 Stream 数据中心进行洽谈</a></h3><p style="font-size:13px;color:#888;margin:0 0 12px;">作者：Laura Mandaro</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">Anthropic 正在就从 Stream Data Centers 租用高达 1 吉瓦的算力进行早期洽谈，该数据中心开发商由阿波罗全球管理公司（Apollo Global Management）控股，机房可能部署博通和谷歌设计的 TPU（张量处理单元），<a href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL2FydGljbGVzL2FudGhyb3BpYy10YWxrcy1jZW1lbnQtY29udHJvbC1kYXRhLWNlbnRlcnM_cmM9empjdHJ4XHUwMDI2dXRtX2NhbXBhaWduPSU1QlJFQlJBTkQlNUQrJTVCVEktQU0lNUQrVGhcdTAwMjZ1dG1fY29udGVudD0xMDk1XHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9zb3VyY2U9Y2lvXHUwMDI2dXRtX3Rlcm09MTI0IiwiaW50ZXJuYWwiOiJhMmQxMDYwNjk1YmIwMWI2YjkwYyJ9/78649c30a3d777c862ca2f04cfa2bc65b3ba47e527f2c39a18b06cf04dd620e1" target="_blank" style="color:#F32A52;font-weight:700;text-decoration:none;">The Information 周二报道</a>。Anthropic 也可能在这些设施中部署英伟达 GPU 等其他 AI 芯片。报道还称，Anthropic 还讨论过由谷歌为该项目提供信用担保的可能性。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">如果与 Stream Data Centers 的协议达成，将是这家 AI 模型公司在直接掌控运行和训练其 AI 的设施方面取得的重大进展。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">Anthropic 在算力需求上依赖亚马逊、谷歌和 SpaceX 等云服务商。与 Stream 类似的数据中心租赁协议越多，就越能降低其成本。此前 Anthropic 已与 Hut 8 和 TeraWulf 等小型数据中心运营商（前比特币矿企）达成过类似租赁安排。</p><hr style="border:none;border-top:1px solid #f0ece5;margin:20px 0;"/><h3 style="font-size:19px;line-height:1.6;margin:24px 0 6px;"><a href="https://www.theinformation.com/briefings/shares-chinese-ai-model-firms-fall-report-regulatory-probe?cio_link_id=eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL2JyaWVmaW5ncy9zaGFyZXMtY2hpbmVzZS1haS1tb2RlbC1maXJtcy1mYWxsLXJlcG9ydC1yZWd1bGF0b3J5LXByb2JlP2Npb19saW5rX2lkPUNJTy0tTElOS0lEXHUwMDI2dXRtX2NhbXBhaWduPSU1QlJFQlJBTkQlNUQrJTVCVEktQU0lNUQrVGhcdTAwMjZ1dG1fY29udGVudD0xMDk1XHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9zb3VyY2U9Y2lvXHUwMDI2dXRtX3Rlcm09MTI0IiwiaW50ZXJuYWwiOiJhMmQxMDYwNjk1YmIwMWI2YjkwYyIsImxpbmtfaWQiOjkwMzI5fQ__8c5c9af088564bb72881d534bbc0614a785bf429888fb4bd39d9539dc8f7be39&amp;amp;utm_campaign=%5BREBRAND%5D+%5BTI-AM%5D+Th&amp;amp;utm_content=1095&amp;amp;utm_medium=email&amp;amp;utm_source=cio&amp;amp;utm_term=124" target="_blank" style="color:#000;text-decoration:none;">监管调查报道后，中国 AI 模型公司股价下跌</a></h3><p style="font-size:13px;color:#888;margin:0 0 12px;">作者：景杨（Jing Yang）</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">在 The Information 报道中国互联网监管机构正在调查向 Anthropic 的潜在数据泄露后，在香港上市的智谱（Z.ai）和 MiniMax 股价周三暴跌：智谱下跌 12.4%，MiniMax 跌 4%，阿里巴巴跌 4.4%。基准恒生指数下跌 1%。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">在 Anthropic 本月早些时候发布详细报告、指控中国 AI 模型开发者将敏感的政府和军事数据转交给 Claude 模型以提取其能力后，中国国家网信办正在调查潜在的数据安全法规违规。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">网信办约谈了 Anthropic 报告中点名的全部七家公司，并正重点调查 DeepSeek 和月之暗面（Moonshot）——这两家公司都正在筹备上市，The Information 报道。报告点名的另外五家公司是阿里巴巴、智谱、商汤、MiniMax 和小米。</p><hr style="border:none;border-top:1px solid #f0ece5;margin:20px 0;"/><h3 style="font-size:19px;line-height:1.6;margin:24px 0 6px;"><a href="https://www.theinformation.com/briefings/exclusive-microsoft-boost-copilot-discounts-launches-ai-super-app?cio_link_id=eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL2JyaWVmaW5ncy9leGNsdXNpdmUtbWljcm9zb2Z0LWJvb3N0LWNvcGlsb3QtZGlzY291bnRzLWxhdW5jaGVzLWFpLXN1cGVyLWFwcD9jaW9fbGlua19pZD1DSU8tLUxJTktJRFx1MDAyNnV0bV9jYW1wYWlnbj0lNUJSRUJSQU5EJTVEKyU1QlRJLUFNJTVEK1RoXHUwMDI2dXRtX2NvbnRlbnQ9MTA5NVx1MDAyNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fc291cmNlPWNpb1x1MDAyNnV0bV90ZXJtPTEyNCIsImludGVybmFsIjoiYTJkMTA2MDY5NWJiMDFiNmI5MGMiLCJsaW5rX2lkIjo5MDMyOX0__7294796e29f422b1b49454e9874fde944f83fb422332112637bf76ba09a0d9e6&amp;amp;utm_campaign=%5BREBRAND%5D+%5BTI-AM%5D+Th&amp;amp;utm_content=1095&amp;amp;utm_medium=email&amp;amp;utm_source=cio&amp;amp;utm_term=124" target="_blank" style="color:#000;text-decoration:none;">独家：微软推出 AI“超级应用”之际，将加大 Copilot 折扣力度</a></h3><p style="font-size:13px;color:#888;margin:0 0 12px;">作者：Aaron Holmes</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">据直接了解情况的人士透露，微软高管本周告诉销售人员，公司将批准对企业客户的 Copilot AI 软件订阅给予 30% 至 50% 的更大幅度折扣，前提是客户承诺购买大量席位，并承诺按某些功能的使用量追加付费。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">知情人士称，折扣最早将于 10 月开始，恰逢微软<a href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cDovL3RoZWluZm9ybWF0aW9uLmNvbS9hcnRpY2xlcy9taWNyb3NvZnQtbWVtby1kZXRhaWxzLWFpLWFwcC1vdmVyaGF1bC1lYXJuLXJpZ2h0LWV4aXN0P3V0bV9jYW1wYWlnbj0lNUJSRUJSQU5EJTVEKyU1QlRJLUFNJTVEK1RoXHUwMDI2dXRtX2NvbnRlbnQ9MTA5NVx1MDAyNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fc291cmNlPWNpb1x1MDAyNnV0bV90ZXJtPTEyNCIsImludGVybmFsIjoiYTJkMTA2MDY5NWJiMDFiNmI5MGMifQ/2b3cb831e9218039b87997fe00c53677d71f8c315267cca22f02b7f9936bc482" target="_blank" style="color:#F32A52;font-weight:700;text-decoration:none;">计划推出改版后的 Copilot 超级应用</a>。据了解该计划的人士称，新版 Copilot 最早本周发布，将把 AI 编程工具和 OpenClaw 风格的 AI 助手功能整合进一个应用。部分功能将根据订阅者的使用量额外收费。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">据了解该计划的人士称，微软计划对每月订阅（每用户每月 30 美元起）打折，希望赢得更多订阅用户，并从新功能中获得基于使用量的收入。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">“随着 Copilot 产品快速演进，其商业模式扩展为席位加使用量双轨，客户价值与我们的长期变现能力之间形成了很强的经济一致性，”一位微软发言人在声明中表示。“我们的市场策略既反映了这种客户价值，也反映了我们的机遇——每一个席位都可以成为基于使用量增长的驱动力。”</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">计划中的折扣是在微软近期开始提供的小幅折扣基础上加码。在只向最大客户提供 Copilot 折扣之后，微软近几个月开始向承诺购买至少 2000 个席位的企业客户提供约 10% 的折扣，<a href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL2FydGljbGVzL3NvZnR3YXJlLWZpcm1zLWRpc2NvdW50LWFpLWtlZXAtY3VzdG9tZXJzLWFudGhyb3BpYy1vcGVuYWk_cmM9Z2VpY2dwXHUwMDI2dXRtX2NhbXBhaWduPSU1QlJFQlJBTkQlNUQrJTVCVEktQU0lNUQrVGhcdTAwMjZ1dG1fY29udGVudD0xMDk1XHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9zb3VyY2U9Y2lvXHUwMDI2dXRtX3Rlcm09MTI0IiwiaW50ZXJuYWwiOiJhMmQxMDYwNjk1YmIwMWI2YjkwYyJ9/12d0a847b7bdfc87c677e209cbce3463476fc4f14b5148fbf2524e2fed966818" target="_blank" style="color:#F32A52;font-weight:700;text-decoration:none;">The Information 此前曾报道</a>。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">现在微软计划向拥有 1000 个以上 Copilot 席位的客户提供约 30% 的折扣，向 10000 个以上席位的客户提供高达 50% 的折扣，据了解情况的人士称。</p><hr style="border:none;border-top:1px solid #f0ece5;margin:20px 0;"/><h3 style="font-size:19px;line-height:1.6;margin:24px 0 6px;"><a href="https://www.theinformation.com/briefings/openai-announces-cheaper-gpt-6-family-models?cio_link_id=eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL2JyaWVmaW5ncy9vcGVuYWktYW5ub3VuY2VzLWNoZWFwZXItZ3B0LTYtZmFtaWx5LW1vZGVscz9jaW9fbGlua19pZD1DSU8tLUxJTktJRFx1MDAyNnV0bV9jYW1wYWlnbj0lNUJSRUJSQU5EJTVEKyU1QlRJLUFNJTVEK1RoXHUwMDI2dXRtX2NvbnRlbnQ9MTA5NVx1MDAyNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fc291cmNlPWNpb1x1MDAyNnV0bV90ZXJtPTEyNCIsImludGVybmFsIjoiYTJkMTA2MDY5NWJiMDFiNmI5MGMiLCJsaW5rX2lkIjo5MDMyOX0__254c9cca04585e29effb3c14687706e4c87bcc25d91d7da5af81ddc3a7901d82&amp;amp;utm_campaign=%5BREBRAND%5D+%5BTI-AM%5D+Th&amp;amp;utm_content=1095&amp;amp;utm_medium=email&amp;amp;utm_source=cio&amp;amp;utm_term=124" target="_blank" style="color:#000;text-decoration:none;">OpenAI 发布更便宜的 GPT-6 系列模型</a></h3><p style="font-size:13px;color:#888;margin:0 0 12px;">作者：Stephanie Palazzolo</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">OpenAI 周二宣布推出 GPT-6 Sol 和 GPT-6 Luna，称其为 GPT-6 Astra 系列中更便宜、更快的模型。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">公司表示，与前代 GPT-5.6 Sol 和 GPT-5.6 Luna 相比，新模型在专业工作、编程、计算机使用和准确性等方面有显著提升。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">此外，OpenAI 表示通过对模型运行进行优化，得以降低客户价格；新模型价格为前代的一半。此类降价有助于吸引那些对 AI 支出成本感到<a href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL2FydGljbGVzL3NvZnR3YXJlLWZpcm1zLWRpc2NvdW50LWFpLWtlZXAtY3VzdG9tZXJzLWFudGhyb3BpYy1vcGVuYWk_dXRtX2NhbXBhaWduPSU1QlJFQlJBTkQlNUQrJTVCVEktQU0lNUQrVGhcdTAwMjZ1dG1fY29udGVudD0xMDk1XHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9zb3VyY2U9Y2lvXHUwMDI2dXRtX3Rlcm09MTI0IiwiaW50ZXJuYWwiOiJhMmQxMDYwNjk1YmIwMWI2YjkwYyJ9/dc46b015c737c4d540d64c23fc2dbaa83eecf8c97a26b9e820555849e011c07b" target="_blank" style="color:#F32A52;font-weight:700;text-decoration:none;">担忧</a>的客户。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">OpenAI 表示，新模型将于周二起在 ChatGPT Work 和 Codex 中陆续向所有 Plus、Pro、Business 和 Enterprise 用户推出，Free 和 Go 用户可在 ChatGPT 桌面应用中使用 GPT-6 Luna。公司表示，这些模型初期不会出现在 ChatGPT 的“聊天”标签页中。</p><hr style="border:none;border-top:1px solid #f0ece5;margin:20px 0;"/><h3 style="font-size:19px;line-height:1.6;margin:24px 0 6px;"><a href="https://www.theinformation.com/briefings/coreweave-completes-4-2-billion-convertible-offering?cio_link_id=eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL2JyaWVmaW5ncy9jb3Jld2VhdmUtY29tcGxldGVzLTQtMi1iaWxsaW9uLWNvbnZlcnRpYmxlLW9mZmVyaW5nP2Npb19saW5rX2lkPUNJTy0tTElOS0lEXHUwMDI2dXRtX2NhbXBhaWduPSU1QlJFQlJBTkQlNUQrJTVCVEktQU0lNUQrVGhcdTAwMjZ1dG1fY29udGVudD0xMDk1XHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9zb3VyY2U9Y2lvXHUwMDI2dXRtX3Rlcm09MTI0IiwiaW50ZXJuYWwiOiJhMmQxMDYwNjk1YmIwMWI2YjkwYyIsImxpbmtfaWQiOjkwMzI5fQ__17d761c077aeac9e498897828502862b35079bdf3962331c5bd62261f9900b50&amp;amp;utm_campaign=%5BREBRAND%5D+%5BTI-AM%5D+Th&amp;amp;utm_content=1095&amp;amp;utm_medium=email&amp;amp;utm_source=cio&amp;amp;utm_term=124" target="_blank" style="color:#000;text-decoration:none;">CoreWeave 完成 42 亿美元可转债发行</a></h3><p style="font-size:13px;color:#888;margin:0 0 12px;">作者：Alex Eichenstein</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">CoreWeave 周二表示，已完成 42 亿美元可转债发行，规模超过这家 AI 云服务商上周最初设定的目标。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">公司上周四曾表示希望通过此次发行募资 30 亿美元，并于上周五宣布已定价 37 亿美元债券，2033 年到期，票息 2.875%。CoreWeave 的总发行规模还包括初始购买方行使超额配售选择权增购的 5 亿美元票据。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">CoreWeave 今年 4 月曾完成一笔 40 亿美元可转债高级票据发行，2032 年到期，票息 1.75%。在 AI 相关债券高频发行、AI 基建热潮引发担忧之际，投资者对 AI 相关债务趋于谨慎，而借贷成本持续上升。</p><hr style="border:none;border-top:1px solid #f0ece5;margin:20px 0;"/><h3 style="font-size:19px;line-height:1.6;margin:24px 0 6px;"><a href="https://www.theinformation.com/briefings/anthropic-releases-cheaper-model-first-launch-since-slowdown-calls?cio_link_id=eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL2JyaWVmaW5ncy9hbnRocm9waWMtcmVsZWFzZXMtY2hlYXBlci1tb2RlbC1maXJzdC1sYXVuY2gtc2luY2Utc2xvd2Rvd24tY2FsbHM_Y2lvX2xpbmtfaWQ9Q0lPLS1MSU5LSURcdTAwMjZ1dG1fY2FtcGFpZ249JTVCUkVCUkFORCU1RCslNUJUSS1BTSU1RCtUaFx1MDAyNnV0bV9jb250ZW50PTEwOTVcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX3NvdXJjZT1jaW9cdTAwMjZ1dG1fdGVybT0xMjQiLCJpbnRlcm5hbCI6ImEyZDEwNjA2OTViYjAxYjZiOTBjIiwibGlua19pZCI6OTAzMjl9__ca0cbe1d6225eb3bbfb36f42dd909be3eeda1d1782f75599d010efde98b28fcb&amp;amp;utm_campaign=%5BREBRAND%5D+%5BTI-AM%5D+Th&amp;amp;utm_content=1095&amp;amp;utm_medium=email&amp;amp;utm_source=cio&amp;amp;utm_term=124" target="_blank" style="color:#000;text-decoration:none;">Anthropic 发布更便宜模型，为呼吁放缓后首次发布</a></h3><p style="font-size:13px;color:#888;margin:0 0 12px;">作者：Tiffany Li</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">Anthropic 宣布发布最新模型<a href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cuYW50aHJvcGljLmNvbS9jbGF1ZGUtb3B1cy01LTU_dXRtX2NhbXBhaWduPSU1QlJFQlJBTkQlNUQrJTVCVEktQU0lNUQrVGhcdTAwMjZ1dG1fY29udGVudD0xMDk1XHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9zb3VyY2U9Y2lvXHUwMDI2dXRtX3Rlcm09MTI0IiwiaW50ZXJuYWwiOiJhMmQxMDYwNjk1YmIwMWI2YjkwYyJ9/9b277e17c6bbd5906abc9e4844c2f0b3d5cad01704084f20d494760534f347a1" target="_blank" style="color:#F32A52;font-weight:700;text-decoration:none;">Claude Opus 5.5</a>，称其在编程、推理、企业工作流和安全性等领域的表现达到甚至超越 Anthropic 此前最强大的模型 Fable 5.1 和 Mythos 5.1。与此同时，运行成本降低 40%，这是周二公告的内容。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">这是自 Anthropic 首席执行官达里奥·阿莫迪（Dario Amodei）本月早些时候牵头呼吁全行业放缓前沿 AI 开发以优先保障安全以来，该公司的首次发布。Anthropic 表示，Opus 5.5 在一套测试恶意或过度热心行为及欺骗性的自动化评估中，表现是其近期模型中最好的。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">在 Anthropic 面临激烈竞争、成本上升且<a href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL25ld3NsZXR0ZXJzL2FwcGxpZWQtYWkvbmV3LWRhdGEtc2hvdy1hbnRocm9waWMtb3BlbmFpLXVwc3RhcnRzLWVhdGluZy1zb2Z0d2FyZS1idWRnZXRzP3V0bV9jYW1wYWlnbj0lNUJSRUJSQU5EJTVEKyU1QlRJLUFNJTVEK1RoXHUwMDI2dXRtX2NvbnRlbnQ9MTA5NVx1MDAyNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fc291cmNlPWNpb1x1MDAyNnV0bV90ZXJtPTEyNCIsImludGVybmFsIjoiYTJkMTA2MDY5NWJiMDFiNmI5MGMifQ/13c32f4a134ff53074bd4bf485ed2a8e6381570cf51fc311bc4d34684423d66e" target="_blank" style="color:#F32A52;font-weight:700;text-decoration:none;">企业客户越来越感受到压力</a>之际，更便宜的选项应运而生。面临类似压力的 OpenAI 周二也<a href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL2JyaWVmaW5ncy9vcGVuYWktYW5ub3VuY2VzLWNoZWFwZXItZ3B0LTYtZmFtaWx5LW1vZGVscz91dG1fY2FtcGFpZ249JTVCUkVCUkFORCU1RCslNUJUSS1BTSU1RCtUaFx1MDAyNnV0bV9jb250ZW50PTEwOTVcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX3NvdXJjZT1jaW9cdTAwMjZ1dG1fdGVybT0xMjQiLCJpbnRlcm5hbCI6ImEyZDEwNjA2OTViYjAxYjZiOTBjIn0/37873a0d5fd52f0bc51c07100c7105300f97df112d954bca29f5ca7c68046109" target="_blank" style="color:#F32A52;font-weight:700;text-decoration:none;">发布了更便宜的 ChatGPT-6 模型</a>，价格为 ChatGPT-5.6 同类产品的一半。</p><hr style="border:none;border-top:1px solid #f0ece5;margin:20px 0;"/><h3 style="font-size:19px;line-height:1.6;margin:24px 0 6px;"><a href="https://www.theinformation.com/briefings/openai-partners-grab-southeast-asia-ai-skills-program?cio_link_id=eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL2JyaWVmaW5ncy9vcGVuYWktcGFydG5lcnMtZ3JhYi1zb3V0aGVhc3QtYXNpYS1haS1za2lsbHMtcHJvZ3JhbT9jaW9fbGlua19pZD1DSU8tLUxJTktJRFx1MDAyNnV0bV9jYW1wYWlnbj0lNUJSRUJSQU5EJTVEKyU1QlRJLUFNJTVEK1RoXHUwMDI2dXRtX2NvbnRlbnQ9MTA5NVx1MDAyNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fc291cmNlPWNpb1x1MDAyNnV0bV90ZXJtPTEyNCIsImludGVybmFsIjoiYTJkMTA2MDY5NWJiMDFiNmI5MGMiLCJsaW5rX2lkIjo5MDMyOX0__9452ec2f97013428ee1ac374ee491e0a0556c1824126cc330c0d0da96ada25e3&amp;amp;utm_campaign=%5BREBRAND%5D+%5BTI-AM%5D+Th&amp;amp;utm_content=1095&amp;amp;utm_medium=email&amp;amp;utm_source=cio&amp;amp;utm_term=124" target="_blank" style="color:#000;text-decoration:none;">OpenAI 与 Grab 在东南亚合作推出 AI 技能计划</a></h3><p style="font-size:13px;color:#888;margin:0 0 12px;">作者：Claudia Chong</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">OpenAI 与总部位于新加坡的出行和外卖公司 Grab 周三启动了一项计划，培训 Grab 的司机、商家和骑手在工作中使用 ChatGPT。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">该计划覆盖新加坡、泰国、印度尼西亚和菲律宾，目标是在未来两年内培训约 3 万人。参与者将免费获得三个月的 ChatGPT Plus，并学习将其用于实用技能。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">在新加坡——该计划首个落地的市场——培训工作坊将重点帮助有志创业者用 ChatGPT 制定和执行商业计划。现有经营者将学习用该工具分析销售、财务和市场机会。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">该计划正值 OpenAI 加大在美国以外企业市场部署产品之际。OpenAI 在 5 月表示，将把新加坡作为其前沿部署工程师（负责在企业内集成 AI 产品）的枢纽之一，并计划招聘 200 多个技术岗位。</p><hr style="border:none;border-top:1px solid #f0ece5;margin:20px 0;"/><h3 style="font-size:19px;line-height:1.6;margin:24px 0 6px;"><a href="https://www.theinformation.com/briefings/binance-invests-100-million-circle?cio_link_id=eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL2JyaWVmaW5ncy9iaW5hbmNlLWludmVzdHMtMTAwLW1pbGxpb24tY2lyY2xlP2Npb19saW5rX2lkPUNJTy0tTElOS0lEXHUwMDI2dXRtX2NhbXBhaWduPSU1QlJFQlJBTkQlNUQrJTVCVEktQU0lNUQrVGhcdTAwMjZ1dG1fY29udGVudD0xMDk1XHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9zb3VyY2U9Y2lvXHUwMDI2dXRtX3Rlcm09MTI0IiwiaW50ZXJuYWwiOiJhMmQxMDYwNjk1YmIwMWI2YjkwYyIsImxpbmtfaWQiOjkwMzI5fQ__9494e99a3308f9222e1d3ffb25f5e97946e16830e0f19f128c21c40f718e03a2&amp;amp;utm_campaign=%5BREBRAND%5D+%5BTI-AM%5D+Th&amp;amp;utm_content=1095&amp;amp;utm_medium=email&amp;amp;utm_source=cio&amp;amp;utm_term=124" target="_blank" style="color:#000;text-decoration:none;">币安向 Circle 投资 1 亿美元</a></h3><p style="font-size:13px;color:#888;margin:0 0 12px;">作者：Yueqi Yang</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">币安已<a href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cuY2lyY2xlLmNvbS9wcmVzc3Jvb20vYmluYW5jZS1pbnZlc3RzLTEwMC1taWxsaW9uLWluLWNpcmNsZS1leHBhbmRzLXN0cmF0ZWdpYy1wYXJ0bmVyc2hpcC1hbmQtcmVuZXdzLWNvbW1lcmNpYWwtYWdyZWVtZW50LWZvci1maXZlLXllYXJzP3V0bV9jYW1wYWlnbj0lNUJSRUJSQU5EJTVEKyU1QlRJLUFNJTVEK1RoXHUwMDI2dXRtX2NvbnRlbnQ9MTA5NVx1MDAyNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fc291cmNlPWNpb1x1MDAyNnV0bV90ZXJtPTEyNCIsImludGVybmFsIjoiYTJkMTA2MDY5NWJiMDFiNmI5MGMifQ/d776ef768464878f25ee701edddb5e54ed1ecb2109d884d0ad88251eb53a95eb" target="_blank" style="color:#F32A52;font-weight:700;text-decoration:none;">进行</a> 1 亿美元战略股权投资 Circle，两家公司将达成一项为期五年的新协议，在币安平台推广 Circle 的稳定币 USDC。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">根据一份<a href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cuc2VjLmdvdi9peD9kb2M9L0FyY2hpdmVzL2VkZ2FyL2RhdGEvMDAwMTg3NjA0Mi8wMDAxODc2MDQyMjYwMDAyNzYvY3JjbC0yMDI2MDkxNy5odG1cdTAwMjZ1dG1fY2FtcGFpZ249JTVCUkVCUkFORCU1RCslNUJUSS1BTSU1RCtUaFx1MDAyNnV0bV9jb250ZW50PTEwOTVcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX3NvdXJjZT1jaW9cdTAwMjZ1dG1fdGVybT0xMjQiLCJpbnRlcm5hbCI6ImEyZDEwNjA2OTViYjAxYjZiOTBjIn0/e26df2a7324a7db984811d442ed8c84b9e2e981aa8b71a5d0695c4613ad9dacd" target="_blank" style="color:#F32A52;font-weight:700;text-decoration:none;">申报文件</a>，Circle 还将按通过 Circle 钱包基础设施服务持有的 USDC 金额的一定比例，向币安支付月度费用。币安于 9 月 17 日以每股 80.84 美元通过私募配售购入股份，较收盘前 Circle 市价折价 5%。Circle 股价周二上涨 0.1%，报每股 94.60 美元。</p><p style="font-size:16px;line-height:1.9;margin:0 0 14px;">币安是全球最大的加密货币交易所，也是 Circle 的重要分销平台，因此争取币安对 Circle 至关重要。据 Blockworks 数据估算，在市场上流通的 750 亿美元 USDC 稳定币中，约 120 亿美元存放在币安。作为 Circle 的长期合作伙伴和 USDC 最大的分销商，Coinbase 近期<a href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU2kwUVlDQUxhNURMVzVEQUdnemV3eG8wZHZKM1htTkhLaE1UQT0iLCJocmVmIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL25ld3NsZXR0ZXJzL3RoZS1icmllZmluZy9zdHJpcGUtY28tdGFrZS1jaXJjbGUtdGV0aGVyLXN0YWJsZWNvaW5zP3V0bV9jYW1wYWlnbj0lNUJSRUJSQU5EJTVEKyU1QlRJLUFNJTVEK1RoXHUwMDI2dXRtX2NvbnRlbnQ9MTA5NVx1MDAyNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fc291cmNlPWNpb1x1MDAyNnV0bV90ZXJtPTEyNCIsImludGVybmFsIjoiYTJkMTA2MDY5NWJiMDFiNmI5MGMifQ/4c3aafdf90738b32528330ac3cbcf5c00097747fb29f987049bf04bd4928de17" target="_blank" style="color:#F32A52;font-weight:700;text-decoration:none;">加入</a>了 Open Standard——一个由 Stripe、Visa 和 Mastercard 支持的联盟，发行新的稳定币 OpenUSD。</p><hr style="border:none;border-top:1px solid #f0ece5;margin:20px 0;"/><p style="font-size:12px;color:#999;margin-top:24px;">—— 译文由 Muse 自动生成，仅供个人阅读参考，原文链接已保留。 ——</p></div></body></html>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译】AI基础设施：英伟达如何破解数据中心电力瓶颈</title>
+<title>【AI 基建】英伟达如何破解数据中心电力瓶颈</title>
 <link>https://www.theinformation.com</link>
 <guid isPermaLink="false">https://www.theinformation.com#AI基础设施：英伟达如何破解数据中心电力</guid>
 <pubDate>Tue, 22 Sep 2026 23:31:51 -0400</pubDate>
+<category>AI 基建</category>
 <description>原文标题： How Nvidia Is Trying to Solve the Data Center Power Bottleneck 原文发送日期： 2026年9月20日 以下为 The Information 简报的中文翻译。 简报名： AI Infrastructure 作者与日期： Phoebe Liu，2026年9月20日 AI 基础设施：英伟达如何试图解决数据中心电力瓶颈 译者注：本期 AI Infrastructure …</description>
 <content:encoded><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"></head><body style="font-family:sans-serif;line-height:1.7;max-width:680px;margin:0 auto;color:#222;">
 <p><b>原文标题：</b>How Nvidia Is Trying to Solve the Data Center Power Bottleneck</p>
@@ -1344,10 +1362,11 @@ Muse 首周虽有 50 万试用者，但消费者对 AI 的普遍抵触让长期�
 </body></html>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译】电动：施密特与特朗普家族支持的无人机初创公司赢得五角大楼竞标</title>
+<title>【电动】施密特与特朗普家族支持的无人机初创公司赢得五角大楼竞标</title>
 <link>https://www.theinformation.com</link>
 <guid isPermaLink="false">https://www.theinformation.com#电动：施密特与特朗普家族支持的无人机初创</guid>
 <pubDate>Tue, 22 Sep 2026 23:29:06 -0400</pubDate>
+<category>电动</category>
 <description>原文标题： Drone Startups Backed By Eric Schmidt and the Trump Family Win the Pentagon’s Latest Competition 原文发送日期： 2026年9月20日 以下为 The Information 简报的中文翻译。 简报名： The Electric 作者与日期： Steve LeVine，2026年9月20日 电动：获埃里克·施密特与特朗普家族支持的…</description>
 <content:encoded><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"></head><body style="font-family:sans-serif;line-height:1.7;max-width:680px;margin:0 auto;color:#222;">
 <p><b>原文标题：</b>Drone Startups Backed By Eric Schmidt and the Trump Family Win the Pentagon’s Latest Competition</p>
@@ -1388,10 +1407,11 @@ Muse 首周虽有 50 万试用者，但消费者对 AI 的普遍抵触让长期�
 </body></html>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译】简报：Meta Connect 大会前瞻</title>
+<title>【简报】Meta Connect 大会前瞻</title>
 <link>https://www.theinformation.com</link>
 <guid isPermaLink="false">https://www.theinformation.com#简报：Meta Connect 大会前瞻</guid>
 <pubDate>Tue, 22 Sep 2026 23:26:40 -0400</pubDate>
+<category>简报</category>
 <description>原文标题： The Briefing: On Tap: Meta Connect 原文发送日期： 2026年9月20日 以下为 The Information 简报的中文翻译。 简报名： The Briefing 作者与日期： Martin Peers，2026年9月20日 简报：Meta Connect 大会前瞻——又到"眼镜季" 译者注：本期 The Briefing 重点关注三件事：Meta 年度 Connect 大会（周三主题演…</description>
 <content:encoded><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"></head><body style="font-family:sans-serif;line-height:1.7;max-width:680px;margin:0 auto;color:#222;">
 <p><b>原文标题：</b>The Briefing: On Tap: Meta Connect</p>
@@ -1432,10 +1452,11 @@ Muse 首周虽有 50 万试用者，但消费者对 AI 的普遍抵触让长期�
 </body></html>]]></content:encoded>
 </item>
 <item>
-<title>【中文翻译】简报：AI、超级智能、联合国与习近平</title>
+<title>【简报】AI、超级智能、联合国与习近平</title>
 <link>https://www.theinformation.com</link>
 <guid isPermaLink="false">https://www.theinformation.com#简报：AI、超级智能、联合国与习近平</guid>
 <pubDate>Tue, 22 Sep 2026 21:18:22 -0400</pubDate>
+<category>简报</category>
 <description>原文标题：The Briefing: AI, SI, UN and Xi 原发送时间：2026-09-22（The Information Briefing） 以下为 The Information 每日简报的中文翻译： 作者 Martin Peers｜2026年9月22日 大家好！ 本周是全球领导人大谈 AI 的重要一周。各国总统和总理齐聚纽约参加联合国大会——车队让曼哈顿中城现在一片混乱——而中国国家主席习近平将于明天抵达华盛顿。大…</description>
 <content:encoded><![CDATA[<!DOCTYPE html>
 <html lang="zh-CN">
