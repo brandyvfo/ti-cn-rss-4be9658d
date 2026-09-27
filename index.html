@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Information 中文翻译 · RSS</title>
+<style>
+body{font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;max-width:640px;margin:48px auto;padding:0 20px;color:#333;line-height:1.8}
+h1{font-size:22px}
+code{background:#f4f4f5;padding:2px 8px;border-radius:6px;font-size:14px;word-break:break-all}
+p.note{color:#888;font-size:14px}
+</style>
+</head>
+<body>
+<h1>The Information 中文翻译 · RSS 订阅源</h1>
+<p>把下面这个地址加到你的 RSS 阅读器里：</p>
+<p><code id="feedurl"></code></p>
+<p class="note">这是私人订阅源，请勿外传。</p>
+<script>
+document.getElementById('feedurl').textContent =
+  location.href.replace(/index\.html?$/, '') + 'feed.xml';
+</script>
+</body>
+</html>
