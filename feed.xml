@@ -6,7 +6,99 @@
 <description>The Information 新闻简报的中文全文翻译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 27 Sep 2026 17:22:05 -0400</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 18:20:57 -0400</lastBuildDate>
+<item>
+<title>【简报】Oura 上市前瞻：又一个"GoPro 式"的硬件故事？</title>
+<link>https://www.theinformation.com/newsletters/the-briefing/oura-may-healthiest-ipo</link>
+<guid isPermaLink="false">https://www.theinformation.com/newsletters/the-briefing/oura-may-healthiest-ipo#Oura 上市前瞻：又一个"GoPro </guid>
+<pubDate>Sun, 27 Sep 2026 18:20:57 -0400</pubDate>
+<category>简报</category>
+<description>🤖 AI 核心提炼 Oura 上市前夜：营收翻倍、现金流健康，但按暂定发行价中点估值约九倍远期销售额——与 GoPro 2014 年顶峰相当，而 Sonos 只有 1.2 倍。 "单一产品+订阅"模式有 Peloton、GoPro、Fitbit 的前车之鉴；作者 Martin Peers 坦言自己曾在 2015 年误判 GoPro 还有增长潜力，这次直接建议投资者避开 Oura。 美光周三公布财报，营收指引约 500 亿美元（同比约 +…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;background:#ffffff;border:1px solid #e4e4e7;border-radius:12px;padding:36px 40px;">
+
+<div style="background:#fef2f4;border-left:5px solid #e11d48;border-radius:0 8px 8px 0;padding:18px 20px;margin-bottom:28px;">
+<p style="font-size:15px;font-weight:bold;color:#e11d48;margin:0 0 10px 0;">🤖 AI 核心提炼</p>
+<p style="font-size:16px;line-height:1.9;margin:0 0 8px 0;">Oura 上市前夜：营收翻倍、现金流健康，但按暂定发行价中点估值约九倍远期销售额——与 GoPro 2014 年顶峰相当，而 Sonos 只有 1.2 倍。</p>
+<p style="font-size:16px;line-height:1.9;margin:0 0 8px 0;">"单一产品+订阅"模式有 Peloton、GoPro、Fitbit 的前车之鉴；作者 Martin Peers 坦言自己曾在 2015 年误判 GoPro 还有增长潜力，这次直接建议投资者避开 Oura。</p>
+<p style="font-size:16px;line-height:1.9;margin:0 0 8px 0;">美光周三公布财报，营收指引约 500 亿美元（同比约 +345%），AI 数据中心驱动的存储芯片短缺正让 SK 海力士拟分拆的 Solidigm 估值冲向 1500 亿美元。</p>
+<p style="font-size:16px;line-height:1.9;margin:0;">结论：硬件公司的"爆款+订阅"故事听得越多，越该看紧估值与替代品风险。</p>
+</div>
+
+<p style="font-size:13px;color:#888;margin:0 0 4px 0;">译者注</p>
+<p style="font-size:14px;color:#555;line-height:1.8;margin:0 0 20px 0;">原文标题：<i>The Briefing: Oura, GoPro and Fitness</i><br>原发送日期：2026 年 9 月 27 日<br>以下为 The Information 官网全文的中文翻译（已点进官网链接逐段核对，与邮件正文一致，非邮件预览）。<a href="https://www.theinformation.com/newsletters/the-briefing/oura-may-healthiest-ipo" style="color:#e11d48;text-decoration:underline;">阅读原文</a></p>
+
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:0 0 28px 0;"></div>
+
+<p style="font-size:13px;color:#888;margin:0 0 6px 0;">简报名</p>
+<div style="font-size:30px;font-weight:bold;line-height:1.35;margin-bottom:10px;color:#1c1c1e;">The Information Briefing</div>
+<div style="font-size:14px;color:#8e8e93;margin-bottom:26px;">Martin Peers · The Information · 2026 年 9 月 27 日</div>
+
+<div style="font-size:28px;font-weight:bold;line-height:1.4;margin-bottom:18px;color:#1c1c1e;">Oura 上市前瞻：又一个"GoPro 式"的硬件故事？</div>
+<div style="border-top:1px solid #e4e4e7;margin-bottom:26px;"></div>
+
+<p style="font-size:17px;line-height:1.9;margin:0 0 18px 0;color:#1c1c1e;">大家好！</p>
+<p style="font-size:17px;line-height:1.9;margin:0 0 18px 0;color:#1c1c1e;">在被广义 AI 话题包围的当下，人们很容易忽略其他正在发生的事情。比如本周，智能戒指制造商 Oura 预计将上市，这件事值得关注。当然，它不会像 Anthropic 备受期待的 IPO 那样石破天惊。但对于那些好奇"昙花一现的公司被炒作起来有多容易"的人来说，这会是一场好戏。</p>
+<p style="font-size:17px;line-height:1.9;margin:0 0 18px 0;color:#1c1c1e;">这么说可能有点刻薄。Oura 作为健康类可穿戴设备的领军企业之一，过去几年确实名声大噪。截至去年 9 月的 2025 财年，营收翻了一倍多，达到 9.079 亿美元；今年截至 6 月的九个月里又增长了 74%。Oura 在 2025 财年产生了实打实的现金——1 亿美元。但我们似曾相识。正如 Arete Research 分析师 Richard Kramer 指出的，Oura 与其他"单一产品+订阅模式、最终都没好下场"的公司很像，比如 Peloton、GoPro 和 Fitbit。</p>
+<p style="font-size:17px;line-height:1.9;margin:0 0 18px 0;color:#1c1c1e;">以 GoPro 为例，它 2014 年上市时销售正火。2013 年营收几乎翻倍至 9.857 亿美元，2014 年又增长 41%。GoPro 也在赚真金白银——2013 年赚了 8400 万美元，2014 年略有下滑。投资者当时持谨慎态度，不过一位愚蠢的专栏作家（好吧，那就是我）在<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-" style="color:#e11d48;text-decoration:underline;">这篇 2015 年的文章</a>里唱了个愚蠢的反调，认为 GoPro 还有增长潜力。我大错特错。</p>
+<p style="font-size:17px;line-height:1.9;margin:0 0 18px 0;color:#1c1c1e;">GoPro 的营收在 2015 年达到 16 亿美元的顶峰，此后一路下滑，2025 年只剩 6.51 亿美元。股价从 2015 年中期的 50 到 60 美元区间跌到上个月的 60 美分。9 月 1 日，GoPro 宣布与一家光学光子学公司合并，交易将让其股东获得每股 1.14 美元现金和少量新公司的股权。</p>
+<p style="font-size:17px;line-height:1.9;margin:0 0 18px 0;color:#1c1c1e;">GoPro 的问题在于，和 Oura 一样，它是利基产品，身处一个替代品众多的市场——最明显的就是<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1dVZErppJJyEar93l-2BoS0blS20yook-2F6k" style="color:#e11d48;text-decoration:underline;">拍照越来越好的智能手机</a>。Oura 处境相同：竞争对手可穿戴设备一大把——包括 Apple Watch 和谷歌最近推出的一款 99 美元的手腕追踪器。而 Oura 的戒指售价 349 美元起，并不便宜。</p>
+<p style="font-size:17px;line-height:1.9;margin:0 0 18px 0;color:#1c1c1e;">Oura 的股票看起来也不便宜。按其暂定发行价区间的中点计算，Oura 的估值约为今年预期营收的九倍——前提是它今年前九个月的增长能延续到第四季度。根据 Koyfin 的数据，这个倍数大概就是 GoPro 在 2014 年顶峰时期的交易倍数。但在过去十年的大部分时间里，GoPro 的股价只在远期销售额的 0.3 到 1 倍之间交易。</p>
+<p style="font-size:17px;line-height:1.9;margin:0 0 18px 0;color:#1c1c1e;">另一家利基硬件制造商 Sonos 目前按远期销售额的 1.2 倍交易。在硬件股里，唯一按九倍销售额交易的只有苹果。而苹果和 Oura 根本没有可比性。投资者还是离 Oura 远点为好。</p>
+
+<p style="font-size:20px;font-weight:bold;line-height:1.5;margin:30px 0 14px 0;color:#1c1c1e;">美光的大日子</p>
+<p style="font-size:17px;line-height:1.9;margin:0 0 18px 0;color:#1c1c1e;">美光科技是全球三大存储芯片制造商之一（另两家是 SK 海力士和三星），将于周三公布第四财季财报。有充分理由相信，我们将看到大幅增长。</p>
+<p style="font-size:17px;line-height:1.9;margin:0 0 18px 0;color:#1c1c1e;">公司此前预计营收 500 亿美元、上下浮动 10 亿美元，分析师们预计会落在该区间的上端（据标普全球市场财智）。不过是 500 亿还是 510 亿其实没那么重要。无论哪个，都远好于美光 2025 财年第四财季报告的 113.2 亿美元营收。也就是说，我们看到的增长约为 345%，与第三财季的增速一致。第四财季每股收益预计约为 31 美元，去年同期为 2.83 美元。惊人吧？</p>
+<p style="font-size:17px;line-height:1.9;margin:0 0 18px 0;color:#1c1c1e;">爆炸性增长的秘密并不神秘：AI 数据中心驱动的存储芯片短缺。美光股价今年迄今已上涨 280%，正是业务爆发的写照。（<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-" style="color:#e11d48;text-decoration:underline;">关于存储芯片股的更多报道</a>。）</p>
+<p style="font-size:17px;line-height:1.9;margin:0 0 18px 0;color:#1c1c1e;">存储芯片市场热到什么程度？韩国 SK 海力士今年夏天在美国上市后，据路透社上周五报道，正在<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1SQhmhzev0eTGQIuA32NwN-2B7sYCOT5ETLMu" style="color:#e11d48;text-decoration:underline;">考虑</a>为其 Solidigm 业务部门单独 IPO。Solidigm 销售 NAND 闪存——这种芯片<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-" style="color:#e11d48;text-decoration:underline;">永久存储</a>服务器上的数据。NAND 不是数据中心运营商最紧缺的那类存储芯片，但同样炙手可热。一个佐证是：路透社称 Solidigm IPO 估值可能高达 1500 亿美元。相比之下，SK 海力士在 2021 年至 2025 年分两阶段收购 Solidigm 的主体——英特尔旧的 NAND 业务——只花了 88 亿美元。涨幅相当可观！</p>
+
+<p style="font-size:20px;font-weight:bold;line-height:1.5;margin:30px 0 14px 0;color:#1c1c1e;">其他新闻</p>
+<ul style="font-size:17px;line-height:1.9;margin:0 0 18px 0;color:#1c1c1e;padding-left:24px;">
+<li style="margin-bottom:10px;">据 <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1UGOM3xqiqfurrgeC-2Fty9CDACQj9HMFoZFt" style="color:#e11d48;text-decoration:underline;">Axios 报道</a>，Anthropic CEO Dario Amodei 定于周日在白宫与特朗普总统共进晚餐。</li>
+<li style="margin-bottom:10px;">据 AI 非营利组织 Transluce 的研究人员称，OpenAI 的智能体曾试图入侵美国教育部网站但未得手；OpenAI 的智能体还用网上找到的一个凭证访问了人口普查局的公开数据；另一起案例中，智能体访问了美国证券交易委员会的公开数据并发布到一个公开 wiki 上。<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlb4jj-2FxbV" style="color:#e11d48;text-decoration:underline;">更多细节</a>。</li>
+<li style="margin-bottom:10px;">微软周五发布了改版的 Copilot 应用，把此前单独售卖的功能合二为一，包括 AI 编程工具、Office 365 任务自动化功能，以及一个类似 Meta Muse 的常开 Autopilot 智能体。</li>
+<li style="margin-bottom:10px;">Figma 前首席营销官 Sheila Vashee 将加入快速成长的初创公司 Baseten。</li>
+<li style="margin-bottom:10px;">联邦法院在一场诉讼中判美国国防部胜诉，该诉讼涉及其今年早些时候把 Anthropic 列为供应链风险的决定。哥伦比亚特区巡回上诉法院以 2 比 1 的结果作出裁决，特朗普任命的法官 Gregory Katsas 代表多数方写道，Anthropic 对国防部的宪法主张"毫无依据"。</li>
+<li style="margin-bottom:10px;">据<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBlb4jj-2FxbV" style="color:#e11d48;text-decoration:underline;">The Information 报道</a>，一名安全研究人员发现 AI 智能体 Muse 存在一个漏洞，攻击者可借此访问用户的敏感个人信息，Meta Platforms 正在 Muse 中加入更醒目的安全警告。</li>
+</ul>
+
+<p style="font-size:20px;font-weight:bold;line-height:1.5;margin:30px 0 14px 0;color:#1c1c1e;">周五的 TITV</p>
+<p style="font-size:17px;line-height:1.9;margin:0 0 18px 0;color:#1c1c1e;">去看<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBl-2BZKTrCaI" style="color:#e11d48;text-decoration:underline;">周五这期 TITV</a>，我们和 AI 记者一起回顾了 AI Agenda Live 大会的几大主题。</p>
+
+<p style="font-size:20px;font-weight:bold;line-height:1.5;margin:30px 0 14px 0;color:#1c1c1e;">记者最新报道</p>
+<ul style="font-size:17px;line-height:1.9;margin:0 0 18px 0;color:#1c1c1e;padding-left:24px;">
+<li style="margin-bottom:10px;">独家：特斯拉 Optimus 在量产之初手部与供应链遇阻 — Qianer Liu、Grace Kay</li>
+<li style="margin-bottom:10px;">深度：OpenAI 智能体与人类对决的生物竞赛背后的戏剧性内幕 — Amy Dockser Marcus</li>
+<li style="margin-bottom:10px;">华尔街的大空头为何还没准备好做空 AI — Michelle Celarier</li>
+<li style="margin-bottom:10px;">新墨西哥的石油横财如何变成 20 亿美元的风投赌注 — Eli Rosenberg</li>
+<li style="margin-bottom:10px;">独家：推理需求飙升，Fireworks、Fal 考虑新一轮融资 — Valida Pau、Stephanie Palazzolo、Aaron Holmes</li>
+<li style="margin-bottom:10px;">独家：中国考虑允许字节跳动、阿里巴巴购买新型英伟达芯片 — Qianer Liu</li>
+</ul>
+
+<p style="font-size:20px;font-weight:bold;line-height:1.5;margin:30px 0 14px 0;color:#1c1c1e;">近期活动</p>
+<ul style="font-size:17px;line-height:1.9;margin:0 0 18px 0;color:#1c1c1e;padding-left:24px;">
+<li style="margin-bottom:10px;">10 月 8 日（周四）— AI 的电力挑战：为下一代 AI 建设基础设施。电网能跟上 AI 吗？Steve LeVine 与 Delta Electronics 的 William Mao 和 Eaton 的 Allan Schurr 直播对话，探讨数据中心扩容的 AI 时代。<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkEIPUtIoWXb" style="color:#e11d48;text-decoration:underline;">更多详情</a></li>
+<li style="margin-bottom:10px;">10 月 27 日（周二）— 10 月 28 日（周三）— The Information 2026 WTF Summit。WTF 峰会重返纳帕谷，汇聚塑造科技、媒体和金融的女性。已确认嘉宾包括 Whitney Wolfe Herd（Bumble）、Anne Wojcicki（23andMe 研究所）、Kim Posnett（高盛）以及喜剧演员兼企业家 Whitney Cummings，更多嘉宾将陆续公布。期待坦诚的对话和有意义的交流空间。门票热销，下一轮涨价在即。<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBktlY5zMFN2K" style="color:#e11d48;text-decoration:underline;">更多详情</a></li>
+</ul>
+
+<div style="margin-top:32px;padding-top:24px;border-top:1px solid #e4e4e7;">
+<p style="font-size:16px;line-height:1.9;margin:0 0 12px 0;color:#1c1c1e;"><span style="display:inline-block;width:4px;height:18px;background:#e11d48;border-radius:2px;vertical-align:-3px;margin-right:8px;"></span><b>核心总结</b></p>
+<ul style="font-size:16px;line-height:1.9;margin:0;color:#1c1c1e;padding-left:24px;">
+<li style="margin-bottom:8px;"><b>Oura 上市故事似曾相识：</b>营收翻倍、现金流健康，但"单一产品+订阅"模式有 Peloton、GoPro、Fitbit 的前车之鉴；约九倍远期销售额的估值与 GoPro 2014 年顶峰相当，硬件股里只有苹果能撑起这个倍数。</li>
+<li style="margin-bottom:8px;"><b>GoPro 式结局的警示：</b>2015 年营收 16 亿美元见顶后萎缩至 2025 年 6.51 亿美元，股价从 50–60 美元跌至 0.6 美元，最终与光学光子学公司合并、股东仅获每股 1.14 美元现金——利基硬件+替代品（拍照越来越好的手机）是致命组合。</li>
+<li style="margin-bottom:8px;"><b>美光财报前瞻：</b>周三公布 Q4 财报，营收指引 500 亿美元（同比约 +345%）、每股收益约 31 美元；AI 数据中心驱动的存储芯片短缺是增长引擎。</li>
+<li style="margin-bottom:8px;"><b>存储芯片热浪：</b>SK 海力士拟为 Solidigm 单独 IPO，估值或达 1500 亿美元（收购成本仅 88 亿美元）；美光股价今年已涨 280%。</li>
+</ul>
+<p style="font-size:13px;color:#888;margin-top:16px;">本文为 The Information Briefing 简报（2026 年 9 月 27 日）的中文编译，仅供个人阅读。</p>
+</div>
+
+</div>
+</body>
+</html>
+]]></content:encoded>
+</item>
 <item>
 <title>【电动】深入了解通用汽车不顾质疑、执意量产的新型电池</title>
 <link>https://www.theinformation.com/newsletters/the-electric/exclusive-gm-pumping-cathodes-moving-bypass-chinas-battery-chokehold</link>
