@@ -6,7 +6,80 @@
 <description>The Information 新闻简报的中文全文翻译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 28 Sep 2026 09:22:58 -0500</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 10:34:27 -0500</lastBuildDate>
+<item>
+<title>【AI 基建】为什么 AI 的 15 万亿美元建设热潮正在改写数据中心融资规则</title>
+<link>https://www.theinformation.com/newsletters/ai-infrastructure/ais-15-trillion-buildout-rewriting-rules-data-center-financing</link>
+<guid isPermaLink="false">https://www.theinformation.com/newsletters/ai-infrastructure/ais-15-trillion-buildout-rewriting-rules-data-center-financing#为什么 AI 的 15 万亿美元建设热潮</guid>
+<pubDate>Mon, 28 Sep 2026 10:34:27 -0500</pubDate>
+<category>AI 基建</category>
+<description>🤖 AI 核心提炼 AI 建设热潮的资金规模正在打破数据中心融资与建设的旧模式：15 万亿美元（2026–2030）的建设预期、穆迪统计的 2.8 万亿美元表外承诺（较 2023 年增长八倍），以及仅今年就 2300 亿美元的 AI 相关投资级债券发行，正逼近传统债市的吸收极限，迫使信用分析与融资模式全面升级。 新资本正在入场：Boada 认为收费公路、电信塔式的长期资本（基础设施基金、主权基金、保险公司）将以更低的资金成本接盘，AI …</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;background:#ffffff;border:1px solid #e4e4e7;border-radius:12px;padding:36px 40px;">
+
+<div style="background:#fef2f4;border-left:5px solid #e11d48;border-radius:0 8px 8px 0;padding:18px 20px;margin-bottom:28px;">
+<p style="font-size:16px;font-weight:bold;color:#e11d48;margin:0 0 10px 0;">🤖 AI 核心提炼</p>
+<p style="font-size:14px;line-height:1.7;margin:0 0 8px 0;">AI 建设热潮的资金规模正在打破数据中心融资与建设的旧模式：15 万亿美元（2026–2030）的建设预期、穆迪统计的 2.8 万亿美元表外承诺（较 2023 年增长八倍），以及仅今年就 2300 亿美元的 AI 相关投资级债券发行，正逼近传统债市的吸收极限，迫使信用分析与融资模式全面升级。</p>
+<p style="font-size:14px;line-height:1.7;margin:0 0 8px 0;">新资本正在入场：Boada 认为收费公路、电信塔式的长期资本（基础设施基金、主权基金、保险公司）将以更低的资金成本接盘，AI 基础设施将呈现标准化建设、长期合同的关键公共工程特征，具备“极高的可融资性”。</p>
+<p style="font-size:14px;line-height:1.7;margin:0 0 8px 0;">但风险同样真实：支出预测误差巨大、99.5% 的 AI 支出集中在前 10% 的客户、社区许可与司法管辖区的政治风险（甲骨文已对新墨西哥州项目援引不可抗力），都让低成本融资要求的可预测性成疑。</p>
+<p style="font-size:14px;line-height:1.7;margin:0;">回报逻辑也成立：前沿实验室每兆瓦推理年收入约 7500 万美元，而基础设施年化成本仅 1000–1500 万美元；Crusoe 等开发商正通过电池多功能复用、模块化弹性算力等方式，挤掉闲置产能、压低真实成本。</p>
+</div>
+
+<p style="font-size:13px;color:#888;margin:0 0 4px 0;">译者注</p>
+<p style="font-size:14px;color:#555;line-height:1.8;margin:0 0 20px 0;">原文标题：<i>Why AI's $15 Trillion Buildout Is Rewriting the Rules of Data Center Financing</i><br>原发送日期：2026 年 9 月 28 日<br>以下为 The Information 官网全文的中文翻译（已点进官网链接逐段核对，非邮件预览）。<a href="https://www.theinformation.com/newsletters/ai-infrastructure/ais-15-trillion-buildout-rewriting-rules-data-center-financing" style="color:#e11d48;text-decoration:underline;">阅读原文</a></p>
+
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:0 0 28px 0;"></div>
+
+<p style="font-size:13px;color:#888;margin:0 0 6px 0;">简报名</p>
+<div style="font-size:26px;font-weight:bold;line-height:1.35;margin-bottom:10px;color:#1c1c1e;">The Information AI Infrastructure</div>
+<div style="font-size:14px;color:#8e8e93;margin-bottom:26px;">Ann Davis Vaughan · The Information · 2026 年 9 月 28 日</div>
+
+<div style="font-size:24px;font-weight:bold;line-height:1.4;margin-bottom:18px;color:#1c1c1e;">为什么 AI 的 15 万亿美元建设热潮正在改写数据中心融资规则</div>
+<div style="border-top:1px solid #e4e4e7;margin-bottom:26px;"></div>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;"><b>前所未有的</b>资本与资源规模投入到 AI 建设热潮中，正在打破数据中心融资与建设的传统模式。与此同时，过去一周的新数据和我的采访也提出了新的问题：投资者该如何评估自己的风险。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">上周在<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaN4ktzKkawf-2BL3IvxA-2FtUxG4-2BPzYNtUGrPv1i0UO-2F1UdSBmInVzCRqw8d6O-2BWi1BB9EW-2FVHQ-2BP2gUpYXkevphkwiL434wiO9bp5SGCuPn82LVsr3Gibqp381xTkRaYxr3YY0YErXJIsXt-2F-2FaTWPhBBsWWi8ek9me5O57kFVEA5CfWmXpDHnIIoJmOHr3eOG-2BvBGUEaYRYplWd5my49kWSL1A-3D-3DSIyL_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlbx2uYCM-2BuVzNweG4ijeCsqWEsVrUOOYdjGkUlYCR-2FlDFRDmiJsi-2BCgrjMvQV-2Fyu5ycDct9G7G8dShYKTkahI9369eWfGcsKVTVRW3tEO2CRhv8A6LtinuFkKvN-2B1aenmsuMIoreNskIHLrs5nBSMMdro6lqNwavwTP16b19wzCIkhiLKOZBrHowuUlLD6Oev0HIdE9NGDifBbOV3agSxnfnFgN-2BxiLTAYwT1vUeFUOXbgZhLM29oFoWP35z9lL4IuvxkX3mTj1qVLS9Upzw6-2BRDVySthxsJYeVv-2BJQcBS5PGLFaBLq60uHkdq3cb3oM0VnftPv1VH9SceI-2FpG9ACfg-3D-3D" style="color:#e11d48;text-decoration:underline;">The Information 的 AI Agenda Live 活动</a>上，我向两位经验丰富的基础设施开发者——新兴算力与融资平台 Volta 的联合创始人兼 CEO Ricard Boada，以及数据中心开发商 Crusoe 的首席数据中心官 Chris Dolan——请教：在支出和建设速度如此之快的当下，他们的做法正在发生怎样的变化。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">Boada 认为，资本必须来自长期投资人的新资金池——这类资金传统上支持收费公路、电信塔等资产。Dolan 则表示，运营商必须更充分地利用好自己拼凑起来的算力和电力资产，而不是沿袭过去那种过度建设、低利用率的老习惯。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">哥伦比亚商学院经济学家 Stijn Van Nieuwerburgh 上周在<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1b545pV5v9XQL0yRxn3Z-2F1oi-2BUyPCwfso2uNpUbhbICbfiOkA-2FsLdV4f9ZHUIwbxL6-2F9pj0kcg34GkQDVvirErVejgNOZ0p7oZT8zaYkQ7dfEqwHrkRIb03KIKSLsaVRnk3fn-2FmB0a8xSRTYJOlGkm0QbXtEvaVfaF7raGSsgo3xpREwPq0qI9mc3XPfTehEyA-3D-3Dcxub_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlbx2uYCM-2BuVzNweG4ijeCsqWEsVrUOOYdjGkUlYCR-2FlDFRDmiJsi-2BCgrjMvQV-2Fyu5ycDct9G7G8dShYKTkahI9369eWfGcsKVTVRW3tEO2CRhv8A6LtinuFkKvN-2B1aenmsuMIoreNskIHLrs5nBSMMdro6lqNwavwTP16b19wzCIoqlNkUrT8V2dQp13g4Wm6zjD3RqrJf4CW82yE2xV6Ut1UOzTse53Kv8kss8GRwOA1d4PyXCkyGRHTlxTndZfzOsFEOx1Fr9KATNv2mh-2B3qshZicxPHsrhTsYANfQy5U7wJks2kOgE1kCMvSosvO7EueqjfcCDlOMSn1n4wMvbow-3D-3D" style="color:#e11d48;text-decoration:underline;">布鲁金斯学会发表的一篇论文</a>中写道，AI 支出将达到美国 GDP 的 3.63%，超过历史上运河、铁路、电气化、公路和互联网基础设施这些大赌注的相对规模。他预测，2025 年至 2032 年间，数据中心建筑、电力、网络、芯片和其他设备的投资总额将达到 10.3 万亿美元。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">Boada 的公司为数据中心获取融资、能源和算力资本，他预计基础设施建设规模将超过上述数字，在更短的 2026 至 2030 年间耗资 15 万亿美元——是麦肯锡去年抛出的 7 万亿美元的两倍。（美国 GDP 目前约为<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1alq0m-2B6cdQNY-2F-2FlW02rQbi-2FbIDy9x9M0Qrmc3We1wReexHESxqGpLH7etgB-2FyWb-2BU3LogLSrxq1geVmtRne2V6Jwiw4RIPQNi-2Bw8oFOGMy7Losi5k2yP-2FsH5gQoWETPV4xtfHd5p-2F6yagVzIVArw7ESC0IF-2BhGv5BwOMzbHG5PVkysciUZ8n9PNsFjPrdnmOS8s2bzXlkMywKDP2XOJOWrnBkJbGbK7n74HxREZugiTDAcc_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlbx2uYCM-2BuVzNweG4ijeCsqWEsVrUOOYdjGkUlYCR-2FlDFRDmiJsi-2BCgrjMvQV-2Fyu5ycDct9G7G8dShYKTkahI9369eWfGcsKVTVRW3tEO2CRhv8A6LtinuFkKvN-2B1aenmsuMIoreNskIHLrs5nBSMMdro6lqNwavwTP16b19wzCIgoyCJbu4-2BelFCB0GzHW4UfLUOtWprZPPe3HIo0rV8BwelVj-2FqA6HxHCBS3lL0UD4jhqSHLtmH41MD0fgi4UFD6UA0k6Dj11veiNpHSW4clEIxIlyH3NtvQWcx5SIWnsuVdqAPs-2B8orMs-2BbkwvOqGGDanhrxxW56nCi2mSFdmMpQ-3D-3D" style="color:#e11d48;text-decoration:underline;">32 万亿美元</a>。）</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">Boada 和 Dolan 表示，巨额资金正迫使市场和建设者做出改变。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">债券投资者已经在艰难评估这次建设热潮的风险。穆迪上周的一份报告详细列出了亚马逊、微软、谷歌、Meta 和甲骨文高达 2.8 万亿美元的表外承诺——以未来租赁、采购协议和担保的形式存在。这是 2023 年水平的<i>八倍</i>，而且很可能还低估了这些承诺的规模，因为穆迪的数据只更新到 6 月 30 日，其中也不包括英伟达的任何表外承诺。此后，数据中心项目的担保规模仍在增长，尤其是英伟达的，正如我们<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNv7KqU4zhNvEV9M0wgMt9iRxkEvZ5UePKhpxcAtt74ZBMcutxNZoQBrmRycBFKErelaLUUPzLmmUGtZt-2FJ-2FggW2ArkZuAqMuYsfWMwtc7cFyFJNtUVh8oGLRwYOnLNN0REn0N0l7qJcPfpOVUl8GubpsP34mXHc4qz6rfjyhs0lBh7A4yW-2FTKoViMDq29m91WVCW4qbxvCD-2BOG7TIE5LzDg-3D-3DKOU9_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlbx2uYCM-2BuVzNweG4ijeCsqWEsVrUOOYdjGkUlYCR-2FlDFRDmiJsi-2BCgrjMvQV-2Fyu5ycDct9G7G8dShYKTkahI9369eWfGcsKVTVRW3tEO2CRhv8A6LtinuFkKvN-2B1aenmsuMIoreNskIHLrs5nBSMMdro6lqNwavwTP16b19wzCLotck-2Fo09pWlY0jnnpaWlcEhOEgtBeiO7JKNjBAEoQ52c8Af-2B-2FJkSaC8bt5obvNODnbtBFMLwcdjq0PWU0DQ4eAYN9og3P4YQKxqyKLCKTkz7IkhmYGbch6ZPjy1vDmIpXojaeuWbdCtAP4ro928uw79gUsBNBJy0tXTP1zg6k-2Fw-3D-3D" style="color:#e11d48;text-decoration:underline;">报道</a>过的那样。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">“信用分析必须变得复杂得多，才能跟上所有这些新型的定制化财务承诺。”穆迪分析师 David Gonzales 说。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">当这些科技公司耗尽自由现金流、背上数千亿美元的表内债务时，这些不太显眼的义务还在增长。摩根士丹利估计，未来 12 个月，微软、亚马逊、谷歌、Meta、英伟达和 SpaceX 这六家公司的 AI 相关资本开支将达 1.4 万亿美元，是去年同期的三倍。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">汇丰称，与 AI 相关的美国投资级债券发行规模已达约 5000 亿美元，仅今年就发行了 2300 亿美元，是去年同期的六倍。分析师警告，传统债券市场吸收更多借款的能力——比如为尚未入表的未来租赁融资——正在接近饱和。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">这些预测解释了为什么黑石、KKR 等金融公司正在组建多个投资工具，再筹集数千亿美元，帮助非投资级的 AI 实验室和新兴数据中心开发商覆盖更多支出。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">这也是为什么我嘉宾席上的两家公司——Crusoe 和 Volta，以及 KKR 的 Helix Digital Infrastructure 这类工具——都在尝试把能源、土地、芯片和资本的采购收归内部，以便更容易统筹交付 AI 数据中心，避免因错过节点而被罚款。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">Helix 的联合创始人兼 CEO Adam Selipsky（他将参加本周我主持的<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1dnkZ7G-2BRS8yXtr8kE-2BklF87UaPBUPG0G-2B9y8Dc23UmKocvb9nzF3W5yTmLRVNlsRj3l4AAbwy5au1vJrrmFBOzIG4h9TXc9NcbErptt4XrddmBM-2BJXy6KwLPvwhL4fOh58AH-2B07-2BNwnfK4XW0MviW29BVIK6ROQUM0PTfdifL4qk7hu_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlbx2uYCM-2BuVzNweG4ijeCsqWEsVrUOOYdjGkUlYCR-2FlDFRDmiJsi-2BCgrjMvQV-2Fyu5ycDct9G7G8dShYKTkahI9369eWfGcsKVTVRW3tEO2CRhv8A6LtinuFkKvN-2B1aenmsuMIoreNskIHLrs5nBSMMdro6lqNwavwTP16b19wzCK8FwFqfadk-2BNFDjuBAFtSvvkosvn9nYBN-2FnecrdT8hXxuNRjBjU0QpbxhaIh59oce6wTnaB7d4wnnA1P8xMCXXDw7Lc432OxBwswCr0Vk9H-2Fn1TmcwO2IJ4yFvADOmN5KCkKkt3a-2FeQa65tMLB74XLqPbXE-2FXNZ-2BjYFyahKsbqGQ-3D-3D" style="color:#e11d48;text-decoration:underline;">Yotta 大会</a>的一场讨论）告诉我：“规模会打破一切”，这需要新的资本和运营模式。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">Boada 认为，资金雄厚的基础设施基金、主权财富基金和保险公司将以低于传统股债投资人要求的资金成本，为 AI 数据中心和能源项目提供资金。他认为，AI 基础设施项目很快会接近电力、光纤线路和桥梁等关键公共工程的特征：标准化的建设格式和长期合同。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">他断言：“所有这些特征都带来……极高的可融资性。”</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">有人可能不同意可融资性这一点，因为低成本融资通常要求可预测性。AI 部署太新了，依然不可预测——看看那些支出预测的误差范围就知道！而且我们还在基于当前一小撮 AI 超级用户做收入假设，这让预测格外容易被推翻。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">阿波罗全球管理公司首席经济学家 Torsten Slok 上周<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1dUn2ruLAw-2BAbbtKlp2-2FOD-2B8tjMPVv6XkOJPbfsBcAkh-2FSg7jpJazR-2BOnRLSSd48czJrauXC4KdEUtHBzDb5AtZnvAJJMT0tuq2HUg-2BqS7-2BbESfQpGz2qWdJYsgcfqDjGGVlxjCuPK-2FExkX4woZoidGSO009WSS46gLbLXIwoPqKFZR-2FvFuxqr5aWhh0NXF-2FszGmIG1KK-2FZBp6js4QD5k0geuQYWf6780t7p1tMTdB1xnXfWsNryk4CPnwHwUf-2BUvUXTuFv333sm5Cv7QsHAyIc-3DiSCt_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlbx2uYCM-2BuVzNweG4ijeCsqWEsVrUOOYdjGkUlYCR-2FlDFRDmiJsi-2BCgrjMvQV-2Fyu5ycDct9G7G8dShYKTkahI9369eWfGcsKVTVRW3tEO2CRhv8A6LtinuFkKvN-2B1aenmsuMIoreNskIHLrs5nBSMMdro6lqNwavwTP16b19wzCI-2FnO8fH4-2FOcBYijpyWeyulDIDFjnbEWAH3-2BBMR04F14z-2FIb-2FNXlqXm9BgzH1jMdGicv58ORGesvYXBFfi1TlP88-2FScWvFXSg-2FY9n0g2aUZJGvSxNYr-2Fhmre38pvRXg3q2bvt4UqiH6h6iSzXuXLHkbg-2BU6RdW1OluUTR4RhSa80Q-3D-3D" style="color:#e11d48;text-decoration:underline;">强调</a>，AI 模型和推理客户中前 10% 的用户贡献了 99.5% 的支出。至于其余市场会有怎样的支出模式，我们还在观望。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">我们还在观察社区是否允许 AI 数据中心按可预测的进度推进。甲骨文最近宣布对新墨西哥州一个数据中心项目援引不可抗力条款，以便在审批延误的情况下有权推迟向贷款方付款——这提醒我们，每个司法管辖区都有其特定的政治风险。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">不过，仍有理由相信这些支出会带来回报。Boada 粗略算过，顶级实验室在云支出、芯片和数据中心上的投资能获得数倍回报。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">他算了一笔账：前沿 AI 实验室每年每兆瓦推理产出约带来 7500 万美元收入，而建设和提供基础设施的年化成本仅为每兆瓦 1000 万至 1500 万美元。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">不错。但首先，得有人拿出数十亿美元来建设并供电数据中心、购买芯片，训练出能产生这些收入的模型。这笔钱主要来自公开和私募市场的股票投资人、债券持有人和贷款方。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">既然投入了这么多钱，就轮到 Dolan 这样的开发商，从劳动力、能源和芯片上挤出更多实打实的效率——这三项成本都在上涨。Dolan 正在督建 Crusoe 为甲骨文和 OpenAI 交付的得克萨斯州阿比林“星际之门”前沿园区。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">Dolan 说：“过去 25 年，我们设计和建设数据中心的方式都一成不变。”即堆叠备用电源系统，实现所谓“五个九”的可用性，也就是 99.999% 的可靠性。Dolan 说，这种建设规模容不下闲置产能。“你会看到很多闲置基础设施，这意味着你有大量闲置资本没被用在算力上。”</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">比如，Crusoe 重新思考了如何让园区依赖额外的能源来源（如电池）来实现多种功能——不只是充当电网的备用电源，还能作为缓冲来吸收波动的计算负载。它还在考虑引入模块化数据中心单元作为弹性算力容量，利用手头多余的电力，或在电力紧张的地点部署小型计算单元。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">Dolan 说：“工程师大多非黑即白，但当下这一刻正在促使他们和他的客户‘换一种思路’。”</p>
+
+<div style="margin-top:32px;padding-top:24px;border-top:1px solid #e4e4e7;">
+<p style="font-size:15px;line-height:1.75;margin:0 0 12px 0;color:#1c1c1e;"><span style="display:inline-block;width:4px;height:18px;background:#e11d48;border-radius:2px;vertical-align:-3px;margin-right:8px;"></span><b>核心总结</b></p>
+<ul style="font-size:15px;line-height:1.75;margin:0;color:#1c1c1e;padding-left:24px;">
+<li style="margin-bottom:8px;"><b>规模与融资重构：</b>15 万亿美元（2026–2030）建设预期是麦肯锡 7 万亿美元的两倍；2.8 万亿美元表外承诺（2023 年以来增<i>八倍</i>）、六巨头未来 12 个月 1.4 万亿美元 AI 资本开支、5000 亿美元 AI 相关投资级债券发行——传统债市吸收能力逼近饱和，信用分析必须升级。</li>
+<li style="margin-bottom:8px;"><b>资本新来源：</b>收费公路/电信塔式的长期资本（基础设施基金、主权基金、保险公司）将以更低成本入场；AI 基建将趋近关键公共工程——标准化建设格式、长期合同、“极高的可融资性”。</li>
+<li style="margin-bottom:8px;"><b>风险面：</b>支出预测误差大，收入集中在前 10% 的超级用户（占 99.5% 的支出）；社区与政治风险真实存在——甲骨文已对新墨西哥州项目援引不可抗力、推迟向贷款方付款。</li>
+<li style="margin-bottom:8px;"><b>回报面：</b>前沿实验室每兆瓦推理年收入约 7500 万美元，而基础设施年化成本仅 1000–1500 万美元；开发商通过能源复用（电池既做备用电源又做负载缓冲）、模块化弹性算力等方式消除闲置产能。</li>
+<li style="margin-bottom:8px;"><b>一体化交付：</b>Crusoe、Volta、KKR 的 Helix Digital Infrastructure 把能源、土地、芯片、资本采购收归内部，统筹交付 AI 数据中心，避免错过节点被罚。</li>
+</ul>
+</div>
+
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【AI Agenda】维诺德·科斯拉：到 2030 年，多数机器人初创公司的估值将下跌</title>
 <link>https://www.theinformation.com/newsletters/ai-agenda/valuations-robotics-startups-will-fall-2030-says-vinod-khosla</link>
