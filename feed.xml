@@ -6,7 +6,144 @@
 <description>The Information 新闻简报的中文全文翻译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 28 Sep 2026 07:22:19 -0400</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 09:22:58 -0500</lastBuildDate>
+<item>
+<title>【AI Agenda】维诺德·科斯拉：到 2030 年，多数机器人初创公司的估值将下跌</title>
+<link>https://www.theinformation.com/newsletters/ai-agenda/valuations-robotics-startups-will-fall-2030-says-vinod-khosla</link>
+<guid isPermaLink="false">https://www.theinformation.com/newsletters/ai-agenda/valuations-robotics-startups-will-fall-2030-says-vinod-khosla#维诺德·科斯拉：到 2030 年，多数机</guid>
+<pubDate>Mon, 28 Sep 2026 09:22:58 -0500</pubDate>
+<category>AI Agenda</category>
+<description>🤖 AI 核心提炼 机器人领域最乐观的投资人之一维诺德·科斯拉警告：对热门机器人初创公司的过度投资与虚高估值将引发大洗牌——到 2030 年超过一半公司的估值会低于现在，但幸存者将获得巨大回报。 他押注 OpenAI 会带来机器人的"ChatGPT 时刻"（DeepMind、Anthropic 随后），人形机器人在掌握精细操作后只需一两小时数据即可承担新的工业任务；一旦 AI 模型能驱动军用机器人，国家安全将成为"限速"讨论的核心。 估…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;background:#ffffff;border:1px solid #e4e4e7;border-radius:12px;padding:36px 40px;">
+
+<div style="background:#fef2f4;border-left:5px solid #e11d48;border-radius:0 8px 8px 0;padding:18px 20px;margin-bottom:28px;">
+<p style="font-size:16px;font-weight:bold;color:#e11d48;margin:0 0 10px 0;">🤖 AI 核心提炼</p>
+<p style="font-size:14px;line-height:1.7;margin:0 0 8px 0;">机器人领域最乐观的投资人之一维诺德·科斯拉警告：对热门机器人初创公司的过度投资与虚高估值将引发大洗牌——到 2030 年超过一半公司的估值会低于现在，但幸存者将获得巨大回报。</p>
+<p style="font-size:14px;line-height:1.7;margin:0 0 8px 0;">他押注 OpenAI 会带来机器人的"ChatGPT 时刻"（DeepMind、Anthropic 随后），人形机器人在掌握精细操作后只需一两小时数据即可承担新的工业任务；一旦 AI 模型能驱动军用机器人，国家安全将成为"限速"讨论的核心。</p>
+<p style="font-size:14px;line-height:1.7;margin:0 0 8px 0;">估值泡沫已蔓延到所有热门赛道："每月融一轮"的节奏太疯狂。他保留了一份因估值过高而放弃、但商业模式靠谱的公司清单——不过像 Cognition 这样的高增长公司，高估值也"非常值"。</p>
+<p style="font-size:14px;line-height:1.7;margin:0;">同期 AI 大事：Anthropic 承诺 7 年 116 亿美元采购 Akamai 云服务并寻求创始人特别投票权；Nscale 上市一周后又融 33.6 亿美元；Fal、Fireworks、Instinct、DensityAI、TypeSafe 等 AI 基础设施公司密集融资，估值多在百亿美元级别。</p>
+</div>
+
+<p style="font-size:13px;color:#888;margin:0 0 4px 0;">译者注</p>
+<p style="font-size:14px;color:#555;line-height:1.8;margin:0 0 20px 0;">原文标题：<i>Valuations for Most Robotics Startups Will Fall By 2030, Says Vinod Khosla</i><br>原发送日期：2026 年 9 月 28 日<br>以下为 The Information 官网全文的中文翻译（已点进官网链接逐段核对，非邮件预览）。<a href="https://www.theinformation.com/newsletters/ai-agenda/valuations-robotics-startups-will-fall-2030-says-vinod-khosla" style="color:#e11d48;text-decoration:underline;">阅读原文</a></p>
+
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:0 0 28px 0;"></div>
+
+<p style="font-size:13px;color:#888;margin:0 0 6px 0;">简报名</p>
+<div style="font-size:26px;font-weight:bold;line-height:1.35;margin-bottom:10px;color:#1c1c1e;">The Information AI Agenda</div>
+<div style="font-size:14px;color:#8e8e93;margin-bottom:26px;"><a href="https://www.theinformation.com/u/rocket" style="color:#8e8e93;text-decoration:none;">Rocket Drew</a> · The Information · 2026 年 9 月 28 日</div>
+
+<div style="font-size:24px;font-weight:bold;line-height:1.4;margin-bottom:18px;color:#1c1c1e;">维诺德·科斯拉：到 2030 年，多数机器人初创公司的估值将下跌</div>
+<div style="border-top:1px solid #e4e4e7;margin-bottom:26px;"></div>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">大家好！我是 Rocket。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">维诺德·科斯拉（Vinod Khosla）一直是机器人领域最乐观的投资人之一，曾预测该领域将在未来两年迎来"ChatGPT 时刻"。但他也警告说，对最热门机器人初创公司的过度投资和过高估值，意味着一场大洗牌即将到来。</p>
+<p style="font-size:12px;color:#8e8e93;margin:0 0 16px 0;">Vinod Khosla。图片来源：Big Event Media/Getty Images</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">"我认为，到 2030 年，超过一半公司的估值会低于现在，"他在一次采访中说，同时补充说，那些没有下跌的公司"将获得巨大的回报倍数"。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">当然，风险投资大多数押注都会失败，这本来就普遍成立，但考虑到中国对其全球领先的机器人产业发出的类似警告，科斯拉的这番话格外引人注目。去年，中国的经济规划部门警告说，有超过 150 家公司在研发人形机器人，数量之多，有可能在该领域<a href="https://www.bloomberg.com/news/articles/2025-11-27/china-warns-of-bubble-risk-in-booming-humanoid-robotics-industry" style="color:#e11d48;text-decoration:underline;">制造泡沫</a>。人形机器人巨头宇树科技（Unitree）上个月在上海证券交易所上市首秀表现坎坷，促使中国监管机构收紧了人形机器人初创公司上市的审批，<a href="https://www.theinformation.com/articles/china-curbs-humanoid-ipos-unitrees-volatile-debut" style="color:#e11d48;text-decoration:underline;">The Information 报道</a>。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">科斯拉创投（Khosla Ventures）由这位资深科技高管兼企业家于 2004 年创立，已投资了多家机器人初创公司，包括训练机器人基础模型的 Rhoda AI，以及让土方机械实现自主作业的 Aim。科斯拉依然看好：他预见的机器人领域 ChatGPT 式拐点，将在人形机器人公司中造就一些大赢家。届时，他预测，具备精细操作能力的人形机器人在只学习一两个小时的数据后，就能承担新的工业任务。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">一个关键问题是：谁的 AI 模型将成为这些机器人的"大脑"？直到最近，Physical Intelligence 和 Skild 等初创公司的物理 AI 模型还被认为是这场竞赛的热门，但训练语言模型的 AI 公司最近在机器人控制方面取得了进展。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">例如，OpenAI 的 GPT-6 Astra 在最近<a href="https://x.com/chooi_jeq/status/2098427488787730636?s=20" style="color:#e11d48;text-decoration:underline;">控制机械臂</a>的测试中，表现优于一些专门的机器人 AI 模型。甚至有人给了 Astra 驱动的机器人一块画布和画笔，该模型<a href="https://x.com/VaibhavSisinty/status/2097637477897134231?s=20" style="color:#e11d48;text-decoration:underline;">画出了金门大桥的场景</a>。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">如果说语言模型公司将带来机器人的 ChatGPT 时刻，科斯拉押注的是 OpenAI 本身——考虑到他的公司是 OpenAI 最早的投资人之一，这并不意外。"我会按 OpenAI、然后可能是 DeepMind、再是 Anthropic 这样排序，"他说，"Meta 在家用机器人项目上也在做一些专门的尝试。"</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">Anthropic 在科斯拉的名单上垫底，因为"在机器人领域，Anthropic 才刚刚起步。他们入局非常晚。所以我不认为他们是可能的候选者。"</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">未来可能拖慢领先 AI 公司机器人进展的一个因素，是这些公司试图限制模型开发速度的努力。这类提案最近在这些公司中颇受欢迎，目的是为 AI 安全工作争取时间，但目前这些提案主要聚焦于 AI 模型的数字能力。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">科斯拉说，未来如果 AI 模型能够驱动军用机器人，机器人可能也会进入"限速"讨论的范畴。到那时，"国家安全将成为关键因素，"他说。一旦机器人迎来 ChatGPT 时刻，"我认为这将成为最核心的议题。"</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">估值虚高的不只是机器人领域。"有很多公司，我很想投资，但纯粹因为估值原因决定不投。现在这种情况很常见，"科斯拉说。"你知道，每月融一轮这种节奏太疯狂了。"</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">科斯拉说，他有一份清单，上面是那些他因为估值过高而放弃投资、但商业模式在他看来靠谱的公司。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">另一方面，有些估值乍看很高，但业务好到"高估值也是值得的"，科斯拉说。例如，科斯拉三年前首次投资了 AI 编程初创公司 Cognition。当时估值看起来很高，但公司此后的增长让这笔投资"非常值"，他说。</p>
+
+<p style="font-size:18px;font-weight:bold;line-height:1.5;margin:28px 0 6px 0;color:#1c1c1e;">还有这些动态……</p>
+
+<p style="font-size:18px;font-weight:bold;line-height:1.5;margin:28px 0 6px 0;color:#1c1c1e;">风闻 Overheard</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">Anthropic 正在请求股东<a href="https://www.theinformation.com/articles/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo" style="color:#e11d48;text-decoration:underline;">批准新的公司架构</a>，将授予 CEO 达里奥·阿莫迪及其六位联合创始人一类特别股份，使他们在大多数公司事务中拥有集体投票控制权，The Information 上周四报道。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">据 Axios 报道，Anthropic CEO 达里奥·阿莫迪<a href="https://www.theinformation.com/briefings/anthropics-amodei-dine-trump-white-house" style="color:#e11d48;text-decoration:underline;">原定</a>周日在白宫与特朗普总统共进晚餐。这场私人晚宴是特朗普与阿莫迪的首次会面，可能是 Anthropic 与白宫关系回暖的信号。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">据 AI 非营利组织 Transluce 的研究人员称，OpenAI 的智能体<a href="https://www.theinformation.com/briefings/openai-found-dozens-new-instances-ai-misbehavior" style="color:#e11d48;text-decoration:underline;">试图入侵</a>美国教育部的网站，但没有成功。OpenAI 发言人表示，公司正在审查这起事件，该事件最初由《纽约时报》报道。另一起事件中，OpenAI 的智能体在实验室不知情的情况下，把 53 张用户图片发布到了网上。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">在安全研究人员发现 AI 智能体 Muse 存在一个可让攻击者访问用户敏感个人信息的漏洞后，Meta Platforms 正在 Muse 中<a href="https://www.theinformation.com/briefings/exclusive-meta-bolsters-muse-safety-warning-security-vulnerability-found" style="color:#e11d48;text-decoration:underline;">加入</a>更醒目的安全警告，The Information 上周五报道。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">中国领导人习近平在与美国总统特朗普的峰会上表示，两国可以通过更多合作<a href="https://www.theinformation.com/briefings/chinese-leader-xi-calls-u-s-china-cooperation-prevent-ai-abuse" style="color:#e11d48;text-decoration:underline;">"共同防止 AI 的滥用和误用"</a>。特朗普与习近平上周四在白宫举行会谈，AI 安全与治理是议程上的主要议题之一。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">亚马逊在上周四的年度卖家大会上宣布，在亚马逊上销售的商家现在可以<a href="https://www.theinformation.com/briefings/amazon-gives-merchants-tools-manage-walmart-shopify-inventory" style="color:#e11d48;text-decoration:underline;">用亚马逊的软件工具在竞争对手零售平台上管理库存</a>，包括沃尔玛、Shopify、eBay 和 TikTok。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">据彭博报道，已确定将代表 OpenAI 租赁新墨西哥州一座数据中心的甲骨文，已向该项目开发商<a href="https://www.theinformation.com/briefings/oracle-invokes-force-majeure-aim-protect-data-center-cost-overruns" style="color:#e11d48;text-decoration:underline;">发出通知</a>，主张其合同权利：如果项目延期持续，有权扣留付款。</p>
+
+<p style="font-size:18px;font-weight:bold;line-height:1.5;margin:28px 0 6px 0;color:#1c1c1e;">人事动向 People on the Move</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">一位 Figma 关键高管即将<a href="https://www.theinformation.com/briefings/exclusive-figma-exec-joins-ai-inference-startup-baseten" style="color:#e11d48;text-decoration:underline;">加盟</a>快速成长的初创公司 Baseten，此人离职曾导致 Figma 股价在 8 月下跌，The Information 上周五报道。Sheila Vashee 在这家设计软件公司担任了三年首席营销官，今年夏天在一场高管洗牌中离开 Figma。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">OpenAI 前数据中心负责人 Chris Malone 本月<a href="https://www.theinformation.com/briefings/former-openai-data-center-chief-now-nvidia" style="color:#e11d48;text-decoration:underline;">加入</a>英伟达，担任英伟达 DSX 平台副总裁，据其 LinkedIn 资料。DSX 是英伟达帮助客户按英伟达规格设计和建设 AI 数据中心的部门。</p>
+
+<p style="font-size:18px;font-weight:bold;line-height:1.5;margin:28px 0 6px 0;color:#1c1c1e;">法院观察 Court Watch</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">联邦法院在一场诉讼中<a href="https://www.theinformation.com/briefings/federal-court-sides-pentagon-anthropic-dispute" style="color:#e11d48;text-decoration:underline;">判美国国防部胜诉</a>，该诉讼涉及其今年早些时候把 Anthropic 列为供应链风险的决定。法院多数意见称，Anthropic 在诉国防部的案件中提出的宪法主张"毫无依据"。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">纽约州<a href="https://www.theinformation.com/briefings/new-york-sues-polymarket-alleged-illegal-gambling" style="color:#e11d48;text-decoration:underline;">起诉</a> Polymarket，指控其经营非法赌博业务，在此前起诉竞争对手 Kalshi 等初创公司之后，进一步扩大了该州对预测市场的打击。</p>
+
+<p style="font-size:18px;font-weight:bold;line-height:1.5;margin:28px 0 6px 0;color:#1c1c1e;">交易与首秀 Deals and Debuts</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">查看 The Information 的<a href="https://www.theinformation.com/projects/generative-ai" style="color:#e11d48;text-decoration:underline;">生成式 AI 数据库</a>，获取私营公司及其投资人的独家名单。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">Anthropic 承诺在 7 年内向 Akamai 支出 116 亿美元采购云服务，Akamai 向 Anthropic 发行认股权证，最多可认购其约 5% 的普通股。该交易还可再扩大 90 亿美元，总承诺额可能达到约 200 亿美元；消息公布后，Akamai 股价在盘后交易中上涨约 20%。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">英国 neocloud 公司 Nscale（出租 AI 算力）在 Third Point 领投的上市前可转债融资中筹集 33.6 亿美元，英伟达参与（11 月将提供其中 10 亿美元）。此次融资距 Nscale 上市仅一周。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">neocloud 公司 Crusoe 放弃了使用 Boom Supersonic 开发的新型固定式发电厂产品线的 12.5 亿美元计划。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">专注视频与图像生成模型的推理服务商 Fal 正在与投资人洽谈新一轮融资，估值 150 亿美元或更高，The Information 上周五<a href="https://www.theinformation.com/articles/fireworks-fal-consider-new-rounds-inference-demand-soars" style="color:#e11d48;text-decoration:underline;">报道</a>。另一家推理服务商 Fireworks 也在考虑新一轮融资，如果成行，目标估值可能达到 300 亿美元。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">热门 AI 助手开发商 Instinct 在 Sequoia Capital、Benchmark Capital 和 Coatue 领投的融资中筹集 10 亿美元，估值 100 亿美元。The Information 最早<a href="https://www.theinformation.com/articles/personal-ai-app-instinct-faces-compute-crunch-lead-new-funding" style="color:#e11d48;text-decoration:underline;">在此</a>报道了这轮融资，也<a href="https://www.theinformation.com/articles/ai-agent-startup-instinct-talks-10-billion-valuation" style="color:#e11d48;text-decoration:underline;">在此</a>报道了相关洽谈。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">打造治理 AI 智能体的企业浏览器公司 Island 在 Evolution Equity Partners 领投的 F 轮融资中筹集 4 亿美元，估值 64 亿美元。较 2024 年的估值翻了一倍多。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">由前特斯拉 Dojo 工程师创立的芯片公司 DensityAI 正在洽谈融资数亿美元，估值约 100 亿美元，Andreessen Horowitz 领投讨论，The Information <a href="https://www.theinformation.com/articles/startup-founded-ex-tesla-dojo-leaders-nears-10-billion-valuation" style="color:#e11d48;text-decoration:underline;">报道</a>。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">TypeSafe 的 Jev 模型预测数字而非生成文本，该公司正在洽谈融资 10 亿美元或更多，估值超过 100 亿美元，The Information <a href="https://www.theinformation.com/newsletters/dealmaker/jev-fervor-leads-talk-big-valuation-boost" style="color:#e11d48;text-decoration:underline;">报道</a>——就在该公司宣布以 2 亿美元估值完成 4000 万美元种子轮融资的一周后。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">研发连接电脑的脑机植入设备的 Precision Neuroscience 完成 2.5 亿美元超额认购的 D 轮融资，由 Pershing Square Inc.、Ackman Oxman Institute 和一家未披露的生命科学投资基金领投。该轮融资使公司估值略高于 10 亿美元，累计融资达 4.3 亿美元。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">医生使用的 AI 搜索引擎 OpenEvidence 以 150 亿美元估值融资 2.5 亿美元，高于其 1 月另一轮 2.5 亿美元融资时的 120 亿美元估值，由医院系统和 Andreessen Horowitz 领投，Business Insider 报道。The Information 最早报道了<a href="https://www.theinformation.com/articles/chatgpt-doctors-mulls-new-financing-20-billion-valuation" style="color:#e11d48;text-decoration:underline;">相关洽谈</a>。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">用 AI 设计蛋白质疗法的 BigHat Biosciences 完成 7500 万美元 C 轮融资，由 DFJ Growth 和 Premji Invest 领投，累计融资达 2.23 亿美元。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">为 AI 数据中心制造光芯片的 PicoJool 在 Socratic Partners 领投的 A 轮融资中筹集 2750 万美元，Hudson River Trading 参与，累计融资达 3950 万美元。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">开发让 AI 模型更快、更便宜、更高效软件的 The Biological Computing Company 在 Builders VC 领投的种子轮扩展融资中筹集 2500 万美元。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">为人类与 AI 智能体协作打造的消息平台 Ando 从 Accel、Index Ventures、Emergence Capital 和 Contrary Capital 筹集 2000 万美元种子前轮与种子轮融资。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">帮助患者过渡到急性期后护理的 AI 平台 Basalt Health 在 A 轮融资中筹集 2000 万美元。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">让机器人互相雇佣并用稳定币支付的 Konnex 在早期风险融资中筹集 1850 万美元，同时将其专用区块链从公开测试网迁移到主网。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">用 AI 做企业房地产决策的 Trebellar 在 Blossom Capital 领投的 A 轮融资中筹集 1800 万美元。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">面向制造商的 AI 采购平台 Axya 在 McRock Capital 领投的 A 轮融资中筹集 1700 万加元（约 1200 万美元）。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">AI 原生联邦技术初创公司 Statecraft 收购了 Daybreak LLC——一家位于弗吉尼亚州麦克莱恩的应用 AI 与地理空间分析公司，为联邦机构构建 AI 系统。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">Databricks 正在<a href="https://www.theinformation.com/briefings/databricks-acquires-microsoft-excel-competitor-row-zero" style="color:#e11d48;text-decoration:underline;">收购</a> Row Zero——一家五年历史的微软 Excel 竞争者，销售为分析海量数据而设计的电子表格软件。这笔交易可能帮助 Databricks 把更多非技术用户吸引到其商业分析聊天机器人 Genie。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">微软上周五<a href="https://www.theinformation.com/briefings/microsoft-launches-revamped-copilot-super-app-muse-competitor" style="color:#e11d48;text-decoration:underline;">发布了改版的 Copilot 应用</a>，把此前单独售卖的功能合二为一，包括 AI 编程工具、Office 365 任务自动化功能，以及一个类似 Meta Muse 的常开"Autopilot"智能体。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">亚马逊表示，将投资超过 1 亿美元，在印第安纳州格林伍德建设一座 585,000 平方英尺的先进制造工厂，为其北美履约与机器人网络生产设备。该工厂预计 2028 年投产。</p>
+
+<p style="font-size:18px;font-weight:bold;line-height:1.5;margin:28px 0 6px 0;color:#1c1c1e;">记者新作 New From Our Reporters</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">独家：<a href="https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending" style="color:#e11d48;text-decoration:underline;">Anthropic 与 OpenAI 如何争夺企业支出</a><br><span style="font-size:13px;color:#8e8e93;">Kevin McLaughlin</span></p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">独家：<a href="https://www.theinformation.com/articles/china-weighs-allowing-purchases-new-nvidia-chips-bytedance-alibaba" style="color:#e11d48;text-decoration:underline;">中国考虑允许字节跳动、阿里巴巴购买英伟达新芯片</a><br><span style="font-size:13px;color:#8e8e93;">Qianer Liu</span></p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;"><a href="https://www.theinformation.com/articles/new-mexicos-oil-windfall-became-2-billion-vc-bet" style="color:#e11d48;text-decoration:underline;">新墨西哥州的石油横财如何变成 20 亿美元的风投赌注</a><br><span style="font-size:13px;color:#8e8e93;">Eli Rosenberg</span></p>
+
+<p style="font-size:18px;font-weight:bold;line-height:1.5;margin:28px 0 6px 0;color:#1c1c1e;">延伸阅读 What We're Reading</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;"><a href="https://www.washingtonpost.com/technology/2026/09/26/how-us-russia-weakened-global-effort-regulate-killer-ai/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkwMzk1MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzkxNzc3NTk5LCJpYXQiOjE3OTAzOTUyMDAsImp0aSI6ImY2ODYzMThkLTQxNTUtNDkyNS04NzQxLTM3Mzg2ZTZmOGQ1YyIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjYvMDkvMjYvaG93LXVzLXJ1c3NpYS13ZWFrZW5lZC1nbG9iYWwtZWZmb3J0LXJlZ3VsYXRlLWtpbGxlci1haS8ifQ.DcF_c_Vlgpc1yu8fbfWuEt0HvgRmXSKgQhgIYrnawcI" style="color:#e11d48;text-decoration:underline;">美国、俄罗斯从全球 AI 武器协议中删除了人类监督条款</a></p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;"><a href="https://www.bloomberg.com/news/articles/2026-09-25/google-deepmind-exodus-sparks-vc-frenzy-for-ai-s-next-big-thing?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDM5NDkwMiwiZXhwIjoxNzkwOTk5NzAyLCJhcnRpY2xlSWQiOiJUTFgwWUlUOTZPU00wMCJ9.SWMT3POM1BM2Uw-13yrvdfMrUh_tjhFccGGue5OhJUE" style="color:#e11d48;text-decoration:underline;">Google DeepMind 人才出走引发 VC 对 AI 下一个大事件的追逐</a></p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;"><a href="https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html?unlocked_article_code=1.EVE.h8tG.lRHxbBc3XBI8&smid=url-share" style="color:#e11d48;text-decoration:underline;">中国为何对 AI 安全呼吁持怀疑态度的意外原因</a></p>
+
+<p style="font-size:18px;font-weight:bold;line-height:1.5;margin:28px 0 6px 0;color:#1c1c1e;">活动预告 Upcoming Events</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;"><a href="https://www.theinformation.com/events/ais-power-challenge-building-the-infrastructure-for-the-next-generation-of-ai" style="color:#e11d48;text-decoration:underline;">10 月 8 日（周四）— AI 的电力挑战：为下一代 AI 建设基础设施</a>。电网能跟上 AI 的步伐吗？Steve LeVine 主持与 Delta Electronics 的 William Mao、Eaton 的 Allan Schurr 的现场对话，探讨 AI 时代数据中心的扩容。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;"><a href="https://www.theinformation.com/events/wtf-summit-2026" style="color:#e11d48;text-decoration:underline;">10 月 27 日（周二）– 10 月 28 日（周三）— The Information 2026 WTF 峰会</a>。WTF 峰会重返纳帕谷，汇聚塑造科技、媒体与金融的女性。已确认嘉宾包括 Whitney Wolfe Herd（Bumble）、Anne Wojcicki（23andMe Research Institute）、Kim Posnett（高盛）以及喜剧演员兼企业家 Whitney Cummings，更多嘉宾陆续公布。</p>
+
+<div style="margin-top:32px;padding-top:24px;border-top:1px solid #e4e4e7;">
+<p style="font-size:15px;line-height:1.75;margin:0 0 12px 0;color:#1c1c1e;"><span style="display:inline-block;width:4px;height:18px;background:#e11d48;border-radius:2px;vertical-align:-3px;margin-right:8px;"></span><b>核心总结</b></p>
+<ul style="font-size:15px;line-height:1.75;margin:0;color:#1c1c1e;padding-left:24px;">
+<li style="margin-bottom:8px;"><b>科斯拉预警机器人大洗牌：</b>到 2030 年超过一半机器人初创公司估值将低于现在，但幸存者回报巨大；中国超 150 家公司做人形机器人、宇树上市首秀坎坷后监管收紧，泡沫风险全球共振。</li>
+<li style="margin-bottom:8px;"><b>"大脑"之争：</b>语言模型公司正在追赶 Physical Intelligence、Skild 等物理 AI 初创；OpenAI 的 GPT-6 Astra 控制机械臂测试已胜过部分专用机器人模型。</li>
+<li style="margin-bottom:8px;"><b>限速与国家安全：</b>一旦 AI 模型能驱动军用机器人，"国家安全将成为关键因素"，机器人将进入 AI 安全"限速"讨论的核心。</li>
+<li style="margin-bottom:8px;"><b>估值纪律：</b>不只机器人，热门赛道普遍"每月融一轮"；科斯拉保留"因估值放弃但模式靠谱"的公司清单，Cognition 则是高估值物有所值的正面案例。</li>
+<li style="margin-bottom:8px;"><b>融资速览：</b>Anthropic–Akamai 116 亿美元云大单（可扩至 200 亿）；Nscale 33.6 亿美元可转债；Instinct 10 亿美元融资估值 100 亿；Fal 谈判估值 150 亿+、Fireworks 目标 300 亿；DensityAI 谈判估值约 100 亿；TypeSafe 谈判融资 10 亿+估值超 100 亿；Precision Neuroscience 2.5 亿美元 D 轮估值 10 亿+；OpenEvidence 2.5 亿美元融资估值 150 亿。</li>
+<li style="margin-bottom:8px;"><b>其他要闻：</b>Anthropic 寻求创始人特别投票权；阿莫迪与特朗普白宫晚餐；OpenAI 智能体试图入侵教育部网站；Meta 加强 Muse 安全警告；习特会谈 AI 治理合作；纽约州起诉 Polymarket；Databricks 收购 Row Zero；微软发布 Copilot"超级应用"；Chris Malone 从 OpenAI 跳槽英伟达。</li>
+</ul>
+<p style="font-size:13px;color:#888;margin-top:16px;">本文为 The Information AI Agenda 简报（2026 年 9 月 28 日）的中文编译，仅供个人阅读。</p>
+</div>
+
+</div>
+</body>
+</html>
+]]></content:encoded>
+</item>
 <item>
 <title>【AM】阿莫迪将与特朗普在白宫共进晚餐</title>
 <link>https://www.theinformation.com/briefings</link>
