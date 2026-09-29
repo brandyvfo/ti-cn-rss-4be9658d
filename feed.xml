@@ -6,7 +6,74 @@
 <description>The Information 新闻简报的中文全文翻译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 29 Sep 2026 09:33:21 -0500</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 16:51:05 +0000</lastBuildDate>
+<item>
+<title>【Applied AI】微软拆掉 AI 数据围墙</title>
+<link>https://www.theinformation.com/newsletters/applied-ai/microsoft-tears-ai-data-wall</link>
+<guid isPermaLink="false">https://www.theinformation.com/newsletters/applied-ai/microsoft-tears-ai-data-wall#微软拆掉 AI 数据围墙</guid>
+<pubDate>Tue, 29 Sep 2026 16:51:05 +0000</pubDate>
+<category>Applied AI</category>
+<description>🤖 AI 核心提炼 微软加入 Apache Ossie——一个让 AI 工具更容易读取应用与数据库数据的行业组织，这是微软在 AI 数据大战中的一次大转向：就在四个月前，它还在封锁合作伙伴接入 Power BI，以保护自家的数据产品 Fabric。 全球最大软件厂商站到"数据开放互操作"一边，意义重大：Snowflake、Salesforce 自去年秋天起推动的毛收入、净收入等业务指标标准定义可能因此加速，AI 不再需要猜测财务和销售部…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;background:#ffffff;border:1px solid #e4e4e7;border-radius:12px;padding:36px 40px;">
+
+<div style="background:#fef2f4;border-left:5px solid #e11d48;border-radius:0 8px 8px 0;padding:18px 20px;margin-bottom:28px;">
+<p style="font-size:16px;font-weight:bold;color:#e11d48;margin:0 0 10px 0;">🤖 AI 核心提炼</p>
+<p style="font-size:14px;line-height:1.7;margin:0 0 8px 0;">微软加入 Apache Ossie——一个让 AI 工具更容易读取应用与数据库数据的行业组织，这是微软在 AI 数据大战中的一次大转向：就在四个月前，它还在封锁合作伙伴接入 Power BI，以保护自家的数据产品 Fabric。</p>
+<p style="font-size:14px;line-height:1.7;margin:0 0 8px 0;">全球最大软件厂商站到"数据开放互操作"一边，意义重大：Snowflake、Salesforce 自去年秋天起推动的毛收入、净收入等业务指标标准定义可能因此加速，AI 不再需要猜测财务和销售部门对同一指标的不同定义，分析数据的成本也更低。</p>
+<p style="font-size:14px;line-height:1.7;margin:0 0 8px 0;">微软的转向延续了萨蒂亚·纳德拉的老策略——让自家产品兼容对手的产品，正如十多年前为 iOS 和安卓开发移动版 Office；Salesforce 过去两年也已允许 Claude 等 AI 读取其数据（付费）。AtScale CEO 直言，未来必须是一个"任何数据库都能连接任何 LLM 或 SaaS 应用"的异构技术栈。</p>
+<p style="font-size:14px;line-height:1.7;margin:0;">隐忧仍在：谷歌和 AWS 去年 11 月曾加入 Ossie 的早期版本，如今却不在官网成员名单上；谷歌还自有 LookML 标准（2020 年随收购 Looker 获得）。开放标准能否真正统一 AI 数据世界，远未尘埃落定。</p>
+</div>
+
+<p style="font-size:13px;color:#888;margin:0 0 4px 0;">译者注</p>
+<p style="font-size:14px;color:#555;line-height:1.8;margin:0 0 20px 0;">原文标题：<i>Microsoft Tears Down Its AI Data Wall</i><br>原发送日期：2026 年 9 月 29 日<br>以下为 The Information 官网全文的中文翻译（已点进官网链接逐段核对，非邮件预览）。<a href="https://www.theinformation.com/newsletters/applied-ai/microsoft-tears-ai-data-wall" style="color:#e11d48;text-decoration:underline;">阅读原文</a></p>
+
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:0 0 28px 0;"></div>
+
+<p style="font-size:13px;color:#888;margin:0 0 6px 0;">简报名</p>
+<div style="font-size:26px;font-weight:bold;line-height:1.35;margin-bottom:10px;color:#1c1c1e;">The Information Applied AI</div>
+<div style="font-size:14px;color:#8e8e93;margin-bottom:26px;">Kevin McLaughlin · The Information · 2026 年 9 月 29 日</div>
+
+<div style="font-size:24px;font-weight:bold;line-height:1.4;margin-bottom:18px;color:#1c1c1e;">微软拆掉 AI 数据围墙</div>
+<div style="border-top:1px solid #e4e4e7;margin-bottom:26px;"></div>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;"><b>微软最成功的产品</b>向来靠"让其他公司在自己之上构建"而繁荣。所以，微软决定加入 Apache Ossie——一个成立一年的软件行业组织，目标是让 AI 工具更容易从应用和数据库中获取数据——乍看似乎不是什么大事。但其实并非如此。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">就在四个月前，微软还出手<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNIbW9FLf62QKcaSfz4i7qWM-2Bj2Xz6SPGZC-2Bael4QAXxLIKIiZPUXR0X7czXzcQdDRYWtoIjICGaaJgoJar1HNCUVKTgt5qdGf0aBIisZM-2F7TiPR2TzYVAJ6uVYb0hsp-2B1DzlzMnByK9OgOVW25wCTnbmU3kCLOnuBSExS5j6Vfx-2F1oOBsFs2oAzx1OyenJf-2F1yKor_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlbx2uYCM-2BuVzNweG4ijeCskbvU0WvAfu0ptlfWsF5WJ-2FzjS5pqJcjWz9CV95dST1Hm2iPN4Voh2FMj4oY0uYm-2FHqkGE4xlG72nAQfVyUOjnIUIfTxervD9SACiLpE0gvDvqG7UcwCLdreYavFgjcdjPjD451XgyB2yyyv-2FuuwTPsEz-2BDnuiqGBsgc4TCrIJrTsRF-2Fvo43dQ3dyGSdX-2FnIciPIx14IbsswTHabr7z6TdZH3YTd1fZRoSBkajFMAW9vI77-2Fq2b4SPBXbvNoo9pH-2B0hhVWlO-2FRH8m7SMLPFjFgQUv4HD-2F9fYQhsni0jrrLVs" style="color:#e11d48;text-decoration:underline;">阻止合作伙伴</a>把他们的数据管理工具接入微软的 Power BI（企业用它做图表分析）。这样做，微软看似在保护自家的数据管理产品 Fabric，代价则是 Databricks 和 Snowflake 等竞争对手受损。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">换句话说，微软当时是在 AI 数据大战中开辟一条新战线：传统企业应用厂商正努力阻止客户用别家的 AI，去读取存放在传统应用中的数据。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">我们 5 月报道此事后，微软因这一决定受到不少批评。自那以后幕后发生了什么我们不得而知，但公司显然回心转意了。而加入 Ossie 的决定，也符合 CEO 萨蒂亚·纳德拉一贯的策略：让自家产品与对手的产品兼容——十多年前为苹果 iOS 和谷歌安卓开发移动版 Office 就是一例。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">Salesforce 在过去两年里也完成了类似的转变，现在正让客户可以方便地用 Claude 等 AI 工具读取 Salesforce 数据——当然要付费。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">微软加入 Ossie 之所以重要，是因为从去年秋天起，Snowflake、Salesforce 等公司一直在制定毛收入、净收入等业务指标的标准定义，而全球最大软件厂商的加入可能加速这一进程。目标是避免出现这种情况：公司财务部门对这些指标的定义与销售团队不同，让 AI 更难理解实际情况。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">指标标准化后，你就可以用 Snowflake 的数据管理工具分析微软 Power BI<b>.</b> 中的数据。而当 Snowflake 客户用 AI 分析这些数据时，运行成本也更低——AI 不必在处理发票、办理新员工入职时再花时间推理不同指标的含义。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">微软发言人证实了这家软件巨头参与 Apache Ossie，但没有详述回心转意的原因。公司在昨夜发布的一篇博客中说，正在"与 Snowflake 及更广泛的行业合作"，帮助"客户定义一次语义上下文，并在各生态系统中复用，无需重复数据或业务逻辑"。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">AtScale CEO 克里斯·林奇说，微软的转向是又一个迹象，表明数据管理的专有路线走不通。AtScale 是 Apache Ossie 成员公司，销售把原始数据翻译成通用业务指标的软件。"未来需要一个异构技术栈，让任何数据库都能连接任何 LLM 或 SaaS 应用，"他说。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">不过，Ossie 的进展并非一帆风顺。去年 11 月<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1dkl-2Fzx5IiP64EpcZX6NZ1qq0akS7kyfaTvzkA-2BWNTDjCYa07PeQUtASFBYJoT6-2BIyqRQbIIcN0608mf-2BYlNtvlo3uGb63NijFn7sSSP8JdAG75Ch2qVLNdFVKx8BGcxwpOTh3dtADKiL0p8lSdVY-2BAPXjPp3IbJskvyuOBaERTe0jz0_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlbx2uYCM-2BuVzNweG4ijeCskbvU0WvAfu0ptlfWsF5WJ-2FzjS5pqJcjWz9CV95dST1Hm2iPN4Voh2FMj4oY0uYm-2FHqkGE4xlG72nAQfVyUOjnIUIfTxervD9SACiLpE0gvDvqG7UcwCLdreYavFgjcdjPjD451XgyB2yyyv-2FuuwTPt-2FfEm1Vfdwfj71Wv57geL-2BSSGOXVLMh7liTe7fyPIQgX3-2BWI1h2jggnNiyRZRt2YS2GmUbix3roSEKAhukWXx-2BM40kCO8VbkKTYiYl-2BP4d7NwSN2JKxd3UnnkDAqyrGa0c8zwKNFxfaGaGImLVLa7J" style="color:#e11d48;text-decoration:underline;">加入该组织早期版本</a>的谷歌和亚马逊云（AWS），并未出现在 Ossie 官网的成员公司名单中。谷歌发言人没有回应置评请求，AWS 发言人也未能立即置评。谷歌有自己的业务指标定义软件 LookML，是 2020 年收购数据分析公司 Looker 时获得的。</p>
+
+<div style="margin-top:32px;padding-top:24px;border-top:1px solid #e4e4e7;">
+<p style="font-size:15px;line-height:1.75;margin:0 0 12px 0;color:#1c1c1e;"><span style="display:inline-block;width:4px;height:18px;background:#e11d48;border-radius:2px;vertical-align:-3px;margin-right:8px;"></span><b>核心总结</b></p>
+<ul style="font-size:15px;line-height:1.75;margin:0;color:#1c1c1e;padding-left:24px;">
+<li style="margin-bottom:8px;"><b>态度大转弯：</b>四个月前，微软封锁合作伙伴接入 Power BI 以保护自家 Fabric，引发批评；如今却加入以数据开放互操作为宗旨的 Apache Ossie。发言人证实参与，但未解释原因，只在博客中称正"与 Snowflake 及更广泛的行业合作"。</li>
+<li style="margin-bottom:8px;"><b>为什么重要：</b>Ossie 的核心任务是制定毛收入、净收入等业务指标的标准定义；有了最大软件厂商背书，财务与销售"各说各话"的问题有望缓解，AI 分析数据的推理成本也更低。</li>
+<li style="margin-bottom:8px;"><b>行业趋势：</b>专有数据路线失势——Salesforce 已允许 Claude 等 AI 读取其数据（付费）；AtScale CEO 克里斯·林奇称"未来需要异构技术栈，让任何数据库连接任何 LLM 或 SaaS 应用"。</li>
+<li style="margin-bottom:8px;"><b>变量：</b>谷歌、AWS 去年 11 月加入早期版本，如今却缺席官网成员名单；谷歌自有 LookML 标准（2020 年随 Looker 收购获得）。开放标准能否真正统一，仍是未知数。</li>
+</ul>
+</div>
+
+</div>
+</body>
+</html>
+]]></content:encoded>
+</item>
 <item>
 <title>【独家】Proximal 获 General Catalyst 领投，年化收入 10 个月突破 2 亿美元</title>
 <link>https://www.theinformation.com/newsletters/ai-agenda/general-catalyst-backs-coding-data-startup-proximal-reaches-revenue-milestone</link>
