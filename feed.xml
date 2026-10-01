@@ -6,7 +6,55 @@
 <description>The Information 新闻简报的中文全文翻译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 01 Oct 2026 07:22:55 -0700</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 15:49:46 -0700</lastBuildDate>
+<item>
+<title>【AI Agenda】机器人领域：谷歌做“安卓”，特斯拉做“苹果”</title>
+<link>https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model</link>
+<guid isPermaLink="false">https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model#机器人领域：谷歌做“安卓”，特斯拉做“苹</guid>
+<pubDate>Thu, 01 Oct 2026 15:49:46 -0700</pubDate>
+<category>AI Agenda</category>
+<description>AI 核心提炼 DeepMind 新任 CEO Koray Kavukcuoglu 首次定调谷歌机器人战略：不做自有旗舰人形机器人，赌注押在软件与智能层——用 Gemini Robotics 把智能装进别家机器人，做机器人领域的“安卓”。 这与特斯拉的“苹果式”垂直整合路线形成鲜明对照，但作者 Lessin 打赌，谷歌迟早也会像当年从合作造机走向 Pixel 一样，走上自造之路。 同一套多模态 Gemini 架构既处理文本、视觉和音频，…</description>
+<content:encoded><![CDATA[<div style="background:#f4f4f5;padding:24px 12px;">
+<div style="max-width:680px;margin:0 auto;background:#ffffff;border:1px solid #e4e4e7;border-radius:12px;padding:32px 28px;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;border-radius:0 8px 8px 0;padding:16px 18px;margin-bottom:24px;">
+<div style="font-size:16px;font-weight:bold;color:#e11d48;margin-bottom:8px;">AI 核心提炼</div>
+<p style="font-size:14px;line-height:1.7;margin:0 0 0.7em 0;color:#1f2937;">DeepMind 新任 CEO Koray Kavukcuoglu 首次定调谷歌机器人战略：不做自有旗舰人形机器人，赌注押在软件与智能层——用 Gemini Robotics 把智能装进别家机器人，做机器人领域的“安卓”。</p><p style="font-size:14px;line-height:1.7;margin:0 0 0.7em 0;color:#1f2937;">这与特斯拉的“苹果式”垂直整合路线形成鲜明对照，但作者 Lessin 打赌，谷歌迟早也会像当年从合作造机走向 Pixel 一样，走上自造之路。</p><p style="font-size:14px;line-height:1.7;margin:0 0 0.7em 0;color:#1f2937;">同一套多模态 Gemini 架构既处理文本、视觉和音频，也要泛化到物理世界；Waymo 被点名为物理 AI 已规模化的证明。</p><p style="font-size:14px;line-height:1.7;margin:0 0 0.7em 0;color:#1f2937;">同期谷歌向一小批网络防御客户推出 Gemini 4 Argon，市场很快就能检验谷歌与 Anthropic、OpenAI 的能力差距是否缩小。</p>
+</div>
+<div style="font-size:12px;color:#9ca3af;margin-bottom:6px;">译者注</div>
+<div style="font-size:12px;color:#6b7280;line-height:1.8;margin-bottom:20px;">
+原文标题：<i>In Robotics, Google Goes Android to Tesla&#x27;s Apple</i><br>
+原发送日期：2026年10月1日<br>
+以下为 The Information 官网全文的中文翻译（已点进原文链接核对，非邮件预览）。
+</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:0 0 22px 0;"></div>
+<div style="font-size:12px;color:#9ca3af;margin-bottom:6px;">简报名</div>
+<div style="font-size:26px;font-weight:bold;line-height:1.3;margin-bottom:8px;color:#111827;">Applied AI</div>
+<div style="font-size:13px;color:#6b7280;margin-bottom:16px;">Jessica E. Lessin · The Information · 2026年10月1日</div>
+<div style="font-size:24px;font-weight:bold;line-height:1.35;color:#111827;margin-bottom:16px;">机器人领域：谷歌做“安卓”，特斯拉做“苹果”</div>
+<div style="height:1px;background:#e5e7eb;margin:0 0 20px 0;"></div>
+<div style="font-size:12px;color:#9ca3af;line-height:1.6;margin-bottom:20px;">谷歌 DeepMind 负责人 Koray Kavukcuoglu 在 The Information 的 AI Agenda Live 现场。Erin Beach 摄。</div>
+<p style="font-size:15px;line-height:1.75;margin:0 0 1em 0;color:#1f2937;"><strong>在上周采访谷歌的</strong> Koray Kavukcuoglu 时，我有种似曾相识的感觉。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 1em 0;color:#1f2937;">这是 Kavukcuoglu 接任谷歌 DeepMind CEO 后的首次坐下来深谈，他迄今最详细地谈了公司机器人雄心的方向，以及与业内其他公司的不同之处。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 1em 0;color:#1f2937;">与 OpenAI 支持的 Figure 或埃隆·马斯克的特斯拉追逐单一旗舰人形机器人不同，Kavukcuoglu 把谷歌的路线描述为从根本上的一场软件与智能之战。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 1em 0;color:#1f2937;">我追问谷歌是否打算自己造人形机器人。他没有排除这种可能，但他明确表示，谷歌认为自己的优势在模型层，而不在底盘。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 1em 0;color:#1f2937;">我立刻回想起 2007 或 2008 年我问谷歌联合创始人谢尔盖·布林谷歌是否会自己造手机。当时公司正与 T-Mobile 和 HTC 合作造安卓手机。但谷歌会自己造吗？</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 1em 0;color:#1f2937;">布林当时在谷歌餐厅里穿着轮滑鞋（我毫不夸张）告诉我，只有在不得已时才会自己造，从而为谷歌自造手机留了一扇门——后来果然造了，先是与 HTC 合作，再之后更独立地推出了 Pixel。如果要我打赌，我会赌最终（虽然这个“最终”可能非常遥远），谷歌也会垂直整合，自己造出类人形机器人。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 1em 0;color:#1f2937;">今天，谷歌正在使用安卓剧本的第一部分：合作。公司打造了 Gemini Robotics——为物理控制专门适配的核心 Gemini 模型版本。其战略是让这套智能跑在许多不同公司（如波士顿动力）制造的机器人上，而不是把全部赌注押在自家的单一硬件平台上。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 1em 0;color:#1f2937;">“我们尝试与其它机器人公司合作，让它们使用这套技术，把智能安全、妥善地装进所有机器人里，”Kavukcuoglu 上周在 The Information 的 AI Agenda Live 上说。（你可以在<a href="https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model" style="color:#e11d48;font-weight:bold;text-decoration:none;">这里</a>观看这场内容广泛的访谈。）</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 1em 0;color:#1f2937;">Kavukcuoglu 还把机器人战略与谷歌更宏大的通用人工智能论述联系起来：同一套多模态 Gemini 架构既处理文本、视觉和音频，也应该能泛化到物理世界。这意味着行人检测、翻译，如今还有机器人控制，都跑在同一个系统里，而不是为每项任务各造一套专用模型。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 1em 0;color:#1f2937;">他还点名 Waymo 是迄今最清晰的证明，称自动驾驶是展示物理 AI 大规模能力的“非常非常安全的方式”。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 1em 0;color:#1f2937;">说到 Gemini，谷歌周三<a href="https://www.theinformation.com/briefings/google-unveils-gemini-4-argon-pricing-well-rivals" style="color:#e11d48;font-weight:bold;text-decoration:none;">宣布</a>向一小批对网络防御感兴趣的客户推出 Gemini 4 Argon，先行小规模发布，之后再广泛推出。这意味着我们很快就会知道，在通用模型能力上，谷歌是否缩小了与 Anthropic 和 OpenAI 这两家领先 AI 公司的差距。</p>
+<div style="margin-top:28px;">
+<div style="border-left:4px solid #e11d48;padding-left:12px;font-size:17px;font-weight:bold;color:#111827;margin-bottom:12px;">核心总结</div>
+<ul style="padding-left:20px;margin:0;">
+<li style="font-size:15px;line-height:1.75;color:#1f2937;margin:0 0 0.6em 0;">Kavukcuoglu 接任 DeepMind CEO 后首次深谈：谷歌机器人战略押注智能层，不追逐自有旗舰人形机器人。</li><li style="font-size:15px;line-height:1.75;color:#1f2937;margin:0 0 0.6em 0;">安卓模式：Gemini Robotics 为物理控制适配，装进波士顿动力等第三方机器人；对照组是 Figure 与特斯拉的人形机器人垂直路线。</li><li style="font-size:15px;line-height:1.75;color:#1f2937;margin:0 0 0.6em 0;">作者的判断：谷歌最终可能复制手机之路——从合作造机到推出 Pixel——迟早垂直整合自造人形机器人。</li><li style="font-size:15px;line-height:1.75;color:#1f2937;margin:0 0 0.6em 0;">战略底层逻辑是 AGI 统一架构：同一个 Gemini 多模态系统覆盖文本、视觉、音频与物理控制；Waymo 是物理 AI 已规模化的样板。</li><li style="font-size:15px;line-height:1.75;color:#1f2937;margin:0 0 0.6em 0;">模型进展：Gemini 4 Argon 先向网络防御客户小范围推出，随后全面发布，届时可检验谷歌与 Anthropic、OpenAI 的能力差距。</li>
+</ul>
+</div>
+<div style="font-size:12px;color:#9ca3af;margin-top:24px;">原文链接：<a href="https://www.theinformation.com/newsletters/applied-ai/robotics-google-goes-android-teslas-apple" style="color:#e11d48;text-decoration:none;">https://www.theinformation.com/newsletters/applied-ai/robotics-google-goes-android-teslas-apple</a></div>
+</div>
+</div>
+]]></content:encoded>
+</item>
 <item>
 <title>【独家】Vercel 营收暴增，编码智能体驱动业务增长</title>
 <link>https://www.theinformation.com/newsletters/ai-agenda/coding-agents-choosing-vercel-often-humans</link>
