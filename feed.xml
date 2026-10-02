@@ -6,7 +6,89 @@
 <description>The Information 新闻简报的中文全文翻译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 02 Oct 2026 06:21:04 -0500</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 09:50:48 -0700</lastBuildDate>
+<item>
+<title>【财经】AI 数据中心债务无处不在</title>
+<link>https://www.theinformation.com/newsletters/the-information-finance/ai-data-center-debt-showing-everywhere</link>
+<guid isPermaLink="false">https://www.theinformation.com/newsletters/the-information-finance/ai-data-center-debt-showing-everywhere#AI 数据中心债务无处不在</guid>
+<pubDate>Fri, 02 Oct 2026 09:50:48 -0700</pubDate>
+<category>财经</category>
+<description>AI 核心提炼 为数据中心及 AI 基建融资的债务已自成一类，但这轮 AI 基建债市正在出现裂缝：科技巨头公司债利差扩大、高收益债投资人要求更高让步、银行贷款市场趋于谨慎。 过去 12 个月至少 20 笔高收益债为数据中心项目融资，发行方名不见经传（多通过特殊目的实体），但背后常牵出 AI 巨头——作为租户、租户的客户，或提供信用支持。 CoreWeave（客户含微软、Meta、OpenAI）、Fluidstack（谷歌为其租约背书，服…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"></head>
+<body style="margin:0;padding:0;background:#f4f4f5;">
+<div style="background:#f4f4f5;padding:24px 12px;">
+<div style="max-width:640px;margin:0 auto;background:#ffffff;border:1px solid #e4e4e7;border-radius:12px;overflow:hidden;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;">
+
+<!-- AI 核心提炼卡片 -->
+<div style="margin:24px 24px 0 24px;background:#fef2f4;border-left:4px solid #e11d48;border-radius:8px;padding:16px 18px;">
+<div style="font-size:16px;font-weight:bold;color:#e11d48;margin-bottom:8px;">AI 核心提炼</div>
+<div style="font-size:14px;line-height:1.7;color:#3f3f46;">
+为数据中心及 AI 基建融资的债务已自成一类，但这轮 AI 基建债市正在出现裂缝：科技巨头公司债利差扩大、高收益债投资人要求更高让步、银行贷款市场趋于谨慎。<br><br>
+过去 12 个月至少 20 笔高收益债为数据中心项目融资，发行方名不见经传（多通过特殊目的实体），但背后常牵出 AI 巨头——作为租户、租户的客户，或提供信用支持。<br><br>
+CoreWeave（客户含微软、Meta、OpenAI）、Fluidstack（谷歌为其租约背书，服务 Anthropic）、Fleet Data Centers（内华达两笔债，匿名租户被曝为英伟达）等项目的债务，已经流入道富、嘉信理财等高收益 ETF 的前十大持仓。<br><br>
+结论：AI 债务热潮已难以回避，值得盯住的是谁在融资、算力最终服务于谁，以及后续新债的表现。
+</div>
+</div>
+
+<!-- 译者注 -->
+<div style="margin:20px 24px 0 24px;font-size:12px;color:#71717a;line-height:1.7;">
+译者注<br>
+原文标题：<i>AI Data Center Debt Is Showing Up Everywhere</i><br>
+原发送日期：2026 年 10 月 2 日<br>
+以下为 The Information 官网全文的中文翻译（已点进原文链接核对，非邮件预览）。原文链接：<a href="https://www.theinformation.com/newsletters/the-information-finance/ai-data-center-debt-showing-everywhere" style="color:#e11d48;">https://www.theinformation.com/newsletters/the-information-finance/ai-data-center-debt-showing-everywhere</a>
+</div>
+
+<!-- 红色分隔线 -->
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:20px 24px 0 24px;"></div>
+
+<!-- 简报名 -->
+<div style="margin:20px 24px 0 24px;font-size:12px;color:#71717a;">简报名</div>
+<div style="margin:4px 24px 0 24px;font-size:26px;font-weight:bold;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#18181b;">The Information Finance</div>
+
+<!-- 署名行 -->
+<div style="margin:8px 24px 0 24px;font-size:12px;color:#71717a;">Meredith Mazzilli · The Information · 2026 年 10 月 2 日</div>
+
+<!-- 中文标题 -->
+<div style="margin:20px 24px 0 24px;font-size:24px;font-weight:bold;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#18181b;line-height:1.4;">AI 数据中心债务无处不在</div>
+<div style="border-top:1px solid #e4e4e7;margin:12px 24px 0 24px;"></div>
+<div style="margin:8px 24px 0 24px;font-size:12px;color:#a1a1aa;">Getty Images.</div>
+
+<!-- 全文翻译 -->
+<div style="margin:16px 24px 0 24px;font-size:15px;line-height:1.75;color:#27272a;">
+<p style="margin:0 0 16px 0;"><b>数据中心债务融资</b>发展迅猛，如今已自成一类——信用分析师们开始将与 AI 相关的债务和非 AI 相关债务区分开来，跨市场分析新发债券的发行与表现。近几个月，已有数家资管公司申请设立专注于 AI 或 AI 基础设施相关债务的 ETF。</p>
+<p style="margin:0 0 16px 0;">而眼下，这一品类中的部分债券表现并不好看。如果你错过了，我们的记者 Dakin Campbell 本周早些时候对支撑 AI 基建热潮的各类融资市场中出现的裂缝做了<a href="https://www.theinformation.com/articles/new-data-center-debt-concessions-stall-ai-build-outs" style="color:#e11d48;font-weight:bold;">深挖</a>。</p>
+<p style="margin:0 0 16px 0;">值得关注的事情不少：投资级市场上，科技巨头公司债的利差在扩大；高收益市场上，投资人对近期 AI 数据中心项目债券要求更大的让步；AI 项目融资的银行贷款市场也趋于谨慎。投资人正变得越来越挑剔，对项目层面的建设风险等看得更细。</p>
+<p style="margin:0 0 16px 0;">具体到高收益市场，有一类债券值得所有关心 AI 基建的人盯住。据 The Information 本周的报道，过去 12 个月里，为数据中心项目融资的高收益债发行至少有 20 笔。这些项目背后的公司，如 CleanSpark 或 TeraWulf，名不见经传，项目债务还常常通过更不知名的特殊目的实体发行。</p>
+<p style="margin:0 0 16px 0;">但只要稍微深挖一下就会发现，AI 领域最大的名字们以某种形式与这些数据中心项目挂钩——作为直接租户、租户的客户，或为促成融资提供某种信用支持。也就是说，评级较低发行人的债市，至少为支撑最大 AI 公司的部分基础设施提供了资金。（这些交易融资的一般是数据中心楼宇及相关基础设施，通常不包括数据中心内部的芯片。）</p>
+<p style="margin:0 0 16px 0;">比如，过去一年里多笔项目融资对应的数据中心租给了 CoreWeave，而 CoreWeave 的客户包括微软、Meta Platforms 和 OpenAI。其中一笔与 CoreWeave 相关的项目融资涉及两座数据中心，CoreWeave 租下一座，阿里云租下另一座。而这还算是其中比较明显的关联。</p>
+<p style="margin:0 0 16px 0;">还有几笔项目融资对应的机房租给了 AI 基础设施初创公司 Fluidstack，谷歌为 Fluidstack 的部分租约义务提供背书。Fluidstack 一直在为 Anthropic 等公司建设和锁定数据中心。与此同时，Anthropic 对谷歌 TPU 芯片的使用量也在大幅扩张。</p>
+<p style="margin:0 0 16px 0;">此外还有两笔在内华达州发行的债券，发行主体是特殊目的实体 SV RNO Property Owner 1 LLC 和 PR RNO Property Owner 1 LLC，开发商是资管公司 Tract Capital 旗下的 Fleet Data Centers。两笔债券的信用评级报告都提到，项目签有长期租约，租户为一家未具名的投资级企业——5 月的一份报告<a href="https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3555458" style="color:#e11d48;font-weight:bold;">指出</a>，该匿名租户市值超过 3 万亿美元，彭博此前报道称两笔交易中的租户都是英伟达。</p>
+<p style="margin:0 0 16px 0;">英伟达一直在<a href="https://www.theinformation.com/newsletters/ai-infrastructure/nvidia-trying-solve-data-center-power-bottleneck" style="color:#e11d48;font-weight:bold;">为自己锁定</a>数据中心容量，既供自用，也帮客户锁定容量。英伟达 8 月<a href="https://www.theinformation.com/briefings/nvidia-says-revenue-rose-106-july-quarter-customers-slower-make-payments" style="color:#e11d48;font-weight:bold;">披露</a>，公司有 250 亿美元尚未开始的数据中心租约承诺，主要用于产品设计和测试等自用，另有 200 亿美元未来数据中心租约承诺计划转给第三方。</p>
+<p style="margin:0 0 16px 0;">还有一些债券交易与租给亚马逊和甲骨文的数据中心相关。另有一笔是 SB Energy 在得克萨斯州的 Cosmos 园区项目，SB Energy 的 IPO 文件显示，软银集团旗下关联公司为租户的租约义务提供担保。正如 Dakin 本周早些时候报道的，最近的一笔项目债是为 Meta 的一个 CleanSpark 项目融资。</p>
+<p style="margin:0 0 16px 0;">虽然有一些专门投向 AI 相关债务的基金正在筹备，但许多这类项目融资早已流入更广泛的基金。这不难理解，因为数据中心项目债在整体高收益市场的占比一直在扩大。例如，道富和嘉信理财旗下高收益债券 ETF 的前十大持仓中，就有与 Fluidstack 租赁数据中心相关的债务，以及 Fleet 内华达项目之一的债务。当然，这些持仓占比都很小——各自不足 1%——这些 ETF 持有横跨众多行业的债券。</p>
+<p style="margin:0 0 16px 0;">换句话说，尽管 AI 债务在某种程度上已自成一类，但这轮 AI 债务热潮总体上已更难回避。无论如何，都值得关注谁在做这些融资、数据中心算力最终真正服务于谁，以及接下来推向市场的交易表现如何。</p>
+</div>
+
+<!-- 核心总结 -->
+<div style="margin:24px 24px 32px 24px;">
+<div style="border-left:4px solid #e11d48;padding-left:12px;font-size:18px;font-weight:bold;color:#18181b;margin-bottom:12px;">核心总结</div>
+<ul style="margin:0;padding-left:20px;font-size:15px;line-height:1.75;color:#27272a;">
+<li style="margin-bottom:8px;">AI 基建债自成一类：过去 12 个月至少 20 笔高收益债为数据中心项目融资，资管公司已在申请发行 AI 债务主题 ETF。</li>
+<li style="margin-bottom:8px;">市场出现裂缝：投资级市场科技巨头债利差扩大；高收益债投资人要求更大让步；银行贷款市场对 AI 项目融资趋于谨慎。</li>
+<li style="margin-bottom:8px;">隐形关联：项目公司名不见经传（通过特殊目的实体发债），但租户或信用支持方常是 AI 巨头——CoreWeave（客户含微软、Meta、OpenAI）、Fluidstack（谷歌背书租约，服务 Anthropic）、英伟达（内华达两笔债的匿名投资级租户）。</li>
+<li style="margin-bottom:8px;">债务已渗入主流基金：道富、嘉信的高收益 ETF 前十大持仓中已有 Fluidstack 租赁数据中心和 Fleet 内华达项目的债务（各不足 1%）。</li>
+<li style="margin-bottom:8px;">展望：AI 债务热潮更难回避，关键看后续发行的债券表现。</li>
+</ul>
+</div>
+
+</div>
+</div>
+</body>
+</html>
+]]></content:encoded>
+</item>
 <item>
 <title>【AM】OpenAI 开除三名安全研究员</title>
 <link>https://www.theinformation.com/briefings/exclusive-nvidia-softbank-make-final-20-billion-investment-openais-last-round</link>
