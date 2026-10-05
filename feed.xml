@@ -6,7 +6,82 @@
 <description>The Information 新闻简报的中文全文翻译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 05 Oct 2026 10:20:22 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 04:26:08 -0700</lastBuildDate>
+<item>
+<title>【AM】国家情报总监将领导特朗普 AI 工作组；马斯克拟把 SpaceXAI 更名为 SpaceXSI</title>
+<link>https://www.theinformation.com/briefings/president-trump-announces-white-house-ai-accord</link>
+<guid isPermaLink="false">https://www.theinformation.com/briefings/president-trump-announces-white-house-ai-accord#国家情报总监将领导特朗普 AI 工作组；</guid>
+<pubDate>Mon, 05 Oct 2026 04:26:08 -0700</pubDate>
+<category>AM</category>
+<description>AI 核心提炼 特朗普政府成立 AI 工作组，由国家情报总监 Jay Clayton 担任“AI 沙皇”领导，计划 120 天内发布 AI 风险与机遇报告；成员包括副总统 JD Vance、财长 Scott Bessent、FTC 主席 Andrew Ferguson、前“AI 沙皇”David Sacks 及布什时期国安顾问 Condoleezza Rice。工作组章程还要求确保美国在“SI”（超级智能）发展上保持领先——白宫已下令政…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;background:#ffffff;border:1px solid #e4e4e7;border-radius:12px;padding:36px 40px;">
+<div style="background:#fef2f4;border-left:5px solid #e11d48;border-radius:0 8px 8px 0;padding:18px 20px;margin-bottom:28px;">
+<p style="font-size:16px;font-weight:bold;color:#e11d48;margin:0 0 10px 0;">AI 核心提炼</p>
+<p style="font-size:14px;line-height:1.7;margin:0 0 8px 0;">特朗普政府成立 AI 工作组，由国家情报总监 Jay Clayton 担任“AI 沙皇”领导，计划 120 天内发布 AI 风险与机遇报告；成员包括副总统 JD Vance、财长 Scott Bessent、FTC 主席 Andrew Ferguson、前“AI 沙皇”David Sacks 及布什时期国安顾问 Condoleezza Rice。工作组章程还要求确保美国在“SI”（超级智能）发展上保持领先——白宫已下令政府用 SI 取代 AI 一词。</p>
+<p style="font-size:14px;line-height:1.7;margin:0 0 8px 0;">马斯克跟进改名潮：宣布把 SpaceX 的 AI 部门 SpaceXAI 更名为 SpaceXSI，并在 X 上发帖“No more AI, SI, Its Better”（不要 AI 了，SI 更好），公开附和特朗普的 SI 命名。</p>
+<p style="font-size:14px;line-height:1.7;margin:0 0 8px 0;">科技巨头抢数据中心话语权：AWS 承诺五年内向学校、住宅和市政建筑的供热供水升级等项目投入 10 亿美元，并放弃要求地方政府签保密协议；微软发布语音生成 AI MAI-Transcribe-2-Streaming，称成本与准确率均优于 ElevenLabs 等对手并登顶 Artificial Analysis 榜单；Lambda 获超 10 亿美元延迟提款贷款购 3 万多块英伟达 GPU，固定利率 6.78%。</p>
+<p style="font-size:14px;line-height:1.7;margin:0 0 0 0;">加密寒冬未退：首家联邦特许数字资产银行 Anchorage Digital 裁员 17%（全球约 400 人），比特币虽月涨 9% 突破 84,000 美元，仍未回到去年 10 月 126,000 美元峰值；Coinbase（5 月裁 14%）、Robinhood（6 月裁 10%）此前已裁员。</p>
+</div>
+<p style="font-size:13px;color:#888;margin:0 0 4px 0;">译者注</p>
+<p style="font-size:14px;color:#555;line-height:1.8;margin:0 0 20px 0;">原文标题：<i>National Intelligence Director Jay Clayton Will Lead AI Task Force</i><br>原发送日期：2026 年 10 月 5 日<br>以下为简报 6 条目的完整中文翻译（第 1 条原文链接为《华尔街日报》，邮件正文即为完整内容；其余 5 条已点进 The Information 官网链接逐段核对，与官网全文一致，非邮件预览）。<a href="https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef" style="color:#e11d48;text-decoration:underline;">阅读原文</a></p>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:0 0 28px 0;"></div>
+<p style="font-size:13px;color:#888;margin:0 0 6px 0;">简报名</p>
+<div style="font-size:26px;font-weight:bold;line-height:1.35;margin-bottom:10px;color:#1c1c1e;">The Information AM</div>
+<div style="font-size:14px;color:#8e8e93;margin-bottom:26px;">The Information · 2026 年 10 月 5 日</div>
+<div style="font-size:24px;font-weight:bold;line-height:1.4;margin-bottom:18px;color:#1c1c1e;">国家情报总监 Jay Clayton 将领导 AI 工作组</div>
+<div style="border-top:1px solid #e4e4e7;margin-bottom:26px;"></div>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">欢迎回来！国家情报总监 Jay Clayton 将领导特朗普政府新成立的 AI 工作组。马斯克表示将把 SpaceXAI 更名为 SpaceXSI。亚马逊承诺向其数据中心所在社区投入 10 亿美元。</p>
+<p style="font-size:18px;font-weight:bold;line-height:1.5;margin:28px 0 6px 0;color:#1c1c1e;"><a href="https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef" style="color:#1c1c1e;text-decoration:none;">1. 国家情报总监 Jay Clayton 将领导 AI 工作组</a></p>
+<p style="font-size:13px;color:#8e8e93;margin:0 0 12px 0;">Leo Schwartz · 华尔街日报 · 2026 年 10 月 5 日</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;"><b>特朗普政府</b>新成立的 AI 工作组计划在 120 天内发布一份关于人工智能风险与机遇的报告，据周六《华尔街日报》对新任“AI 沙皇”Jay Clayton 的专访透露。Clayton 同时担任国家情报总监。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">据《华尔街日报》报道，工作组设三名副主席，均为特朗普政府高级官员：战争部研究与工程副部长 Emil Michael、人事管理局局长 Scott Kupor，以及联邦贸易委员会主席 Andrew Ferguson。其他成员还包括布什政府时期的国家安全顾问 Condoleezza Rice、副总统 JD Vance、财政部长 Scott Bessent，以及前“AI 沙皇”David Sacks。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">《华尔街日报》还报道称，工作组章程规定，该机构将确保美国在“SI”（超级智能，super intelligence）发展方面保持领先——特朗普政府上周以一纸<a href="https://www.theinformation.com/briefings/president-trump-announces-white-house-ai-accord" style="color:#e11d48;text-decoration:underline;">行政命令</a>宣布将 AI 更名为 SI。白宫尚未公布该章程，发言人也未回应置评请求。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">特朗普早在 9 月就通过 Truth Social 发帖<a href="https://www.theinformation.com/briefings/president-trump-announces-ai-force-will-appoint-new-czar" style="color:#e11d48;text-decoration:underline;">宣布</a>成立该 AI 工作组，但当时并未公布成员名单。此后，白宫邀请了包括 OpenAI、Anthropic 和 Meta 在内的多家公司行业领袖共进午餐，各方达成了一项自愿性<a href="https://www.theinformation.com/briefings/president-trump-announces-white-house-ai-accord" style="color:#e11d48;text-decoration:underline;">联合协议</a>，承诺实施某些安全措施，例如与第三方审计机构合作评估其模型。周日，特朗普在 Truth Social 上发帖<a href="https://truthsocial.com/@realDonaldTrump/posts/117382616783706638" style="color:#e11d48;text-decoration:underline;">确认</a>了工作组的成员构成。</p>
+<p style="font-size:18px;font-weight:bold;line-height:1.5;margin:28px 0 6px 0;color:#1c1c1e;"><a href="https://www.theinformation.com/briefings/musk-change-spacexais-name-spacexsi" style="color:#1c1c1e;text-decoration:none;">2. 马斯克拟将 SpaceXAI 更名为 SpaceXSI</a></p>
+<p style="font-size:13px;color:#8e8e93;margin:0 0 12px 0;">Martin Peers · The Information · 2026 年 10 月 5 日</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;"><b>马斯克</b>周日在 X 上<a href="https://x.com/elonmusk/status/2106672603536712025?s=20" style="color:#e11d48;text-decoration:underline;">发帖</a>表示，将把 SpaceX 的 AI 部门 SpaceXAI 更名为 SpaceXSI，采用特朗普总统为 AI 钦定的新名称。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">马斯克此前已表态认同特朗普总统的观点：超级智能（Super Intelligence，简称 SI）比常用的人工智能（AI）一词更好。同样在周日，马斯克<a href="https://x.com/elonmusk/status/2106665679361618173?s=20" style="color:#e11d48;text-decoration:underline;">发帖</a>称：“No more AI, SI, Its Better”（不要 AI 了，SI 更好）。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">特朗普总统已下令美国政府在指代 AI 时使用 SI 一词。</p>
+<p style="font-size:18px;font-weight:bold;line-height:1.5;margin:28px 0 6px 0;color:#1c1c1e;"><a href="https://www.theinformation.com/briefings/amazon-pledges-give-ndas-give-back-1-billion-communities-data-center-buildout" style="color:#1c1c1e;text-decoration:none;">3. 亚马逊承诺放弃保密协议，在数据中心建设中向社区回馈 10 亿美元</a></p>
+<p style="font-size:13px;color:#8e8e93;margin:0 0 12px 0;">Catherine Perloff · The Information · 2026 年 10 月 5 日</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;"><b>亚马逊云服务（AWS）</b>承诺在未来五年投入 10 亿美元，用于升级学校、住宅和其他市政建筑的供热与供水系统等项目，以争取对数据中心心存顾虑的当地社区的支持。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">AWS 还承诺不再要求地方政府签署涵盖公司数据中心安排的保密协议（NDA）。包括民主党众议员 Jamie Raskin 在内的批评者曾指责亚马逊利用保密协议，在数据中心项目开发早期隐瞒其参与情况。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">AWS 首席执行官 Matt Garman 周五宣布了上述承诺，同时为公司的数据中心扩张辩护，称其事关“一场我们国家输不起的竞赛”（指 AI）。Garman 还辩称，亚马逊数据中心的实际用水量远低于批评者所称，与公用事业公司合作改善电网，不会普遍推高电价，且很少使用污染性的柴油备用发电机。</p>
+<p style="font-size:18px;font-weight:bold;line-height:1.5;margin:28px 0 6px 0;color:#1c1c1e;"><a href="https://www.theinformation.com/briefings/microsoft-debuts-voice-ai-compete-elevenlabs" style="color:#1c1c1e;text-decoration:none;">4. 微软发布语音 AI，正面挑战 ElevenLabs</a></p>
+<p style="font-size:13px;color:#8e8e93;margin:0 0 12px 0;">Aaron Holmes · The Information · 2026 年 10 月 5 日</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;"><b>微软</b>周四发布了语音生成 AI，据称在成本和准确率上都优于 ElevenLabs、SpaceXAI 和谷歌等竞争对手的模型。微软希望用语音模型驱动 Teams 应用中的会议通话转录，以及医疗 Dragon Copilot AI 中医患对话转录等功能。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">微软还计划把这款新语音模型卖给 AI 应用开发者，包括开发实时语音助手的公司；该模型还将为 Copilot AI 助手的语音模式提供动力。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">这款新模型名为 MAI-Transcribe-2-Streaming，可以同时转录和生成语音。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">微软 AI 首席执行官 Mustafa Suleyman 表示：“这意味着我们可以并行转录和生成，因此兼具高质量与高速度。随着时间推移，我们预计这些新的 MAI 模型将取代公司内部目前生产环境中的语音模型。”</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">减少对外部 AI 供应商的依赖，微软可以用自研模型改善毛利率——此前它已在 Excel 和 PowerPoint 的某些自动化功能上做过类似尝试。微软表示，其新语音模型在准确率上登上了<a href="https://artificialanalysis.ai/speech-to-text/streaming#final-transcription" style="color:#e11d48;text-decoration:underline;">Artificial Analysis 榜单</a>榜首，领先竞争对手。</p>
+<p style="font-size:18px;font-weight:bold;line-height:1.5;margin:28px 0 6px 0;color:#1c1c1e;"><a href="https://www.theinformation.com/briefings/lambda-secures-1-billion-gpu-loan" style="color:#1c1c1e;text-decoration:none;">5. Lambda 获超 10 亿美元 GPU 贷款</a></p>
+<p style="font-size:13px;color:#8e8e93;margin:0 0 12px 0;">Alex Eichenstein · The Information · 2026 年 10 月 5 日</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;"><b>AI 云厂商 Lambda</b>表示，已获得首笔超 10 亿美元的延迟提款定期贷款（delayed draw term loan），用于购买超过 30,000 块英伟达图形处理器（GPU）。这笔固定利率贷款的利率为 6.78%。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">这家未上市的 Lambda 周四晚间公告称，该贷款获得了 Morningstar DBRS 和穆迪的投资级信用评级。公司表示，已与两家未具名的投资级客户签下三个确认项目。CoreWeave、Crusoe 等新兴云厂商（neocloud）越来越多地转向 DDTL 为 GPU 采购融资，通常以投资级客户的合同为担保。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">Lambda 的这笔 DDTL 将为其在西雅图、堪萨斯城和达拉斯数据中心的英伟达 GB300 和 VR200 GPU 采购提供资金。公司表示，这是 Lambda 第二次通过机构信贷工具为其 AI 基建扩张融资——8 月底刚完成一笔 9.26 亿美元的高级担保定期贷款 B（senior secured term loan B）。</p>
+<p style="font-size:18px;font-weight:bold;line-height:1.5;margin:28px 0 6px 0;color:#1c1c1e;"><a href="https://www.theinformation.com/briefings/exclusive-crypto-custodian-anchorage-digital-lays-17-staff" style="color:#1c1c1e;text-decoration:none;">6. 独家：加密托管商 Anchorage Digital 裁员 17%</a></p>
+<p style="font-size:13px;color:#8e8e93;margin:0 0 12px 0;">Yueqi Yang · The Information · 2026 年 10 月 5 日</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;"><b>Anchorage Digital</b>——美国首家联邦特许数字资产银行——已裁员 17%，据知情人士称，首席执行官 Nathan McCauley 本周已向员工宣布此事。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">Anchorage 提供加密托管并发行稳定币，包括 Tether 的新型美国稳定币 USAT 和西联汇款的 USDPT；此次裁员正值加密市场持续一年的低迷。McCauley 今年 2 月在<a href="https://www.anchorage.com/press-room/anchorage-digital-ceo-testify-before-u-s-senate-banking-committee-on-impacts-of-debanking" style="color:#e11d48;text-decoration:underline;">国会作证</a>时称，公司全球约有 400 名员工。Anchorage Digital 未回应置评请求。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">过去一个月，比特币上涨 9%，突破 84,000 美元，但仍未回到去年 10 月 126,000 美元的峰值。Coinbase 在 5 月宣布裁员 14%，Robinhood 在 6 月裁员 10%。</p>
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">Anchorage 在 2021 年成为首家获得美国货币监理署（OCC）全国信托牌照的加密公司，从而奠定了其主要加密托管商的地位。在特朗普政府治下，Circle、Coinbase、BitGo 等更多加密公司也获得了同样的牌照。Anchorage 被视为潜在的加密 IPO 候选公司之一，今年获得 Tether 1 亿美元<a href="https://www.anchorage.com/press-room/anchorage-digital-announces-100-million-strategic-investment-from-tether-first-ever-employee-tender-offer-4-2-billion-valuation" style="color:#e11d48;text-decoration:underline;">战略投资</a>，估值达 42 亿美元，同时还宣布了公司史上首次员工股份回购要约。</p>
+<p style="font-size:16px;font-weight:bold;color:#1c1c1e;margin:32px 0 12px 0;"><span style="display:inline-block;width:6px;height:18px;background:#e11d48;border-radius:2px;vertical-align:-3px;margin-right:8px;"></span><b>核心总结</b></p>
+<ul style="font-size:15px;line-height:1.75;margin:0;color:#1c1c1e;padding-left:24px;">
+<li style="margin-bottom:8px;"><b>特朗普 AI 工作组由国家情报总监领导：</b>新任“AI 沙皇”Jay Clayton（兼国家情报总监）将带领工作组在 120 天内发布 AI 风险与机遇报告；三位副主席为战争部研究与工程副部长 Emil Michael、人事管理局局长 Scott Kupor、FTC 主席 Andrew Ferguson，成员还包括副总统 JD Vance、财长 Scott Bessent、前“AI 沙皇”David Sacks 及布什时期国安顾问 Condoleezza Rice；章程要求美国在“SI”（超级智能）发展上保持领先，白宫上周已以行政命令宣布将 AI 更名为 SI。</li>
+<li style="margin-bottom:8px;"><b>马斯克将 SpaceXAI 更名为 SpaceXSI：</b>周日在 X 上宣布，呼应特朗普偏好；此前已表态认同“超级智能（SI）比 AI 更好”并发帖“No more AI, SI, Its Better”（不要 AI 了，SI 更好）。</li>
+<li style="margin-bottom:8px;"><b>AWS 承诺放弃 NDA、向社区投入 10 亿美元：</b>未来五年升级学校、住宅和市政建筑的供热供水系统；不再要求地方政府签数据中心保密协议；CEO Matt Garman 称数据中心扩张是“一场我们国家输不起的竞赛”，并辩称用水量、推高电价等问题被夸大。</li>
+<li style="margin-bottom:8px;"><b>微软发布语音 AI 挑战 ElevenLabs：</b>新模型 MAI-Transcribe-2-Streaming 可同时转录与生成语音，将驱动 Teams 会议转录、医疗 Dragon Copilot 及 Copilot 语音模式，并向 AI 应用开发者出售；在 Artificial Analysis 准确率榜单登顶；自研模型有助于改善毛利率。</li>
+<li style="margin-bottom:8px;"><b>Lambda 获超 10 亿美元 GPU 贷款：</b>首笔延迟提款定期贷款，固定利率 6.78%，获 Morningstar DBRS 与穆迪投资级评级，用于购买 3 万多块英伟达 GB300/VR200 GPU，部署于西雅图、堪萨斯城、达拉斯数据中心；这是 8 月底 9.26 亿美元贷款后的第二笔机构信贷。</li>
+<li style="margin-bottom:8px;"><b>独家：Anchorage Digital 裁员 17%：</b>首家联邦特许数字资产银行，CEO Nathan McCauley 已向员工宣布；公司发行 Tether 新美国稳定币 USAT 和西联 USDPT；全球约 400 人；今年获 Tether 1 亿美元战略投资、估值 42 亿美元并启动首次员工股份回购；加密市场持续一年低迷，Coinbase、Robinhood 年内已裁员。</li>
+</ul>
+<p style="font-size:13px;color:#888;margin-top:16px;">本文为 The Information AM 简报（2026 年 10 月 5 日）的中文编译，仅供个人阅读。</p>
+</div>
+</body>
+</html>]]></content:encoded>
+</item>
 <item>
 <title>【独家】Amprius 与 Caminus 达成协议，加速美国无人机电池生产</title>
 <link>https://www.theinformation.com</link>
