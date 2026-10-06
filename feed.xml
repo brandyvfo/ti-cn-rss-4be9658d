@@ -6,7 +6,90 @@
 <description>The Information 新闻简报的中文全文翻译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 05 Oct 2026 04:26:08 -0700</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 17:31:52 -0700</lastBuildDate>
+<item>
+<title>【简报】OpenAI 的监管噩梦才刚刚开始</title>
+<link>https://www.theinformation.com/newsletters/the-briefing/openais-regulatory-nightmare-getting-started</link>
+<guid isPermaLink="false">https://www.theinformation.com/newsletters/the-briefing/openais-regulatory-nightmare-getting-started#OpenAI 的监管噩梦才刚刚开始</guid>
+<pubDate>Mon, 05 Oct 2026 17:31:52 -0700</pubDate>
+<category>简报</category>
+<description>🤖 AI 核心提炼 全球政客纷纷跳进 AI 安全战场：纽约市议会周一举行 AI 风险听证会，前 OpenAI 研究员 Jacob Coxon 作证；OpenAI 还面临霍利参议员牵头的参议院调查、FTC 质询、澳大利亚政府调查，佛罗里达州已将其告上法庭，欧盟也启动了自己的调查。 监管之外，诉讼潮也在逼近：出版商的版权诉讼还未了结，与 AI 安全相关的新一波诉讼近在眼前——已有非营利组织就 Hugging Face 黑客事件起诉 Open…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;background:#ffffff;border:1px solid #e4e4e7;border-radius:12px;padding:36px 40px;">
+
+<div style="background:#fef2f4;border-left:5px solid #e11d48;border-radius:0 8px 8px 0;padding:18px 20px;margin-bottom:28px;">
+<p style="font-size:16px;font-weight:bold;color:#e11d48;margin:0 0 10px 0;">🤖 AI 核心提炼</p>
+<p style="font-size:14px;line-height:1.7;margin:0 0 8px 0;">全球政客纷纷跳进 AI 安全战场：纽约市议会周一举行 AI 风险听证会，前 OpenAI 研究员 Jacob Coxon 作证；OpenAI 还面临霍利参议员牵头的参议院调查、FTC 质询、澳大利亚政府调查，佛罗里达州已将其告上法庭，欧盟也启动了自己的调查。</p>
+<p style="font-size:14px;line-height:1.7;margin:0 0 8px 0;">监管之外，诉讼潮也在逼近：出版商的版权诉讼还未了结，与 AI 安全相关的新一波诉讼近在眼前——已有非营利组织就 Hugging Face 黑客事件起诉 OpenAI，一位智库官员预测"所有这些 AI 公司都会被诉得体无完肤"。</p>
+<p style="font-size:14px;line-height:1.7;margin:0 0 8px 0;">核心判断：OpenAI 和 Anthropic 的未来不只取决于控制成本和最大化收入——一旦某个失控的 AI 智能体造成真正的损害，法律责任可能大得惊人。</p>
+<p style="font-size:14px;line-height:1.7;margin:0;">英伟达周一创历史新高：收盘涨 2% 至 238.90 美元，年内涨 28%，市值 5.76 万亿美元，比市值第二的苹果高出约 9000 亿美元——但这只股票坐过山车，半年前还在 165 美元附近。</p>
+</div>
+
+<p style="font-size:13px;color:#888;margin:0 0 4px 0;">译者注</p>
+<p style="font-size:14px;color:#555;line-height:1.8;margin:0 0 20px 0;">原文标题：<i>Why OpenAI&#x27;s Regulatory Nightmare Is Only Getting Started</i><br>原发送日期：2026 年 10 月 5 日<br>以下为 The Information 官网全文的中文翻译（已点进原文链接逐段核对，与邮件正文一致，非邮件预览）。<a href="https://www.theinformation.com/newsletters/the-briefing/openais-regulatory-nightmare-getting-started" style="color:#e11d48;text-decoration:underline;">阅读原文</a></p>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:0 0 28px 0;"></div>
+
+<div style="font-size:13px;color:#888;margin:0 0 6px 0;">简报名</div>
+<div style="font-size:26px;font-weight:bold;line-height:1.35;margin-bottom:10px;color:#1c1c1e;">The Information Briefing</div>
+<div style="font-size:14px;color:#8e8e93;margin-bottom:26px;">Martin Peers · The Information · 2026 年 10 月 5 日</div>
+<div style="font-size:24px;font-weight:bold;line-height:1.4;margin-bottom:18px;color:#1c1c1e;">OpenAI 的监管噩梦才刚刚开始</div>
+<div style="border-top:1px solid #e4e4e7;margin-bottom:26px;"></div>
+
+<p style="margin:0 0 8px 0;"><img src="https://tii.imgix.net/production/articles/17938/ba745d50-a640-4b5b-8b57-5db419deb549-AMFcUJ.png?auto=compress&fit=crop&auto=format" alt="Jacob Coxon at NYC Council AI hearing" style="width:100%;border-radius:8px;"></p>
+<p style="font-size:12px;color:#8e8e93;margin:0 0 20px 0;">前 OpenAI 研究员 Jacob Coxon 在周一的纽约市议会人工智能威胁听证会上作证。图片来源：Michael Nagle / 彭博社，经由盖蒂图片社。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">想象一下，在 OpenAI 负责跟政客和监管机构打交道部门工作是什么感觉——现在的强度之大，简直堪比<a href="https://www.bbc.com/news/business-63648505" style="color:#e11d48;text-decoration:underline;">为马斯克工作</a>。全世界稍微有点分量的政客都在跳进 AI 安全这个战场。比如：纽约市议会——这个 AI 专家荟萃的堡垒——周一<a href="https://www.theinformation.com/briefings/openai-sent-letter-new-york-city-council-recommending-safeguards-ai-risk" style="color:#e11d48;text-decoration:underline;">举行了一场听证会</a>，讨论 AI 对人类构成的风险。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">市议会叫来了像前 OpenAI 研究员 Jacob Coxon 这样的告密者作证，还请了 OpenAI、谷歌、Anthropic 和 Meta 的官员（马斯克的 SpaceX 没来，这也不能怪他们）。OpenAI 还面临霍利参议员牵头的<a href="https://www.hawley.senate.gov/chairman-hawley-launches-investigation-into-openai-for-hacking-existential-risk-of-ai-products/" style="color:#e11d48;text-decoration:underline;">美国参议院调查</a>，更别提<a href="https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/" style="color:#e11d48;text-decoration:underline;">联邦贸易委员会的质询</a>和<a href="https://www.theguardian.com/australia-news/2026/oct/06/openai-must-explain-action-taken-to-stop-ai-hacking-australians-private-data-chair-of-federal-inquiry-says" style="color:#e11d48;text-decoration:underline;">澳大利亚政府的另一项调查</a>。佛罗里达州已经<a href="https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier" style="color:#e11d48;text-decoration:underline;">对簿公堂</a>，让 OpenAI 有苦头吃。欧洲人自然也<a href="https://www.brusselstimes.com/2307044/eu-launches-investigation-into-new-incident-of-openais-takeover-of-a-german-website" style="color:#e11d48;text-decoration:underline;">掺了一脚</a>，启动了自己的调查。而这还只是监管机构！</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">然后还有诉讼。OpenAI 跟<a href="https://news.bloomberglaw.com/ip-law/news-outlets-ask-court-to-ignore-doj-view-in-ai-copyright-suit" style="color:#e11d48;text-decoration:underline;">出版商打版权官司</a>已经有一阵子了，但一波与 AI 安全相关的新诉讼近在眼前。已经至少有一家非营利组织就 Hugging Face 黑客事件起诉了 OpenAI。这个案子未必有下文（该非营利组织主张自己有起诉资格的理由——它不得不调配资源向监管机构简报此事——听起来有点站不住脚）。但更多诉讼几乎是板上钉钉，不只针对 OpenAI。就像一位智库官员在周末接受我同事 Leo Schwartz 为<a href="https://www.theinformation.com/articles/ai-agents-going-rogue-novel-legal-battles-next" style="color:#e11d48;text-decoration:underline;">这篇文章</a>采访时说的："所有这些 AI 公司都会被诉得体无完肤。"</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">所有这些都在提醒我们：OpenAI 和 Anthropic 的未来不只是控制成本、把收入做到最大那么简单。如果某个失控的智能体真的造成了严重损害，法律责任可能大得惊人。这正是 AI 故事如此引人入胜的原因：我们真的不知道结局会如何。</p>
+
+<p style="font-size:18px;font-weight:bold;line-height:1.5;margin:30px 0 14px 0;color:#1c1c1e;">英伟达再创新高</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">像英伟达这么稳的公司，过去几年股价却波动得惊人。周一这家 AI 芯片巨头的股价创下历史新高，收盘涨 2% 至 238.90 美元，年内已涨 28%。但这是一趟过山车。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">就在半年前，英伟达股价还在 165 美元附近。5 月中旬反弹到 235 美元左右，7 月底又跌回 190 美元。真是交易员的天堂。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">按今天的收盘价，英伟达市值 5.76 万亿美元，比市值第二的苹果高出约 9000 亿美元。两个月前，苹果的市值还比英伟达大，据 Koyfin 数据。如果你想买英伟达但又觉得现在太贵，别急——用不了多久就会有机会。</p>
+
+<p style="font-size:18px;font-weight:bold;line-height:1.5;margin:30px 0 14px 0;color:#1c1c1e;">其他新闻</p>
+
+<ul style="font-size:15px;line-height:1.75;margin:0;color:#1c1c1e;padding-left:24px;">
+
+<li style="margin-bottom:8px;">Reflection AI——这家成立两年的英伟达支持的初创公司——发布了首个开放权重模型，加入了一批试图追赶中国同类免费模型性能的美国竞争者行列。</li>
+
+<li style="margin-bottom:8px;">OpenAI 周一表示，将测试一种新的视觉广告格式，用图片展示产品和服务如何融入人们的生活。测试将于本月晚些时候在美国开始，首批广告主参与。</li>
+
+</ul>
+
+<p style="font-size:18px;font-weight:bold;line-height:1.5;margin:30px 0 14px 0;color:#1c1c1e;">今日 TITV</p>
+
+<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">看看<a href="https://www.theinformation.com/titv/" style="color:#e11d48;text-decoration:underline;">今日的 TITV 节目</a>，Akash Pasricha 与 Cohere 的 AI 负责人 Joelle Pineau 对谈。</p>
+
+<p style="font-size:15px;line-height:1.75;margin:30px 0 12px 0;color:#1c1c1e;"><span style="display:inline-block;width:4px;height:18px;background:#e11d48;border-radius:2px;vertical-align:-3px;margin-right:8px;"></span><b>核心总结</b></p>
+
+<ul style="font-size:15px;line-height:1.75;margin:0;color:#1c1c1e;padding-left:24px;">
+
+<li style="margin-bottom:8px;"><b>监管风暴全球开花：</b>纽约市议会周一举行 AI 风险听证会，前 OpenAI 研究员 Jacob Coxon 作证，OpenAI、谷歌、Anthropic、Meta 官员出席（SpaceX 缺席）；OpenAI 还面临霍利参议员的参议院调查、FTC 质询、澳大利亚政府调查、佛罗里达州法院诉讼、欧盟调查。</li>
+
+<li style="margin-bottom:8px;"><b>诉讼潮逼近：</b>出版商版权诉讼未了，一波与 AI 安全相关的新诉讼在即；已有非营利组织就 Hugging Face 黑客事件起诉 OpenAI（起诉资格论证薄弱）；智库官员预测"所有这些 AI 公司都会被诉得体无完肤"。</li>
+
+<li style="margin-bottom:8px;"><b>作者的核心判断：</b>OpenAI 和 Anthropic 的未来不只看成本与收入——一旦某个失控的智能体造成真正的损害，法律责任可能大得惊人；AI 故事的结局无人能预料。</li>
+
+<li style="margin-bottom:8px;"><b>英伟达创历史新高：</b>周一收涨 2% 至 238.90 美元，年内涨 28%，市值 5.76 万亿美元，比市值第二的苹果高出约 9000 亿美元；但股价半年内在 165–235–190 美元之间坐过山车——"想买的话，等等就有机会"。</li>
+
+</ul>
+
+<p style="font-size:13px;color:#888;margin-top:16px;">本文为 The Information Briefing 简报（2026 年 10 月 5 日）的中文编译，仅供个人阅读。</p>
+
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【AM】国家情报总监将领导特朗普 AI 工作组；马斯克拟把 SpaceXAI 更名为 SpaceXSI</title>
 <link>https://www.theinformation.com/briefings/president-trump-announces-white-house-ai-accord</link>
