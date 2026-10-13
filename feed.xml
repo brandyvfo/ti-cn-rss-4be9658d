@@ -6,7 +6,60 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 12 Oct 2026 10:22:36 -0400</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 19:18:54 -0500</lastBuildDate>
+<item>
+<title>【简报】Meta 衝擊 AI 前沿：模型發佈熱潮背後的冷思考</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#Meta 衝擊 AI 前沿：模型發佈熱潮</guid>
+<pubDate>Mon, 12 Oct 2026 19:18:54 -0500</pubDate>
+<category>简报</category>
+<description>AI 摘要 Meta 本週發佈了新模型 Muse Wonder，宣稱在部分任務上達到最優性能，標誌着它在經歷低谷、大規模挖人約 14 個月後終於重返"前沿"。但作者 Martin Peers 指出，從 Google 的 Gemini 4 Argon、OpenAI 的 GPT-6 Astra 到 Anthropic 的 Claude Fable 5.1，每家巨頭都在聲稱自己位於"前沿"，這類宣言已讓人難以跟上也難以在意。更諷刺的是，Ope…</description>
+<content:encoded><![CDATA[<html><head><meta charset="utf-8"></head><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:16px 18px;margin:0 0 20px 0;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">
+Meta 本週發佈了新模型 Muse Wonder，宣稱在部分任務上達到最優性能，標誌着它在經歷低谷、大規模挖人約 14 個月後終於重返"前沿"。但作者 Martin Peers 指出，從 Google 的 Gemini 4 Argon、OpenAI 的 GPT-6 Astra 到 Anthropic 的 Claude Fable 5.1，每家巨頭都在聲稱自己位於"前沿"，這類宣言已讓人難以跟上也難以在意。更諷刺的是，OpenRouter 數據顯示，只有 14% 的 AI 模型調用實際使用了質量最高的 10 個模型——企業越來越傾向於用更便宜的"夠用"模型省錢。至於 Meta 要把 Muse Wonder 塞進個人助手 Muse，對面向普通消費者的產品而言，最大的影響可能只是抬高公司自身的成本。
+</div>
+</div>
+
+<div style="font-size:26px;font-weight:bold;margin:0 0 4px 0;">The Briefing</div>
+<div style="font-size:13px;color:#888;margin:0 0 12px 0;">2026 年 10 月 12 日</div>
+
+<div style="font-size:24px;font-weight:bold;margin:0 0 4px 0;">Meta 衝擊 AI 前沿：模型發佈熱潮背後的冷思考</div>
+
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px 0;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;padding-left:22px;margin:0 0 8px 0;">
+<li><b>Meta 發佈 Muse Wonder</b>：宣稱在特定任務上達到"最優性能"（state-of-the-art），是其 AI 業務走出低谷、過去約 14 個月大規模招聘後的高光時刻，公司聲稱正在"推動 AI 前沿"。</li>
+<li><b>"前沿"人人都在喊</b>：兩週前 Google 發佈 Gemini 4 Argon（宣稱複雜工作流的前沿性能）；9 月初 OpenAI 發佈 GPT-6 Astra（宣稱計算機使用、瀏覽、軟件工程等領域最優）；9 月 Anthropic 發佈 Claude Fable 5.1 與 Mythos 5.1（宣稱編碼與知識工作最強）。</li>
+<li><b>市場對頂尖模型興趣降溫</b>：企業越來越多爲大多數算力需求選擇更便宜的次優模型，只把最強（也最貴）的模型留給極少數特定任務；Q3 經 OpenRouter 的調用中，僅 14% 跑在質量最高的 10 個模型上，而去年 Q1 爲 55%。</li>
+<li><b>Muse Wonder 將很快驅動 Muse 助手體驗</b>：但面向消費者的個人助手並不需要處處用最強的模型，實際影響可能只是推高 Meta 自己的成本。作者的結語："遲早有一天，AI 公司們會意識到，前沿是個孤獨之地。"</li>
+<li><b>Bumble 談私有化</b>：據《華爾街日報》報道，約會應用 Bumble 正談判以 10 億美元估值私有化。消息公佈後股價大漲 50% 至 3.80 美元，但與 43 美元的 IPO 發行價、95 億美元的上市市值相比仍縮水嚴重；接盤方是前紅杉合夥人 Ravi Gupta 與前 Meta 首席營收官 John Hegeman 組建的新收購公司。</li>
+<li><b>其它新聞</b>：據 Bloomberg 報道，Meta 在美國等市場禁止了字節跳動的廣告投放；貝恩資本旗下的 Bridge Data Centres 正洽談將馬來西亞業務的貸款從 28 億美元增至約 66 億美元，可能是亞洲數據中心業最大規模的債務融資之一；微軟發佈新一代自研 AI 芯片 Maia 300，計劃明年起進行"多吉瓦級"部署。</li>
+<li><b>記者新報道推薦</b>：領先 AI 模型爲何對開發者吸引力下降（Eric Bellomo）；Andreessen Horowitz 與 General Catalyst 爲旗下初創爭搶芯片；微軟新 Office 負責人如何重振 Copilot 贏得納德拉信任（Aaron Holmes）；OpenAI 復興 Sora 的計劃（AI Agenda 獨家）。</li>
+</ul>
+
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px 0;">原文摘錄</div>
+<blockquote style="font-size:15px;line-height:1.75;border-left:4px solid #d4d4d8;margin:12px 0;padding:8px 16px;color:#3f3f46;">
+Meta 聲稱 Muse Wonder 在某些任務上"提供最優性能"（"deliver state-of-the-art performance"）。—— 頭條故事，Meta 新模型
+</blockquote>
+<blockquote style="font-size:15px;line-height:1.75;border-left:4px solid #d4d4d8;margin:12px 0;padding:8px 16px;color:#3f3f46;">
+遲早有一天，AI 公司們會意識到，前沿是個孤獨之地（"One of these days the AI firms will realize the frontier is a lonely place to be."）。—— 作者 Martin Peers 結語
+</blockquote>
+
+<div style="margin:24px 0 8px 0;"><a href="https://www.theinformation.com" style="color:#e11d48;font-size:15px;font-weight:bold;">閱讀原文</a></div>
+
+<div style="font-size:13px;color:#888;margin:16px 0 0 0;">原文標題：<i>The Briefing: Meta Reaches AI Frontier</i></div>
+
+<div style="font-size:13px;color:#888;margin:16px 0 0 0;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【AI Agenda】獨家：OpenAI 計劃復活 Sora</title>
 <link>https://www.theinformation.com</link>
@@ -2632,128 +2685,6 @@ Vercel 年化营收已达 6 亿美元，同比增长 148%，付费客户约 48.5
 <p style="font-size:13px;color:#888;margin-top:16px;">本文为 The Information Briefing 简报（2026 年 9 月 27 日）的中文编译，仅供个人阅读。</p>
 </div>
 
-</div>
-</body>
-</html>
-]]></content:encoded>
-</item>
-<item>
-<title>【电动】深入了解通用汽车不顾质疑、执意量产的新型电池</title>
-<link>https://www.theinformation.com/newsletters/the-electric/exclusive-gm-pumping-cathodes-moving-bypass-chinas-battery-chokehold</link>
-<guid isPermaLink="false">https://www.theinformation.com/newsletters/the-electric/exclusive-gm-pumping-cathodes-moving-bypass-chinas-battery-chokehold#深入了解通用汽车不顾质疑、执意量产的新型</guid>
-<pubDate>Sun, 27 Sep 2026 17:22:05 -0400</pubDate>
-<category>电动</category>
-<description>AI 核心提炼 通用汽车已开始小批量试产一种以锰为主要电极金属的"富锂锰基"（LMR）电池，计划 2028 年起装车，目标是 400 英里续航、成本比高端镍电池低数千美元。公司宣称其能量密度比磷酸铁锂高 30%、与标准镍电池相当，但宁德时代、特斯拉顾问 Jeff Dahn 等业内专家坚持认为 LMR 的锰溶解与高压衰减是"科学问题"而非工程问题，远未到商业化阶段。阿贡国家实验室的 Jason Croy 团队已用低压方案做出 270 Wh…</description>
-<content:encoded><![CDATA[<!DOCTYPE html>
-<html lang="zh-CN">
-<head><meta charset="utf-8"></head>
-<body style="margin:0;padding:0;background-color:#f4f4f5;">
-<div style="background-color:#f4f4f5;padding:24px 12px;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#18181b;">
-<div style="max-width:680px;margin:0 auto;background:#ffffff;border:1px solid #e4e4e7;border-radius:12px;padding:36px 32px;">
-
-<!-- AI 核心提炼 -->
-<div style="background-color:#fef2f4;border-left:4px solid #e11d48;border-radius:8px;padding:18px 20px;margin-bottom:28px;">
-<div style="font-size:15px;font-weight:bold;color:#e11d48;margin-bottom:10px;">AI 核心提炼</div>
-<div style="font-size:16px;line-height:1.8;">通用汽车已开始小批量试产一种以锰为主要电极金属的"富锂锰基"（LMR）电池，计划 2028 年起装车，目标是 400 英里续航、成本比高端镍电池低数千美元。公司宣称其能量密度比磷酸铁锂高 30%、与标准镍电池相当，但宁德时代、特斯拉顾问 Jeff Dahn 等业内专家坚持认为 LMR 的锰溶解与高压衰减是"科学问题"而非工程问题，远未到商业化阶段。阿贡国家实验室的 Jason Croy 团队已用低压方案做出 270 Wh/kg、约 81 美元/kWh 的 LMR 电池，证明降级版 LMR 确实具备与中端镍电池相当的性能。通用的赌注是：只要解决稳定性问题，锰电池就能在镍、铁之外开辟第三条路线——而新电池技术的怀疑者，以前也错过。</div>
-</div>
-
-<!-- 译者注 -->
-<div style="font-size:13px;color:#71717a;line-height:1.8;margin-bottom:28px;">
-译者注<br>
-原文标题：<i>A Close Look at the New Battery GM Plans to Make Despite Skepticism</i><br>
-原发送日期：2026 年 9 月 27 日<br>
-以下为 The Information 官网全文的中文翻译（已点进原文链接核对，非邮件预览）。
-</div>
-
-<!-- 红色分隔线 -->
-<div style="height:4px;background-color:#e11d48;border-radius:2px;margin-bottom:28px;"></div>
-
-<!-- 简报名 -->
-<div style="font-size:13px;color:#71717a;margin-bottom:6px;">简报名</div>
-<div style="font-size:30px;font-weight:bold;margin-bottom:8px;">The Electric</div>
-<div style="font-size:14px;color:#71717a;margin-bottom:28px;">Steve LeVine · The Information · 2026 年 9 月 27 日</div>
-
-<!-- 中文标题 -->
-<h1 style="font-size:28px;font-weight:bold;line-height:1.5;margin:0 0 20px 0;">深入了解通用汽车不顾质疑、执意量产的新型电池</h1>
-<div style="border-bottom:1px solid #e4e4e7;margin-bottom:28px;"></div>
-
-<!-- 正文 -->
-<div style="font-size:13px;color:#71717a;line-height:1.7;margin-bottom:1.4em;">图片：通用汽车的电池单体开发中心，新款锰电池已在此开始小批量试产。图源：通用汽车供图</div>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;"><b>罕见地高调展示电池雄心</b>——通用汽车已开始小批量试产一款开创性的电动车电池，而业内其余大多数企业——从美国到中国——都认为这款电池尚未准备好投入商用。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">通用计划从 2028 年开始引入这种不寻常的锰基电动车电池，正如<a href="https://www.theinformation.com/newsletters/the-electric/exclusive-gm-pumping-cathodes-moving-bypass-chinas-battery-chokehold?rc=fd9gxc" style="color:#e11d48;">我周二所写</a>。搭载该电池的电动车（可能先从皮卡开始）续航可达 400 英里，但价格比搭载当今高端镍基电池的同级别车型便宜数千美元。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">这款电池将让锰——此前在电动车电池中一直是个旁观者——成为主要的电极金属。如果成功，它将在主导行业的两大电池路线（镍基和铁基）之上，开辟出一种全新类别的电池。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">在过去 18 个月的多次交谈中，通用高管告诉我，他们的突破使电池能量密度比最好的磷酸铁锂（LFP，中国主导的电池类型）高出 30%，而成本相当。公司还声称，其富锂锰基电池的能量密度与标准镍基电池相当。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">怀疑者认为，LMR 电池存在根本性缺陷，在用于商用电动汽车之前还需要大量改进（详见下文）。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">但新电池技术的怀疑者以前也错过。在 2010 年代的大部分时间里，电池界大多忽视了磷酸铁锂——这是一种在美国发明、却被当作低劣化学体系而放弃的技术。2019 和 2020 年，中国电池厂商带着大幅改进的 LFP 版本横空出世，如今主导着全球电池销量。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">同样，美国和中国的公司目前正在把硅和纯锂金属制成的下一代负极商业化，这些负极能带来惊人的续航里程，打破了此前人们对这两种材料"永远进不了商用电池"的质疑。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">几十年来，研究人员一直对 LMR 感兴趣，因为锰作为电池材料在理论上优于其他金属：与磷酸铁锂和镍基电池不同，LMR 能承受极高电压的冲击。如果给 LMR 电池施加比如 4.8 伏的电压、并把大量锂塞进正极，理论上就能造出"超级电池"——至少在理论上，它的比能量能达到镍基电池的三倍以上，高达 900 瓦时/公斤。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">如此量级的能量密度，不仅能让电动车续航达到 1000 英里以上，还能为中程电动客机提供动力。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">但那只是理论。实际使用中，人们发现 LMR 电池在首次充放电循环后就会迅速衰减。除了别的毛病，锰会溶解进电解液，一部分还会卡在负极里，使电池变得不稳定。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">全球顶尖电池专家之一、特斯拉顾问 Jeff Dahn 说，他在达尔豪斯大学的实验室从 2000 年开始花了 12 年研究 LMR 电池，2017 年起又花了 4 年。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">两次，Dahn 都得出结论：LMR 无法超越含镍 60% 的中端镍电池的性能。而镍基电池没有任何 LMR 的毛病。"所以我们转向了别的方向，"Dahn 告诉我。（Dahn 在一篇<a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70989" style="color:#e11d48;"> 4 月发表的论文</a>中阐述了他的思路。）</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">今年 4 月我去了中国，与全球最大电池制造商宁德时代（CATL）的研究人员见了面。研究人员告诉我，他们对 LMR 的目标和通用一样——能量密度媲美镍基电池、成本媲美磷酸铁锂。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">但他们没能解决 LMR 的问题。"用高电压时，化学体系不够稳定，"一位研究人员说；而在低电压下，它的能量密度又"没了劲"。最终，宁德时代认定磷酸铁锂是更好的选择，因为更便宜，这位研究人员说。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">这位研究人员说，如果 LMR 的问题只是工程问题，宁德时代"很短时间内"就能解决。但"这不是工程问题，这是科学问题……未来两三年，我们看不到 LMR 上市的机会。"</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">通用说，它已解决了其中许多问题。其研究人员给电池正极做了涂层，使锰不与电解液接触，从而避免溶解；还在电解液中添加了掺杂剂，使其能承受相对较高的电压而不损坏电池。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">公司还表示，设计了相对较大的电芯和大型电池包，这使该电池很适合皮卡和大型 SUV——美国市场的主力车型。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">该电池的充电速度最好约 30 分钟，明显慢于新兴的商用竞品电池。通用也没有透露施加了多少电压，只说未来版本的电压会更高。但公司还表示，消费者不会在意电压曲线——重要的是卡车的续航和价格。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">也不是通用之外的所有人都是怀疑者。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">富锂锰基领域的顶尖专家、阿贡国家实验室材料研究组负责人 Jason Croy 告诉我，实验室的研究人员通过只施加 4.4 伏左右的低电压、并限制塞进正极的锂量，取得了进展。因此他说，虽然 LMR 失去了曾让业界垂涎的超常性能，但 LMR 电池的能量密度已优于同成本的磷酸铁锂。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">在一篇<a href="https://iopscience.iop.org/article/10.1149/1945-7111/ae33fd" style="color:#e11d48;"> 2 月发表的论文</a>中，Croy 的团队说，他们的 LMR 电池在电芯级别实现了 270 瓦时/公斤的能量密度——远不及 LMR 最初承诺的水平，但已与中端镍基电池相当。LMR 电池的成本约为每千瓦时 81 美元，同样具有竞争力，由此算出的电池包成本约为 6000 美元。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">"我认为，这种方案一定是任何人实施 LMR 战略的重要组成部分，"Croy 说。</p>
-
-<p style="font-size:19px;font-weight:bold;margin:1.6em 0 1em 0;"><b>值得关注</b></p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;"><b>中国车企吉利集团</b><a href="https://www.reuters.com/world/asia-pacific/geely-turns-4-minute-ev-charging-ai-battle-with-byd-2026-09-23/" style="color:#e11d48;">进入了快充大战</a>。上周，该公司发布了一款电池，称能在不到 5 分钟内将电动车充到 70% 电量，并表示首款搭载该电池的车型将是一辆售价 1.5 万美元的紧凑型 SUV。此举是对竞争对手宁德时代和比亚迪的正面回应——两家公司近几周都发布了 5 分钟快充电池。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;"><b>特斯拉引入自研</b><a href="https://x.com/robotaxi/status/2102870359511105606?s=20" style="color:#e11d48;">正极材料</a>，用于为自动驾驶 Cybercab 供电的电池。此举扩大了特斯拉的垂直整合，使其掌控了电池制造流程的大部分——在汽车行业这很不寻常。特斯拉不自己生产负极。</p>
-
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;"><b>得州州长 Greg Abbott</b><a href="https://www.nytimes.com/2026/09/22/climate/texas-halts-data-center-permits.html" style="color:#e11d48;">暂停了</a>新建 AI 数据中心的建设，此时他正寻求连任，而公众对该州数据中心无节制的扩张日益不满。许多抗议活动都聚焦于这些设施惊人的用电量。</p>
-
-<p style="font-size:17px;font-weight:bold;margin:1.6em 0 0.8em 0;"><b>推荐订阅</b></p>
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">以 Applied AI 开启你的一天——这份简报揭示领先企业如何用 AI 实现任务自动化。<a href="https://www.theinformation.com/features/applied-ai" style="color:#e11d48;">立即免费订阅</a>，每周两次直达你的收件箱。</p>
-
-<p style="font-size:17px;font-weight:bold;margin:1.6em 0 0.8em 0;"><b>近期活动</b></p>
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;"><a href="https://www.theinformation.com/events/ais-power-challenge-building-the-infrastructure-for-the-next-generation-of-ai" style="color:#e11d48;">10 月 8 日周四：AI 的电力挑战：为下一代 AI 建设基础设施</a></p>
-<p style="font-size:17px;line-height:1.9;margin:0 0 1.2em 0;">电网能跟上 AI 的步伐吗？Steve LeVine 将与 Delta Electronics 的 William Mao、ERock 的 Allan Schurr 和 Cloverleaf 的 Brian Janous 进行现场对话，探讨数据中心的扩容。立即注册（<a href="https://www.theinformation.com/events/ais-power-challenge-building-the-infrastructure-for-the-next-generation-of-ai" style="color:#e11d48;">更多详情</a>）。</p>
-
-<div style="font-size:14px;font-style:italic;color:#52525b;line-height:1.8;margin:1.6em 0 0 0;">作者简介：Steve LeVine 是 The Electric 的主编。此前曾供职于 Axios、Quartz 和 Medium，更早之前在《华尔街日报》和《纽约时报》。著有《The Powerhouse: America, China and the Great Battery War》，Twitter @stevelevine。</div>
-
-<!-- 核心总结 -->
-<div style="margin-top:36px;">
-<div style="border-left:4px solid #e11d48;padding-left:14px;font-size:20px;font-weight:bold;margin-bottom:14px;">核心总结</div>
-<ul style="font-size:16px;line-height:1.9;margin:0;padding-left:1.2em;list-style-type:disc;">
-<li style="margin-bottom:0.6em;">通用正在小规模试产锰基 LMR 电池，目标 2028 年装车（先从皮卡开始）：400 英里续航、成本比高端镍电池低数千美元，能量密度比磷酸铁锂高 30%、与标准镍电池相当。</li>
-<li style="margin-bottom:0.6em;">核心分歧在于 LMR 的缺陷是工程问题还是科学问题：通用称已通过正极涂层隔绝锰与电解液、并用掺杂剂实现高压稳定；宁德时代和特斯拉顾问 Jeff Dahn 则坚持"这是科学问题"，未来两三年看不到上市可能。</li>
-<li style="margin-bottom:0.6em;">第三方进展给出中间答案：阿贡国家实验室 Jason Croy 团队用 4.4V 低压方案做出 270 Wh/kg、约 81 美元/kWh 的 LMR 电池，性能与中端镍电池相当、成本有竞争力——证明降级版 LMR 可行，但远不及理论上限（900 Wh/kg、1000 英里续航）。</li>
-<li style="margin-bottom:0.6em;">风险点：充电最快约 30 分钟，明显慢于竞品；通用未披露实际工作电压；LMR 历史上曾被反复寄予厚望又放弃——不过作者提醒，磷酸铁锂的逆袭证明"被判死刑"的技术也可能翻盘。</li>
-<li style="margin-bottom:0.6em;">作者结论：怀疑者理由充分，但新电池技术的怀疑者以前也错过——通用这场锰电池赌局，值得密切关注。</li>
-</ul>
-</div>
-
-</div>
 </div>
 </body>
 </html>
