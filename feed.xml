@@ -2,11 +2,48 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>The Information 中文翻译</title>
-<link>https://example.com/ti-cn</link>
+<link>https://brandyvfo.github.io/ti-cn-rss-4be9658d</link>
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
-<atom:link href="https://example.com/ti-cn/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 14 Oct 2026 08:45:22 -0700</lastBuildDate>
+<atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Wed, 14 Oct 2026 12:18:24 -0700</lastBuildDate>
+<item>
+<title>【电动】上市前夕，ZincFive 談用鎳鋅電池取代數據中心超級電容</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#上市前夕，ZincFive 談用鎳鋅電池</guid>
+<pubDate>Wed, 14 Oct 2026 12:18:24 -0700</pubDate>
+<category>电动</category>
+<description>AI 摘要 愛迪生時代的鎳鋅電池技術經過改良後重返舞臺，正在爲 AI 數據中心供電。俄勒岡初創公司 ZincFive 今年向 AI 數據中心銷售鎳鋅電池預計達 1.05 億美元，同比增長 60%，毛利率也由負轉正。該公司計劃在 12 月中旬前通過反向合併上市，並希望用新一代鎳鋅電池取代數據中心的超級電容——脈衝次數約兩倍，成本約一半，預計 2028 年商用。 The Electric 2026 年 10 月 14 日 上市前夕，Zinc…</description>
+<content:encoded><![CDATA[<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:24px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">愛迪生時代的鎳鋅電池技術經過改良後重返舞臺，正在爲 AI 數據中心供電。俄勒岡初創公司 ZincFive 今年向 AI 數據中心銷售鎳鋅電池預計達 1.05 億美元，同比增長 60%，毛利率也由負轉正。該公司計劃在 12 月中旬前通過反向合併上市，並希望用新一代鎳鋅電池取代數據中心的超級電容——脈衝次數約兩倍，成本約一半，預計 2028 年商用。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;">The Electric</div>
+<div style="font-size:13px;color:#888;margin:6px 0 20px;">2026 年 10 月 14 日</div>
+<div style="font-size:24px;font-weight:bold;line-height:1.4;">上市前夕，ZincFive 談用鎳鋅電池取代數據中心超級電容</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 12px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;margin:0;padding-left:22px;">
+<li>ZincFive 今年向 AI 數據中心銷售鎳鋅電池預計達 1.05 億美元，同比增長 60%；上半年毛利率爲 9.5%，去年同期爲 -14%。</li>
+<li>鎳鋅電池可在 4 分鐘內完全放電，比傳統電池快至 5 倍；停電時毫秒級供電、最長持續約 5 分鐘，隨後由柴油或天然氣發電機接手，確保 GPU 不丟失數據。</li>
+<li>公司已向客戶交付 1.3 吉瓦鎳鋅電池；最多 39 節電池疊裝在約 7 英尺高的機櫃中，多個機櫃並排放置於數據中心。</li>
+<li>正在研發更快版本：2 分鐘放完電、同樣快速充滿，以應對 GPU 僅 50 毫秒、峯值比正常需求高 70% 的功率脈衝——數據中心在數月內需要這樣的脈衝數百萬次。</li>
+<li>目標是取代超級電容：新電池的脈衝次數約爲超級電容的兩倍，成本約一半，預計 2028 年投入商用。</li>
+<li>今年 6 月已向美國證交會提交文件，計劃通過與特殊目的收購公司（SPAC）反向合併上市，預計 12 月中旬完成。</li>
+<li>背景：AI 與無人機熱潮帶動此前低迷的新一代電池行業回暖；鎳鋅電池體積大、成本高、壽命較短，不適合電動車，但在數據中心備用電源場景中非常實用。</li>
+</ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 12px;">原文摘錄</div>
+<blockquote style="border-left:3px solid #ccc;margin:0 0 14px;padding:4px 0 4px 14px;font-size:15px;line-height:1.75;color:#333;">“這是愛迪生的技術，只是在化學上做了一些新改進，讓它能以非常高的速率循環。”（“It&rsquo;s Edison technology with some new twists on the chemistry, and it allows it to cycle at very high rates.”——ZincFive 首席執行官 Tod Higinbotham）</blockquote>
+<blockquote style="border-left:3px solid #ccc;margin:0 0 14px;padding:4px 0 4px 14px;font-size:15px;line-height:1.75;color:#333;">“這一直是 AI 和 GPU 面臨的重大新挑戰。”（“That&rsquo;s been the big new challenge for AI and GPUs.”——談及數據中心對快如閃電的功率脈衝的需求）</blockquote>
+<div style="margin:24px 0 8px;"><a href="https://www.theinformation.com" style="color:#e11d48;font-size:15px;">閱讀原文</a></div>
+<div style="font-size:13px;color:#888;margin:16px 0;">原文標題：<em>Ahead of a Public Listing, ZincFive Talks of Replacing Supercapacitors in Data Centers</em></div>
+<div style="font-size:13px;color:#888;margin-top:24px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+</div>
+</body>
+]]></content:encoded>
+</item>
 <item>
 <title>【AI Agenda】OpenAI 的数学突破让密码学领袖坐立难安</title>
 <link>https://www.theinformation.com</link>
@@ -2313,80 +2350,6 @@ Vercel 年化营收已达 6 亿美元，同比增长 148%，付费客户约 48.5
 </body>
 </html>
 ]]></content:encoded>
-</item>
-<item>
-<title>【独家】Proximal 获 General Catalyst 领投，年化收入 10 个月突破 2 亿美元</title>
-<link>https://www.theinformation.com/newsletters/ai-agenda/general-catalyst-backs-coding-data-startup-proximal-reaches-revenue-milestone</link>
-<guid isPermaLink="false">https://www.theinformation.com/newsletters/ai-agenda/general-catalyst-backs-coding-data-startup-proximal-reaches-revenue-milestone#独家：Proximal 获 Genera</guid>
-<pubDate>Tue, 29 Sep 2026 09:33:21 -0500</pubDate>
-<category>独家</category>
-<description>🤖 AI 核心提炼 旧金山数据标注初创公司 Proximal 结束隐身：去年底以 3 亿美元估值完成 General Catalyst 领投的 1500 万美元种子轮，当时几乎没有收入；仅仅 10 个月后，年化收入已突破 2 亿美元。 与 Scale、Surge、Mercor 等雇佣数十万专家的人海战术不同，Proximal 用 AI 模型自动生成编程训练任务（比如复刻网站、模拟工程师多天协作），实现了"软件级"毛利率，且已在净利润层面…</description>
-<content:encoded><![CDATA[<!DOCTYPE html>
-<html lang="zh-CN">
-<head><meta charset="utf-8"></head>
-<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
-<div style="max-width:720px;margin:0 auto;background:#ffffff;border:1px solid #e4e4e7;border-radius:12px;padding:36px 40px;">
-
-<div style="background:#fef2f4;border-left:5px solid #e11d48;border-radius:0 8px 8px 0;padding:18px 20px;margin-bottom:28px;">
-<p style="font-size:16px;font-weight:bold;color:#e11d48;margin:0 0 10px 0;">🤖 AI 核心提炼</p>
-<p style="font-size:14px;line-height:1.7;margin:0 0 8px 0;">旧金山数据标注初创公司 Proximal 结束隐身：去年底以 3 亿美元估值完成 General Catalyst 领投的 1500 万美元种子轮，当时几乎没有收入；仅仅 10 个月后，年化收入已突破 2 亿美元。</p>
-<p style="font-size:14px;line-height:1.7;margin:0 0 8px 0;">与 Scale、Surge、Mercor 等雇佣数十万专家的人海战术不同，Proximal 用 AI 模型自动生成编程训练任务（比如复刻网站、模拟工程师多天协作），实现了"软件级"毛利率，且已在净利润层面盈利。</p>
-<p style="font-size:14px;line-height:1.7;margin:0 0 8px 0;">它还反其道而行：不参与大型 AI 开发者广撒网的多家比价订单，而是自己评估前沿模型的能力短板，设计 GPT-6 Astra、Fable-5.1 等前沿模型都难以应对的长周期高难度任务，从而掌握议价权。</p>
-<p style="font-size:14px;line-height:1.7;margin:0;">挑战也在加大：模型越聪明，"奖励作弊"（reward hacking）越难防范——公司必须明确规定模型的行为边界，并在生成训练数据时监控思维链，确保模型真正学会了"正确"的做法。</p>
-</div>
-
-<p style="font-size:13px;color:#888;margin:0 0 4px 0;">译者注</p>
-<p style="font-size:14px;color:#555;line-height:1.8;margin:0 0 20px 0;">原文标题：<i>Exclusive: General Catalyst Backs Coding Data Startup Proximal As It Reaches Revenue Milestone</i><br>原发送日期：2026 年 9 月 29 日<br>以下为 The Information AI Agenda 简报全文的中文翻译（本次官网页面的自动抓取回执未能返回，官网逐段核对未能完成；译文基于邮件正文全文翻译，非预览片段）。<a href="https://www.theinformation.com/newsletters/ai-agenda/general-catalyst-backs-coding-data-startup-proximal-reaches-revenue-milestone" style="color:#e11d48;text-decoration:underline;">阅读原文</a></p>
-
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:0 0 28px 0;"></div>
-
-<p style="font-size:13px;color:#888;margin:0 0 6px 0;">简报名</p>
-<div style="font-size:26px;font-weight:bold;line-height:1.35;margin-bottom:10px;color:#1c1c1e;">The Information AI Agenda</div>
-<div style="font-size:14px;color:#8e8e93;margin-bottom:26px;">Stephanie Palazzolo · The Information · 2026 年 9 月 29 日</div>
-
-<div style="font-size:24px;font-weight:bold;line-height:1.4;margin-bottom:18px;color:#1c1c1e;">独家：Proximal 获 General Catalyst 领投，年化收入 10 个月突破 2 亿美元</div>
-<div style="border-top:1px solid #e4e4e7;margin-bottom:26px;"></div>
-
-<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">大家好！</p>
-
-<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">顶尖 AI 开发者都在疯狂搜罗数据来改进模型，这已不是秘密，尤其是在软件工程这样利润丰厚的领域。对数据的无止境渴求，托起了一大批所谓的数据标注或数据整理初创公司，既有 <strong>Scale</strong>、<strong>Surge</strong> 这样的老玩家，也有 <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkayEPumDOht6B6TI0Zt47OpAk4gOYGHzzFwJKdTkzLFWewzGCaRR899uPcG2duzd6RYhB-2FK0g-2FuaG2SGobFrYgfyf568GmNoMN68RQQs20Y06sk9DFfesZb2PAUSgRXQcU6hbPD62qXrXVlx4LEx0VsmVykgcJSHGqn7J4wtYbC1yO6az5ht2aLoTf2DF-2FVKZbdMLMp4NGB1KWCZIQDVaBHUjxxPTwEi6Ue6Wl0gGrwbcagdX7Ay3-2FtYhaWltJ-2BK0BoBRtOyL3M3LCufxFJiQVtsh19NxRjCGlYNZqt5brIg-3D-3DaBLH_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlS5auJgIEw-2F3Jpi2sqK4w1QARVyheT2-2BaGMbm7Bb1Si-2FUAO4x67UgA9kuASM6bxBa2WWyegfoZeujwUPmtuA1QDQfs7M6kf1YUQ6nCv8L9fp932omYnr1xEXfDbEPuZU8Qhqnhnq8YL9vjG7U9S8ornSZy5qx5G6dvDCPWcEQQS02FfXmaT8vGMADJYUpkdAcXsUA-2FmcCxwF5zqNz5rXNOgUWUY-2BB5muRw-2BXlA-2FNRR78S9sO6QY60XK2DNKtVsr70RI1HZBwJJ2tt-2FQ08YeqPBQ-3D-3D" style="color:#e11d48;">Fleet</a>、<a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkayEPumDOht6B6TI0Zt47OKxii1wh0B0MBbZt3TZI-2BlFYAvan1TM0aeF2TwkxkHTlgqqmwBH7ljmSi57mu3mAr1XoWeFsrCSipNH8rmWoqaW504C9spYEcgUaDPUHrIIb-2BdIJFgXD87SuYXcXxAg-2Bqxss0PrSnAizFNA1RfUn3kFBzxkr-2B82nKvuOncUR-2FbpKjrX1sxSmZGyzP-2FoP7-2FlgMmubTgmlXJpKNJKiMoL7GGg-3D-3DzW8k_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlS5auJgIEw-2F3Jpi2sqK4w1QARVyheT2-2BaGMbm7Bb1Si-2FUAO4x67UgA9kuASM6bxBa2WWyegfoZeujwUPmtuA1QDQfs7M6kf1YUQ6nCv8L9fp932omYnr1xEXfDbEPuZU83Zw1AAI6w5ohORqsQYUIgp-2FG8F2FOAwH9TrnOJdXcleFo7Vd2V27tet2HVgQLsPlThtGpJRyPtjo3mcDug4wH6dtCCQkOW7UDUk-2FrMkjpoKf8exc7VJLYrVyE0c2ZnFjaAeilJqvf2PGbVOEjWP1Zw-3D-3D" style="color:#e11d48;">Micro1</a> 这样的新贵。</p>
-
-<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">最新受益者是总部位于旧金山的 <strong>Proximal</strong>。该公司向 The Information 独家透露，它已结束隐身模式，完成了 1500 万美元的种子轮融资，由 <strong>General Catalyst</strong> 领投，估值为 3 亿美元。</p>
-
-<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">联合创始人兼首席执行官 <strong>Calvin Chen</strong> 表示，Proximal 去年年底完成种子轮融资时，几乎还没有产生任何收入。Chen 去年秋天与室友 <strong>Justus Mattern</strong> 共同创办了这家 40 人的初创公司；Mattern 此前曾在算力初创公司 <strong>Prime Intellect</strong> 工作，而后者本身也才成立两年。</p>
-
-<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">他说，仅仅 10 个月后，公司的年化收入已突破 2 亿美元。（Chen 说，Proximal 计算年化收入的方法是：取本季度迄今产生的收入，乘以四。）</p>
-
-<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">这让它成为数据标注行业中一家小而快速增长的公司。<strong>Mercor</strong> 在 6 月的年化收入突破了 20 亿美元，<strong>Handshake</strong> <a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNXtNEfEbjlp-2FtCSCynPAQIVf-2F1xpcNy43j-2FE982K5wpguECMJvWkJw0ye9C26KfO8RTqVOdRipxie4zyNisaG3aDenclROWwS-2FIiUqYlnNA-2FnxE4n76tHH7-2BLa-2F4uvzeKY-2BUmyPdI9AsPtGo6BuNKES9a6CulQDH-2BOTZ8aN8WYz8t-2FO4LIGe7rvSkKtY3tJTeimgIry-2BBEMZJiNoOHPZPMQ-3D-3DbJkt_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlS5auJgIEw-2F3Jpi2sqK4w1QARVyheT2-2BaGMbm7Bb1Si-2FUAO4x67UgA9kuASM6bxBa2WWyegfoZeujwUPmtuA1QDQfs7M6kf1YUQ6nCv8L9fp932omYnr1xEXfDbEPuZU8oHKcnnNsxc-2BGpfqatb1TGYJBxhek-2Bp1PCsAQBpcwMG7V9bTprG4UpNGQeTOi9y9r62Nf1kksO-2F7jK7bJj9E4sY7yIauwV5l-2BcIvTCeEo8B6OwVj-2FTficqnRcPeKLU-2B1Ej3dR3z9WgmD-2Bo35XRIyl-2Fw-3D-3D" style="color:#e11d48;">在 4 月的年化收入接近 10 亿美元</a>。</p>
-
-<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">许多其他数据标注公司会雇佣数十万名数学、生物、软件工程等领域的专家，为 AI 模型设计超高难度的问题。Chen 说，但 Proximal 尝试了一条更自动化的路线——自然是用 AI 模型来生成编程任务，再用这些任务去训练 AI 模型。</p>
-
-<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">Chen 举例说，比如 Proximal 可能注意到，当工程师让模型复刻一个网站时，模型能搭出一个可用的站点，却难以做到外观与原版一致。为了在这种情况下提升模型能力，Proximal 可以设计一个让模型复刻特定网站的任务，再把它的版本与原版对比，看是否成功。而不是让人写代码来把这套测试应用到各种不同的网站上，Proximal 可以让 AI 模型代劳，从而实现流程自动化，他说。</p>
-
-<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">Proximal 表示，它还在其他数据生成任务中使用 AI，比如用 AI 编程智能体模拟人类软件工程师在多天内开发大型复杂代码库时的来回沟通。</p>
-
-<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">更自动化的方法帮助 Proximal 把成本压到最低。Chen 说，典型的数据标注初创公司毛利率在 30% 到 50% 之间，而 Proximal 拥有"软件级"的毛利率。（他不愿透露 Proximal 的具体毛利率，但传统软件公司的毛利率通常在 70% 以上。）他还说，公司在净利润层面已经实现盈利。</p>
-
-<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">另一个显然有助于盈利的因素：Chen 说，Proximal 通常不响应大型 AI 开发者同时发给多家数据标注商的特定训练数据需求。这类需求竞争激烈，数据供应商几乎没有议价空间，难以谈到好合同，他说。</p>
-
-<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">Proximal 试图反其道而行之。它评估前沿模型，找出它们的能力短板，然后自己设计有趣的训练数据样本，相信能填补这些短板，他说。这包括耗时数小时甚至数天、而非几分钟的长周期编程任务，以及 <strong>GPT-6 Astra</strong> 或 <strong>Fable-5.1</strong> 等前沿模型仍然难以应对的任务，Chen 说。</p>
-
-<p style="font-size:15px;line-height:1.75;margin:0 0 16px 0;color:#1c1c1e;">设计这类任务显然很难。Chen 说，比如随着模型越来越聪明，"奖励作弊"（reward hacking）之类的问题也更难防范——模型会走捷径给出答案，却没有学会"正确"的做法。为了防范这一点，Proximal 和其他数据公司必须仔细规定模型可以做什么、不可以做什么，并在生成训练数据时监控它们的思维链，确认模型真正正确地解出了问题，他说。</p>
-
-<div style="border-left:4px solid #e11d48;padding-left:14px;margin:34px 0 14px 0;">
-<div style="font-size:17px;font-weight:bold;color:#1c1c1e;">核心总结</div>
-</div>
-<ul style="margin:0 0 8px 0;padding-left:20px;">
-<li style="font-size:15px;line-height:1.75;color:#1c1c1e;margin-bottom:10px;">Proximal 完成 1500 万美元种子轮融资，General Catalyst 领投，估值 3 亿美元；公司由 Calvin Chen 与室友 Justus Mattern（前 Prime Intellect 员工）去年秋天创办，现有 40 人。</li>
-<li style="font-size:15px;line-height:1.75;color:#1c1c1e;margin-bottom:10px;">种子轮完成时几乎零收入，10 个月后年化收入突破 2 亿美元（按本季度迄今收入乘以四计算）；行业对比：Mercor 年化收入 6 月突破 20 亿美元，Handshake 4 月接近 10 亿美元。</li>
-<li style="font-size:15px;line-height:1.75;color:#1c1c1e;margin-bottom:10px;">差异化在于自动化：用 AI 模型生成编程训练任务（如网站复刻测试、AI 编程智能体模拟工程师多天协作），实现"软件级"毛利率，并在净利润层面盈利，而典型数据标注公司毛利率仅 30%–50%。</li>
-<li style="font-size:15px;line-height:1.75;color:#1c1c1e;margin-bottom:10px;">商业策略上不接大型 AI 开发者多家比价的订单，而是主动评估前沿模型短板、定制高难度长周期任务（如 GPT-6 Astra、Fable-5.1 仍难以应对的任务），以此获得议价权。</li>
-<li style="font-size:15px;line-height:1.75;color:#1c1c1e;margin-bottom:0;">核心挑战：随着模型变聪明，"奖励作弊"更难防范，必须明确模型行为边界并监控思维链，验证训练数据的真实性。</li>
-</ul>
-
-</div>
-</body>
-</html>]]></content:encoded>
 </item>
 </channel>
 </rss>
