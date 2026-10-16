@@ -6,7 +6,46 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 15 Oct 2026 13:50:33 -0500</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 19:19:55 -0500</lastBuildDate>
+<item>
+<title>【资讯】Anthropic 是否錯過了最佳上市時機？</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#Anthropic 是否錯過了最佳上市時</guid>
+<pubDate>Thu, 15 Oct 2026 19:19:55 -0500</pubDate>
+<category>资讯</category>
+<description>AI 摘要 Anthropic 向投資者披露的三季度收入顯示，其增長已較二季度放緩，這可能給它的 IPO 估值設下上限。文章認爲，Anthropic 或許錯過了六月那個增長最爲亮眼的上市窗口。與此同時，企業對昂貴前沿模型的需求正在減弱，夠用的替代模型越來越多，其護城河受到質疑。再疊加未來十年超過 5000 億美元的算力採購承諾，持有其股票的風險正在累積。 The Information Briefing 2026 年 10 月 15 日…</description>
+<content:encoded><![CDATA[<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:16px 18px;margin-bottom:24px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
+<p style="font-size:14px;line-height:1.7;margin:0;">Anthropic 向投資者披露的三季度收入顯示，其增長已較二季度放緩，這可能給它的 IPO 估值設下上限。文章認爲，Anthropic 或許錯過了六月那個增長最爲亮眼的上市窗口。與此同時，企業對昂貴前沿模型的需求正在減弱，夠用的替代模型越來越多，其護城河受到質疑。再疊加未來十年超過 5000 億美元的算力採購承諾，持有其股票的風險正在累積。</p>
+</div>
+<div style="font-size:26px;font-weight:bold;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;">The Information Briefing</div>
+<div style="font-size:13px;color:#888;margin:6px 0 4px;">2026 年 10 月 15 日</div>
+<div style="font-size:24px;font-weight:bold;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;margin:8px 0;">Anthropic 是否錯過了最佳上市時機？</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;margin:0;padding-left:22px;">
+<li>Anthropic 週三向投資者披露的三季度收入數字顯示，增長已較二季度放緩，這可能給 IPO 估值設下上限；六月增長仍十分亮眼時上市或許更好，但六月 SpaceX 上市，IPO 在操作上可能並不現實。</li>
+<li>增長放緩重新引出一個老問題：Anthropic 的護城河到底有多深？其模型雖屬頂級，但企業越來越不需要昂貴的前沿模型，開發者正轉向對多數任務來說夠用的其他模型。</li>
+<li>Anthropic 的激進定價已促使微軟等公司削減在其模型上的支出，且這一趨勢似乎正在擴散。</li>
+<li>替代模型衆多且多爲開源：面向企業的模型商店 TrustedRouter 上列出了 665 個模型；在中國，小米、美團等越來越多公司在開發自己的模型，類似情形也可能在美國出現。</li>
+<li>隨着對前沿模型安全性的擔憂加劇，Anthropic 甚至發佈其最佳模型的能力也在減弱。</li>
+<li>Anthropic 已承擔未來十年超過 5000 億美元的算力採購承諾；投資者認爲其 IPO 估值應更接近 1.5 萬億美元，而非銀行家此前提出的 2 萬億美元。Manhattan Venture Partners 管理合夥人 Jared Carmel 預計上市估值在 1.4 萬億至 1.5 萬億美元之間。</li>
+<li>即便如此，這對一家還不到六歲的公司仍是很大的數字：按市值將成爲第九大科技公司，低於博通、高於特斯拉；但這也可能就是它的峯值。</li>
+<li>蘋果的對照：對前沿 AI 模型價值的質疑，說明蘋果避開昂貴自研模型競賽是正確的選擇。截至週四收盤，蘋果股價今年以來上漲 26%，而 Alphabet、亞馬遜、Meta 和微軟各漲 10% 至 12%；按 Koyfin 數據，蘋果是其中唯一一家估值倍數今年上升的公司。蘋果增速雖更慢，但同行正向 AI 數據中心投入鉅額資本開支，蘋果反而看起來是更健康的選擇。</li>
+<li>其他消息：據彭博週四報道，蘋果準備於 12 月在中國大陸推出設備端 AI 服務 Apple Intelligence，結束了因監管障礙導致的漫長等待；波特蘭初創公司 Mueon 融資 6500 萬美元，研發新的 AI 服務器機架組件排布方式，稱可在相同電力下塞入多達 10 倍的算力；臺積電週四表示將在臺南再建一座 3 納米芯片廠，計劃 2028 年上半年投產，顯示其相信 AI 芯片強勁需求將持續多年；CoreWeave 與博通反對 OKXICE（OKX 與洲際交易所的合資公司）將其股票上鍊交易上市的請求；Anthropic 已開始在公司內部嵌入 AI 評估員，以評估併發布關於安全實踐與風險的報告。</li>
+</ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">原文摘錄</div>
+<blockquote style="border-left:3px solid #ccc;margin:0 0 12px;padding:4px 0 4px 14px;font-size:15px;line-height:1.75;">Anthropic 看起來等太久才上市。（It&rsquo;s beginning to look like Anthropic waited too late to go public.）</blockquote>
+<blockquote style="border-left:3px solid #ccc;margin:0 0 12px;padding:4px 0 4px 14px;font-size:15px;line-height:1.75;">這次 IPO 需要以能賣出去的價格定價。（&ldquo;This IPO will need to price to sell,&rdquo; said Jared Carmel, managing partner of Manhattan Venture Partners.）</blockquote>
+<div style="margin:20px 0;"><a href="https://www.theinformation.com/" style="color:#e11d48;font-size:15px;">閱讀原文 &rarr;</a></div>
+<div style="font-size:13px;color:#888;">原文標題：<i>Did Anthropic Miss Its Moment?</i></div>
+<div style="font-size:13px;color:#888;margin-top:16px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+</div>
+</body>
+]]></content:encoded>
+</item>
 <item>
 <title>【Applied AI】AI 写出的软件，为何需要一台"飞行模拟器"</title>
 <link>https://www.theinformation.com</link>
@@ -2152,33 +2191,6 @@ Vercel 年化营收已达 6 亿美元，同比增长 148%，付费客户约 48.5
 
 </div>
 </body></html>
-]]></content:encoded>
-</item>
-<item>
-<title>【电动】Neros 接近发布高速无人机，目标击落俄罗斯喷气式无人机</title>
-<link>https://www.theinformation.com/newsletters/the-electric/drone-startups-backed-eric-schmidt-trump-family-win-pentagons-latest-competition</link>
-<guid isPermaLink="false">https://www.theinformation.com/newsletters/the-electric/drone-startups-backed-eric-schmidt-trump-family-win-pentagons-latest-competition#Neros 接近发布高速无人机，目标击落</guid>
-<pubDate>Wed, 30 Sep 2026 12:54:06 -0700</pubDate>
-<category>电动</category>
-<description>AI 核心提炼 1. 美国无人机制造商 Neros Technologies 表示，年底前将向乌克兰交付高速拦截无人机 Bandit，目标是击落俄罗斯的喷气式自杀无人机 Geran-4——这是它首次明确宣称 Bandit 的任务就是打 Geran-4。 2. 技术路线反直觉：Geran-4 用喷气发动机，Bandit 却是纯电池驱动，靠新一代负极（硅或锂金属二选一）实现超高速；拦截逻辑不是拼速度，而是靠传感、弹道预测和雷达预判——“这不…</description>
-<content:encoded><![CDATA[<div style="background:#f4f4f5;padding:24px 12px;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;"><div style="max-width:640px;margin:0 auto;background:#ffffff;border:1px solid #e4e4e7;border-radius:12px;padding:32px 28px;"><div style="background:#fef2f4;border-left:4px solid #e11d48;border-radius:0 8px 8px 0;padding:16px 18px;margin-bottom:20px;"><div style="font-size:16px;font-weight:bold;color:#e11d48;margin-bottom:8px;">AI 核心提炼</div><p style="font-size:14px;line-height:1.7;color:#333;margin:0 0 8px;">1. 美国无人机制造商 Neros Technologies 表示，年底前将向乌克兰交付高速拦截无人机 Bandit，目标是击落俄罗斯的喷气式自杀无人机 Geran-4——这是它首次明确宣称 Bandit 的任务就是打 Geran-4。</p><p style="font-size:14px;line-height:1.7;color:#333;margin:0 0 8px;">2. 技术路线反直觉：Geran-4 用喷气发动机，Bandit 却是纯电池驱动，靠新一代负极（硅或锂金属二选一）实现超高速；拦截逻辑不是拼速度，而是靠传感、弹道预测和雷达预判——“这不像一对一的短跑比赛”。</p><p style="font-size:14px;line-height:1.7;color:#333;margin:0 0 8px;">3. Neros 的真正底气是产能：托伦斯工厂月产 5000 架（多发往乌克兰），目标 2028 年月产 8 万架以上；手握陆军 5 亿美元合同，并在五角大楼“无人机主导”竞赛中夺冠。</p><p style="font-size:14px;line-height:1.7;color:#333;margin:0 0 8px;">4. 更大的战场背景：乌克兰对 Geran-4 几乎无防御手段（爱国者导弹告稄），而俄罗斯正以近乎全天候的节奏用它打击基辅的民用目标——谁能先量产出廉价拦截器，谁就掌握了这场消耗战的关键变量。</p></div><div style="font-size:12px;color:#999;margin-bottom:6px;">译者注</div><div style="font-size:13px;color:#666;line-height:1.8;margin-bottom:4px;">原文标题：<i>Neros Nears Release of Fast Drone to Bring Down Jet-Powered Russian Drones</i>（邮件主题标题为 "Neros Says Its New Drone Will Neutralize Russia's Destructive Jet-Powered Drone"，为同一篇文章）<br>原发送日期：2026年9月30日<br>以下为 The Information 官网全文的中文翻译（已点进原文链接核对，非邮件预览）。</div><div style="height:4px;background:#e11d48;border-radius:2px;margin:18px 0;"></div><div style="font-size:12px;color:#999;margin-bottom:4px;">简报名</div><div style="font-size:26px;font-weight:bold;color:#111;margin-bottom:6px;">The Electric</div><div style="font-size:13px;color:#888;margin-bottom:14px;">Steve LeVine · The Information · 2026年9月30日</div><div style="font-size:24px;font-weight:bold;line-height:1.4;color:#111;margin-bottom:12px;">Neros 接近发布高速无人机，目标击落俄罗斯喷气式无人机</div><div style="border-bottom:1px solid #e4e4e7;margin-bottom:8px;"></div><div style="font-size:12px;color:#999;margin-bottom:16px;">Bandit，Neros 即将推出的高速无人机拦截器。图片：Neros 提供</div><p style="font-size:15px;line-height:1.75;color:#222;margin:0 0 16px;"><strong>美国无人机制造商</strong> <strong>Neros Technologies</strong> 表示，到今年年底，它将向乌克兰提供一种能够击落俄罗斯喷气式自杀无人机的无人机——这些无人机在过去两个月里重创了乌克兰首都基辅。</p>
-<p style="font-size:15px;line-height:1.75;color:#222;margin:0 0 16px;">自 8 月以来，俄罗斯一直在对基辅发动近乎全天候的 Geran-4 无人机袭击，用它撞击公寓楼等民用目标，一触即爆。在本周一和周二的最新袭击中，多波无人机击中了基辅的乌克兰国家科学院大楼和一家医疗中心。</p>
-<p style="font-size:15px;line-height:1.75;color:#222;margin:0 0 16px;">乌克兰对这种时速超过 300 英里的无人机几乎毫无防御能力，因为它所剩的爱国者导弹寥寥无几，也没有速度和机动性足以挑战 Geran-4 的拦截无人机。乌克兰官员表示，乌克兰正在研发自己的新武器来击落俄罗斯无人机，但尚未透露何时可用。</p>
-<p style="font-size:15px;line-height:1.75;color:#222;margin:0 0 16px;">Neros 面临的挑战无疑十分艰巨。Neros 通讯主管 Reese Hamilton 表示，Bandit 无人机的原型机已经飞出超过每小时 187 英里的速度，远低于 Geran-4 的速度。Neros 正在进一步提速，但 Hamilton 表示，Bandit 并不需要达到 Geran-4 的速度。</p>
-<p style="font-size:15px;line-height:1.75;color:#222;margin:0 0 16px;">他指出，俄罗斯无人机“其实机动性不强，弹道相当固定”。他声称，即使俄罗斯无人机以“每小时 1000 公里”（625 英里）的速度移动，Bandit 也能将其拦截。他说，Bandit 和 Geran-4 的飞行高度相同，都是 5 英里。</p>
-<p style="font-size:15px;line-height:1.75;color:#222;margin:0 0 16px;">“拦截可以依靠传感、弹道预测和雷达，”他说。“这不像一对一的短跑比赛。”</p>
-<p style="font-size:15px;line-height:1.75;color:#222;margin:0 0 16px;">Neros 此前曾表示将于 12 月发布 Bandit，但这是它第一次表示这款无人机的目标是击落 Geran-4。</p>
-<p style="font-size:15px;line-height:1.75;color:#222;margin:0 0 16px;">与 Geran-4 不同，Neros 的无人机是电池驱动的。要飞出这样的速度，它需要新一代负极材料，Hamilton 表示，公司正在硅和锂金属之间做选择——这一点此前从未被报道过。</p>
-<p style="font-size:15px;line-height:1.75;color:#222;margin:0 0 16px;">这家位于加州托伦斯的初创公司，已经在自 2022 年俄罗斯入侵乌克兰以来涌现的数十家美国无人机初创公司中脱颖而出。从 El Segundo 到托伦斯的加州南部沿海城市带，已经聚集起一批无人机、电池和其他国防科技初创公司，寻求与国防部的生意，往往专门为武装乌克兰。</p>
-<p style="font-size:15px;line-height:1.75;color:#222;margin:0 0 16px;">8 月以 25 亿美元估值完成 C 轮融资的 Neros，是其中最成功的一家。本月早些时候，<a href="https://www.theinformation.com/newsletters/the-electric/drone-startups-backed-eric-schmidt-trump-family-win-pentagons-latest-competition" style="color:#e11d48;text-decoration:none;">正如我们所写的那样</a>，它是五角大楼“无人机主导”（Drone Dominance）竞赛的最大赢家（下文详述）。Hamilton 说，它在托伦斯的工厂每月生产 5000 架无人机，大部分运往包括乌克兰在内的战区，并计划到 2028 年把月产量提高到 8 万架以上。</p>
-<p style="font-size:15px;line-height:1.75;color:#222;margin:0 0 16px;">7 月，Neros 获得陆军 5 亿美元合同，供应 1 万架无人机。而去年，一个国际联盟<a href="https://lnkd.in/p/eitQrBrA" style="color:#e11d48;text-decoration:none;">委托 Neros</a> 向乌克兰交付 6000 架 Archer 自杀无人机，公司还在基辅设立了工厂和研发中心。</p>
-<p style="font-size:15px;line-height:1.75;color:#222;margin:0 0 16px;">CEO Soren Monroe-Anderson 和首席技术官 Olaf Hichwa 于 2023 年共同创办了 Neros，此前他们看到了俄罗斯在乌克兰战争中使用的无人机图像。“我们能造出更好的无人机，”Hamilton 转述他们的想法。Monroe-Anderson 和 Hichwa 都是资深的无人机竞速飞手。</p>
-<p style="font-size:15px;line-height:1.75;color:#222;margin:0 0 16px;">两人手工制造了 30 架无人机原型机，带着它们飞往乌克兰。但乌克兰国防部的一名官员告诉他们，要想被认真对待，每月至少要交付 5000 架无人机，公司方面如是说。</p>
-<p style="font-size:15px;line-height:1.75;color:#222;margin:0 0 16px;">Hamilton 拒绝透露目前每月向乌克兰销售多少架无人机。</p>
-<p style="font-size:15px;line-height:1.75;color:#222;margin:0 0 16px;">他说，Neros 的主要优势之一是制造能力和在基辅的存在。他说，在乌克兰首都，Neros 的员工能够快速应对俄罗斯的新战略和新技术。</p>
-<p style="font-size:15px;line-height:1.75;color:#222;margin:0 0 16px;">“战争的本质就是不断变化，”Hamilton 说。“所以会有反无人机战略出现，也会有反反无人机战略。你必须足够灵活，才能对这些变化做出反应。”</p>
-<p style="font-size:15px;line-height:1.75;color:#222;margin:0 0 16px;">在“无人机主导”竞赛中，Neros 拿下了“近距离作战”类别的第一名——在这个类别中，无人机必须在建筑物等 GPS 可能失效的封闭空间内完成任务。它还在“纵深打击”类别中获得第三名——无人机要在大约 9 英里的飞行后命中目标，有时是夜间飞行，导航还可能被干扰。</p>
-<p style="font-size:15px;line-height:1.75;color:#222;margin:0 0 16px;">五角大楼还向 Neros 授予了一份价值约 1000 万美元的额外无人机订单，奖励它在交付 2400 架无人机（竞赛要求）方面击败了其他竞争对手。</p><div style="margin-top:24px;"><div style="border-left:4px solid #e11d48;padding-left:12px;font-size:17px;font-weight:bold;color:#111;margin-bottom:12px;">核心总结</div><ul style="font-size:15px;line-height:1.75;color:#222;padding-left:20px;margin:0;"><li style="margin-bottom:8px;">首次明确目标：Bandit 将于 12 月发布，Neros 第一次确认其任务是击落 Geran-4，并计划年底前交付乌克兰。</li><li style="margin-bottom:8px;">性能与拦截逻辑：原型已飞出 187 英里/小时以上；即使目标以 1000 公里/小时移动也可拦截——依靠传感、弹道预测和雷达，而非速度对拼；与 Geran-4 同为 5 英里飞行高度。</li><li style="margin-bottom:8px;">技术关键点：纯电驱动，需新一代负极材料（硅 vs 锂金属二选一），此前从未被报道。</li><li style="margin-bottom:8px;">公司与订单：8 月以 25 亿美元估值完成 C 轮；获陆军 5 亿美元 / 1 万架合同；国际联盟 6000 架 Archer 订单；在基辅设有工厂和研发中心。</li><li style="margin-bottom:8px;">竞赛成绩：五角大楼“无人机主导”竞赛“近距离作战”第一、“纵深打击”第三，另获约 1000 万美元奖励订单（超额交付 2400 架）。</li><li style="margin-bottom:8px;">战场背景：Geran-4 时速 300 英里以上，自 8 月起近乎全天候打击基辅，专挑公寓楼等民用目标；乌克兰爱国者导弹所剩无几，急需廉价拦截手段。</li></ul></div><div style="margin-top:24px;font-size:13px;color:#888;">阅读原文：<a href="https://www.theinformation.com/newsletters/the-electric/neros-nears-release-fast-drone-bring-jet-powered-russian-drones" style="color:#e11d48;text-decoration:none;">The Information 官网全文</a></div></div></div>
 ]]></content:encoded>
 </item>
 </channel>
