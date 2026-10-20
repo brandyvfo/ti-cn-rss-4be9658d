@@ -6,7 +6,46 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 20 Oct 2026 07:19:33 -0400</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 07:20:41 -0700</lastBuildDate>
+<item>
+<title>【AI Agenda】OpenAI 的"Pacing 2.0"難題：聰明到什麼程度算過頭？</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#OpenAI 的"Pacing 2.0"</guid>
+<pubDate>Tue, 20 Oct 2026 07:20:41 -0700</pubDate>
+<category>AI Agenda</category>
+<description>AI 摘要 OpenAI 首席執行官奧特曼上週向員工拋出了一個更長遠的問題：公司現有的"節奏 1.0"（安全測試通過就發佈前沿模型）之後，下一步是什麼。業內討論的三條安全發展路線——建立類似國際原子能機構的國際組織、把頭部實驗室合併成單一實體、或者某一家實驗室一騎絕塵壓垮對手——各有致命短板：國際合作難以落地、營利性實驗室難以整合、極端競爭本身就很危險。奧特曼因此提出"節奏 2.0"：未來一年內必須選定長期路線，包括給遞歸式自我改進（A…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html><head><meta charset="utf-8"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:20px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">OpenAI 首席執行官奧特曼上週向員工拋出了一個更長遠的問題：公司現有的"節奏 1.0"（安全測試通過就發佈前沿模型）之後，下一步是什麼。業內討論的三條安全發展路線——建立類似國際原子能機構的國際組織、把頭部實驗室合併成單一實體、或者某一家實驗室一騎絕塵壓垮對手——各有致命短板：國際合作難以落地、營利性實驗室難以整合、極端競爭本身就很危險。奧特曼因此提出"節奏 2.0"：未來一年內必須選定長期路線，包括給遞歸式自我改進（AI 永無止境地自我升級）設定"限速"，或建立何時停止發佈超強模型的判斷標準。但 10 倍於人類科學家的智能與 10000 倍的智能之間的界線畫在哪、甚至如何測量智能本身，都是懸而未決的問題。AI 安全這場行業大討論，纔剛剛開始。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;">The Information AI Agenda</div>
+<div style="font-size:13px;color:#888;margin:6px 0 4px;">2026 年 10 月 20 日（星期二） · 作者：Stephanie Palazzolo</div>
+<div style="font-size:24px;font-weight:bold;margin:10px 0;">OpenAI 的"Pacing 2.0"難題：聰明到什麼程度算過頭？</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;margin:0;padding-left:20px;"><li>三條行業級"安全發展 AI"方案：奧特曼上週向員工介紹了業內討論的三套方案——建立類似國際原子能機構（IAEA）的國際組織；把頭部實驗室合併爲單一實體、統一開發測試與分發模型；或極端情形下由一家實驗室跑贏所有對手、甚至用"粉碎對方 GPU"的方式終結競爭。</li>
+<li>三套方案各有硬傷：IAEA 式組織需要各國合作，包括正在發展頂級 AI 的中國，而中方很可能不願放慢腳步（且 Anthropic 等公司對中國態度強硬）；第二套被稱爲"Demis 計劃"（以 DeepMind 聯創 Demis Hassabis 命名），效仿多國共治的 CERN 實驗室，但頭部 AI 公司都是營利實體、股東各異，聯合難度遠超科研機構；第三套"Eliezer 計劃"（以 LessWrong 創始人 Eliezer Yudkowsky 命名）被認爲最令人不安，開玩笑的說法是 Anthropic 正在實踐它。</li>
+<li>更現實的嘗試也已卡殼：OpenAI、Anthropic 和谷歌正在推動一個野心更小的自我監管機構，但上月已在重要問題上出現分歧。</li>
+<li>"節奏 2.0"的抉擇：奧特曼說眼下 OpenAI 承擔不起讓出太多地盤，但未來一年內必須決定走哪條長期路線。他把當前策略稱爲"節奏 1.0"——繼續發佈通過安全測試的前沿模型、同時披露新模型的安全隱患；"節奏 2.0"則要求給遞歸式自我改進（AI 持續不斷自我升級）設定"限速"，或建立何時停止開發、發佈超強 AI 的判斷標準。</li>
+<li>標準極難制定且主觀：比如比人類科學家強 10 倍的 AI 或許可以接受——現有技術還能控制和監測；但強 1000 倍或 10000 倍的 AI 可能繞過防護措施。而連"智能水平"本身該如何測量，目前都不清楚。</li>
+<li>大數字：Nscale 與 Anthropic 正在洽談第二筆約 450 億美元的算力合作，疊加 8 月達成的 450 億美元、爲期 6 年的協議（在 Nscale 西弗吉尼亞園區部署 460 兆瓦的 Nvidia Vera Rubin 芯片）。</li>
+<li>本期其他消息：AI Deep Dive 訪談中，World Mechanics 首席執行官 Sonia Joseph 認爲，把視頻世界模型裏高度糾纏的物理概念（如速度、重力）解耦表示，可以用更少的數據和算力訓練模型；馬斯克在 X 上承諾明年給全美每個孩子送一份 SpaceX 股票，價值近 110 億美元，具體玩法未公佈；一名中文母語黑客用約 5000 美元 token 調度 DeepSeek 和 Anthropic 的 AI 模型，攻破了 100 多家公司的網站（網絡安全公司 NorForge 週一報告）。</li>
+<li>政策與司法：美國國土安全部下令所有聯邦民事機構從 IT 系統中移除 DeepSeek 的模型；檢方稱被指控在 OpenAI 辦公室安裝竊聽設備的 OpenAI 員工與沙特王室有關聯（舊金山聯邦檢察官辦公室週日提交的文件）。</li></ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">原文摘錄</div>
+<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;padding-left:14px;margin:0 0 12px;color:#3f3f46;">OpenAI 很快就會受到現實的考驗——如果不是已經的話：讓 AI 技術"按節奏發展"到底有多難，更別說讓所有前沿 AI 開發者就如何協同節奏達成一致了。（"OpenAI is bound to get a reality check soon, if it hasn't already, on how difficult it is to 'pace' AI technology, let alone getting all the frontier AI developers to agree on how to do so together."）</blockquote>
+<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;padding-left:14px;margin:0 0 12px;color:#3f3f46;">不靠新方法、只靠放大現有世界模型也能行，只不過"要花 20 年、極其低效，還要燒掉 20 座核電站的算力"。（"It'll just take 20 years and be highly inefficient and consume 20 nuclear reactors of compute." —— Sonia Joseph，World Mechanics 首席執行官）</blockquote>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">閱讀原文</div>
+<div style="font-size:15px;line-height:1.75;margin:0 0 12px;"><a href="https://www.theinformation.com" style="color:#e11d48;">theinformation.com</a>（本期郵件中的鏈接均爲追蹤跳轉鏈接，無該文章的直接原文鏈接）</div>
+<div style="font-size:13px;color:#888;margin:14px 0;">原文標題：<i>OpenAI's 'Pacing 2.0' Problem: How Smart Is Too Smart?</i></div>
+<div style="font-size:13px;color:#888;margin:14px 0 4px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【AM】馬斯克計劃向“全美每個孩子”贈送 SpaceX 股票一份</title>
 <link>https://www.theinformation.com</link>
@@ -1392,46 +1431,6 @@ Meta 聲稱 Muse Wonder 在某些任務上"提供最優性能"（"deliver state-
 <category>AI Agenda</category>
 <description>AI Agenda 2026 年 10 月 5 日 AI 安全测试哪里出了问题，又该如何修复 内容摘要 近期，把外部安全研究员“嵌入”到 Anthropic、OpenAI 等 AI 公司内部做评估的想法很热，但安全评估机构 Apollo Research 的 CEO Marius Hobbhahn 提醒：魔鬼在细节里。如果评估者拿不到足够的权限，评估就形同虚设——AI 公司可能隐瞒关键信息、删减公开结论，甚至动用评估者不知道的第二批算力…</description>
 <content:encoded><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"></head><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;"><div style="max-width:720px;margin:0 auto;padding:8px 16px;"><div style="font-size:26px;font-weight:bold;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;">AI Agenda</div><div style="font-size:13px;color:#888;margin:8px 0 4px;">2026 年 10 月 5 日</div><div style="font-size:24px;font-weight:bold;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;margin:8px 0;">AI 安全测试哪里出了问题，又该如何修复</div><div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 10px;">内容摘要</h2><p style="font-size:15px;line-height:1.75;margin:8px 0;">近期，把外部安全研究员“嵌入”到 Anthropic、OpenAI 等 AI 公司内部做评估的想法很热，但安全评估机构 Apollo Research 的 CEO Marius Hobbhahn 提醒：魔鬼在细节里。如果评估者拿不到足够的权限，评估就形同虚设——AI 公司可能隐瞒关键信息、删减公开结论，甚至动用评估者不知道的第二批算力集群来训练模型。</p><p style="font-size:15px;line-height:1.75;margin:8px 0;">目前已有积极信号：Dario Amodei 与 Sam Altman 先后承诺给外部评估者“员工级权限”，签署特朗普 AI 协议的企业也同意引入独立外部审计或评估。Hobbhahn 认为，现在是推进嵌入式评估“难得的窗口期”，哪怕企业不进一步放慢 AI 进展，嵌入式评估本身仍有价值。</p><p style="font-size:15px;line-height:1.75;margin:8px 0;">他主张把测试前移到模型训练阶段，而非只在发布前做几天快照测试。后者时间紧、模型还能察觉自己在被测试，意义有限。嵌入式评估应是全新范式：整体审视训练过程，验证模型是否学会“对开发者耍心机”、失控后能否被管住，而不仅仅是跑一套评估题。</p><p style="font-size:15px;line-height:1.75;margin:8px 0;">此外，应允许公司员工与嵌入式评估者自由沟通，相关权限与透明度最终需要监管来保障。上周 OpenAI 刚因三名安全研究员向外部评估机构分享敏感信息将其解雇，正凸显这一问题的现实性。</p><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 10px;">关键要点</h2><ul style="font-size:15px;line-height:1.75;padding-left:20px;"><li style="margin:6px 0;">外部评估的效果取决于权限深度：AI 公司可能隐瞒关键信息、删减公开结论，甚至动用评估者不知道的第二批算力集群。</li><li style="margin:6px 0;">Anthropic 与 OpenAI 已承诺给予外部评估者“员工级权限”；签署特朗普 AI 协议的企业同意引入独立外部审计或评估。</li><li style="margin:6px 0;">评估应前移到模型训练阶段：发布前几天的快照测试意义有限，模型还能察觉自己在被测试，干扰结果。</li><li style="margin:6px 0;">嵌入式评估是全新范式：整体审查训练过程，验证模型是否学会“对开发者耍心机”、失控后能否被管住。</li><li style="margin:6px 0;">公司员工应被允许与评估者自由沟通；Hobbhahn 认为最终需要监管来保障评估权限与结果透明。</li><li style="margin:6px 0;">OpenAI 上周解雇了三名向外部评估机构分享敏感信息的安全研究员，凸显沟通边界的现实冲突。</li></ul><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 10px;">原文摘录</h2><blockquote style="border-left:3px solid #ccc;margin:12px 0;padding:4px 12px;color:#555;font-size:14px;line-height:1.7;">过去三年里我变得非常愤世嫉俗：一次次看到人们许下承诺、又不兑现。<br><span style="font-size:13px;color:#999;">（“I've become very cynical over the last three years” from “repeatedly seeing how people promise stuff and then don't follow up on it.”）</span></blockquote><blockquote style="border-left:3px solid #ccc;margin:12px 0;padding:4px 12px;color:#555;font-size:14px;line-height:1.7;">只测最终版本，几乎比不测还糟。<br><span style="font-size:13px;color:#999;">（“It‘s like it’s almost worse than not doing anything,” Hobbhahn said.）</span></blockquote><blockquote style="border-left:3px solid #ccc;margin:12px 0;padding:4px 12px;color:#555;font-size:14px;line-height:1.7;">员工要么去找老板——而剥夺权限的很可能就是老板；要么直接吹哨，这又太过激烈。<br><span style="font-size:13px;color:#999;">（“Either they have to go to their boss, who likely is the person that denied the access in the first place, so that doesn't work, or they whistleblow, which is a pretty drastic action.”）</span></blockquote><p style="margin:24px 0 8px;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNq3GgbTbsDqg04CYMuHzwQVhBLA0IdfvaGGOArnS9mqj5FsH1PIwoUORx9BpXq3qooSxJVcM11MHDZSrAz7i6eVbp56fNoGlTKEKV-2F2f8K-2F49YYIL6aPP8LNCjnlEgLh6myXGGjYWLbiYGWcrjAQyaUtAahE9Aq9RztYuoWQnnt-2FcaP-2BwSBfWeess5S1cHW8z8Tr4t-2FFDEll65CeubxinoA-3D-3DJlIF_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlLTQtaWtcR1IYcc3NOOUpDwFUc-2FRzzmta25v0qP6vW7iePm4kZMtOiCXMj1vZRnWuyB-2F5kJ1wZRNmPetYjsKOr1sbTIdShOCUcNEpsE8mGa-2FdevnSJtTs2PsHrlL5L-2Bof5I48PWp7kt73Il-2B9GAG7hibPDBJ-2FUu5h0anXKLxABkIxvfk1oriSuFGcSbt0NBkAi7P4nxWS-2BoDMtUnK9qUWLkRX2Wd7V-2BT-2FHe6ALegTLbxxGjwHGar9YLuUZA-2BK51tQAp-2FAYOsT5j4nx4WUiDeZTQ-3D-3D" style="color:#e11d48;font-size:16px;font-weight:bold;text-decoration:none;">阅读原文 &rarr;</a></p><p style="font-size:13px;color:#888;">原文标题：<em>What’s Wrong With AI Safety Testing, and How to Fix It</em></p><p style="font-size:13px;color:#999;margin-top:24px;border-top:1px solid #e5e5e5;padding-top:12px;">本期为摘要版：基于邮件内容的中文摘要与要点提炼，非全文翻译。</p></div></body></html>
-]]></content:encoded>
-</item>
-<item>
-<title>【电动】电动车充电初创公司 Xeal 拟融资 20 亿美元，用充电桩闲置电力驱动 AI 算力</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#电动车充电初创公司 Xeal 拟融资 2</guid>
-<pubDate>Sun, 11 Oct 2026 22:56:59 -0400</pubDate>
-<category>电动</category>
-<description>The Electric 2026 年 10 月 7 日 电动车充电初创公司 Xeal 拟融资 20 亿美元，用充电桩闲置电力驱动 AI 算力 内容摘要 总部位于纽约的电动汽车充电初创公司 Xeal 计划在未来 18 个月内通过债务融资筹集约 20 亿美元，用于制造并部署 1000 个装有英伟达 AI 芯片的集装箱式算力单元。 Xeal 在美加约 500 个城市运营着数千个充电桩，主要分布在高端公寓楼、高端零售和办公楼宇。这些充电桩平均…</description>
-<content:encoded><![CDATA[<!DOCTYPE html>
-<html lang="zh-CN">
-<head><meta charset="utf-8"></head>
-<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
-<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
-<div style="font-size:26px;font-weight:bold;line-height:1.4;margin:8px 0 4px 0;">The Electric</div>
-<div style="font-size:13px;color:#888;margin:0 0 16px 0;">2026 年 10 月 7 日</div>
-<div style="font-size:24px;font-weight:bold;line-height:1.4;margin:0 0 8px 0;">电动车充电初创公司 Xeal 拟融资 20 亿美元，用充电桩闲置电力驱动 AI 算力</div>
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
-<div style="border-left:4px solid #e11d48;padding-left:10px;font-size:18px;font-weight:bold;margin:28px 0 12px 0;">内容摘要</div>
-<p style="font-size:15px;line-height:1.75;margin:10px 0;">总部位于纽约的电动汽车充电初创公司 Xeal 计划在未来 18 个月内通过债务融资筹集约 20 亿美元，用于制造并部署 1000 个装有英伟达 AI 芯片的集装箱式算力单元。</p>
-<p style="font-size:15px;line-height:1.75;margin:10px 0;">Xeal 在美加约 500 个城市运营着数千个充电桩，主要分布在高端公寓楼、高端零售和办公楼宇。这些充电桩平均利用率不到 10%，但公司与公用事业公司的合同允许其 24 小时用电，因此手握巨量闲置电力——足以同时为约 13 万户家庭或 11 万块英伟达 AI 芯片供电。</p>
-<p style="font-size:15px;line-height:1.75;margin:10px 0;">今年 12 月起，Xeal 将开始在芝加哥、休斯敦和达拉斯的停车库旁安装定制金属集装箱（约一个车位大小），内置英伟达 AI 服务器机架，每个机架约 48 块 AI 芯片，直接利用充电桩背后的电力为其供电。公司称已拿到 100 个集装箱的算力客户合同。</p>
-<p style="font-size:15px;line-height:1.75;margin:10px 0;">公司此前仅融过两轮共 5400 万美元（最近一次是 2022 年的 4000 万美元 B 轮）。CEO 认为公司要筹的是低息资产支持贷款和项目融资债务，而此前用极少的风险投资就建成了充电网络，足以证明其融资能力。</p>
-<p style="font-size:15px;line-height:1.75;margin:10px 0;">值得注意的是，The Information 的同事此前报道称，AI 项目开发商如今融资越来越难，即使首批 GPU 集装箱运营良好，Xeal 能否筹到这笔巨款也并无保证。</p>
-<div style="border-left:4px solid #e11d48;padding-left:10px;font-size:18px;font-weight:bold;margin:28px 0 12px 0;">关键要点</div>
-<ul style="font-size:15px;line-height:1.75;margin:10px 0;padding-left:22px;">
-<li style="margin:6px 0;">计划融资规模：约 20 亿美元，形式为债务融资（18 个月内完成），用于部署 1000 个 GPU 集装箱，总计约 5 万块 GPU、60 兆瓦电力容量。</li>
-<li style="margin:6px 0;">核心优势是“新型电力接入”：充电桩闲置电力可立即投入使用，把算力上线周期从数据中心常见的几年缩短到几周，避开了电网接入漫长的等待。</li>
-<li style="margin:6px 0;">充电桩平均闲置率高达 92%（利用率不足 10%），这反而成为商业模式的关键：向楼宇业主支付租金租用车位部署集装箱，并把充电桩投资回收期从 5 年缩短到 2.5 年——无需业主承担资本和运营成本。</li>
-<li style="margin:6px 0;">Xeal 目前全部站点的总电力容量为 200 兆瓦，每个季度新增约 10 兆瓦。CEO 表示，有了算力收入做支撑，电动车充电项目“可以不再依赖联邦补贴和公用事业激励，行业能靠自己站稳”。</li>
-</ul>
-<div style="border-left:4px solid #e11d48;padding-left:10px;font-size:18px;font-weight:bold;margin:28px 0 12px 0;">原文摘录</div>
-<blockquote style="margin:12px 0;padding:8px 14px;border-left:4px solid #bbb;color:#444;font-size:15px;line-height:1.75;background:#fafafa;"><p style="margin:6px 0;">“我们能在几周内让推理和算力上线，而不用像别人那样等上好几年。”</p><p style="margin:6px 0;color:#777;font-size:14px;">（&quot;We are bringing inference and compute online in a matter of weeks versus waiting years.&quot;）</p></blockquote>
-<blockquote style="margin:12px 0;padding:8px 14px;border-left:4px solid #bbb;color:#444;font-size:15px;line-height:1.75;background:#fafafa;"><p style="margin:6px 0;">“资本将是我们浇在火上的汽油，帮助我们构建一种可持续的算力。”</p><p style="margin:6px 0;color:#777;font-size:14px;">（&quot;Capital is just going to be the gas we pour on the fire here to help build a sustainable form of computing.&quot;）</p></blockquote>
-<p style="font-size:15px;line-height:1.75;margin:20px 0 8px 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNyurFCR-2BtNRcLhw-2Bo5mLTZzeZZkCve17gE-2BveTENapA20axMqo4MXy9AOgljuVPP9lkr-2Fd2RroYZE3RsyyYZTShwrkjvhI7f-2FmW5KC9s8BZeILbjkKxUT2pNluUbuxFujzsSuvg7iu87sb0oIvWaNszgRwN0PgIdgvIEO55sw7S4CtAg3FdpGgdMBmqA0UbXcaILJTcfPXfivyOLF0Aej6Q-3D-3DYGiH_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlbx2uYCM-2BuVzNweG4ijeCsj-2FpjaFwzrutUE3kAMtvvcxDDV9mmfZceFSzM78UKW2TokDXshYshIftZmrx8-2BtIiB3MiBFB-2FVJuCtF8RIpJU-2Fg7t7UDfsO2cB525dZIeeI8F0P6IxsG0Bhv1Tp0nZyX3MwmtLKD-2BVsoBo6qnqr6M2-2FpFczse3REyRjDEOPqVO2PHuXbgsx2NJTRSfvJethpR48Lbj3Diz-2FROohbGUSt5SNaPwgPk72n2qMotYumqIlxsFh28o-2F5Toz3SexsXe1-2FqNGML1Y5-2FVbHXp-2B11p3IHlxP5t-2FxeS7xMyks7LtmAE6c" style="color:#e11d48;font-weight:bold;text-decoration:none;">阅读原文</a></p>
-<p style="font-size:13px;color:#888;line-height:1.6;margin:8px 0 0 0;">原文标题：<em>EV Charging Startup Xeal Looking to Raise $2 Billion in a Play to Power the AI Boom</em></p>
-<p style="font-size:13px;color:#888;line-height:1.6;margin:16px 0 8px 0;">本期为摘要版：基于邮件内容的中文摘要与要点提炼，非全文翻译。</p>
-</div>
-</body>
-</html>
 ]]></content:encoded>
 </item>
 </channel>
