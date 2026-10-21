@@ -6,7 +6,46 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 21 Oct 2026 13:51:27 -0400</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 15:20:12 -0400</lastBuildDate>
+<item>
+<title>【资讯】Enovix 爲拿下無人機大單，改用傳統電池架構</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#Enovix 爲拿下無人機大單，改用傳統</guid>
+<pubDate>Wed, 21 Oct 2026 15:20:12 -0400</pubDate>
+<category>资讯</category>
+<description>AI 摘要 五年前上市時承諾今年要做到約 10 億美元電池銷售額的 Enovix，如今全年收入預期只剩約 4100 萬美元。峯迴路轉的是，上週一家軍用無人機製造商向它訂購了 10 萬顆電池——這只是預期中的一連串訂單中的首批。耐人尋味的是，這筆救命訂單用的不是 Enovix 花了十年打磨的招牌"不鏽鋼籠"硅陽極電池，而是更傳統、風險更低的常規架構。執行董事長坦言，無人機業務"火得一塌糊塗"，而且完全出乎意料。這一幕並非孤例：無人機、機器…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html><head><meta charset="utf-8"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:20px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">五年前上市時承諾今年要做到約 10 億美元電池銷售額的 Enovix，如今全年收入預期只剩約 4100 萬美元。峯迴路轉的是，上週一家軍用無人機製造商向它訂購了 10 萬顆電池——這只是預期中的一連串訂單中的首批。耐人尋味的是，這筆救命訂單用的不是 Enovix 花了十年打磨的招牌"不鏽鋼籠"硅陽極電池，而是更傳統、風險更低的常規架構。執行董事長坦言，無人機業務"火得一塌糊塗"，而且完全出乎意料。這一幕並非孤例：無人機、機器人這些新風口上，各家都在悄悄放下最激進的新電池方案，轉向當下能用的折中路線。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;">The Information Electric</div>
+<div style="font-size:13px;color:#888;margin:6px 0 4px;">2026 年 10 月 21 日（星期三） · 作者：Steve LeVine</div>
+<div style="font-size:24px;font-weight:bold;margin:10px 0;">Enovix 爲拿下無人機大單，改用傳統電池架構</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;margin:0;padding-left:20px;"><li>落差巨大：五年前 IPO 時，Enovix 承諾今年實現約 10 億美元的年銷售額，聲稱智能手錶、智能眼鏡和智能手機大廠都急着買它的"不鏽鋼籠"電池。如今公司預計，今年全年收入只有約 4100 萬美元，承諾的訂單從未兌現。</li>
+<li>從天而降的大單：上週公司宣佈，一位此前並未接觸過的軍用無人機製造商簽下合同，訂購 10 萬顆電池，明年年中前交付。執行董事長 T.J. Rodgers（1980 年代賽普拉斯半導體的創始人、億萬富豪）不願透露客戶名稱，但他說僅這一筆訂單，就超過了 Enovix 整個第二季度 900 萬美元的收入；這是預期中一連串訂單的第一批，下一批從明年下半年開始。</li>
+<li>最大意外在於產品本身：這批訂單用的不是 Enovix 花了十年開發的招牌不鏽鋼籠電池（用鋼籠抑制硅陽極膨脹），而是沒有鋼籠的常規架構——同樣是硅陽極，但用碳等其他方式抑制膨脹。</li>
+<li>戰爭紅利外溢：俄烏戰爭與伊朗戰爭引發的無人機熱潮，正外溢到陷入困境的電池行業，給 Enovix 這類初創公司帶來新生。但這些銷售主要流向了願意暫時放下長期研發的"異國情調"電池、改供更傳統低風險產品的公司。同一動態也出現在機器人領域：上週 Agility Robotics 宣佈新一代人形機器人 Digit 將採用英國 Nyobolt 的電池——不是 Nyobolt 聞名的鈮陽極 exotic 電池，而是更傳統的石墨陽極電池。</li>
+<li>SES AI 也在轉向：週一宣佈在明年第二季度前，把韓國工廠的無人機電池產能翻三倍至年產 300 萬顆。SES 曾花十多年爲電動車開發鋰金屬陽極電池，一個車企客戶都沒拿下；在韓國產的將是硅陽極無人機電池，鋰金屬電池只小規模生產。</li>
+<li>爲什麼"常規"贏了：無人機、人形機器人廠商並未完全拋棄下一代電池（這些交易都多少帶點非常規），但暫時沒有擁抱最激進的方案。一是成本——exotic 電池指標再亮眼，缺乏規模化生產、從未經歷成本打磨，就是貴；二是風險——像 Enovix 不鏽鋼籠電池這樣的產品尚未商業落地，真實部署表現無人知曉。</li>
+<li>華爾街依舊不看好：10 月 13 日宣佈訂單後股價兩天漲了 10%，隨後暴跌，週三又反彈；過去一年跌幅 68%，這筆訂單沒有改變市場的基本情緒。</li>
+<li>Rodgers 的"翻盤論"：他還透露，已向一家正在研發新機的智能手機廠商交付了 5 萬顆電芯；預計 2027 年收入約 1 億美元（主要來自智能手機客戶）。軍用無人機在他眼裏是完美的客戶——國防客戶願意爲性能付溢價，"一旦進入無人機且通過軍用認證，他們需要各種各樣的電池"。</li></ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">原文摘錄</div>
+<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;padding-left:14px;margin:0 0 12px;color:#3f3f46;">"無人機業務火得一塌糊塗。無人機業務完全出乎意料，絕對地、徹徹底底地出乎意料。"（"The drone business is going apeshit. The drone business is totally unexpected, absolutely, totally unexpected." —— T.J. Rodgers，Enovix 執行董事長）</blockquote>
+<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;padding-left:14px;margin:0 0 12px;color:#3f3f46;">"軍用生意對一家年輕公司來說是完美的：製造還不成熟、成本高、還沒起量攤薄固定開銷——所有標準問題都存在。"（"Military business is perfect for a young company that's immature in manufacturing and therefore has high costs, and hasn't ramped the volume and amortized overhead—all the standard stuff." —— T.J. Rodgers，Enovix 執行董事長）</blockquote>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">閱讀原文</div>
+<div style="font-size:15px;line-height:1.75;margin:0 0 12px;"><a href="https://www.theinformation.com" style="color:#e11d48;">theinformation.com</a>（本期郵件中的鏈接均爲追蹤跳轉鏈接，無該文章的直接原文鏈接）</div>
+<div style="font-size:13px;color:#888;margin:14px 0;">原文標題：<i>Enovix Went Conventional to Land Its Big Drone Deal</i></div>
+<div style="font-size:13px;color:#888;margin:14px 0 4px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【Applied AI】銀行黑客如何讓 Claude 替他們幹髒活</title>
 <link>https://www.theinformation.com/articles/hackers-used-claude-grok-fully-automate-attacks-banks</link>
@@ -1438,16 +1477,6 @@ Meta 聲稱 Muse Wonder 在某些任務上"提供最優性能"（"deliver state-
 </div>
 </body>
 </html>
-]]></content:encoded>
-</item>
-<item>
-<title>【AI 基建】为什么谷歌、亚马逊和微软离不开中国数据中心供应商</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#为什么谷歌、亚马逊和微软离不开中国数据中</guid>
-<pubDate>Sun, 11 Oct 2026 22:57:58 -0400</pubDate>
-<category>AI 基建</category>
-<description>AI Infrastructure 2026 年 10 月 5 日 为什么谷歌、亚马逊和微软离不开中国数据中心供应商 内容摘要 美国数据中心运营商在电池、液冷系统、光模块等设备上对中国制造商的依赖，正因国家安全担忧受到审视。但中国设备商凭借价格与交付能力占据上风：美国本土厂商交货周期长、供应链紧张。即便特朗普政府与两党参议员的敌意不断上升，亚马逊、谷歌、微软和甲骨文也离不开中国供应商。 这种共生关系在上周新加坡 Data Centre …</description>
-<content:encoded><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"></head><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;"><div style="max-width:720px;margin:0 auto;padding:8px 16px;"><div style="font-size:26px;font-weight:bold;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;">AI Infrastructure</div><div style="font-size:13px;color:#888;margin:8px 0 4px;">2026 年 10 月 5 日</div><div style="font-size:24px;font-weight:bold;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;margin:8px 0;">为什么谷歌、亚马逊和微软离不开中国数据中心供应商</div><div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 10px;">内容摘要</h2><p style="font-size:15px;line-height:1.75;margin:8px 0;">美国数据中心运营商在电池、液冷系统、光模块等设备上对中国制造商的依赖，正因国家安全担忧受到审视。但中国设备商凭借价格与交付能力占据上风：美国本土厂商交货周期长、供应链紧张。即便特朗普政府与两党参议员的敌意不断上升，亚马逊、谷歌、微软和甲骨文也离不开中国供应商。</p><p style="font-size:15px;line-height:1.75;margin:8px 0;">这种共生关系在上周新加坡 Data Centre World Asia 展会上展现得淋漓尽致：中国零部件厂商倾巢出动，展示液冷系统、发电设备、负载箱测试设备等，多位参会者说从没见过这么多中国公司与欧美品牌同场竞技。亚洲数据中心广受欢迎，过去两年四巨头已在亚太承诺投入超 1600 亿美元建设 AI 数据中心（麦肯锡数据）。</p><p style="font-size:15px;line-height:1.75;margin:8px 0;">中国产品走俏主要靠价格与业绩记录。一位印尼数据中心高管说，招标比较下来“中国总是在成本上获胜”，而且中国客户常推动采购偏向中国供应商。一位负责马来西亚数据中心采购的高管则称赞部分中国供应商质量过硬——得益于中国成熟数据中心行业的丰富经验；模块化数据中心技术能把工期压缩到几个月，在中国已用了多年，美国最近才随 AI 基建热潮大规模采用。</p><p style="font-size:15px;line-height:1.75;margin:8px 0;">地缘政治让中国厂商在美国营销困难，它们通过换品牌、在本地设公司来应对：苏州液冷接头厂商 NetonX 考虑在美国和新加坡设实体；成立于 2004 年的模块化数据中心厂商 EPG 已重塑为新加坡公司，今年获 1 亿美元国际融资，并在马来西亚柔佛设厂，服务不接受“上海制造”的美国客户。但敏感部件仍是隐忧：UPS 能精细追踪机房功耗趋势，机房空调也能暴露负载类型，“基本能猜出数据中心在跑什么工作负载”。</p><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 10px;">关键要点</h2><ul style="font-size:15px;line-height:1.75;padding-left:20px;"><li style="margin:6px 0;">美国数据中心依赖中国产电池、液冷系统、光模块等设备；在国家安全担忧下仍无法替代。</li><li style="margin:6px 0;">中国供应商胜在价格与交付：美国本土厂商交货周期长；招标“中国总是在成本上获胜”。</li><li style="margin:6px 0;">谷歌台湾团队今年初曾与英维克等中国厂商洽谈采购液冷系统。</li><li style="margin:6px 0;">模块化数据中心技术把工期压缩到数月，在中国已用多年，美国最近才大规模采用。</li><li style="margin:6px 0;">中国厂商以换品牌、设本地公司应对地缘政治：EPG 变身新加坡公司并在柔佛设厂；NetonX 考虑在美国和新加坡设实体。</li><li style="margin:6px 0;">敏感部件隐忧：UPS 可追踪机房功耗趋势，机房空调可暴露工作负载类型。</li><li style="margin:6px 0;">亚洲热度持续攀升：展会观众达 3.8 万人，中国参展商占比从 2023 年的 5% 升至今年的 30%。</li></ul><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 10px;">原文摘录</h2><blockquote style="border-left:3px solid #ccc;margin:12px 0;padding:4px 12px;color:#555;font-size:14px;line-height:1.7;">招标时把中国公司和现有厂商一比，中国总是在成本上获胜。<br><span style="font-size:13px;color:#999;">（“If we do a tender process and compare a Chinese company with an existing player, China always wins on cost,” said one data center executive from Indonesia.）</span></blockquote><blockquote style="border-left:3px solid #ccc;margin:12px 0;padding:4px 12px;color:#555;font-size:14px;line-height:1.7;">UPS 尤其敏感，因为它能非常细致地追踪数据机房的功耗趋势。<br><span style="font-size:13px;color:#999;">（“is especially sensitive because it’s able to track the power consumption trends of the data halls quite intimately,” said Christopher Han.）</span></blockquote><blockquote style="border-left:3px solid #ccc;margin:12px 0;padding:4px 12px;color:#555;font-size:14px;line-height:1.7;">基本能猜出数据中心在托管什么类型的工作负载。<br><span style="font-size:13px;color:#999;">（“anyone can more or less guess the type of workloads the data center is hosting.”）</span></blockquote><p style="margin:24px 0 8px;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1e-2FK-2BTdJuxwGB9iZyAGLqb8R7efQb8iPdSxkAQC5efnkdoWcfiNSlZMNCHQvM7GEWutvBUZmTsQW3nRrFiRL-2FOXQm7bELE8XEt1HwEfiDwsY6ADOVkkv0yJCoyV9ecqOUbRAs4irBQ1ANBHN3hTdqqsTuLhQmqRoT66aWmtr2e0MUr1xtdt9-2FXMrJh1KK9YzNNz1OODuKmQAakU9o3wQbHvxnI9dQsbGj91niD8uMAoUDDrCkX1JGk4yjxj-2BhVf-2B1cgI-2BjIy-2FTIRKy2V2rHiBEM-2BqGhimo8s5rw0YEgWVVLBYrAP_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlE7xou40FcATsoO1Vps45-2BN7SSeE3EO7qYpX399g8mP92n37yu-2Fq17CprhUeMAjuD4boiEVfrqijNIPeAMcIvqmnTFy-2FzDmlfIwepJfs18VNAU2ATXqlZLCFiEkD6Dvpla7O6iMc-2B7Ql6ld0pmSKN0jNuoWpaQ83Or-2BlyVGUwxNWh1YRFPPt54NTrvonMTQJVRkHEuEuERiSPDhrO8AXmOwqUA90HIxPHSQIGvz-2FMbpy9kNPKhmYfarqwIXYUIYD0BVKiBnqR8DxDBPiDhe3NxQ-3D-3D" style="color:#e11d48;font-size:16px;font-weight:bold;text-decoration:none;">阅读原文 &rarr;</a></p><p style="font-size:13px;color:#888;">原文标题：<em>Why Google, Amazon and Microsoft Need Chinese Data Center Suppliers</em></p><p style="font-size:13px;color:#999;margin-top:24px;border-top:1px solid #e5e5e5;padding-top:12px;">本期为摘要版：基于邮件内容的中文摘要与要点提炼，非全文翻译。</p></div></body></html>
 ]]></content:encoded>
 </item>
 </channel>
