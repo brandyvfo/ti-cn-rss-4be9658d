@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>The Information 中文翻译</title>
-<link>https://brandyvfo.github.io/ti-cn-rss-4be9658d</link>
+<link>https://example.com/ti-cn</link>
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
-<atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://example.com/ti-cn/feed.xml" rel="self" type="application/rss+xml"/>
 <lastBuildDate>Wed, 21 Oct 2026 15:20:12 -0400</lastBuildDate>
 <item>
-<title>【资讯】Enovix 爲拿下無人機大單，改用傳統電池架構</title>
+<title>【电动】Enovix 爲拿下無人機大單，改用傳統電池架構</title>
 <link>https://www.theinformation.com</link>
 <guid isPermaLink="false">https://www.theinformation.com#Enovix 爲拿下無人機大單，改用傳統</guid>
 <pubDate>Wed, 21 Oct 2026 15:20:12 -0400</pubDate>
-<category>资讯</category>
+<category>电动</category>
 <description>AI 摘要 五年前上市時承諾今年要做到約 10 億美元電池銷售額的 Enovix，如今全年收入預期只剩約 4100 萬美元。峯迴路轉的是，上週一家軍用無人機製造商向它訂購了 10 萬顆電池——這只是預期中的一連串訂單中的首批。耐人尋味的是，這筆救命訂單用的不是 Enovix 花了十年打磨的招牌"不鏽鋼籠"硅陽極電池，而是更傳統、風險更低的常規架構。執行董事長坦言，無人機業務"火得一塌糊塗"，而且完全出乎意料。這一幕並非孤例：無人機、機器…</description>
 <content:encoded><![CDATA[<!DOCTYPE html>
 <html><head><meta charset="utf-8"></head>
