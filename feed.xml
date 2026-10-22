@@ -6,7 +6,20 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 22 Oct 2026 07:20:10 -0700</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 11:19:59 -0700</lastBuildDate>
+<item>
+<title>【Applied AI】Salesforce 客戶要爲在應用中使用 Claude 做好付費準備</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#Salesforce 客戶要爲在應用中使</guid>
+<pubDate>Thu, 22 Oct 2026 11:19:59 -0700</pubDate>
+<category>Applied AI</category>
+<description>AI 摘要 Salesforce 正在給“AI 過路費”設卡：最快下個月起，客戶若使用 Claude 等外部 AI 智能體在 Salesforce 應用裏操作數據，必須先爲這些智能體辦理註冊，並按智能體的每次“互動”（更新或分析數據）付費。 這招直指客戶長期“搭便車”的行爲——他們一直免費地在 Salesforce 之上套用 Anthropic、OpenAI 的 AI 工具，把 Salesforce 自家的內置 AI 產品繞了過去。 更…</description>
+<content:encoded><![CDATA[<html><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;"><div style="max-width:720px;margin:0 auto;padding:8px 16px;"><div style="background:#fef2f4;border-left:4px solid #e11d48;padding:16px 18px;margin:0 0 24px;"><p style="margin:0 0 10px;font-size:16px;font-weight:bold;">AI 摘要</p><div style="font-size:14px;line-height:1.7;"><p style="margin:0 0 10px;">Salesforce 正在給“AI 過路費”設卡：最快下個月起，客戶若使用 Claude 等外部 AI 智能體在 Salesforce 應用裏操作數據，必須先爲這些智能體辦理註冊，並按智能體的每次“互動”（更新或分析數據）付費。</p>
+<p style="margin:0 0 10px;">這招直指客戶長期“搭便車”的行爲——他們一直免費地在 Salesforce 之上套用 Anthropic、OpenAI 的 AI 工具，把 Salesforce 自家的內置 AI 產品繞了過去。</p>
+<p style="margin:0 0 10px;">更深層的行業變局是，AI 智能體比人類更高效地使用軟件，按人頭收費的定價模式可能難以爲繼；Atlassian、Workday、ServiceNow、Datadog 等公司也在不同程度地築起自己的 AI 收費關卡。</p>
+<p style="margin:0;">目前收費尚未落地：新客戶有三個月寬限期，老客戶合同續簽前不受影響，客戶們正借這段時間重新評估——是否把業務數據遷出 Salesforce，以躲開這筆費用。</p></div></div><h1 style="margin:0 0 6px;font-size:26px;line-height:1.4;font-weight:bold;">Applied AI</h1><p style="margin:0 0 20px;font-size:13px;color:#71717a;">2026 年 10 月 22 日</p><h2 style="margin:0 0 4px;font-size:24px;line-height:1.4;font-weight:bold;">Salesforce 客戶要爲在應用中使用 Claude 做好付費準備</h2><div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div><h3 style="margin:28px 0 12px;font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;">關鍵要點</h3><ul style="margin:0;padding-left:20px;font-size:15px;line-height:1.75;"><li style="margin:0 0 10px;">最快 11 月起，Salesforce 要求客戶爲任何在應用中代爲執行操作的外部 AI 智能體辦理註冊；智能體的每次操作計爲可計費的“互動”(interaction)。</li><li style="margin:0 0 10px;">Salesforce 稱註冊是出於安全考慮——每個智能體擁有獨立身份和更窄的數據訪問權限；但如何管住運行在個人電腦上的 OpenClaw 類智能體，目前還不清楚，Salesforce 未回應置評請求。</li><li style="margin:0 0 10px;">定價尚未公佈，但顧問和 CIO 警告：鑑於已有大量客戶在免費使用自有 AI 繞過內置 AI 工具，最終費用可能遠高於現在。</li><li style="margin:0 0 10px;">諮詢顧問 Nick Hamm 服務的 150 家企業中多數都在免費使用 Anthropic、OpenAI 的 AI 自動處理 Salesforce 內的事務，如今都在觀望；若費用過高，客戶可能把業務數據遷出 Salesforce 以避開額外成本。</li><li style="margin:0 0 10px;">新客戶在新定價公佈後有三個月寬限期；現有客戶在合同續簽前不受影響。此外客戶可購買“無頭許可證”(headless license)獲得無限智能體用量。</li><li style="margin:0 0 10px;">光纖網絡提供商 Lumen 在價格披露前暫不測試 Salesforce 新連接器；其 CIO Jim Fowler 稱公司過去 12 個月在 Salesforce 內置 AI 銷售智能體上做了“重大”投入，Salesforce 對“用現有訂閱費覆蓋內置 AI 用量”一直“非常靈活”。</li><li style="margin:0 0 10px;">早期客戶反應將決定 Salesforce 在 11 月後續約中的靈活程度；該公司過去的 AI 定價曾多次根據反饋調整。</li><li style="margin:0 0 10px;">行業性影響：Atlassian、Workday、ServiceNow、Datadog 等也在築 AI 收費關卡；問題是這些新收費能否彌補未來按席位訂閱收入可能出現的下滑。</li></ul><h3 style="margin:28px 0 12px;font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;">原文摘錄</h3><blockquote style="margin:0 0 16px;padding:12px 16px;border-left:4px solid #d4d4d8;background:#fafafa;font-size:14px;line-height:1.7;"><p style="margin:0 0 6px;">早下個月起，Salesforce 將要求客戶爲任何打算在應用中代爲執行操作的外部 AI 智能體辦理註冊。智能體在 Salesforce 中的每次操作都計爲可計費的“互動”。</p><p style="margin:0;color:#71717a;font-style:italic;">(Starting around November, Salesforce will require customers to register any externally-made AI agents if they plan to use them to take actions on their behalf in Salesforce apps. Each action an agent takes in Salesforce counts as a billable "interaction.")</p></blockquote><blockquote style="margin:0 0 16px;padding:12px 16px;border-left:4px solid #d4d4d8;background:#fafafa;font-size:14px;line-height:1.7;"><p style="margin:0 0 6px;">目前爲止，Salesforce 在讓 Lumen 用現有訂閱費覆蓋內置 AI 功能（如銷售智能體）方面一直“非常靈活”。</p><p style="margin:0;color:#71717a;font-style:italic;">(So far, Fowler said, Salesforce has been "super flexible" about letting Lumen use existing subscription fees to also cover its use of built-in AI features such as the sales agents.)</p></blockquote><h3 style="margin:28px 0 12px;font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;">閱讀原文</h3><p style="margin:0;font-size:15px;"><a href="https://www.theinformation.com" style="color:#e11d48;text-decoration:none;font-weight:bold;">點擊閱讀原文 →</a></p><p style="margin:24px 0 0;font-size:13px;color:#71717a;">原文標題：<em>Salesforce Customers Brace For New Fees to Use Claude in Its Apps</em></p><p style="margin:12px 0 0;font-size:13px;color:#71717a;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</p></div></body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【AI Agenda】獨家：Utopai 成為獨角獸，視頻 AI 迎來復興</title>
 <link>https://www.theinformation.com/articles/utopai-becomes-unicorn-video-ai-takes</link>
@@ -1479,51 +1492,6 @@ Meta 聲稱 Muse Wonder 在某些任務上"提供最優性能"（"deliver state-
 <category>周末版</category>
 <description>周末版 2026 年 10 月 10 日 扎克伯格的生物科技大时刻 内容摘要 本期周末版的主角是扎克伯格的 Biohub 慈善科学项目：在加州桑尼维尔的一场招待会上，扎克伯格宣布 Biohub 将与美国国立卫生研究院（NIH）和能源部合作，投入 18 亿美元，建设“AI 驱动生物学”所需的技术与科研基础设施。 这只是 Biohub 今年一系列大动作中的最新一项——它今年 4 月已为“虚拟生物学计划”承诺 5 亿美元，而 Meta、Goo…</description>
 <content:encoded><![CDATA[<html><head><meta charset="utf-8"></head><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;"><div style="max-width:720px;margin:0 auto;padding:8px 16px;"><div style="font-size:26px;font-weight:bold;margin:8px 0 4px;">周末版</div><div style="font-size:13px;color:#6b7280;margin:0 0 12px;">2026 年 10 月 10 日</div><div style="font-size:24px;font-weight:bold;margin:12px 0;">扎克伯格的生物科技大时刻</div><div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div><div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 8px;">内容摘要</div><p style="font-size:15px;line-height:1.75;margin:10px 0;">本期周末版的主角是扎克伯格的 Biohub 慈善科学项目：在加州桑尼维尔的一场招待会上，扎克伯格宣布 Biohub 将与美国国立卫生研究院（NIH）和能源部合作，投入 18 亿美元，建设“AI 驱动生物学”所需的技术与科研基础设施。</p><p style="font-size:15px;line-height:1.75;margin:10px 0;">这只是 Biohub 今年一系列大动作中的最新一项——它今年 4 月已为“虚拟生物学计划”承诺 5 亿美元，而 Meta、Google DeepMind 和 Isomorphic Labs 将再追加 3 亿美元；Biohub 总裁 Lori Goler 说，该计划的灵感正是当年的人类基因组计划。</p><p style="font-size:15px;line-height:1.75;margin:10px 0;">作者 Amy Dockser Marcus 把这次活动放在更大的图景里：AI 正在把科研领导权从大学转移到大科技公司。扎克伯格被特朗普任命为总统科学技术顾问委员会成员（13 人中仅 1 位学者），布林与黄仁勋获颁国家科学奖章，Anthropic 则承诺为特朗普的“Genesis Mission”提供 1.5 亿美元 AI 算力。</p><p style="font-size:15px;line-height:1.75;margin:10px 0;">本期另附：Big Read 起底 Cognition、Ramp 背后的神秘投资人 Zach Frankel；科技宅为何在自家囤积 AI 算力；以及本周流行文化推荐——Audible 新版《德古拉》、Kevin Roose 的《The AGI Chronicles》和 Mahershala Ali 的新片。</p><div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 8px;">关键要点</div><ul style="font-size:15px;line-height:1.75;padding-left:22px;margin:8px 0;"><li style="margin:6px 0;">Biohub 与 NIH、能源部合作投资 18 亿美元，推动“AI 驱动生物学”的科研基础设施建设。</li><li style="margin:6px 0;">“虚拟生物学计划”：Biohub 承诺 5 亿美元；Meta、Google DeepMind、Isomorphic Labs 再追加 3 亿美元。</li><li style="margin:6px 0;">扎克伯格称，“在本世纪末治愈和预防所有疾病”的目标当年曾被人翻白眼，但 AI 让它不再显得疯狂。</li><li style="margin:6px 0;">科学权力转移：扎克伯格入选总统科学技术顾问委员会（13 名成员中仅 1 位学者）；Brin 与 Huang 获颁国家科学奖章。</li><li style="margin:6px 0;">Anthropic 为特朗普的“Genesis Mission”提供价值 1.5 亿美元的 AI 算力与支持。</li></ul><div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 8px;">原文摘录</div><blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #9ca3af;padding:4px 12px;margin:12px 0;color:#374151;">“我们收获了很多白眼，”扎克伯格说，“大家都觉得这有点疯狂。”（“We got a lot of eye rolls,” Zuckerberg said. “People thought that was kind of crazy.”）</blockquote><blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #9ca3af;padding:4px 12px;margin:12px 0;color:#374151;">高勒说：“这真的是一个文化时刻。”（“It really is a cultural moment,” she said.）</blockquote><p style="font-size:15px;line-height:1.75;margin:10px 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNP9IJ8DjQny8Spa-2B5-2B9JU5WFOFk5vnpzBuczioG4-2FxsHELF6LjE0FbajKOWqxl4Le2igJeTsnoOyFbITM4R-2BCR1WA3qIONlmLh8n0XfFqcxv1Nmga7cf4NAhDPE-2Bh8F0n-2BQVK00vI6c0nE1fs36CNugxhhJnoVfBWKuroAiG-2FuFTDBjlUD5DhDTj-2FpvgiPF8eEWeS80piu8y1QEXBkssbZg-3D-3DrDOV_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlT6GY9wQA-2FaeCWlEdlU0pBab1928WSBsZZ1qGjyg0iilM7MpALakqhW0y2DzQigSTBuXg6M761VVeUimZaNfgdsM5-2BPiEbqlTlL2MBZeP2X5EBsaGQQm-2FFAlmVepMcDgdIclnotZ-2B4UyZnS5uOrqozFAYktv1fSGfkD1mAXqDfroAorrSxDwX-2FA3raA1nwy1no-2FVFX-2F6INOv7o9U4iM4GS9-2FF5AR4o4yvNeExZR0NRn5X1iKp5DsAvvg4t50nIlkgaGpE03rmp3gZIsU7L7TFww-3D-3D" style="color:#e11d48;font-weight:bold;text-decoration:none;">阅读原文 →</a></p><p style="font-size:13px;color:#6b7280;margin:16px 0 4px;">原文标题：<em>Zuckerberg’s Big Biotech Moment</em></p><p style="font-size:13px;color:#6b7280;margin:24px 0 0;">本期为摘要版：基于邮件内容的中文摘要与要点提炼，非全文翻译。</p></div></body></html>
-]]></content:encoded>
-</item>
-<item>
-<title>【简报】AI 公司的"花式"收入指标：OpenAI 年化收入乌龙记</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#AI 公司的"花式"收入指标：OpenA</guid>
-<pubDate>Sun, 11 Oct 2026 22:59:18 -0400</pubDate>
-<category>简报</category>
-<description>The Briefing 2026 年 10 月 9 日 AI 公司的"花式"收入指标：OpenAI 年化收入乌龙记 内容摘要 上周广为流传的 OpenAI 准收入数字错得离谱：不是 700 亿美元年化收入，而是接近 500 亿美元。金融时报周四披露较低数字后，英伟达、CoreWeave、Nebius 等芯片和新云厂商的股价应声下跌。 乌龙的根源很复杂，但它提醒所有人：大家太依赖"年化收入"（ARR）来追踪公司表现了。AI 公司收入爆发…</description>
-<content:encoded><![CDATA[<!DOCTYPE html>
-<html>
-<head><meta charset="utf-8"></head>
-<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
-<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
-<div style="font-size:26px;font-weight:bold;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;">The Briefing</div>
-<div style="font-size:13px;color:#888888;margin-top:6px;">2026 年 10 月 9 日</div>
-<div style="font-size:24px;font-weight:bold;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;margin-top:14px;">AI 公司的"花式"收入指标：OpenAI 年化收入乌龙记</div>
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin-top:20px;">内容摘要</div>
-<div style="font-size:15px;line-height:1.75;margin-top:10px;">
-<p style="margin:0 0 12px 0;">上周广为流传的 OpenAI 准收入数字错得离谱：不是 700 亿美元年化收入，而是接近 500 亿美元。金融时报周四披露较低数字后，英伟达、CoreWeave、Nebius 等芯片和新云厂商的股价应声下跌。</p>
-<p style="margin:0 0 12px 0;">乌龙的根源很复杂，但它提醒所有人：大家太依赖"年化收入"（ARR）来追踪公司表现了。AI 公司收入爆发式增长，让季度财报显得过时，于是"拿一个月收入乘以 12"成了标准算法——但这只是对公司全貌的拙劣替代，没人知道那一个月的收入能否准确外推一整年。</p>
-<p style="margin:0 0 12px 0;">风险还被口径差异放大：OpenAI 与 Anthropic 的收入计算方式不同（是否包含付给云厂商的分成）；这些数字多来自投资者私下沟通而非定期披露，投资者和媒体的粗糙计算还会出错。要等 AI 公司上市、看到真实财报，这个问题才会缓解。</p>
-<p style="margin:0 0 12px 0;">马斯克的手机野心：SpaceX 宣布收购全国性低频段频谱，马斯克称这是"在美国提供完整手机覆盖的频谱拼图最后一块关键"，Verizon、T-Mobile、AT&T 盘后各跌 6-7%。但建基站、提供可靠服务的成本和难度都不小，挑战现任者绝非易事。</p>
-</div>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin-top:20px;">关键要点</div>
-<ul style="font-size:15px;line-height:1.75;margin-top:10px;padding-left:22px;">
-<li>OpenAI 年化收入实为约 500 亿美元，而非此前流传的 700 亿美元。</li>
-<li>金融时报披露后，英伟达、CoreWeave、Nebius 等芯片和新云厂商股价下跌。</li>
-<li>年化收入 = 单月收入 × 12，是粗糙指标；OpenAI 与 Anthropic 口径不同（云厂商分成是否计入）。</li>
-<li>数字多来自投资者私下沟通而非定期披露，易出错；AI 公司上市后才会有真实财报。</li>
-<li>SpaceX 收购全国性低频段频谱进军手机业务，三大运营商盘后跌 6-7%；但自建基站、提供可靠服务成本高、难度大。</li>
-<li>美政府限制微软为部分移民工人担保签证，万斯称正调查"裁美国人、雇移民"指控。</li>
-<li>Alphabet 的 Waymo 完成 50 亿美元定期贷款，为其首次债务融资。</li>
-<li>被 OpenAI 开除的三名安全研究员称因提出安全担忧而遭报复。</li>
-</ul>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin-top:20px;">原文摘录</div>
-<blockquote style="border-left:3px solid #cccccc;margin:12px 0;padding:4px 14px;color:#444444;font-size:15px;line-height:1.75;">"拿一个月的收入乘以 12，是对公司全貌的拙劣替代。"（"Taking one month's revenue and multiplying it by 12... is a poor substitute for a fuller picture of a company's performance."）</blockquote>
-<blockquote style="border-left:3px solid #cccccc;margin:12px 0;padding:4px 14px;color:#444444;font-size:15px;line-height:1.75;">马斯克：这笔频谱收购是"SpaceX 在美国提供完整手机覆盖所需的频谱拼图的最后一块关键"。（"Is the last critical piece of the spectrum puzzle needed for SpaceX to provide complete phone coverage in America."）</blockquote>
-<div style="margin-top:22px;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNKWGHR1wIw1ykyOdb3cmO9SmnoLYpGofDM3Uvlmz4UCCjfHKrq-2FsrDHzcZwzOfBMXradRHqbDqug1RGj-2B-2By1J5emomVrjWCtYP3qxfrNSB2ri9ZqYyZDOVwQO0yVaK7Krp6xdh4-2FXzPi3F-2BEYMSAYF8ZSaQLMi6t-2BsA1WZRPulAtGt9tFj8572pdooSt9ITmDY2FxAIXSijlqz0BSc-2B8Spg-3D-3DaEMw_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlbx2uYCM-2BuVzNweG4ijeCsq1NLTQ3vBSqvpJwiAM5chkY1B98sTt2TFAAhy6DAHEYNl7VF9Ro62SVqEqhBm5TuHLyp5yavu8h9KiEK3jfWrtaSwqQeYIAQYl5s3WsbmqoDVRYSUv-2FmJvjOIYjyPAoISFEq1Pj5UXKLmIh-2FsaULjxV3VS8kYmYKouG7oqCREpZID5cVAYEZwXl609MPoBhYJ-2F0YlpVESgyPlq-2FRaJ-2FWJC3xz51Yp7d6DYWgt45uGl0Xbvj-2BA-2BEL0Qd-2F8os1cRXl8sWNSC-2FNAfn-2FC3eoDEeePneqya8ngJC0e68xnxO-2FUBU" style="color:#e11d48;font-size:16px;font-weight:bold;">阅读原文 →</a></div>
-<div style="font-size:13px;color:#888888;margin-top:10px;">原文标题：<i>The Briefing: AI's Funky Revenue Metric</i></div>
-<div style="font-size:13px;color:#888888;margin-top:22px;border-top:1px solid #dddddd;padding-top:12px;">本期为摘要版：基于邮件内容的中文摘要与要点提炼，非全文翻译。</div>
-</div>
-</body>
-</html>
 ]]></content:encoded>
 </item>
 </channel>
