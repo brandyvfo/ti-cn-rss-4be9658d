@@ -6,7 +6,38 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 21 Oct 2026 15:50:42 -0400</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 20:23:19 -0400</lastBuildDate>
+<item>
+<title>【简报】"防守者窗口"正在關閉：AI 網絡安全攻防賽提速，Meta 擬發 C 類股融資</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#"防守者窗口"正在關閉：AI 網絡安全攻</guid>
+<pubDate>Wed, 21 Oct 2026 20:23:19 -0400</pubDate>
+<category>简报</category>
+<description>AI 摘要 本期 The Briefing 聚焦 AI 時代的網絡安全攻防賽：OpenAI 提出的"防守者窗口"——安全人員藉助先進 AI 搶在攻擊者之前發現並修復漏洞的關鍵時間——正在迅速收窄，因爲中國開源模型（如 Z.ai 的 GLM-5.3）與美國前沿模型的差距已縮至約四個月，而開源模型不受美國實驗室的能力限制。好消息是 OpenAI 牽頭的聯盟自 8 月起修復 PHP 關鍵漏洞，而特朗普政府新設的"超智能部隊"首次介入協調，施壓…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8"/></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin:0 0 20px;">
+<div style="font-size:16px;font-weight:bold;color:#b3122f;margin-bottom:8px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;color:#333;">本期 The Briefing 聚焦 AI 時代的網絡安全攻防賽：OpenAI 提出的"防守者窗口"——安全人員藉助先進 AI 搶在攻擊者之前發現並修復漏洞的關鍵時間——正在迅速收窄，因爲中國開源模型（如 Z.ai 的 GLM-5.3）與美國前沿模型的差距已縮至約四個月，而開源模型不受美國實驗室的能力限制。好消息是 OpenAI 牽頭的聯盟自 8 月起修復 PHP 關鍵漏洞，而特朗普政府新設的"超智能部隊"首次介入協調，施壓相關方部署補丁。同時 Meta 第三季度營收增長 26% 至 646 億美元，宣佈發行無投票權 C 類股爲 AI 投入融資而不稀釋扎克伯格的控制權；Muse 應用上線六週即獲千萬用戶，Tesla 則因汽車業務疲軟盤後下跌。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;">The Briefing</div>
+<div style="font-size:13px;color:#888;margin:6px 0 0;">2026 年 10 月 21 日</div>
+<div style="font-size:24px;font-weight:bold;margin:14px 0 0;line-height:1.4;">"防守者窗口"正在關閉：AI 網絡安全攻防賽提速，Meta 擬發 C 類股融資</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;padding-left:22px;margin:0 0 12px;"><li style="margin-bottom:8px;"><b>PHP 關鍵漏洞與"防守者窗口"：</b>OpenAI 牽頭的聯盟自 8 月起修復 PHP（支撐互聯網的開源編程語言）的關鍵漏洞，補丁正在推進。OpenAI 所謂的"防守者窗口"，是指安全專家藉助先進 AI 模型、在攻擊者之前發現並修復漏洞的關鍵時間段。</li><li style="margin-bottom:8px;"><b>攻防差距收窄：</b>Anthropic 在 9 月底的博客中警告，中國實驗室 Z.ai 的 GLM-5.3 模型僅落後美國前沿模型約四個月；中國開源模型不受美國實驗室對模型能力的限制，長期"慢工出細活"的漏洞響應方式可能很快不再可行。</li><li style="margin-bottom:8px;"><b>新設"超智能部隊"介入：</b>特朗普政府新設 Super Intelligence Force，由國家情報總監 Jay Clayton 和國防部高級官員 Emil Michael 牽頭。OpenAI 發言人稱已向上周向包括 CISA 在內的多個機構及 Clayton、Michael 簡報了 PHP 漏洞，是雙方首次"重大接觸"；該機構提供跨政府協調，並向相關方施壓部署補丁。</li><li style="margin-bottom:8px;"><b>政策轉折點：</b>一位前白宮官員表示，7 月成立的 Gold Eagle 漏洞共享清算所可能已經過時；中國網絡能力開源模型的到來可能成爲"Mythos 2.0 時刻"。下一次重大互聯網漏洞，很可能不會再有長達兩個月的防守者窗口。</li><li style="margin-bottom:8px;"><b>Meta Q3 超預期：</b>第三季度營收增長 26% 至 646 億美元；Reality Labs 虧損收窄；自由現金流爲 -21.2 億美元（去年同期爲 +106.3 億美元），主因 AI 投入，但好於分析師預期；全年資本開支預計 1350–1450 億美元，符合此前指引。盤後股價漲 2%。</li><li style="margin-bottom:8px;"><b>Meta 設 C 類股 + Muse 增長：</b>Meta 宣佈設立無投票權 C 類普通股，用於爲 AI 鉅額投入融資：1 月 19 日生效，老股東每股 A/B 股獲派 1 股 C 股，未來用 C 類股融資不會稀釋扎克伯格的投票權。扎克伯格稱 Muse 智能體應用在美加上線六週即獲 1000 萬用戶，增速超過 Threads；對多數人免費，未來靠商家交易佣金和高級用戶付費盈利。</li><li style="margin-bottom:8px;"><b>Meta 法律成本高企：</b>Q3 營業利潤同比下降 37% 至不足 130 億美元，主因近 100 億美元的法律相關費用；8 月以 185.9 億美元與 52 位州總檢察長就兒童網絡安全案和解；新墨西哥州法官本週判令 Meta 在劍橋分析案中支付 250 億美元。</li><li style="margin-bottom:8px;"><b>Tesla 財報平淡：</b>馬斯克在財報電話會上對 SpaceX 合併話題表示"該說的都說了"；汽車營收同比降 3% 至 205.6 億美元，總營收持平 280 億美元。盤後股價跌 3%。</li><li style="margin-bottom:8px;"><b>其他消息：</b>EA 計劃裁員約 400 人（約 3% 員工）並關閉 BioWare 工作室；微軟提請股東批准因 Xbox 收入下滑給 CEO 納德拉降薪 6%，並提名 Stripe 聯創 John Collison 進入董事會；Google 將不再要求地方政府官員在數據中心規劃中籤署保密協議。記者獨家：黑客利用 Claude 和 Grok 自動化攻擊銀行。</li></ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">原文摘錄</div>
+<blockquote style="border-left:3px solid #ccc;padding-left:12px;color:#444;margin:0 0 12px;font-size:15px;line-height:1.7;">"下一次重大互聯網漏洞，很可能不會再有長達兩個月的防守者窗口。"<br/><span style="color:#888;font-size:13px;">"The next major internet bug likely won't have the luxury of a two-month-long defender's window."</span></blockquote><blockquote style="border-left:3px solid #ccc;padding-left:12px;color:#444;margin:0 0 12px;font-size:15px;line-height:1.7;">"設立 C 類普通股將延續自公司成立以來推動其成功的創始人領導模式，"Meta 表示。<br/><span style="color:#888;font-size:13px;">"The creation of the Class C common stock will continue the founder-led model that has driven the company's success since its inception," Meta said.</span></blockquote>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">閱讀原文</div>
+<p><a href="https://www.theinformation.com" style="color:#e11d48;font-size:16px;font-weight:bold;text-decoration:none;">閱讀原文 &rarr;</a></p>
+<p style="font-size:13px;color:#888;">原文標題：<em>The Briefing: The 'Defender's Window' Could Be Closing</em></p>
+<p style="font-size:13px;color:#999;margin-top:24px;border-top:1px solid #e5e5e5;padding-top:12px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</p>
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【财经】私募股權還能在網絡安全領域獲勝嗎？</title>
 <link>https://www.theinformation.com</link>
@@ -1424,46 +1455,6 @@ Meta 聲稱 Muse Wonder 在某些任務上"提供最優性能"（"deliver state-
 <category>简报</category>
 <description>The Briefing 2026 年 10 月 6 日 Uber 的餐饮交易 内容摘要 外卖行业已完全进入“靠收购实现增长”的时代：Uber 周二宣布以 23 亿美元收购企业餐饮公司 ezCater，就在几周前，DoorDash 刚以 3 亿美元从 Wonder 手中买下一家校园餐食配送业务。 这两笔收购都不会让投资者兴奋，但信号很明确：Uber 和 DoorDash 正在不放过任何一块石头、想方设法维持增长。两家此前已在欧洲大举整合…</description>
 <content:encoded><![CDATA[<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;"><div style="max-width:720px;margin:0 auto;padding:8px 16px;"><div style="font-size:26px;font-weight:bold;">The Briefing</div><div style="font-size:13px;color:#6b7280;margin:8px 0 0;">2026 年 10 月 6 日</div><div style="font-size:24px;font-weight:bold;margin:16px 0 0;">Uber 的餐饮交易</div><div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:28px 0 12px;">内容摘要</h2><p style="font-size:15px;line-height:1.75;">外卖行业已完全进入“靠收购实现增长”的时代：Uber 周二宣布以 23 亿美元收购企业餐饮公司 ezCater，就在几周前，DoorDash 刚以 3 亿美元从 Wonder 手中买下一家校园餐食配送业务。</p><p style="font-size:15px;line-height:1.75;">这两笔收购都不会让投资者兴奋，但信号很明确：Uber 和 DoorDash 正在不放过任何一块石头、想方设法维持增长。两家此前已在欧洲大举整合：DoorDash 收购了 Deliveroo 和 Wolt，Uber 则收购了 Delivery Hero——Uber 买下的部分去年总预订额约相当于 Uber Eats 的一半，对其增速的拉动将比 DoorDash 的收购更显著。</p><p style="font-size:15px;line-height:1.75;">即便不靠收购，两家基本面其实不差：DoorDash 的预订增速从 2024 年底的 19% 回升到过去 18 个月的 36%（Deliveroo 收购有贡献，但收购完成前业务已经反弹）；Uber 外卖预订增速过去 18 个月也在加快（Delivery Hero 交易尚未完成），不过同期其网约车业务出现了放缓。</p><p style="font-size:15px;line-height:1.75;">小型收购也没停过：DoorDash 去年买了酒店软件公司 SevenRooms；Uber 过去约一年买了停车应用 SpotHero、豪华出行公司 Blacklane，以及一家为其新 AI 数据标注业务服务的数据采集公司。两家现金流充沛，看到有潜力的收购就出手。</p><p style="font-size:15px;line-height:1.75;">本期其他新闻：Ellison 家族的 Paramount Skydance 按期完成 1100 亿美元收购华纳兄弟探索公司，更名为 Skydance（股票代码 SKYD），上市首日收于 9.53 美元，远低于 Ellison 家族等投资人 12 美元的入股价格，公司背负 790 亿美元债务。高盛提拔资深科技银行家 Jane Dunlevie 共同领导 TMT 投行业务；快手分拆的 Kling AI 已选定银行筹备香港 IPO，募资或超 10 亿美元；Anthropic 扩大网络安全项目，让更多防御者用其最先进的 Claude 模型抵御 AI 攻击；Pinterest 任命亚马逊高管 James Dibbo 为 CFO，为年内第四次高管层变动。</p><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:28px 0 12px;">关键要点</h2><ul style="font-size:15px;line-height:1.75;padding-left:22px;"><li style="margin-bottom:8px;">Uber 以 23 亿美元收购企业餐饮公司 ezCater。</li><li style="margin-bottom:8px;">DoorDash 几周前以 3 亿美元收购 Wonder 旗下的校园餐食配送业务。</li><li style="margin-bottom:8px;">DoorDash 预订增速过去 18 个月从 19% 回升至 36%；Uber 外卖预订增速也在加快，但网约车业务同期放缓。</li><li style="margin-bottom:8px;">Uber 收购的 Delivery Hero 相关部分去年总预订额约相当于 Uber Eats 的一半，对增速拉动更明显。</li><li style="margin-bottom:8px;">小型收购不断：DoorDash 买 SevenRooms；Uber 买 SpotHero、Blacklane 和一家 AI 数据标注公司。</li><li style="margin-bottom:8px;">Skydance 完成 1100 亿美元收购华纳兄弟探索并更名上市，首日收 9.53 美元，公司债务 790 亿美元。</li><li style="margin-bottom:8px;">高盛提拔 Jane Dunlevie 共同领导 TMT 投行；Kling AI 筹备香港 IPO，或募资超 10 亿美元；Pinterest 年内第四次更换高管（新任 CFO James Dibbo）。</li></ul><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:28px 0 12px;">原文摘录</h2><blockquote style="border-left:4px solid #d1d5db;margin:12px 0;padding:8px 14px;color:#374151;font-size:15px;line-height:1.75;">“外卖行业已完全进入靠收购实现增长的时代。”<br><span style="color:#9ca3af;font-size:13px;">&#65288;We're well into the growth-through-acquisition era in the food-delivery industry.&#65289;</span></blockquote><blockquote style="border-left:4px solid #d1d5db;margin:12px 0;padding:8px 14px;color:#374151;font-size:15px;line-height:1.75;">“两家公司都在大把赚钱。看起来它们都认定：只要收购看起来有前景，就出手。”<br><span style="color:#9ca3af;font-size:13px;">&#65288;Both Uber and DoorDash are throwing off lots of cash. It seems they've both decided that when an acquisition looks promising, they should go for it!&#65289;</span></blockquote><div style="margin:28px 0 8px;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBnPCXMf7muTnPAGZGawge6JeTCNF-2F1Qxzx0SNyX6z6NQs4DZMzXMJviqTlD5fV3Pfp578PbtBiOfF0eOMf92H4tqOKzQRA7vk5K-2FDUH3-2F-2FCl2r1BkiAnT7wtQ68HZRt2w0gk2OwxWkgjXJ8WmPvdR-2BSIHdHr447njbn7o8D-2Fv0mLg-3D-3D31BM_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlbx2uYCM-2BuVzNweG4ijeCsm958uI0LyaP76TAj4Vz45to6X5-2Ba4SSc1WOxPwbt7IlEgmntA-2FrfXWgJVIhmjqgcV2PVyqLjqR-2BrQ-2B0HGTkpRalkoLR5MwfdSoVKddai-2B5dLbs6F0S6rvY0Jxp-2FirlhhqF-2B1u0-2BgAxMlhhekLCe3TDJGntPKVQm121kOU6uq71kSp4sPWTu8LbWDFGicA-2B61FVTbFrToXuzZp1Z1pkFzwRh-2BQomlP4UTl72qDlJao6l0T6bctNYL68XSteAhVT5B-2BirmTT4JQJ-2F44L3VdKSCFAKAM1IuFCs4Vi11sSnGmyq" style="color:#e11d48;font-size:16px;font-weight:bold;">&#38405;&#35835;&#21407;&#25991; &rarr;</a></div><div style="font-size:13px;color:#6b7280;margin:8px 0 24px;">&#21407;&#25991;&#26631;&#39064;&#65306;<em>The Briefing: Uber’s Catering Deal</em></div><div style="font-size:13px;color:#9ca3af;margin-top:24px;">&#26412;&#26399;&#20026;&#25688;&#35201;&#29256;&#65306;&#22522;&#20110;&#37038;&#20214;&#20869;&#23481;&#30340;&#20013;&#25991;&#25688;&#35201;&#19982;&#35201;&#28857;&#25552;&#28860;&#65292;&#38750;&#20840;&#25991;&#32763;&#35793;&#12290;</div></div></body>
-]]></content:encoded>
-</item>
-<item>
-<title>【Applied AI】中国开源模型赢得 The Information 五分之一订阅者的青睐</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#中国开源模型赢得 The Informa</guid>
-<pubDate>Sun, 11 Oct 2026 22:58:35 -0400</pubDate>
-<category>Applied AI</category>
-<description>Applied AI 2026 年 10 月 8 日 中国开源模型赢得 The Information 五分之一订阅者的青睐 内容摘要 上月对 The Information 订阅者的一项调查显示，近三分之二的人表示其组织正在开发 AI 应用，三分之一的人表示 AI 带来的回报是支出的“数倍”。相比去年麻省理工学院的一项研究（只有 5% 的定制企业 AI 工具真正进入生产），企业在这方面已经取得明显进展。 具体工具层面，订阅者过去一年对…</description>
-<content:encoded><![CDATA[<!DOCTYPE html>
-<html lang="zh-CN">
-<head><meta charset="utf-8"></head>
-<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
-<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
-<div style="font-size:26px;font-weight:bold;line-height:1.4;margin:8px 0 4px 0;">Applied AI</div>
-<div style="font-size:13px;color:#888;margin:0 0 16px 0;">2026 年 10 月 8 日</div>
-<div style="font-size:24px;font-weight:bold;line-height:1.4;margin:0 0 8px 0;">中国开源模型赢得 The Information 五分之一订阅者的青睐</div>
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
-<div style="border-left:4px solid #e11d48;padding-left:10px;font-size:18px;font-weight:bold;margin:28px 0 12px 0;">内容摘要</div>
-<p style="font-size:15px;line-height:1.75;margin:10px 0;">上月对 The Information 订阅者的一项调查显示，近三分之二的人表示其组织正在开发 AI 应用，三分之一的人表示 AI 带来的回报是支出的“数倍”。相比去年麻省理工学院的一项研究（只有 5% 的定制企业 AI 工具真正进入生产），企业在这方面已经取得明显进展。</p>
-<p style="font-size:15px;line-height:1.75;margin:10px 0;">具体工具层面，订阅者过去一年对 Anthropic 的 Claude 和谷歌的 Gemini 的使用明显上升，挤占了 OpenAI 的 ChatGPT 的份额；不过 ChatGPT 仍然领先，且近期对 Claude 收复了一些失地。微软 Copilot 的使用量反而在下降，SpaceX 的 Grok 则在订阅者中小幅回升。</p>
-<p style="font-size:15px;line-height:1.75;margin:10px 0;">在代码助手和智能体这个更细分的市场，早期 GitHub Copilot 与 Cursor 的双头垄断已经消失：Claude Code 如今占据主导，OpenAI 的 Codex 随着能力提升在今年大幅追赶，Cursor 紧随其后。</p>
-<p style="font-size:15px;line-height:1.75;margin:10px 0;">本期最受关注的数据是开源模型的渗透：46% 的订阅者表示在工作中至少使用一些开源模型，其中 21% 使用中国模型（约四分之一用过 DeepSeek 的模型，约六分之一经常使用月之暗面的 Kimi K3）。但一个关键细节是：只有 20% 的订阅者把开源模型用于大部分 AI 工作负载——大多数人依然同时重度依赖 GPT、Claude 等闭源模型。</p>
-<div style="border-left:4px solid #e11d48;padding-left:10px;font-size:18px;font-weight:bold;margin:28px 0 12px 0;">关键要点</div>
-<ul style="font-size:15px;line-height:1.75;margin:10px 0;padding-left:22px;">
-<li style="margin:6px 0;">回报数据（上月在 AI Agenda Live 上首次公布）：三分之一订阅者称 AI 回报是支出的“数倍”；另有 17% 有正回报但低于预期，30% 认为现在判断为时过早，仅 10% 认为是浪费。</li>
-<li style="margin:6px 0;">工具份额：Claude 和 Gemini 过去一年上升、ChatGPT 份额被挤压但仍领先；Gemini 的回升可能来自谷歌签下更多企业客户或与搜索的深度整合；微软 Copilot 使用量下降。</li>
-<li style="margin:6px 0;">代码助手格局重塑：GitHub Copilot 与 Cursor 的双头垄断消失，Claude Code 主导，OpenAI Codex 今年强势追赶。</li>
-<li style="margin:6px 0;">中国开源模型崛起：21% 的订阅者使用中国模型（DeepSeek、月之暗面 Kimi K3 等），凸显中国开源权重模型对美国闭源开发商的冲击；但只有 20% 的订阅者把开源模型用于大部分 AI 工作负载。</li>
-<li style="margin:6px 0;">就业影响：近一半订阅者表示 AI 未带来招聘变化；22% 表示招人减少，10% 表示招人增加——目前 AI 尚未让岗位消失，但正在改变现有岗位的性质。</li>
-</ul>
-<div style="border-left:4px solid #e11d48;padding-left:10px;font-size:18px;font-weight:bold;margin:28px 0 12px 0;">原文摘录</div>
-<blockquote style="margin:12px 0;padding:8px 14px;border-left:4px solid #bbb;color:#444;font-size:15px;line-height:1.75;background:#fafafa;"><p style="margin:6px 0;">“三分之一的订阅者表示，他们从 AI 获得的回报是支出的‘数倍’。”</p><p style="margin:6px 0;color:#777;font-size:14px;">（&quot;a third of subscribers said they receive a return from AI that is a ‘multiple of what we spend.’&quot;）</p></blockquote>
-<blockquote style="margin:12px 0;padding:8px 14px;border-left:4px solid #bbb;color:#444;font-size:15px;line-height:1.75;background:#fafafa;"><p style="margin:6px 0;">“只有 20% 的订阅者表示，开源模型承担了他们大部分的 AI 工作负载。”</p><p style="margin:6px 0;color:#777;font-size:14px;">（&quot;only 20% of subscribers say they use open source models for a majority of their AI workloads&quot;）</p></blockquote>
-<p style="font-size:15px;line-height:1.75;margin:20px 0 8px 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkayEPumDOht6B6TI0Zt47OOPdyFmh0DcQxoqsLQlgwtCVDfh2xjdj-2BJXUa5J-2BNMMnVeq8CI7G-2FWF0DX0ggmOvhxQYiZBUare4RGiYD3lCptepVwPVUSeOfKlGUQS31saYJg0LL14MBthBCPD5avI-2FXMLLlXr2V2mlnrdN0czhlBxbZGnovj13nZGeWCmWeIGnIF6ZYj9RJS8erL2eNe2TOtCtOzOfVRbO6alvilOYil0-2BQwO21oEoRzFgynQYPSYgTbALLWXzJh76nVnvsdpuVlFix_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlbx2uYCM-2BuVzNweG4ijeCskERk9JSu0jxQD6U0NCIrJiq2dqJBqQ-2BhvD6i5Es-2BQtWuv-2BK-2BAm9kjonPm4CzT3M-2BvpGcyLMOzu-2BoOVl0DihypPauUigeVNl17tnPdkV0FGY1XoY8YqaUyCg9OaMPS4NJVT85a9-2FficNbadq7tFFCHWScK7PBoWDcID-2FMTA1UCMeBNmOEfDTX8aUvEcfPQtqP6eSzzJHMX5AfmGSvFtQMW6Zja3wph9Mb-2BVhGDl-2BU2o05WXfu9m5sWvxAVj5XAwyawdIMHtTFtpllI4cKzpY5NAis3bENwx7Rd9LEUKQzUl6" style="color:#e11d48;font-weight:bold;text-decoration:none;">阅读原文</a></p>
-<p style="font-size:13px;color:#888;line-height:1.6;margin:8px 0 0 0;">原文标题：<em>Chinese Open Models Win Over One in Five of The Information’s Subscribers</em></p>
-<p style="font-size:13px;color:#888;line-height:1.6;margin:16px 0 8px 0;">本期为摘要版：基于邮件内容的中文摘要与要点提炼，非全文翻译。</p>
-</div>
-</body>
-</html>
 ]]></content:encoded>
 </item>
 </channel>
