@@ -6,7 +6,48 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 25 Oct 2026 14:19:10 -0700</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 15:18:39 -0700</lastBuildDate>
+<item>
+<title>【简报】Anthropic 的時刻到來了：S-1 文件將解答的五大疑問</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#Anthropic 的時刻到來了：S-1</guid>
+<pubDate>Sun, 25 Oct 2026 15:18:39 -0700</pubDate>
+<category>简报</category>
+<description>AI 摘要 科技界的"超級碗"可能終於要來了：Anthropic 最早可能在週一公開其 IPO 招股書。儘管財務細節已通過草案和投資人會議陸續外泄，但這份 S-1 仍有望解答一系列關鍵疑問——從盈利路徑、谷歌與亞馬遜的投入與分成，到獨特的公司治理結構和鎖定期安排。與此同時，下週還將迎來三大雲廠商的財報、蘋果發佈會，以及 Instacart 可能出售的後續進展，註定是科技圈不平靜的一週。 The Information Briefing …</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html><head><meta charset="utf-8"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:20px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">科技界的"超級碗"可能終於要來了：Anthropic 最早可能在週一公開其 IPO 招股書。儘管財務細節已通過草案和投資人會議陸續外泄，但這份 S-1 仍有望解答一系列關鍵疑問——從盈利路徑、谷歌與亞馬遜的投入與分成，到獨特的公司治理結構和鎖定期安排。與此同時，下週還將迎來三大雲廠商的財報、蘋果發佈會，以及 Instacart 可能出售的後續進展，註定是科技圈不平靜的一週。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;">The Information Briefing</div>
+<div style="font-size:13px;color:#888;margin:6px 0 4px;">2026 年 10 月 25 日（星期日） · 作者：Nick Wingfield</div>
+<div style="font-size:24px;font-weight:bold;margin:10px 0;">Anthropic 的時刻到來了：S-1 文件將解答的五大疑問</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;margin:0;padding-left:20px;"><li>IPO 在即：Anthropic 最早可能在週一公開其 IPO 招股書（S-1）。由於草案內容和近期投資人會議的細節已陸續外泄，部分披露可能並不出人意料，但仍有許多謎團有待文件澄清。</li>
+<li>更詳細的財務數據：市場期待 S-1 給出 Anthropic 走向盈利的更清晰軌跡，以及現金流數字和其他尚未外泄的經營財務指標。</li>
+<li>與谷歌、亞馬遜的關係：文件有望確認 Anthropic 爲在其服務器上運行 AI 向谷歌和亞馬遜支付了多少錢，以及這兩家公司在 Anthropic 的投資額和這些股份增值了多少。</li>
+<li>誰在爲 Anthropic 買單：據公開報道，Anthropic 今年上半年約五分之一的收入來自僅有的兩個客戶，而 2025 年全年這一比例約爲四分之一。投資人將關注更新的客戶集中度數據和收入來源細節。歷史上大部分收入來自 API 銷售，但這會隨開發者追捧的模型變化而波動；此外還有 Claude 訂閱收入，以及亞馬遜等轉售方分成帶來的收入。</li>
+<li>獨特的治理結構：一個名爲長期受益信託（Long-Term Benefit Trust）的非股東團體任命了 Anthropic 董事會的大多數成員。IPO 前夕，Anthropic 還制定計劃，讓包括 CEO 達里奧·阿莫迪在內的七位聯合創始人合計掌握 50.1% 的投票權，即使他們減持部分股份。未知的是阿莫迪對其他六位創始人是否有特殊權力，以及信託與創始人任命的董事之間發生衝突時如何解決（據稱公司計劃給員工一種特殊類別股票用於平局表決）。</li>
+<li>鎖定期與二次出售：Anthropic 曾考慮把鎖定期（大股東不得出售股票的期限）延長到典型的 180 天之外，但也考慮在 IPO 時爲例外股東放行二次出售。這與今年其他未在上市時允許二次出售的科技 IPO（如 SpaceX 和 Cerebras）形成對比。市場關注多數投資人要持股多久、哪些羣體或員工可以更快退出。</li>
+<li>下週看點之雲廠商財報：谷歌和微軟定於週三公佈財報，亞馬遜定於週四。數據中心支出計劃或 AI 需求預測的任何變化都可能攪動本已緊張的市場。亞馬遜 CEO 安迪·賈西已提前在播客中放話：AWS 的算力"基本售罄"到明年年底，他還稱十年前收購的芯片初創公司 Annapurna Labs 可能成爲亞馬遜有史以來最划算的一筆交易。</li>
+<li>下週看點之 Instacart 的下一步：上週五本刊獨家報道 Instacart 正在探索出售公司的可能性，並已與 DoorDash 和 Uber 進行了初步接觸，其中與 Uber 的談判似乎已經熄火。Instacart 和 DoorDash 分別定於 11 月 5 日和 11 月 4 日公佈財報，分析師預計會追問交易前景。受出售消息影響，Instacart 股價上週五收漲 9%。</li>
+<li>下週看點之蘋果發佈會：蘋果定於週三舉辦發佈會，預計將發佈首款觸屏 MacBook。</li>
+<li>其他消息：阿波羅全球管理公司首席經濟學家 Torsten Slock 在一篇文章中認爲，AI 尚未給科技公司以外的美國企業帶來財務回報；中國 Moonshot AI 上週五發布了新模型 Kimi K3.1 Pro，據稱在部分基準上可與美國領先的前沿模型媲美。</li></ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">原文摘錄</div>
+<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;padding-left:14px;margin:0 0 12px;color:#3f3f46;">"科技界的超級碗可能終於要來了。"（"The tech industry equivalent of the Super Bowl may finally be upon us."）</blockquote>
+<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;padding-left:14px;margin:0 0 12px;color:#3f3f46;">"AWS 的算力基本售罄。"（AWS is "largely sold out" of computing capacity —— 亞馬遜 CEO 安迪·賈西）</blockquote>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">閱讀原文</div>
+<div style="font-size:15px;line-height:1.75;margin:0 0 12px;"><a href="https://www.theinformation.com" style="color:#e11d48;">theinformation.com</a>（本期郵件中的鏈接均爲追蹤跳轉鏈接，無該文章的直接原文鏈接）</div>
+<div style="font-size:13px;color:#888;margin:14px 0;">原文標題：<i>The Briefing: Anthropic’s Moment Arrives</i></div>
+<div style="font-size:13px;color:#888;margin:14px 0 4px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【电动】獨家：Unusual Machines 如何拿下大型無人機電池收購</title>
 <link>https://www.theinformation.com</link>
@@ -1510,16 +1551,6 @@ Meta 聲稱 Muse Wonder 在某些任務上"提供最優性能"（"deliver state-
 </div>
 </body>
 </html>
-]]></content:encoded>
-</item>
-<item>
-<title>【AI 基建】Anthropic 服务器越早通电，离暴利越近</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#Anthropic 服务器越早通电，离暴</guid>
-<pubDate>Sun, 11 Oct 2026 23:00:12 -0400</pubDate>
-<category>AI 基建</category>
-<description>AI 基础设施 2026 年 10 月 11 日 Anthropic 服务器越早通电，离暴利越近 内容摘要 Anthropic 正在疯狂催促合作伙伴加速交付数据中心——理由简单直接：每台服务器早一天上线跑产品，都可能带来惊人利润。作者 Ann Davis Vaughan 去了路易斯安那州 St. Francisville 的 Hut 8 园区开幕式，这个 330MW 的园区将于 2027 年第二季度上线 Google AI 芯片，由 F…</description>
-<content:encoded><![CDATA[<html><head><meta charset="utf-8"></head><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;"><div style="max-width:720px;margin:0 auto;padding:8px 16px;"><div style="font-size:26px;font-weight:bold;margin:8px 0 4px;">AI 基础设施</div><div style="font-size:13px;color:#6b7280;margin:0 0 12px;">2026 年 10 月 11 日</div><div style="font-size:24px;font-weight:bold;margin:12px 0;">Anthropic 服务器越早通电，离暴利越近</div><div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div><div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 8px;">内容摘要</div><p style="font-size:15px;line-height:1.75;margin:10px 0;">Anthropic 正在疯狂催促合作伙伴加速交付数据中心——理由简单直接：每台服务器早一天上线跑产品，都可能带来惊人利润。作者 Ann Davis Vaughan 去了路易斯安那州 St. Francisville 的 Hut 8 园区开幕式，这个 330MW 的园区将于 2027 年第二季度上线 Google AI 芯片，由 Fluidstack 租赁运营、Anthropic 提供芯片。</p><p style="font-size:15px;line-height:1.75;margin:10px 0;">数字最能说明问题：该园区 330MW 供电可换来 245MW 可用算力，分析师 Christian Okoye 测算，若提前一个月上线，Anthropic 就能多赚 13 亿美元以上；而在纯推理场景下，该园区月营收约 13 亿美元、租芯片成本仅约 2 亿美元，毛利率可达 85%。</p><p style="font-size:15px;line-height:1.75;margin:10px 0;">Anthropic 的扩张规模同样惊人：承诺租赁或购买的容量将从 2025 年的 1.4GW 增长到今年 5GW、2027 年 9.5GW、2028 年 15GW 以上——远超微软 Azure 在 2023 年底服务全部客户时的 5GW。这场与 OpenAI 的算力竞赛，越来越依赖 Hut 8、TeraWulf、IREN 等从比特币挖矿转型的基建新贵。</p><p style="font-size:15px;line-height:1.75;margin:10px 0;">能源视角同样关键：分析师 Hans Royal 的“Compute Heat Rate”显示，商业 AI 应用在电价高达每兆瓦时 5631 美元（批发价的 100 多倍）时仍可盈利——这意味着电力公司未来可能向 AI 数据中心大幅加价。其他消息：Google 解锁了 890MW 核电、并与 Constellation 签下 2.7GW 供应大单；超导电力系统公司 VEIR 超额完成 1.1 亿美元 C 轮融资。</p><div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 8px;">关键要点</div><ul style="font-size:15px;line-height:1.75;padding-left:22px;margin:8px 0;"><li style="margin:6px 0;">Anthropic 已签下约 5300 亿美元的数据中心租赁协议，并催促合作伙伴加速交付——早一个月上线即多赚超 13 亿美元。</li><li style="margin:6px 0;">路易斯安那 Hut 8 园区：330MW 供电、245MW 可用算力，2027 年第二季度上线 Google AI 芯片。</li><li style="margin:6px 0;">纯推理场景下该园区月营收约 13 亿美元、租芯成本约 2 亿美元，毛利率约 85%。</li><li style="margin:6px 0;">Anthropic 产能：2025 年 1.4GW → 今年 5GW → 2027 年 9.5GW → 2028 年 15GW 以上；与 OpenAI 的算力赛越来越依赖 Hut 8、TeraWulf、IREN 等前比特币矿商。</li><li style="margin:6px 0;">能源视角：AI 推理的电价承受力是批发价的 100 倍以上，Anthropic 甚至能在 $12,791/MWh 的电价下盈利；电力公司可能大幅提价。</li><li style="margin:6px 0;">其他消息：Google 解锁 890MW 核电并与 Constellation 签 2.7GW 供应协议；VEIR 超额完成 1.1 亿美元 C 轮，总融资达 2.25 亿美元。</li></ul><div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 8px;">原文摘录</div><blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #9ca3af;padding:4px 12px;margin:12px 0;color:#374151;">他说：“建设数据中心的方式正在彻底改变”，只为“以速度部署”。（“The whole way of building data centers is changing” so they can be “deployed at speed,” he said.）</blockquote><blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #9ca3af;padding:4px 12px;margin:12px 0;color:#374151;">“听起来一片美好，但前提是未来几年能源、芯片、施工产能和债务资本都充足——这依然是个大大的‘如果’。”（It all sounds pretty rosy, assuming energy, silicon, construction capacity and debt capital remain plentiful in the coming years. That’s still a big ‘if.’）</blockquote><p style="font-size:15px;line-height:1.75;margin:10px 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNyUWAtnNsOY4jekiJoXr05oCduET2EijgLj5n4-2B4Mtcpq9kXDb73cDILJoQRZZE15zrQvdj3rWyWNxI-2BLkJkGETms2mJFOuSv-2Bs8kkaY2rCHJUpyuuLIEbMka2tvNy0l4d2mdCMdAAHONjkoXOxE5rNde9NTFhDuz3dtIzi4ErxYQbQkFdoAC-2FPyKoy1CVUul-sM3_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlbx2uYCM-2BuVzNweG4ijeCsvjJl4gSdpZfOwh69BQXUHjqgnNsW0-2FkPUBMswHItVMx8i-2Fwea-2BMYDaHhoimcbCR69dFeGBHlz4p7OeOlwl8FlYDRgAEmjkZZkY32H1PzthclQgCjZWxJqURlCeiWwpwbhmBggSwiDDVWFqlji8ZFCFHirvwbKzGE8GcNylYkfAlmn3EYeeubAfyFQaIwgXYwdxT5dTfETrs-2FRKk-2BRds9Wq4KVYYw3jHxliBUyNciq15rrNbCOYkdUDbn-2BER4y3-2BjEdrz-2BbC4-2F9Zenbsa3Ov2dUuAG0ScoMCrnRulhUbkMzU" style="color:#e11d48;font-weight:bold;text-decoration:none;">阅读原文 →</a></p><p style="font-size:13px;color:#6b7280;margin:16px 0 4px;">原文标题：<em>Why Every Server Anthropic Plugs In Sooner Gets it Closer to Handsome Profits</em></p><p style="font-size:13px;color:#6b7280;margin:24px 0 0;">本期为摘要版：基于邮件内容的中文摘要与要点提炼，非全文翻译。</p></div></body></html>
 ]]></content:encoded>
 </item>
 </channel>
