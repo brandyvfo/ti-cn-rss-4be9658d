@@ -6,7 +6,46 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 24 Oct 2026 08:20:20 -0700</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 08:48:29 -0700</lastBuildDate>
+<item>
+<title>【AI 基建】數據中心遲交罰金每天高達500萬美元，催生新型保險</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#數據中心遲交罰金每天高達500萬美元，催</guid>
+<pubDate>Sun, 25 Oct 2026 08:48:29 -0700</pubDate>
+<category>AI 基建</category>
+<description>AI 摘要 數據中心交付延期正成爲 AI 基建最昂貴的新風險：今年春季租戶索賠還是一天 100 萬美元，短短數月已漲到每天 500 萬美元以上。保險經紀巨頭 Marsh 爲此發明了專爲數據中心設計的“延遲交付”險，試圖爲開發商、貸款方和債券持有人兜底。但風險規模已大到單個保險公司難以承受——今年數據中心保險保費約 100 億美元，已是全球航空保險市場的兩倍，標普警告超大規模項目的承保能力將受限。與此同時，GPU 殘值、新設備故障、公用事…</description>
+<content:encoded><![CDATA[<html><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:20px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:6px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">數據中心交付延期正成爲 AI 基建最昂貴的新風險：今年春季租戶索賠還是一天 100 萬美元，短短數月已漲到每天 500 萬美元以上。保險經紀巨頭 Marsh 爲此發明了專爲數據中心設計的“延遲交付”險，試圖爲開發商、貸款方和債券持有人兜底。但風險規模已大到單個保險公司難以承受——今年數據中心保險保費約 100 億美元，已是全球航空保險市場的兩倍，標普警告超大規模項目的承保能力將受限。與此同時，GPU 殘值、新設備故障、公用事業升級擔保等新型風險也在催生新險種，而勞動力短缺、老鼠啃食光纖這類“老風險”同樣在放大。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;">AI Infrastructure</div>
+<div style="font-size:13px;color:#888888;margin:6px 0 16px;">2026 年 10 月 25 日</div>
+<div style="font-size:24px;font-weight:bold;">數據中心遲交罰金每天高達500萬美元，催生新型保險</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 8px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;">
+<li>遲交罰金數月內翻了 5 倍：從每天 100 萬美元漲至 500 萬美元以上，租戶以更高的收入損失預期爲由索賠。</li>
+<li>兩個月延期可致約 3 億美元罰金：以 1 吉瓦數據中心爲例，聖誕節到 2 月底的延期按每天 500 萬美元計，罰金約 3 億美元，且開發商同時損失租金收入，對貸款償還構成雙重打擊。</li>
+<li>保險市場規模驚人：2026 年數據中心保險保費約 100 億美元（全球航空保險市場的兩倍）；瑞士再保險預計 2030 年接近 240 億美元；可保價值總額約 2 萬億美元，每年新增 3000 億美元。</li>
+<li>標普警告承保能力不足：單個項目可保價值達 200–300 億美元，保險公司需通過多項目風險池分攤風險，保險連接證券等替代安排將增長。</li>
+<li>新型風險催生新險種：GPU 殘值保險尚處早期（舊芯片保值甚至升值，定價困難）；新設備故障導致的服務中斷、多十億美元的公用事業升級擔保也在納入保障範圍。</li>
+<li>開發商爲取悅債券持有人加碼投保：Hut 8 在颶風頻發的得州科珀斯克里斯蒂項目上投保遠超最大可預見損失，還買了 19 個月“延遲開業”險，並談下租約在特定延期下不可終止。</li>
+<li>其他罰金同樣驚人：RBC 稱某數據中心溫度偏離安全目標一個月可面臨 1.5 億美元罰金；Gallagher Re 稱一次 45 分鐘斷電若按 99.999% 可用性承諾計罰，可抹掉數據中心全年現金流的 40%。</li>
+<li>並非所有風險都可保：Marsh 建築負責人指出，建築工人不足是最大的不可保風險之一；老鼠啃食光纖的“害蟲”附加險也重新受到關注。</li>
+</ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 8px;">原文摘錄</div>
+<blockquote style="border-left:4px solid #cccccc;margin:12px 0;padding:8px 16px;font-size:15px;line-height:1.75;color:#333333;">
+<p>“我敢打賭，遲交罰金將讓比利率更多的開發商破產。”（“My bet is late penalties will bankrupt more developers than interest rates ever will.”——KKR 全球數字基建負責人 Waldemar Szlezak）</p>
+<p>“過去 100 年，保險業大概只前進了五分鐘。但看看數字基建和數據中心，它轉得像秒錶一樣快。”（“Over the past 100 years, insurance has maybe changed five minutes. But if you look at digital and data centers, it spins like a stopwatch.”——Marsh 的 Mike Mathews）</p>
+</blockquote>
+<div style="font-size:15px;margin:20px 0;"><a href="https://www.theinformation.com" style="color:#e11d48;">閱讀原文</a></div>
+<div style="font-size:13px;color:#888888;">原文標題：<i>Data Center Late Fees Hit $5 Million or More Per Day, Spawning New Insurance</i></div>
+<div style="font-size:13px;color:#888888;margin-top:16px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+</div></body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【资讯】CoreWeave 究竟有多危險？</title>
 <link>https://www.theinformation.com</link>
@@ -1450,46 +1489,6 @@ Meta 聲稱 Muse Wonder 在某些任務上"提供最優性能"（"deliver state-
 <category>AI Agenda</category>
 <description>AI Agenda 2026 年 10 月 6 日 AI 吹哨人：研究人员检查 AI 的频率越来越低 内容摘要 周一纽约市议会就 AI 风险举行的听证会戏剧性十足，但更引人注目的是三位 AI 实验室吹哨人的证词：前 Anthropic/OpenAI 的 Jacob Coxon、前 Google DeepMind 的 Alex Turner、前 OpenAI 的 Daniel Kokotajlo。他们都谈到，实验室里的研究人员正越来越多地…</description>
 <content:encoded><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"></head><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;"><div style="max-width:720px;margin:0 auto;padding:8px 16px;"><div style="font-size:26px;font-weight:bold;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;">AI Agenda</div><div style="font-size:13px;color:#888;margin:8px 0 4px;">2026 年 10 月 6 日</div><div style="font-size:24px;font-weight:bold;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;margin:8px 0;">AI 吹哨人：研究人员检查 AI 的频率越来越低</div><div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 10px;">内容摘要</h2><p style="font-size:15px;line-height:1.75;margin:8px 0;">周一纽约市议会就 AI 风险举行的听证会戏剧性十足，但更引人注目的是三位 AI 实验室吹哨人的证词：前 Anthropic/OpenAI 的 Jacob Coxon、前 Google DeepMind 的 Alex Turner、前 OpenAI 的 Daniel Kokotajlo。他们都谈到，实验室里的研究人员正越来越多地让 AI 主导写代码和做研究，对 AI 产出的检查频率越来越低。</p><p style="font-size:15px;line-height:1.75;margin:8px 0;">实验室未必认同这种表述，但它们自己也承认 AI 大大加速了研究进程：Anthropic 上月报告称，截至 8 月，AI 已主导公司超过四分之一的模型研发工作。这种转变让一些研究人员感到幻灭——有人离开前沿实验室，觉得自己只是在跟着 AI 的建议走，预见自己的工作不久就会被自动化。</p><p style="font-size:15px;line-height:1.75;margin:8px 0;">吹哨人的警告相当耸动：Coxon 称“人类失去对 AI 控制的可能性大于不失去”，结局是人类灭绝；Turner 给出的“AI 接管”概率是三分之一。Coxon 还直言“我们还不知道如何控制任何 AI 系统……不完全理解它的动机”。随后作证的 OpenAI、Anthropic、谷歌、Meta 代表则遭到议员们轮番拷问，包括 AI 导致灾难性后果的概率、公司是否承担法律责任、是否为灾难性风险投保等问题，OpenAI 政策负责人 Morgan Dwyer 被问到概率时回答“不知道，也不觉得 1%、10% 还是 20% 有区别——都不应接受”，被议长 Julie Menin 批评为“轻率”。</p><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 10px;">关键要点</h2><ul style="font-size:15px;line-height:1.75;padding-left:20px;"><li style="margin:6px 0;">三位吹哨人（Coxon、Turner、Kokotajlo）在纽约市议会听证会上作证，称研究人员让 AI 主导研究、对 AI 产出的检查越来越少。</li><li style="margin:6px 0;">Anthropic 称截至 8 月，AI 已主导公司超四分之一的模型研发；有研究人员因此离职，觉得自己在被 AI 自动化。</li><li style="margin:6px 0;">Coxon：人类失去对 AI 控制的可能性大于不失去，结局是人类灭绝；Turner：AI 接管概率三分之一。</li><li style="margin:6px 0;">Coxon：“我们还不知道如何控制任何 AI 系统”，不理解它的动机。</li><li style="margin:6px 0;">OpenAI、Anthropic、谷歌、Meta 代表随后作证，被追问灾难概率、法律责任与保险问题。</li><li style="margin:6px 0;">OpenAI 的 Morgan Dwyer 称灾难概率“不知道也不觉得有区别”，被议长 Menin 批为“轻率”。</li><li style="margin:6px 0;">听证会前，OpenAI 曾致信市议会建议设立 AI 防护措施；市议会向缺席的 SpaceX AI 部门发出传票。</li></ul><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 10px;">原文摘录</h2><blockquote style="border-left:3px solid #ccc;margin:12px 0;padding:4px 12px;color:#555;font-size:14px;line-height:1.7;">我们还不知道如何控制任何 AI 系统——我们不完全控制它，不理解它的动机，也不知道它为什么这么做。<br><span style="font-size:13px;color:#999;">（“we do not know how to control any AI system yet…we don’t fully control it. We don’t understand its drives or why it does what it does.”）</span></blockquote><blockquote style="border-left:3px solid #ccc;margin:12px 0;padding:4px 12px;color:#555;font-size:14px;line-height:1.7;">不管是 1%、10% 还是 20% 的灾难概率，都不重要——这些水平都不应被接受。<br><span style="font-size:13px;color:#999;">（“I don’t know. I also don’t think it matters whether it’s a 1% or 10% or 20% chance that something catastrophic will go wrong. None of these levels is remotely acceptable.”）</span></blockquote><p style="margin:24px 0 8px;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaNrXolbfvQCG6L4BCum4ddx8mMmfZbxAnrscoC7o6sgf43G2nDU-2FFoPSHrHMnqti61XabyiodhFRtyxShf8-2Bh-2B3Zywz8yQbP-2FFydI3sa6dBnQgk8mByIMLlAhoUiVIZlbcy3V-2B592bqpOfc-2BC2bg0ml4PrqP-2BrXpFJ-2BfvH4yzerDNpCnzQBB-2BW17fw1QxoBTGZbdgR_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlIjStH5zVabU61DexzlAaHjcKCH3Wex6ekhViVPD6ktjzVxsFCuxn5gCcXEpLNBkk2W3BqXI2vPci5IYRXb-2BRb-2F-2FFOugGdLb-2BVBnpe8y9d3ydtFtuRhmciSjDwMCRZKD5b-2F00kVZEb7YQ-2FjvqDp-2BDGNVGoppSpxAbK34z7hQB46bL9LFMpmO4Mpe1-2Fhq-2BHpEHqxhKf8NdR-2B9bgxRtoFRrDLiECSaztJ1EuO5FaXAQmzNpo6ElOdd6zTPwZt06827HlYxWNgZfpQE-2BkeKEb-2BB4WQ-3D-3D" style="color:#e11d48;font-size:16px;font-weight:bold;text-decoration:none;">阅读原文 &rarr;</a></p><p style="font-size:13px;color:#888;">原文标题：<em>AI Whistleblowers Say Researchers Are Checking AI Less Frequently</em></p><p style="font-size:13px;color:#999;margin-top:24px;border-top:1px solid #e5e5e5;padding-top:12px;">本期为摘要版：基于邮件内容的中文摘要与要点提炼，非全文翻译。</p></div></body></html>
-]]></content:encoded>
-</item>
-<item>
-<title>【财经】AI 熱潮讓基建投資者盯上了「垃圾」生意</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#AI 熱潮讓基建投資者盯上了「垃圾」生意</guid>
-<pubDate>Sun, 11 Oct 2026 23:00:02 -0400</pubDate>
-<category>财经</category>
-<description>The Information Finance 2026 年 10 月 8 日 AI 熱潮讓基建投資者盯上了“垃圾”生意 內容摘要 AI 熱潮點燃的數據中心投資狂潮，意外地在“AI 之外的一切”資產上製造了撿便宜的機會。過去幾年，數十億美元湧入數據中心和 AI 相關基建，投資者對交通、廢棄物處理等不起眼行業的關注反而被擠壓——現在他們開始對垃圾填埋場、鐵路貨運站這類聽起來無聊、但能持續吐出現金的資產興奮起來。 管理着約 1860 億美元…</description>
-<content:encoded><![CDATA[<!DOCTYPE html>
-<html lang="zh-CN">
-<head><meta charset="utf-8"></head>
-<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
-<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
-<div style="font-size:26px;font-weight:bold;line-height:1.4;margin:8px 0 4px 0;">The Information Finance</div>
-<div style="font-size:13px;color:#888;margin:0 0 16px 0;">2026 年 10 月 8 日</div>
-<div style="font-size:24px;font-weight:bold;line-height:1.4;margin:0 0 8px 0;">AI 熱潮讓基建投資者盯上了“垃圾”生意</div>
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
-<div style="border-left:4px solid #e11d48;padding-left:10px;font-size:18px;font-weight:bold;margin:28px 0 12px 0;">內容摘要</div>
-<p style="font-size:15px;line-height:1.75;margin:10px 0;">AI 熱潮點燃的數據中心投資狂潮，意外地在“AI 之外的一切”資產上製造了撿便宜的機會。過去幾年，數十億美元湧入數據中心和 AI 相關基建，投資者對交通、廢棄物處理等不起眼行業的關注反而被擠壓——現在他們開始對垃圾填埋場、鐵路貨運站這類聽起來無聊、但能持續吐出現金的資產興奮起來。</p>
-<p style="font-size:15px;line-height:1.75;margin:10px 0;">管理着約 1860 億美元資產的 Partners Group 基建業務董事總經理 Nicholas Pepper 表示，對數字基建的極度聚焦意味着公用事業、交通、社會基建等傳統板塊中越來越多高質量成熟資產“失寵”，這正在創造以有吸引力的估值收購它們的機會。巨型交易之外，區域性機場這樣規模小但不可或缺的資產也被認爲能提供可觀回報。</p>
-<p style="font-size:15px;line-height:1.75;margin:10px 0;">與此同時，AI 相關資產本身也出現了更挑剔的跡象：建設延期、融資成本上升和監管反彈，讓一些數據中心開發商的 IPO 推遲、融資成本膨脹——這也可能侵蝕基建投資最看重的可預測現金流。而傳統基建的前景總體並未受到太大影響：運輸物流、航空、廢棄物和水務、橋樑道路維護、天然氣加工等板塊的合同化或受監管收入依然穩定。</p>
-<p style="font-size:15px;line-height:1.75;margin:10px 0;">中端市場投資機構認爲自己尤其佔便宜：頭部基建投資者都湧向 AI，留下的小交易競爭更少。加拿大 PE/基建公司 BTG Capital 的聯合創始人 Brett Stevenson 稱，美國巨頭投資者的最低單筆出資金額已大到“不屑於下場參與這個細分市場”，這爲他們築起了一道巨大的經濟護城河——BTG 今年 6 月收購了當時已關閉的紐芬蘭 Stephenville 國際機場，翻新後已於 10 月 2 日重新開放。</p>
-<div style="border-left:4px solid #e11d48;padding-left:10px;font-size:18px;font-weight:bold;margin:28px 0 12px 0;">關鍵要點</div>
-<ul style="font-size:15px;line-height:1.75;margin:10px 0;padding-left:22px;">
-<li style="margin:6px 0;">核心邏輯：AI 吸走了對數據中心的全部注意力，傳統基建板塊的優質成熟資產估值被壓低，成爲“逆向撿便宜”的獵物。</li>
-<li style="margin:6px 0;">案例一：Partners Group（今年 7 月第四隻基建基金募資超 150 億美元）自身也重倉數據中心（8 月向歐洲數據中心電力商 AVK Power Solutions 初投 10 億美元），但同時看好傳統基建的估值機會。</li>
-<li style="margin:6px 0;">案例二：摩根士丹利基建基金正在瞄準廢棄物處理行業——看中其長期市政合同、大宗商品與地緣風險敞口低、以及減填埋政策下的增長機會；美國廢棄物公司估值約 15 倍 Ebitda，遠高於歐洲的 10 倍。</li>
-<li style="margin:6px 0;">案例三：BTG Capital 主打中端市場，主投運輸物流和非數據中心導向的能源公用事業資產，收購併翻新 Stephenville 國際機場（紐芬蘭，10/2 重開），看中機場類資產的稀缺性。</li>
-<li style="margin:6px 0;">數據點：更廣泛的運輸物流行業，戰略買家的交易 Ebitda 中位數倍數已從 2025 年的 12.7 倍跌至今年一季度的 5 倍（R.L. Hulett 報告）——地緣緊張和疫情後運力過剩把估值打下來，也創造了潛在的買入窗口。</li>
-</ul>
-<div style="border-left:4px solid #e11d48;padding-left:10px;font-size:18px;font-weight:bold;margin:28px 0 12px 0;">原文摘錄</div>
-<blockquote style="margin:12px 0;padding:8px 14px;border-left:4px solid #bbb;color:#444;font-size:15px;line-height:1.75;background:#fafafa;"><p style="margin:6px 0;">“對數字基建的極度聚焦意味着，傳統基建生態中越來越多高質量的成熟資產正在失去聚光燈——這正在創造以有吸引力的估值收購它們的機會。”</p><p style="margin:6px 0;color:#777;font-size:14px;">（&quot;The intense focus on digital infrastructure means that you increasingly have high-quality mature assets in other more traditional parts of the infrastructure ecosystem...which are receiving less of the spotlight. This is creating opportunities to acquire these assets at attractive valuations.&quot;）</p></blockquote>
-<blockquote style="margin:12px 0;padding:8px 14px;border-left:4px solid #bbb;color:#444;font-size:15px;line-height:1.75;background:#fafafa;"><p style="margin:6px 0;">“美國巨頭投資者的最低單筆出資金額已經大到不屑於參與這個細分市場，這爲我們築起了一道巨大的經濟護城河。”</p><p style="margin:6px 0;color:#777;font-size:14px;">（&quot;U.S. mega cap investors&#x27; minimum check sizes have gotten so big that they won&#x27;t come down and participate in this segment of the market, so it has created a huge economic moat for us.&quot;）</p></blockquote>
-<p style="font-size:15px;line-height:1.75;margin:20px 0 8px 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBmbIlaCwUAb-2B2vhxG1AFBaN8n5ZfF2ncfLgGVFSlPMerMohZAygr9-2BHgysQg5cILlgp-2FheEDAsh-2BlP5bLZC0zyWYHWdYwIGYRY4g0H2JO86Pu-2Fg69LOun1sdpVAWtz1F7of9ke13Wsd0hNaYj8PIaB48Qm-2FsVHZwQ7DDZrgBEFhgyE6TVwUKdbRFQytXevJiZ0-3DUeAy_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlbx2uYCM-2BuVzNweG4ijeCspP1vfzJ8PRRdWRNlvMg89v7fb032kQ-2BbWQUEVMCIrR4A6Dd-2BKtTTkGNMmrSBtuPZZLFgDSTZ-2BnyJkXSTGZVQD8acAHX4jj0YLTmk1Z0OYhfKx50xh1JDvayhuGx1uZ6DtxuoYLNueIyEa-2B-2FkE1jy-2FSdCIuZS-2Fxxchdp6rU3219NtK-2BaEeImxVmyggTtOQNIO9WkGJqRppoFayx19oCTwnZ8Wa4d4YdtKxqLEULeaMsPhHYpH6Il9dwlGkIGg0jKLZjdqwC-2Bv0XLaSSFR-2B1fB4pUw11Xkq5zQdRhUOT1HqvU" style="color:#e11d48;font-weight:bold;text-decoration:none;">閱讀原文</a></p>
-<p style="font-size:13px;color:#888;line-height:1.6;margin:8px 0 0 0;">原文標題：<em>AI’s Boom Has Infrastructure Investors Looking at Garbage</em></p>
-<p style="font-size:13px;color:#888;line-height:1.6;margin:16px 0 8px 0;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</p>
-</div>
-</body>
-</html>
 ]]></content:encoded>
 </item>
 </channel>
