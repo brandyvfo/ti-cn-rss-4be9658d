@@ -6,7 +6,50 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 26 Oct 2026 20:19:05 -0400</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 04:18:47 -0700</lastBuildDate>
+<item>
+<title>【AM】英偉達投資30億美元入股Meta，深化AI合作</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#英偉達投資30億美元入股Meta，深化A</guid>
+<pubDate>Tue, 27 Oct 2026 04:18:47 -0700</pubDate>
+<category>AM</category>
+<description>AI 摘要 英偉達將向Meta的股權發行投資30億美元，雙方擴大技術合作，讓Meta的Muse個人智能體應用和基礎模型在英偉達硬件上跑得更快、更高效。Anthropic週一提交的IPO招股書則披露其成本結構正在快速膨脹：今年上半年支付處理費用同比多出2.22億美元，數據質量等供應商成本多出2.51億美元。與此同時，Anthropic七位創始人承諾讓Claude保持無廣告，稱不願把優化用戶參與度的壓力引入產品——這與把廣告視爲未來重要收入…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html><head><meta charset="utf-8"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:20px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:6px;">AI 摘要</div>
+<p style="font-size:14px;line-height:1.7;margin:0;">英偉達將向Meta的股權發行投資30億美元，雙方擴大技術合作，讓Meta的Muse個人智能體應用和基礎模型在英偉達硬件上跑得更快、更高效。Anthropic週一提交的IPO招股書則披露其成本結構正在快速膨脹：今年上半年支付處理費用同比多出2.22億美元，數據質量等供應商成本多出2.51億美元。與此同時，Anthropic七位創始人承諾讓Claude保持無廣告，稱不願把優化用戶參與度的壓力引入產品——這與把廣告視爲未來重要收入來源的OpenAI形成鮮明對比。</p>
+</div>
+<div style="font-size:26px;font-weight:bold;">The Information AM</div>
+<div style="font-size:13px;color:#71717a;margin:6px 0 10px;">2026 年 10 月 27 日</div>
+<div style="font-size:24px;font-weight:bold;line-height:1.4;">英偉達投資30億美元入股Meta，深化AI合作</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:18px 0 10px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;padding-left:20px;margin:0;">
+<li style="margin-bottom:8px;"><b>英偉達入股Meta：</b>英偉達將向Meta Platforms的股權發行投資30億美元，雙方擴大技術協作，目標是最大化Meta的Muse個人智能體應用和基礎模型的性能。</li>
+<li style="margin-bottom:8px;"><b>硬件部署擴大：</b>Meta計劃擴大部署英偉達先進的Vera Rubin AI硬件和Vera中央處理器，爲其下一代AI智能體提供算力；合作重點是讓Meta的AI產品在英偉達硬件上更高效地運行，改善Muse智能體及底層模型的推理與訓練。</li>
+<li style="margin-bottom:8px;"><b>Muse的戰略位置：</b>Muse智能體於今年9月發佈，是Meta消費者AI戰略的核心支柱；Meta近期還發布了新旗艦模型Muse Wonder Full，在部分基準測試中表現領先，加大了在基礎模型上的投入。</li>
+<li style="margin-bottom:8px;"><b>Anthropic支付成本飆升：</b>Anthropic在S-1文件中披露，今年上半年支付處理費用同比增加2.22億美元，增幅大於專業服務成本的2.05億美元增加額，幾乎與IT和雲軟件成本2.23億美元的增加額相當；數據質量與性能評估等供應商成本同期增加2.51億美元。</li>
+<li style="margin-bottom:8px;"><b>Stripe受益、Anthropic想自建：</b>Anthropic使用Stripe的結賬、欺詐檢測、開票和賬單產品，Stripe去年收入達68億美元；但近期招聘信息顯示，Anthropic正評估把更多賬單、欺詐檢測等金融基礎設施轉爲自建，減少對外部供應商的依賴。</li>
+<li style="margin-bottom:8px;"><b>創始人承諾Claude無廣告：</b>Anthropic七位創始人在週一提交的IPO招股書所附信件中表示，將讓Claude保持無廣告，稱Claude唯一的激勵就是給出有幫助的回答；今年2月其超級碗廣告還打出了“廣告要進入AI了，但不會進入Claude”的標語。</li>
+<li style="margin-bottom:8px;"><b>與OpenAI的路線差異：</b>OpenAI預計廣告將成爲其未來幾年的重要收入來源，而Anthropic刻意與之區分；不過Anthropic自身是廣告大買家——其營銷和廣告成本2025年同比增加1.70億美元，2026年上半年又增加2.73億美元。</li>
+<li style="margin-bottom:8px;"><b>簡報開篇還提到：</b>DoorDash正就以約170億美元收購Instacart進行深入談判；SpaceX同意支付400億美元向Apollo租賃芯片（簡報正文未展開這兩條的更多細節）。</li>
+</ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:22px 0 10px;">原文摘錄</div>
+
+<blockquote style="margin:12px 0;padding:8px 14px;border-left:3px solid #d4d4d8;color:#3f3f46;">“一旦廣告成爲一家公司營收目標的一部分，優化用戶參與度的壓力往往就會隨之增長。”<br><span style="font-size:13px;color:#71717a;">（“Once advertising becomes part of a company’s revenue targets, the pressure to optimize for engagement tends to grow,” — Anthropic founders）</span></blockquote>
+<blockquote style="margin:12px 0;padding:8px 14px;border-left:3px solid #d4d4d8;color:#3f3f46;">“我們選擇不把這種壓力引入Claude。”<br><span style="font-size:13px;color:#71717a;">（“We have chosen not to introduce that pressure into Claude.”）</span></blockquote>
+
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:22px 0 10px;">閱讀原文</div>
+<p style="font-size:15px;line-height:1.75;"><a href="https://www.theinformation.com" style="color:#e11d48;">在 The Information 閱讀原文</a></p>
+<p style="font-size:13px;color:#71717a;">原文標題：<i>Nvidia Invests $3 Billion in Meta in Deeper AI Partnership</i></p>
+<p style="font-size:13px;color:#71717a;margin-top:20px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</p>
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【简报】巨頭搶籌吸乾空氣：Anthropic、Meta與SpaceX同日公佈近2500億美元融資</title>
 <link>https://www.theinformation.com</link>
@@ -1594,16 +1637,6 @@ Meta 聲稱 Muse Wonder 在某些任務上"提供最優性能"（"deliver state-
 </div>
 </body>
 </html>
-]]></content:encoded>
-</item>
-<item>
-<title>【独家】特斯拉 Optimus 前负责人创办工业机器人公司</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#独家：特斯拉 Optimus 前负责人创</guid>
-<pubDate>Sun, 11 Oct 2026 23:01:09 -0400</pubDate>
-<category>独家</category>
-<description>AI Agenda 2026 年 10 月 7 日 独家：特斯拉 Optimus 前负责人创办工业机器人公司 内容摘要 特斯拉 Optimus 人形机器人前 AI 负责人 Ashish Kumar 联合创办了一家名为 Intelligent Machines 的旧金山初创公司，开发非人形机器人，承担制造、航空航天等行业中原本需要高技能工人完成的多种任务。公司已招募多名前特斯拉 Optimus 团队成员，正在进行一轮可能达 1 亿美元左右…</description>
-<content:encoded><![CDATA[<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;"><div style="max-width:720px;margin:0 auto;padding:8px 16px;"><div style="font-size:26px;font-weight:bold;">AI Agenda</div><div style="font-size:13px;color:#6b7280;margin:8px 0 0;">2026 年 10 月 7 日</div><div style="font-size:24px;font-weight:bold;margin:16px 0 0;">独家：特斯拉 Optimus 前负责人创办工业机器人公司</div><div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:28px 0 12px;">内容摘要</h2><p style="font-size:15px;line-height:1.75;">特斯拉 Optimus 人形机器人前 AI 负责人 Ashish Kumar 联合创办了一家名为 Intelligent Machines 的旧金山初创公司，开发非人形机器人，承担制造、航空航天等行业中原本需要高技能工人完成的多种任务。公司已招募多名前特斯拉 Optimus 团队成员，正在进行一轮可能达 1 亿美元左右的种子轮融资。</p><p style="font-size:15px;line-height:1.75;">公司目前专注于机器人软件，但管理层已讨论过自行设计硬件。技术路线采用强化学习（RL）——用奖励与惩罚机制教机器人完成复杂任务，这正是 Kumar 在加州大学伯克利分校博士研究的方向。Kumar 认为，现有机器人 AI 模型无法实现制造等行业体力劳动自动化所需的精确控制。</p><p style="font-size:15px;line-height:1.75;">其路线与当前主流不同：Intelligent Machines 的原型机虽与 Optimus 有相似之处，但并非人形，且在 AI 使用方式上与 Optimus 有“显著差异”；也不走“世界模型”路线——该赛道的 General Intuition 上月以 62 亿美元估值融资 2.2 亿美元，World Labs 则正被 AMD 以约 82 亿美元收购。</p><p style="font-size:15px;line-height:1.75;">背景：特斯拉 Optimus 机器人的手部开发面临工程挑战，导致量产延迟、规模化受阻。Kumar 在特斯拉工作两年多（其中一年担任 Optimus 团队 AI 负责人），一年前离职，之后在 Meta 担任了四个月研究科学家。风投 Vinod Khosla 上月表示，机器人领域的“ChatGPT 时刻”将在未来两年到来，但他也预测到 2030 年超过一半的机器人初创公司估值会下跌。</p><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:28px 0 12px;">关键要点</h2><ul style="font-size:15px;line-height:1.75;padding-left:22px;"><li style="margin-bottom:8px;">特斯拉 Optimus 前 AI 负责人 Ashish Kumar 联合创办 Intelligent Machines。</li><li style="margin-bottom:8px;">开发非人形工业机器人，面向制造、航空航天等高技能工种。</li><li style="margin-bottom:8px;">种子轮融资规模可能达约 1 亿美元；已招募多名前 Optimus 团队成员。</li><li style="margin-bottom:8px;">技术路线：强化学习（Kumar 伯克利博士研究方向）；不走人形与“世界模型”主流路线。</li><li style="margin-bottom:8px;">Kumar 认为现有机器人 AI 模型无法实现工业体力劳动自动化所需的精确控制。</li><li style="margin-bottom:8px;">特斯拉 Optimus 手部工程挑战导致量产延迟；Khosla 预测 2030 年前超半数机器人初创估值下跌。</li></ul><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:28px 0 12px;">原文摘录</h2><blockquote style="border-left:4px solid #d1d5db;margin:12px 0;padding:8px 14px;color:#374151;font-size:15px;line-height:1.75;">“Intelligent Machines 的机器人原型机虽在某些方面与 Optimus 相似，但并非人形，在 AI 使用方式上与 Optimus 有‘显著差异’。”<br><span style="color:#9ca3af;font-size:13px;">&#65288;Intelligent Machines' robot prototypes are similar in some ways to Optimus robots, but they are not humanoids and represent a 'significant departure' from the way Optimus robots rely on AI.&#65289;</span></blockquote><blockquote style="border-left:4px solid #d1d5db;margin:12px 0;padding:8px 14px;color:#374151;font-size:15px;line-height:1.75;">“到 2030 年，超过一半的机器人初创公司估值将会下跌。”（Vinod Khosla 预测）<br><span style="color:#9ca3af;font-size:13px;">&#65288;More than half of robotics startups will see their valuations drop by 2030. — Vinod Khosla&#65289;</span></blockquote><div style="margin:28px 0 8px;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBkayEPumDOht6B6TI0Zt47O-2F51OFmOZkbAVQs7PmjXUNpDMCuSkWUxsvfGKPYUerX5x7Dzi7WUP7dmKO-2B9jCp0UCrtoCFlEfUy71OTAzXFrgtNaNprmEThv20Hb5oS3NYFLO8Du6AoFlo4g5BpuAG876I-2F8HBNOol93up86wsgeXXdSTpuRugHMRrWTkgcR7NlYSy00pZ7H7S-2Bfh7nRC-2BDrM1IkuVoDFMIc1AL9uPe-2FOA-3D-3DDgzO_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlKFLViEhdEvMQGPilUX9vogTYHyqLlrysiUYBCdC6J-2Fs75uuv-2FQLtnx9q25gsJX-2Bz-2BE7N7pe0cubpbxupwxYnUc49A9qdRbirsHArWx1Vl573GMOAZrSMUUzQOldGkK6gKJ-2Fkbfi06QFq-2F6NcDf5RqU44oWTt1F-2BRLWYBiPO2l7Zz71heNv9uDm9InBYONb9uOQJoii0MtiIh09GoLEES6FvZP5toTfdw-2BL5cnO-2ByimxtSJjRb5pSarp1f-2FkTYwkGvWyzFqaOXRwx3JGYby184g-3D-3D" style="color:#e11d48;font-size:16px;font-weight:bold;">&#38405;&#35835;&#21407;&#25991; &rarr;</a></div><div style="font-size:13px;color:#6b7280;margin:8px 0 24px;">&#21407;&#25991;&#26631;&#39064;&#65306;<em>Exclusive: Former Tesla Optimus Lead is Launching an Industrial Robot Startup</em></div><div style="font-size:13px;color:#9ca3af;margin-top:24px;">&#26412;&#26399;&#20026;&#25688;&#35201;&#29256;&#65306;&#22522;&#20110;&#37038;&#20214;&#20869;&#23481;&#30340;&#20013;&#25991;&#25688;&#35201;&#19982;&#35201;&#28857;&#25552;&#28860;&#65292;&#38750;&#20840;&#25991;&#32763;&#35793;&#12290;</div></div></body>
 ]]></content:encoded>
 </item>
 </channel>
