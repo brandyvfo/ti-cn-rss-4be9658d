@@ -6,7 +6,50 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 27 Oct 2026 05:19:22 -0700</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 07:21:40 -0700</lastBuildDate>
+<item>
+<title>【AI Agenda】Anthropic 85%的毛利率爲何是對懷疑論者的現實檢驗</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#Anthropic 85%的毛利率爲何是</guid>
+<pubDate>Tue, 27 Oct 2026 07:21:40 -0700</pubDate>
+<category>AI Agenda</category>
+<description>AI 摘要 Anthropic 週一公佈了備受期待的 IPO 招股書，作者從中挑出兩個最值得注意的細節：模型運行效率的大幅提升，以及本就不尋常的治理結構出現新變化。公司 2026 年上半年在 163 億美元營收的基礎上產生了 35 億美元自由現金流，而去年同期還在燒錢 16 億美元；運行現有模型的毛利率高達 85%（不含開發新模型的成本）。難得的是，這是在算力幾乎全部租自雲廠商、雲廠商本身也要賺錢的情況下實現的——作者認爲，這正是對 A…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html><head><meta charset="utf-8"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:20px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">Anthropic 週一公佈了備受期待的 IPO 招股書，作者從中挑出兩個最值得注意的細節：模型運行效率的大幅提升，以及本就不尋常的治理結構出現新變化。公司 2026 年上半年在 163 億美元營收的基礎上產生了 35 億美元自由現金流，而去年同期還在燒錢 16 億美元；運行現有模型的毛利率高達 85%（不含開發新模型的成本）。難得的是，這是在算力幾乎全部租自雲廠商、雲廠商本身也要賺錢的情況下實現的——作者認爲，這正是對 AI 懷疑論者長期觀點的一記現實檢驗：他們一直認爲按用量付費銷售模型的商業模式無法盈利。效率提升一方面來自工程師持續的“算力倍增”優化，另一方面來自 Anthropic 從一開始就採用多家芯片供應商（Amazon、Google、AMD 等）、不只依賴 Nvidia 的路線。治理方面，招股書披露：長期利益信託的權力存在被取消的通道——在足夠大的股東超級多數同意等條件下，無需信託本身同意也可消除其權力，這可能讓股東安心，卻不會讓主張 Anthropic 出於安全風險放慢腳步的倡導者滿意。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;">The Information AI Agenda</div>
+<div style="font-size:13px;color:#888;margin:6px 0 4px;">2026 年 10 月 27 日（星期二） · 作者：Stephanie Palazzolo</div>
+<div style="font-size:24px;font-weight:bold;margin:10px 0;">Anthropic 85%的毛利率爲何是對懷疑論者的現實檢驗</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;margin:0;padding-left:20px;"><li>招股書細節大多不算新：Anthropic 週一提交了備受期待的 IPO 招股說明書（S-1），許多內容此前已被 The Information 及其他媒體報道過；作者認爲真正突出的只有兩點——模型運行效率的改善，以及治理結構的變化。</li>
+<li>財務反轉：Anthropic 2026 年上半年營收 163 億美元、自由現金流 35 億美元；去年同期則燒錢 16 億美元，顯示其在雲端運行 AI 的方式已大幅改進。</li>
+<li>85% 毛利率的口徑：該數字指運行（爲客戶提供）現有模型所產生的毛利率，不包括開發新模型的成本。這一估計與 The Information 此前關於 Anthropic 搶建數據中心的專欄中的測算一致，當時曾引來部分 AI 懷疑論者的尖銳質疑。</li>
+<li>對懷疑論的現實檢驗：Anthropic 幾乎完全依賴從雲廠商租來的算力，而云廠商自身也需要盈利；在這種成本結構下仍能做到 85% 毛利率，挑戰了“按用量、按消費付費銷售模型不可能盈利”的長期判斷。</li>
+<li>效率來源之一——持續優化：工程師不斷做出的優化被稱爲“算力倍增器”（compute multipliers）。效率較低的同行 OpenAI 今年夏天也靠新發現的優化把模型運行成本降了一半以上；但 OpenAI 仍大量燒錢，部分原因是 ChatGPT 要服務數億不付費用戶，被作者稱爲“燒算力的包袱”。</li>
+<li>效率來源之二——多芯片路線：與 OpenAI 不同，Anthropic 從一開始就使用多家供應商的服務器芯片（Amazon、Google、AMD 等），不只用 Nvidia 的芯片。爲不同芯片高效寫軟件、並在芯片之間切換工作負載很難，但一旦做好“抽象層”，就能把不同類型的工作負載放到最擅長處理它的芯片上；Anthropic 與 OpenAI 在這方面似乎都借鑑了 Google 的 Borg 算力管理系統。此外，Anthropic 與 Amazon 密切合作，很可能對 Amazon 自研 Trainium 芯片的演進有很大話語權，使其更適配 Anthropic 的工作負載。</li>
+<li>治理結構——聯合創始人與長期利益信託：招股書證實了此前報道的聯合創始人對其他股東擁有永久投票權；同時，負責安全與社會議題、由四名非股東成員組成的長期利益信託（Long-Term Benefit Trust，成員包括前美聯儲主席 Ben Bernanke）擁有選舉和罷免董事會多數成員的權力，其設立初衷是讓沒有財務利益的一羣人，能幫助這家營利公司做出可能違背其商業利益的決定。</li>
+<li>信託權力可以被取消：Anthropic 週一披露了多種可以消除信託權力的方式——無論信託是否同意。公司最初介紹信託的博客曾稱其爲一項“實驗”，並提到存在未公開的“保險”條款：若足夠大的股東超級多數同意，可在未經受託人同意的情況下改變信託及其權力；招股書中的條款與此相符，並規定需要聯合創始人、員工和公衆股東中的顯著多數批准。這一制衡可能對部分股東有吸引力，但不會讓主張 Anthropic 因安全與安保風險放慢腳步的倡導者高興。</li>
+<li>大數字：Meta Platforms 宣佈計劃通過出售股票募集至多 950 億美元資金，爲 AI 數據中心熱潮再添鉅額融資；Nvidia 將在這輪股票發行中投資 30 億美元，兩家公司擴大技術合作，以最大化 Meta 的 Muse 個人智能體應用和基礎模型的性能。另據報道，SpaceX 已同意向一家與 Apollo Global Management 關聯的實體支付 400 億美元租賃 AI 芯片，該安排由 Apollo 出售債務購買芯片、再租給 SpaceX。</li>
+<li>人事動向：Microsoft 週一表示，正向約 27% 的員工提供自願買斷，以在投入開發和運行 AI 的同時削減開支；這可能成爲大型科技公司近年來規模最大的潛在裁員之一。</li>
+<li>交易與動態：Goldman Sachs 正式贏得 Anthropic IPO 的主承銷商（lead left）角色，Morgan Stanley 被指定爲 IPO 的穩定代理；Anthropic 在 S-1 中稱，今年上半年支付處理費較去年同期增加了 2.22 億美元，凸顯公司增長帶來的 AI 支付處理成本激增；公司還表示將讓 Claude 模型保持無廣告。其他交易包括：Francisco Partners 以約 6.5 億美元全現金收購醫療患者互動平臺 Weave Communications；自動挖掘機器人公司 Bedrock Robotics 完成 6 億美元 C 輪融資，投後估值 41 億美元；巴西最大銀行 Itaú Unibanco 同意以 29.25 億雷亞爾（約 5.89 億美元）全資收購 AI 基礎模型公司 NeoSpace AI。</li>
+<li>OpenAI 新品：OpenAI 週一發佈了 GPT-6.1 Terra——其 GPT-6.1 模型的中價位版本，公司稱其比三個月前發佈的同檔版本便宜得多、效率也高得多；OpenAI 還宣佈了在計算機科學、數學和物理領域的三項新的 AI 驅動突破。</li></ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">原文摘錄</div>
+<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;padding-left:14px;margin:0 0 12px;color:#3f3f46;">Anthropic 表示，其運行現有模型可獲得 85% 的毛利率，該數字不包括開發新模型的成本。（“Anthropic said it is generating an 85% gross profit margin from powering existing models, which doesn’t include the cost of developing new models.”）</blockquote>
+<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;padding-left:14px;margin:0 0 12px;color:#3f3f46;">因此，它的 IPO 文件是對 AI 懷疑論者長期觀點的一記現實檢驗——他們一直認爲，以按用量付費、按消費計費的方式銷售模型的商業模式不會盈利。（“So its IPO filing is a reality check on the AI skeptics’ longtime view that a business model founded on selling models on a pay-as-you-go, consumption basis wouldn’t be profitable.”）</blockquote>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">閱讀原文</div>
+<div style="font-size:15px;line-height:1.75;margin:0 0 12px;"><a href="https://www.theinformation.com" style="color:#e11d48;">theinformation.com</a>（本期郵件中的鏈接均爲追蹤跳轉鏈接，無該文章的直接原文鏈接）</div>
+<div style="font-size:13px;color:#888;margin:14px 0;">原文標題：<i>Why Anthropic's 85% Margin Is a Reality Check for Skeptics</i></div>
+<div style="font-size:13px;color:#888;margin:14px 0 4px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【电动】獨家：微型初創 Critical Loop 如何拿下爲 Anduril 新工廠供電的大單</title>
 <link>https://www.theinformation.com</link>
@@ -1576,49 +1619,6 @@ Meta 聲稱 Muse Wonder 在某些任務上"提供最優性能"（"deliver state-
 
 </div>
 </body></html>
-]]></content:encoded>
-</item>
-<item>
-<title>【AI Agenda】獨家：OpenAI 計劃復活 Sora</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#獨家：OpenAI 計劃復活 Sora</guid>
-<pubDate>Mon, 12 Oct 2026 10:22:36 -0400</pubDate>
-<category>AI Agenda</category>
-<description>AI 摘要 OpenAI 今年初砍掉了視頻模型 Sora 和與之配套的 TikTok 式應用，理由是這類“副業”燒錢；如今 Sora 有可能“借屍還魂”。一家爲電影人做 AI 視頻的 stealth 初創公司——創始人包括好萊塢巨頭 Jeffrey Katzenberg、前 Sora 研究負責人 Bill Peebles 和前 Dropbox 首席財務官 Sujay Jaswa——正與 OpenAI 談判，拿到 Sora 的深度使用權並…</description>
-<content:encoded><![CDATA[<!DOCTYPE html>
-<html lang="zh-CN">
-<head><meta charset="utf-8"></head>
-<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
-<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
-<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:16px 20px;margin-bottom:20px;">
-<div style="font-size:16px;font-weight:bold;color:#e11d48;margin-bottom:8px;">AI 摘要</div>
-<div style="font-size:14px;line-height:1.7;color:#333;">OpenAI 今年初砍掉了視頻模型 Sora 和與之配套的 TikTok 式應用，理由是這類“副業”燒錢；如今 Sora 有可能“借屍還魂”。一家爲電影人做 AI 視頻的 stealth 初創公司——創始人包括好萊塢巨頭 Jeffrey Katzenberg、前 Sora 研究負責人 Bill Peebles 和前 Dropbox 首席財務官 Sujay Jaswa——正與 OpenAI 談判，拿到 Sora 的深度使用權並大幅定製，再向影視行業銷售軟件或服務。交易結構是 OpenAI 拿新公司的股權而非現金：Sora 的訓練與運行成本極高，OpenAI 已把資源轉回了更經濟的語言模型與 ChatGPT，這筆交易能讓它從這塊沉沒成本中挽回一點回報。值得玩味的是，OpenAI 近期其實已在鬆動“砍副業”路線：重啓了機器人項目、挖來 Patreon 聯合創始人領導新的創作者產品部門，還在推進高成本的個人設備計劃。</div>
-</div>
-<div style="font-size:26px;font-weight:bold;line-height:1.4;">The Information · AI Agenda</div>
-<div style="font-size:13px;color:#888;margin:6px 0 0;">2026 年 10 月 12 日（星期一）</div>
-<div style="font-size:24px;font-weight:bold;margin:14px 0 0;line-height:1.4;">獨家：OpenAI 計劃復活 Sora</div>
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:18px 0;"></div>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 12px;">關鍵要點</div>
-<ul style="font-size:15px;line-height:1.75;color:#222;margin:0;padding-left:22px;">
-<li style="margin-bottom:8px;">今年初，OpenAI 把視頻模型 Sora 和與之配套的 TikTok 式應用一起砍掉，屬“砍燒錢副業”戰略的一部分；同期 xAI 和 Google 的視頻模型仍在推進。</li>
-<li style="margin-bottom:8px;">The Information 上月披露的一家 stealth 初創公司（面向電影人的 AI 視頻）正與 OpenAI 談判：接入 Sora、二次開發並基於它銷售軟件或服務。消息來自知情人士。</li>
-<li style="margin-bottom:8px;">創始人陣容：好萊塢巨頭 Jeffrey Katzenberg、前 Sora 研究負責人 Bill Peebles、前 Dropbox 首席財務官 Sujay Jaswa；公司名稱尚未公開。</li>
-<li style="margin-bottom:8px;">談成後初創公司是否拿到模型權重尚不明，但會獲得足以深度定製的訪問權限；Peebles 曾主導 Sora，對其訓練與架構瞭如指掌。</li>
-<li style="margin-bottom:8px;">OpenAI 將獲得新公司的股權（比例未知），以此從 Sora 的鉅額投入中挽回一部分回報。</li>
-<li style="margin-bottom:8px;">砍掉 Sora 的核心原因是成本：模型的訓練與運行開銷太高，OpenAI 把資源轉回了更經濟的語言模型與 ChatGPT。</li>
-<li style="margin-bottom:8px;">OpenAI 已在鬆動“砍副業”：重啓機器人項目、挖來 Patreon 聯合創始人領導新的創作者產品部門、重推高成本的個人設備計劃。</li>
-<li style="margin-bottom:8px;">大數據：OpenAI 9 月底告訴投資者年化收入接近 500 億美元，比其他近期報道（含 The Information 的）低約 200 億美元。</li>
-<li style="margin-bottom:8px;">其他動態：美國政府限制微軟爲特定移民工人擔保簽證（副總統 Vance 提及針對“裁美國人、招移民”指控的調查）；Anthropic 承認其 AI 誤填政府表格、向警方提交虛假兇殺案線索，特朗普政府要求 AI 公司上報並糾正安全事件；被 OpenAI 解僱的三名安全研究員稱因提出安全顧慮受罰；韓國金融機構黑客案的作案工具是一個開源中國 AI 智能體。</li>
-</ul>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 12px;">原文摘錄</div>
-<blockquote style="border-left:3px solid #d4d4d8;margin:14px 0;padding:8px 16px;font-size:15px;line-height:1.75;color:#444;background:none;">一家爲電影人開發 AI 視頻的 stealth 初創公司正與 OpenAI 談判，接入 Sora、加以改造並基於它銷售軟件或其他服務。<br><span style="color:#888;font-size:13px;">（A stealthy startup developing AI video for filmmakers … is in talks with OpenAI to access Sora, tweak it and sell software or other services using it.）</span></blockquote>
-<blockquote style="border-left:3px solid #d4d4d8;margin:14px 0;padding:8px 16px;font-size:15px;line-height:1.75;color:#444;background:none;">這筆交易意味着 OpenAI 能從 Sora 的投入中挽回一部分回報。<br><span style="color:#888;font-size:13px;">（The new deal means OpenAI can salvage some sort of return on its Sora investment.）</span></blockquote>
-<div style="margin:20px 0;"><a href="https://www.theinformation.com" style="color:#e11d48;font-size:15px;font-weight:bold;text-decoration:none;">閱讀原文 &rarr;</a></div>
-<div style="font-size:13px;color:#999;margin:16px 0;">原文標題：<i>Exclusive: OpenAI's Plan To Revive Sora</i></div>
-<div style="font-size:13px;color:#999;margin:24px 0 8px;border-top:1px solid #ddd;padding-top:12px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
-</div>
-</body>
-</html>
 ]]></content:encoded>
 </item>
 </channel>
