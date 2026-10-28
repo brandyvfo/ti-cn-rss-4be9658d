@@ -6,7 +6,47 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 27 Oct 2026 11:48:48 -0700</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 17:20:44 -0700</lastBuildDate>
+<item>
+<title>【简报】谷歌TPU時刻：需求激增，甲骨文、OpenAI與Anthropic齊聚</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#谷歌TPU時刻：需求激增，甲骨文、Ope</guid>
+<pubDate>Tue, 27 Oct 2026 17:20:44 -0700</pubDate>
+<category>简报</category>
+<description>AI 摘要 谷歌自研AI芯片TPU正從內部工具變成對外增長引擎，勢必成爲Alphabet週三公佈第三季度財報時的焦點。本週多條信號顯示需求激增：甲骨文將成爲谷歌之外首家在自有數據中心提供TPU的大型雲廠商，OpenAI也計劃採購谷歌TPU。Anthropic在IPO招股書中披露的鉅額承諾更量化了這一需求——僅與谷歌雲和博通相關的TPU算力支出就達數千億美元量級。分析師預計TPU收入明年才大舉入賬，但到2028年有望成爲谷歌雲的重要支柱；…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html><head><meta charset="utf-8"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:16px 18px;margin-bottom:24px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">谷歌自研AI芯片TPU正從內部工具變成對外增長引擎，勢必成爲Alphabet週三公佈第三季度財報時的焦點。本週多條信號顯示需求激增：甲骨文將成爲谷歌之外首家在自有數據中心提供TPU的大型雲廠商，OpenAI也計劃採購谷歌TPU。Anthropic在IPO招股書中披露的鉅額承諾更量化了這一需求——僅與谷歌雲和博通相關的TPU算力支出就達數千億美元量級。分析師預計TPU收入明年才大舉入賬，但到2028年有望成爲谷歌雲的重要支柱；英偉達則通過深化與Meta的合作、投資30億美元加以應對。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;line-height:1.3;">The Information Briefing</div>
+<div style="font-size:13px;color:#71717a;margin-top:6px;">2026 年 10 月 27 日</div>
+<div style="font-size:24px;font-weight:bold;line-height:1.4;margin-top:16px;">谷歌TPU時刻：需求激增，甲骨文、OpenAI與Anthropic齊聚</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 12px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;padding-left:22px;margin:0;">
+<li style="margin-bottom:8px;">財報焦點：Alphabet將於週三公佈第三季度財報，谷歌高管與華爾街分析師預計都會重點談及TPU（張量處理單元）。</li>
+<li style="margin-bottom:8px;">甲骨文入局：谷歌稱，甲骨文將成爲谷歌自身之外首家通過自有數據中心向客戶提供TPU的大型雲服務商。</li>
+<li style="margin-bottom:8px;">OpenAI轉向：據The Information獨家報道，長期是英偉達AI芯片大客戶的OpenAI計劃採購谷歌TPU。</li>
+<li style="margin-bottom:8px;">Anthropic鉅額承諾：其IPO招股書顯示，計劃向谷歌雲支出1145億美元（未說明其中多少爲TPU算力），另估計可能再向谷歌及其他廠商支出1250億至1500億美元用於TPU，並將向與谷歌共同設計TPU的博通支出1612億美元購買TPU算力。</li>
+<li style="margin-bottom:8px;">從內部到外銷：TPU十多年前僅供谷歌內部使用，2018年起通過谷歌雲向外部客戶開放，近期又與Fluidstack、甲骨文等合作進入第三方數據中心；谷歌上季度纔開始確認對外數據中心TPU銷售收入，首席財務官Anat Ashkenazi稱相關協議的絕大部分收入要到明年才體現。</li>
+<li style="margin-bottom:8px;">分析師測算：TD Cowen的John Blackledge估計，TPU今年下半年將帶來94億美元銷售額，約佔其預測谷歌雲同期約700億美元收入的13%；到2028年TPU業務規模有望達1380億美元，佔谷歌雲預計收入的34%，但仍只是分析師預計英偉達截至2028年1月財年6920億美元收入的一小部分。</li>
+<li style="margin-bottom:8px;">英偉達反擊：英偉達宣佈擴大與Meta的合作，Meta將增加英偉達芯片部署，英偉達將向Meta本週宣佈的近1000億美元股票發行投資30億美元；此前Meta已與谷歌達成租用TPU的協議。</li>
+<li style="margin-bottom:8px;">其他動態：Meta將計劃中的股票出售規模從950億美元上調至975億美元，爲AI投資籌資；Anthropic已與百時美施貴寶、BigHat Biosciences等藥企合作以AI做藥物發現，並收購了專注罕見肌營養不良治療的小公司Mithril Medicine；Anduril與高通將合作在美國生產面向政府、國防和急救人員的加固筆記本，產品線名爲BlueChip。</li>
+</ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 12px;">原文摘錄</div>
+<blockquote style="margin:12px 0;padding:8px 16px;border-left:3px solid #d4d4d8;color:#3f3f46;">準備好聽谷歌在週三炫耀它的TPU吧。<br><span style="color:#71717a;font-size:13px;">(Get ready to hear Google brag about TPUs on Wednesday.)</span></blockquote>
+<blockquote style="margin:12px 0;padding:8px 16px;border-left:3px solid #d4d4d8;color:#3f3f46;">這些協議的絕大部分收入將在明年纔開始體現。<br><span style="color:#71717a;font-size:13px;">(The “vast majority of revenues” from those agreements will kick in next year.)</span></blockquote>
+<div style="font-size:15px;line-height:1.75;margin-top:20px;"><a href="https://www.theinformation.com" style="color:#e11d48;">閱讀原文</a></div>
+<div style="font-size:13px;color:#71717a;margin-top:16px;">原文標題：<i>The Briefing: It’s TPU Time at Google</i></div>
+<div style="font-size:13px;color:#71717a;margin-top:12px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【Applied AI】Anthropic 推動鎖定企業客戶：以長期合同鞏固領先優勢</title>
 <link>https://www.theinformation.com</link>
@@ -1546,61 +1586,6 @@ AI 云厂商（neocloud）Prime Intellect 正在收购开源模型初创公司 M
 
 </div>
 </body></html>
-]]></content:encoded>
-</item>
-<item>
-<title>【AM】獨家：微軟重組 Azure 領導層，AI 改革再加碼</title>
-<link>https://www.theinformation.com/briefings/microsoft-cloud-exec-joins-anthropic-head-infrastructure</link>
-<guid isPermaLink="false">https://www.theinformation.com/briefings/microsoft-cloud-exec-joins-anthropic-head-infrastructure#獨家：微軟重組 Azure 領導層，AI</guid>
-<pubDate>Tue, 13 Oct 2026 04:19:04 -0700</pubDate>
-<category>AM</category>
-<description>AI 摘要 微軟在同一天打出了 AI 組合拳：雲業務負責人斯科特·格思裏宣佈重組 Azure 管理層，原數據庫業務負責人 Arun Ulag 統管 Azure Core 與工程團隊，查理·貝爾也向他彙報，這是納德拉爲 AI 時代打造新一代管理班子的又一步；同時微軟發佈自研 AI 芯片 Maia 300，宣稱能效比主流 GPU 系統高 40%，明年起部署"數吉瓦"規模，意在擺脫對英偉達的依賴。另一邊，Meta 推出對標前沿模型的 Muse…</description>
-<content:encoded><![CDATA[<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="utf-8">
-</head>
-<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
-<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
-
-<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 18px;margin:0 0 20px;">
-<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
-<div style="font-size:14px;line-height:1.7;">微軟在同一天打出了 AI 組合拳：雲業務負責人斯科特·格思裏宣佈重組 Azure 管理層，原數據庫業務負責人 Arun Ulag 統管 Azure Core 與工程團隊，查理·貝爾也向他彙報，這是納德拉爲 AI 時代打造新一代管理班子的又一步；同時微軟發佈自研 AI 芯片 Maia 300，宣稱能效比主流 GPU 系統高 40%，明年起部署"數吉瓦"規模，意在擺脫對英偉達的依賴。另一邊，Meta 推出對標前沿模型的 Muse Wonder 系列，號稱基準測試超過 Claude Fable 5.1 和 GPT-6 Astra；Anthropic 則與 NTT Data 洽談在日本大阪建其首座日本數據中心，耗資或達 1 萬億日元；交友軟件 Bumble 洽談以約 10 億美元估值私有化，由前紅杉合夥人 Ravi Gupta 的新公司收購。</div>
-</div>
-
-<div style="font-size:26px;font-weight:bold;margin:0 0 6px;">The Information AM</div>
-<div style="font-size:13px;color:#888;margin:0 0 10px;">2026 年 10 月 13 日</div>
-<div style="font-size:24px;font-weight:bold;margin:0;">獨家：微軟重組 Azure 領導層，AI 改革再加碼</div>
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
-
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 12px;">關鍵要點</div>
-<ul style="font-size:15px;line-height:1.75;margin:0;padding-left:22px;">
-<li><b>Azure 管理層大洗牌。</b>雲業務負責人斯科特·格思裏週一告知員工：原負責 Azure 數據庫產品的 Arun Ulag，將同時分管 Azure Core（爲 OpenAI 等客戶提供算力的核心部門）與 Azure 工程部門的負責人，包括 Girish Bablani、Billy Anders、Douglas Phillips 和 Mark Russinovich；今年初轉任顧問的前安全業務負責人 Charlie Bell 也將向 Ulag 彙報。</li>
-<li><b>背景：高管連續離職。</b>重組之前，微軟今年已有數名資深高管離職，包括 Azure AI 負責人 Eric Boyd（今年春天跳槽 Anthropic 擔任基礎設施負責人）。納德拉正在全公司範圍內提拔新一代管理者，Ulag 今年初已受邀參加董事會，被內部視爲納德拉的門生之一。</li>
-<li><b>自研芯片 Maia 300。</b>微軟週一發佈新一代自研 AI 芯片 Maia 300，計劃明年起部署"數吉瓦"規模。納德拉稱其能效比"主流 GPU 系統"高 40%，微軟計劃主要用自研芯片運行自家 AI 應用，以降低對英偉達 GPU 的依賴和 Copilot 的運行成本。</li>
-<li><b>Maia 量產仍是問號。</b>微軟 8 月曾與臺積電洽談鎖定超過 30 萬片 Maia 芯片的產能，是此前自研芯片產量的一個數量級以上；但部署數吉瓦需要數百萬片。微軟還想說服 Anthropic 等大客戶採用該芯片，但目前尚未宣佈任何大客戶。</li>
-<li><b>Meta 發佈新模型。</b>Meta 週一發佈 Muse Wonder 和 Muse Wonder Full 兩款新模型，扎克伯格稱其規模和能力遠超上一代 Muse Spark；Meta 稱 Muse Wonder Full 在推理、寫作和編程上表現強勁，在 Artificial Analysis Intelligence Index 上的基準成績超過 Anthropic 的 Claude Fable 5.1 和 OpenAI 的 GPT-6 Astra。</li>
-<li><b>Anthropic 首座日本數據中心。</b>據日經報道，Anthropic 正與 NTT Data 洽談在日本大阪府建設其在日本的第一座數據中心，已進入最後談判階段：總電力容量最高 500 兆瓦，將躋身日本最大數據中心之列；建設成本或達 1 萬億日元（約 63 億美元），目標 2026 年底前簽約，最早 2028 年部分投運。</li>
-<li><b>算力軍備競賽。</b>過去 11 個月 Anthropic 已簽下價值 5,310 億美元的算力協議（主要與 AWS、谷歌、微軟等雲廠商），並正洽談從一家由阿波羅全球管理多數持股的數據中心開發商租用最高 1 吉瓦的容量。</li>
-<li><b>Bumble 洽談私有化。</b>據華爾街日報報道，交友應用 Bumble 正與前紅杉合夥人 Ravi Gupta 最近創辦的一家控股公司深入洽談私有化，交易估值約 10 億美元，遠高於消息傳出前約 3 億美元的市值。Gupta 今年 1 月宣佈淡出紅杉、與 Meta 前首席營收官 John Hegeman 共同創業，目標募資至少 10 億美元用於收購。</li>
-</ul>
-
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 12px;">原文摘錄</div>
-<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;margin:0 0 12px;padding:4px 0 4px 14px;color:#3f3f46;">微軟雲業務負責人斯科特·格思裏週一告訴員工，公司正在對 Azure 雲業務的領導層進行大改組，並圍繞 AI 合併業務單元、重新調整方向。（"Microsoft is overhauling the leadership of its Azure cloud business, cloud chief Scott Guthrie told staff Monday, as the company consolidate units and reorients itself around AI."）</blockquote>
-<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;margin:0;padding:4px 0 4px 14px;color:#3f3f46;">納德拉週一發文稱，Maia 300 比"主流 GPU 系統"能效高 40%，微軟計劃主要用自研芯片運行自家 AI 應用。（"Maia 300 is 40% more efficient than 'leading GPU-based systems' and Microsoft plans to rely primarily on the chips to run its own AI applications."）</blockquote>
-
-<div style="font-size:15px;margin:24px 0 8px;">
-<a href="https://www.theinformation.com/briefings/microsoft-cloud-exec-joins-anthropic-head-infrastructure" style="color:#e11d48;">閱讀原文：Azure AI 負責人跳槽 Anthropic（相關報道）</a><br>
-<a href="https://www.theinformation.com/articles/microsofts-homegrown-ai-chip-effort-shows-signs-life-slow-start" style="color:#e11d48;">閱讀原文：微軟自研 AI 芯片之路（相關報道）</a>
-</div>
-
-<div style="font-size:13px;color:#888;margin:0 0 16px;">原文標題：<i>Exclusive: Microsoft Reorganizes Azure Cloud Unit Amid AI Overhaul</i></div>
-
-<div style="font-size:13px;color:#888;margin:0;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
-
-</div>
-</body>
-</html>
 ]]></content:encoded>
 </item>
 </channel>
