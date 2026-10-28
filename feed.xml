@@ -6,7 +6,41 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 27 Oct 2026 17:20:44 -0700</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 07:19:34 -0400</lastBuildDate>
+<item>
+<title>【AM】OpenAI與Anthropic同日宣稱密碼學突破，谷歌TPU將供OpenAI與甲骨文</title>
+<link>https://www.theinformation.com/newsletters/ai-agenda/openais-math-breakthroughs-rattle-cryptography-leaders</link>
+<guid isPermaLink="false">https://www.theinformation.com/newsletters/ai-agenda/openais-math-breakthroughs-rattle-cryptography-leaders#OpenAI與Anthropic同日宣稱</guid>
+<pubDate>Wed, 28 Oct 2026 07:19:34 -0400</pubDate>
+<category>AM</category>
+<description>AI 摘要 本期頭條是AI在基礎理論上的罕見同日撞車：OpenAI與Anthropic都宣稱各自模型在10月16日推翻了密碼學相關的指數時間假設，且該結果預計不會立即衝擊現有加密系統。與此同時，谷歌把TPU商業化再推進一步——OpenAI計劃採購、甲骨文雲將於2027年向客戶提供TPU，直接挑戰英偉達。資金與產業層面，Meta把爲AI融資的股權出售計劃從950億美元小幅上調至975億美元，含承銷商選擇權最高可達約1030億美元；Anth…</description>
+<content:encoded><![CDATA[<html><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 18px;margin-bottom:20px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:6px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">本期頭條是AI在基礎理論上的罕見同日撞車：OpenAI與Anthropic都宣稱各自模型在10月16日推翻了密碼學相關的指數時間假設，且該結果預計不會立即衝擊現有加密系統。與此同時，谷歌把TPU商業化再推進一步——OpenAI計劃採購、甲骨文雲將於2027年向客戶提供TPU，直接挑戰英偉達。資金與產業層面，Meta把爲AI融資的股權出售計劃從950億美元小幅上調至975億美元，含承銷商選擇權最高可達約1030億美元；Anthropic則收購一人藥物初創Mithril並擴大生物科技合作，馬來西亞又查獲約1211萬美元的走私AI芯片。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;">The Information AM</div>
+<div style="font-size:13px;color:#71717a;margin:6px 0 12px;">2026年10月28日（星期三）</div>
+<div style="font-size:24px;font-weight:bold;line-height:1.4;">OpenAI與Anthropic同日宣稱密碼學突破，谷歌TPU將供OpenAI與甲骨文</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:18px 0 10px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;padding-left:20px;"><li style='margin-bottom:8px;'>密碼學突破同日出現：OpenAI稱其模型推翻了指數時間假設——即某類問題最低求解難度的廣泛假設，做法是找到比假設下限更快的算法；公司還宣佈了物理與數學方面的另外兩項突破，此前其本月已發佈700多篇數學論文，但當時未含密碼學成果。</li>
+<li style='margin-bottom:8px;'>Anthropic緊隨其後：研究員Levent Alpöge稱Anthropic模型也在10月16日同一天推翻了同一假設，爲此投入了1400萬個token；該結果不預計對加密系統產生即時影響，但顛覆了許多理論計算機科學家的原有判斷。</li>
+<li style='margin-bottom:8px;'>谷歌TPU外賣擴大：谷歌將向甲骨文和OpenAI出售張量處理單元（TPU）；OpenAI計劃採購TPU，谷歌還與甲骨文合作、首次讓TPU登陸谷歌之外的超大規模雲平臺，甲骨文稱TPU將於2027年可用。谷歌稱TPU效率高於英偉達GPU，今年已開始向新雲廠商等第三方出售芯片。</li>
+<li style='margin-bottom:8px;'>Meta融資計劃上調：Meta把股權融資計劃總額從950億美元增至975億美元，其中普通股發行從225億美元增至250億美元，另含約125億美元A系列存托股份和最高600億美元的市價發行計劃；承銷商還有約55億美元的額外認購選擇權，總額最高可達約1030億美元，資金用於AI投資。</li>
+<li style='margin-bottom:8px;'>Anthropic深入生物科技：Anthropic收購一人初創Mithril Medicine（開發兩種罕見肌營養不良症療法），創始人已加入公司並曾用Claude協調11家外部實驗室；其候選藥物最早有望2028年底進入人體臨牀試驗。Anthropic還與百時美施貴寶、BigHat Biosciences等六傢伙伴合作，用Claude做抗體設計到臨牀試驗規劃等工作，並在IPO文件中把AI發現新療法列爲最具人類益處潛力的應用之首。</li>
+<li style='margin-bottom:8px;'>馬來西亞查獲走私AI芯片：海關在吉隆坡國際機場自由貿易區查獲30臺含先進AI芯片的服務器，價值約4950萬林吉特（約1211萬美元），貨物以電子元件虛假申報、經馬來西亞轉口以規避限制；至少5起案件與同一走私團伙有關，查獲芯片總值超過1億林吉特。</li>
+<li style='margin-bottom:8px;'>高盛投行聯席主管談AI分化：Kim Posnett在The Information WTF峯會上表示，她整體上非常看好AI，但資本成本持續上升下市場弱點正在顯現，投資者更挑剔、偏好集前沿模型、軟件與AI芯片於一體的垂直整合公司；她認爲AI本身不是泡沫，但其中可能存在泡沫，並承認英偉達等巨頭資助自身供應商與客戶的循環融資既有合作邏輯、也帶來更大風險。</li></ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:18px 0 10px;">原文摘錄</div>
+<blockquote style='margin:12px 0;padding:8px 16px;border-left:3px solid #d4d4d8;color:#3f3f46;'>OpenAI稱其模型在10月16日發現，指數時間假設是錯誤的。<br><span style='color:#71717a;font-size:13px;'>(OpenAI claims its models found on October 16 that the exponential time hypothesis ... was false)</span></blockquote>
+<blockquote style='margin:12px 0;padding:8px 16px;border-left:3px solid #d4d4d8;color:#3f3f46;'>把TPU帶到甲骨文雲，將讓更多機構用上這項技術，並更靈活地構建和運行最複雜的AI應用。<br><span style='color:#71717a;font-size:13px;'>(will give more organizations access to this technology and greater flexibility)</span></blockquote>
+<div style="margin:18px 0;"><a href="https://www.theinformation.com/newsletters/ai-agenda/openais-math-breakthroughs-rattle-cryptography-leaders" style="color:#e11d48;font-size:15px;">閱讀原文</a></div>
+<div style="font-size:13px;color:#71717a;">原文標題：<i>OpenAI, Anthropic Claim Cryptography Breakthrough on Same Day</i></div>
+<div style="font-size:13px;color:#71717a;margin-top:16px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+</div></body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【简报】谷歌TPU時刻：需求激增，甲骨文、OpenAI與Anthropic齊聚</title>
 <link>https://www.theinformation.com</link>
@@ -1531,61 +1565,6 @@ DeepSeek 週六發佈升級版輕量模型 V4.1-Flash-1017，Terminal-Bench 4.0 
 </div>
 </body>
 </html>
-]]></content:encoded>
-</item>
-<item>
-<title>【独家】AI 云厂商 Prime Intellect 收购初创公司，提速开源模型推理</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#独家：AI 云厂商 Prime Inte</guid>
-<pubDate>Tue, 13 Oct 2026 07:20:46 -0700</pubDate>
-<category>独家</category>
-<description>AI 摘要 AI 云厂商（neocloud）Prime Intellect 正在收购开源模型初创公司 Moondream，意在获得其"megakernel"编译技术，让开源模型在自家 Nvidia 服务器上跑得更快、更便宜——这是拥挤的推理服务市场中的一记差异化打法。Moondream 团队不足 10 人，但其编译器能自动把 GPU 上的多次数学运算合并为单次连续操作、减少 GPU 空闲时间，而这类优化历史上多靠手工编写。收购同时看中的…</description>
-<content:encoded><![CDATA[<html><head><meta charset="utf-8"></head><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
-<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
-
-<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin:0 0 20px 0;">
-<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
-<div style="font-size:14px;line-height:1.7;">
-AI 云厂商（neocloud）Prime Intellect 正在收购开源模型初创公司 Moondream，意在获得其"megakernel"编译技术，让开源模型在自家 Nvidia 服务器上跑得更快、更便宜——这是拥挤的推理服务市场中的一记差异化打法。Moondream 团队不足 10 人，但其编译器能自动把 GPU 上的多次数学运算合并为单次连续操作、减少 GPU 空闲时间，而这类优化历史上多靠手工编写。收购同时看中的是团队在图像等多模态上的优化经验，Prime Intellect 希望借此拿下机器人与"计算机使用型 AI 智能体"等对手服务不足的客户、开辟新收入。公司 7 月刚完成 10 亿美元估值融资并宣布年化收入破 1 亿美元，虽仍远小于 Fal（超 8 亿美元）和 Together AI（超 10 亿美元），但自营硬件是其不同于多数同行的一点。
-</div>
-</div>
-
-<div style="font-size:26px;font-weight:bold;margin:20px 0 4px 0;">AI Agenda</div>
-<div style="font-size:13px;color:#666;margin:0 0 16px 0;">2026 年 10 月 13 日</div>
-
-<div style="font-size:24px;font-weight:bold;margin:0 0 4px 0;">独家：AI 云厂商 Prime Intellect 收购初创公司，提速开源模型推理</div>
-
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
-
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 12px 0;">关键要点</div>
-<ul style="font-size:15px;line-height:1.75;margin:0 0 8px 0;padding-left:22px;">
-<li>Prime Intellect 收购 Moondream：交易条款未披露；Moondream 总部位于旧金山/西雅图，员工不足 10 人，已融资 450 万美元，最知名的是其开源视觉语言模型。</li>
-<li>收购核心是"megakernel"技术——把 GPU 上多次独立数学运算合并为一次连续操作，减少 GPU 空闲时间；Moondream 开发的编译器可为多种模型自动生成这类内核。</li>
-<li>同行 Together AI 也有 megakernel 方面的研究，但历史上靠人工手动编写；Moondream 的编译器自动化程度更高。</li>
-<li>Moondream 在图像等多模态上的优化经验在行业中较为少见（行业高度聚焦文本），Prime Intellect 希望借此服务机器人、计算机智能体等客户群体，开辟新收入来源。</li>
-<li>Prime Intellect 7 月估值 10 亿美元，年化收入已破 1 亿美元（月均约 800 万美元）；对比 Fal 年化超 8 亿美元、Together AI 超 10 亿美元。其自营硬件、而非租用云厂商服务器，是与多数同行不同之处。</li>
-<li>本期 AI Deep Dive：Goodfire 首席科学家 Tom McGrath 认为，"机制可解释性"研究可能被 AI 最先、最大程度地自动化——AI 智能体可亲自跑实验、收集数据，比纯数学更像一门自然科学。</li>
-<li>其他动态：微软重组 Azure 云业务领导层，围绕 AI 整合部门；NTT Data 洽谈为 Anthropic 在日本大阪建设首个专用数据中心（500MW 供电容量，造价或达 1 万亿日元）；JPMorgan 与高盛为 AI 基建公司 Volta Infrastructure 承销 13 亿美元定期贷款（50 亿美元贷款出售计划的一部分）。</li>
-<li>融资与交易：腾讯拟发行美元与离岸人民币债券至少 45 亿美元，主要投向 AI 资本开支；CrowdStrike 拟以约 5 亿美元收购以色列初创 Orion Security；Meta 发布两款新模型 Muse Wonder 与 Muse Wonder Full；微软发布自研芯片 Maia 300，明年起部署；Character.ai 申请 Chapter 11 破产并与迪士尼达成 2000 万美元 IP 授权协议；Suki 完成 9000 万美元 E 轮融资；Salesforce 拟以约 3000 万美元收购以色列初创 Loops。</li>
-</ul>
-
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 12px 0;">原文摘录</div>
-<div style="border-left:3px solid #ccc;padding:8px 14px;margin:0 0 12px 0;font-size:15px;line-height:1.75;">
-帮助应用开发者运行开源模型的 neocloud 和推理服务商，正试图在一个非常拥挤的市场中实现差异化。<br><span style="color:#555;">（"Neoclouds and so-called inference providers that help app developers run open source models are trying to differentiate themselves in a very crowded market."）</span>
-</div>
-<div style="border-left:3px solid #ccc;padding:8px 14px;margin:0 0 12px 0;font-size:15px;line-height:1.75;">
-"在所有科学领域中，可解释性应该是被 AI 革命化程度最深、或最先被革命化的那一个。"<br><span style="color:#555;">（"Of all the fields of science, interpretability should be the one that gets most revolutionized—or revolutionized first—by AI." —— Tom McGrath, Goodfire 首席科学家）</span>
-</div>
-
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 12px 0;">阅读原文</div>
-<div style="font-size:15px;margin:0 0 16px 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TFbQ1b0X6BYI4i2gwpXBsZJjTeiWik8WnJ40Uzcbj-2FJy8Ay1jKBPa7SRcrX7Rrrr5MB5-2B7OokdWEtZhGP9u2nuCQrJ4aqTjCLBkJDLh9qT6E8LkTnc7n30I9HKSGgVApqo33nBYzr2eu8o2SsaCJqd1Q2VTBfvziK4JZysMFy-2Byqo8X6eVjbxCrLW9lrRNBQ0CVZ90LmppjLePAxVkB6Sk-3DmLCW_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKl9B3ppmPO1LPV9Y1snY1JqHb29jlsE1s2-2BMd1Yv0pSXRVJU7PjfbQI2Kc0s1HmOjXEkHnxAsNiCzL3f2Tc4x4xVT4WxCpxvJRUA-2FzCDR39iDwXQifZAJfn0Nz8B5O-2BlN3w9fieYpUbhsG3NUex84H6pM3EuH9G4HgGMGlaWYJkh3FJPHi-2B7ozUOHDgbmFUnvi6Gdgh84eXF2BFQmXYZOZV9k-2FmFpw4jG-2FqcfYYWmsQBBcxezLUmttaCLA9x2Qklsqg2Fo4WUWszEdn4FmYVsLig-3D-3D" style="color:#e11d48;">Neocloud Prime Intellect 收购 Moondream，提速 AI 推理（The Information）</a></div>
-
-<div style="font-size:13px;color:#888;margin:0 0 8px 0;">原文标题：<em>Exclusive: Neocloud Prime Intellect Acquires Startup To Speed Up Inference</em></div>
-
-<div style="font-size:13px;color:#888;margin:16px 0 0 0;">本期为摘要版：基于邮件内容的中文摘要与要点提炼，非全文翻译。</div>
-
-</div>
-</body></html>
 ]]></content:encoded>
 </item>
 </channel>
