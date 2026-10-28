@@ -6,7 +6,46 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 28 Oct 2026 07:51:37 -0700</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 12:21:55 -0700</lastBuildDate>
+<item>
+<title>【电动】Peak Energy擴產之際，CEO力避Northvolt式覆轍：鈉離子電池堅持順序推進</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#Peak Energy擴產之際，CEO力</guid>
+<pubDate>Wed, 28 Oct 2026 12:21:55 -0700</pubDate>
+<category>电动</category>
+<description>AI 摘要 通用汽車支持的初創公司Peak Energy正以鈉離子電池挑戰中國在鋰基大電池上的主導地位，其聯合創始人兼CEO Landon Mossburg曾任Northvolt北美總裁，親歷了Northvolt燒光約130億美元卻從未實現商業化生產的破產教訓。Peak上週完成由通用汽車領投的1.08億美元B輪融資，將在薩克拉門託建設首期4吉瓦時鈉離子電池組裝廠，並計劃從明年第一季度起交付11億美元訂單。Mossburg的核心打法是順序…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html><head><meta charset="utf-8"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:12px 16px;margin-bottom:24px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:6px;">AI 摘要</div>
+<p style="margin:0;font-size:14px;line-height:1.7;">通用汽車支持的初創公司Peak Energy正以鈉離子電池挑戰中國在鋰基大電池上的主導地位，其聯合創始人兼CEO Landon Mossburg曾任Northvolt北美總裁，親歷了Northvolt燒光約130億美元卻從未實現商業化生產的破產教訓。Peak上週完成由通用汽車領投的1.08億美元B輪融資，將在薩克拉門託建設首期4吉瓦時鈉離子電池組裝廠，並計劃從明年第一季度起交付11億美元訂單。Mossburg的核心打法是順序推進而非並行擴張：先做好電池組裝，再依次推進與通用汽車共同開發的電芯和正極材料，避免重蹈Northvolt同時鋪開多條業務線、最終一事無成的覆轍。</p>
+</div>
+<div style="font-size:26px;font-weight:bold;line-height:1.3;">The Information Electric</div>
+<div style="font-size:13px;color:#71717a;margin-top:6px;">2026年10月28日</div>
+<h1 style="font-size:24px;font-weight:bold;line-height:1.4;margin:14px 0 0 0;">Peak Energy擴產之際，CEO力避Northvolt式覆轍：鈉離子電池堅持順序推進</h1>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px 0;">關鍵要點</h2>
+<ul style="font-size:15px;line-height:1.75;padding-left:22px;margin:0;">
+<li style="margin-bottom:8px;">公司與路線：Peak Energy由通用汽車支持，2023年由前特斯拉高管、Northvolt北美前總裁Landon Mossburg聯合創立，主攻鈉離子固定式儲能電池，目標是繞開中國主導的鋰基路線，爲AI數據中心、電網等場景提供備用電源。</li>
+<li style="margin-bottom:8px;">Northvolt的教訓：瑞典電池廠商Northvolt去年破產，耗盡了創始人籌集的約130億美元股債資金；儘管手握550億美元訂單並得到大衆、寶馬和歐盟支持，卻始終未能實現商業化生產，其首座正極工廠幾乎完全未能運轉，2025年夏其大部分資產被加州小公司Lyten以極低價格收購。</li>
+<li style="margin-bottom:8px;">失敗根源：Northvolt同時鋪開鋰精煉、正極、電芯製造和回收等通常由獨立公司承擔的業務，並在瑞典、德國、波蘭、挪威和加拿大多地建廠，還收購了航空電池初創公司Cuberg，結果攤子過大、樣樣不精。</li>
+<li style="margin-bottom:8px;">新一輪融資與產能：Peak上週宣佈完成1.08億美元B輪融資，由通用汽車領投，用於薩克拉門託4吉瓦時鈉離子電池組裝廠的首期建設，產能約可供280萬戶家庭用電一小時；該廠計劃從明年第一季度起交付11億美元訂單。</li>
+<li style="margin-bottom:8px;">鈉的邏輯：Mossburg認爲鈉在地殼中的丰度約爲鋰的1000倍，規模化加工後成本有望低於鋰；若加工環節在中國以外完成，還能降低美國面臨的地緣政治風險。</li>
+<li style="margin-bottom:8px;">順序推進策略：Peak先在薩克拉門託做電池組裝，之後再製造其正與通用汽車共同開發的鈉離子電芯，並計劃進一步做正極材料；Mossburg強調供應鏈必須環環相扣、如同音樂會同時開演，任何一環延遲都會拖住全局，因此要一件一件快速做，而非並行鋪開。</li>
+<li style="margin-bottom:8px;">遠期目標：Peak最終希望與通用汽車合作生產電池的多個部件，包括正極、電芯以及製成它們的原料粉末；特斯拉已成功實現正極與電芯製造，證明這一路徑可行，但Mossburg當前更聚焦於吸取Northvolt的教訓。</li>
+</ul>
+<h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 10px 0;">原文摘錄</h2>
+<blockquote style="border-left:3px solid #d4d4d8;margin:12px 0;padding:4px 0 4px 14px;color:#3f3f46;"><p style="margin:0;font-size:15px;line-height:1.75;">對比對我來說非常鮮明，因爲我從特斯拉去了Northvolt，一家明顯成功了，另一家明顯沒有.<br><span style="color:#71717a;font-size:13px;">(The contrast is very stark for me, because I went from Tesla to Northvolt. And one clearly worked, and the other one clearly didn't.)</span></p></blockquote>
+<blockquote style="border-left:3px solid #d4d4d8;margin:12px 0;padding:4px 0 4px 14px;color:#3f3f46;"><p style="margin:0;font-size:15px;line-height:1.75;">像Northvolt那樣同時做三門生意非常難，而且沒必要，因爲順序做同樣可以很快，你只需要一件一件順序推進.<br><span style="color:#71717a;font-size:13px;">(Building three businesses at once like Northvolt did is pretty tough. And you don't have to, because you can do it just as fast. You just do it sequentially.)</span></p></blockquote>
+<p style="font-size:15px;line-height:1.75;margin-top:20px;"><a href="https://www.theinformation.com" style="color:#e11d48;text-decoration:none;font-weight:bold;">閱讀原文</a></p>
+<p style="font-size:13px;color:#71717a;">原文標題：<i>As Peak Energy Builds Production, CEO Works to Avoid Recent History's Worst Missteps</i></p>
+<p style="font-size:13px;color:#71717a;margin-top:16px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</p>
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【AI Agenda】獨家：Foundry融資1億美元打造自主工廠</title>
 <link>https://www.theinformation.com/newsletters/ai-agenda/foundry-raises-100-million-autonomous-factories</link>
@@ -1523,33 +1562,6 @@ DeepSeek 週六發佈升級版輕量模型 V4.1-Flash-1017，Terminal-Bench 4.0 
 </div>
 </body>
 </html>
-]]></content:encoded>
-</item>
-<item>
-<title>【简报】Character 申请破产、Bumble 以 13 亿美元出售，OpenAI 工程师被指安放窃听器</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#Character 申请破产、Bumbl</guid>
-<pubDate>Tue, 13 Oct 2026 17:22:40 -0700</pubDate>
-<category>简报</category>
-<description>AI 摘要 本期《The Briefing》聚焦三家处境各异的公司：OpenAI 一名工程师被指在会议室里安放窃听装置并已遭逮捕；约会应用 Bumble 以 13 亿美元估值出售给投资公司 Ithaca Holdings；早期 AI 初创公司 Character.AI 则申请破产。作者认为，Bumble 这笔交易与其说是 AI 驱动的收购，不如说是困境出售——公司营收持续下滑、债务远超现金，出售价仅为 IPO 价格的七分之一。Chara…</description>
-<content:encoded><![CDATA[<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
-<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
-<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:20px;">
-<div style="font-size:16px;font-weight:bold;color:#1a1a1a;margin-bottom:8px;">AI 摘要</div>
-<div style="font-size:14px;line-height:1.7;color:#1a1a1a;">本期《The Briefing》聚焦三家处境各异的公司：OpenAI 一名工程师被指在会议室里安放窃听装置并已遭逮捕；约会应用 Bumble 以 13 亿美元估值出售给投资公司 Ithaca Holdings；早期 AI 初创公司 Character.AI 则申请破产。作者认为，Bumble 这笔交易与其说是 AI 驱动的收购，不如说是困境出售——公司营收持续下滑、债务远超现金，出售价仅为 IPO 价格的七分之一。Character 的破产则是 2024 年那波“以授权协议代替收购”的人才争夺潮的尾声：谷歌当年以 27 亿美元获得其模型授权并招回创始人，如今迪士尼以 2000 万美元竞购其知识产权。此外，苹果推出 299 美元的智能家居平板 HomeView，摩根大通则宣布封堵 Meta 等外部 AI 代理访问客户账户。</div>
-</div>
-<div style="font-size:26px;font-weight:bold;">The Information Briefing</div>
-<div style="font-size:13px;color:#888;margin:6px 0 16px;">2026 年 10 月 13 日</div>
-<div style="font-size:24px;font-weight:bold;">Character 申请破产、Bumble 以 13 亿美元出售，OpenAI 工程师被指安放窃听器</div>
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">关键要点</div>
-<ul style="font-size:15px;line-height:1.75;padding-left:20px;"><li style="margin-bottom:8px;">OpenAI 窃听风波：美国司法部确认，一名沙特籍 OpenAI 工程师涉嫌在会议室电视机背后安装“精密录音设备”，该会议室经常讨论高度机密的技术、商业和战略信息；该工程师已被逮捕。</li><li style="margin-bottom:8px;">Bumble 被收购：投资公司 Ithaca Holdings 周二宣布以 13 亿美元估值收购约会应用 Bumble；其联席 CEO、前 Sequoia 合伙人 Ravi Gupta 称，在评估的数百家公司中，Bumble“会随着 AI 的发展变得更有价值”。</li><li style="margin-bottom:8px;">Bumble 财务困境：公司去年营收下滑 10%，今年上半年再降 15%；截至 6 月 30 日揹负 4.5 亿美元债务，现金仅 1.54 亿美元。</li><li style="margin-bottom:8px;">出售价仅为 IPO 价的七分之一：Bumble 出售价为每股 6.05 美元，而 IPO 发行价为 43 美元；Airbnb CEO Brian Chesky 公开向 Bumble 创始人兼即将离任的 CEO Whitney Wolfe Herd 道贺。</li><li style="margin-bottom:8px;">Character.AI 申请破产：这家早期 AI 初创公司周一申请破产，可能是其漫长衰落的最后一步；2024 年谷歌以 27 亿美元获得其模型授权，两位联合创始人重返谷歌（其中 Shazeer 后来又转投 OpenAI）。</li><li style="margin-bottom:8px;">迪士尼接手残局：迪士尼上月聘请 Character 的 CEO Karandeep Anand 担任 CTO 并招入其技术团队；Character 周二称，迪士尼已在破产程序中出价 2000 万美元购买其知识产权。</li><li style="margin-bottom:8px;">其他消息：黑石支持的 Candle Media 将 Hello Sunshine 卖回给 Reese Witherspoon 及法国公司 Mediawan（Candle 曾于 2021 年以 9 亿美元估值收购）；苹果推出 299 美元、7 英寸智能家居设备 HomeView，可放在厨房台面或挂墙使用；摩根大通封堵 Meta 的 Muse 等外部 AI 代理访问客户账户。</li></ul>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">原文摘录</div>
-<blockquote style="border-left:3px solid #ccc;margin:12px 0;padding:6px 14px;color:#444;font-size:15px;line-height:1.75;">对全世界的记者来说，OpenAI 是取之不尽的礼物。<br><span style="color:#888;font-size:13px;">原文：OpenAI is a gift that keeps on giving…to journalists everywhere.</span></blockquote><blockquote style="border-left:3px solid #ccc;margin:12px 0;padding:6px 14px;color:#444;font-size:15px;line-height:1.75;">摩根大通 CEO Jamie Dimon：“我们不会允许任何外部代理进入公司内部，因为这对客户和摩根大通来说风险太大了。”<br><span style="color:#888;font-size:13px;">原文：We’re not going to allow just any outside agent to come in inside the company because that’s just too risky for clients and for JPMorgan.</span></blockquote>
-<div style="margin:20px 0;"><a href="https://url3396.theinformation.com/ls/click?upn=u001.71kYkaWDpGOJSzbGrs4y1TNF0-2FB-2Bh5pDUdkL0JSEoBnPCXMf7muTnPAGZGawge6JeTCNF-2F1Qxzx0SNyX6z6NQs4DZMzXMJviqTlD5fV3Pfp578PbtBiOfF0eOMf92H4tqOKzQRA7vk5K-2FDUH3-2F-2FClwzKdq7gIVR-2B2tZoc8Mj-2FhL94JcAL-2ByLLpWmq0Dp17wnd-2BITcr3zszkxhbSW1Z9SZw-3D-3DQB-I_tm36A2LzY-2BpN7f4aiZnPa8Yv-2Fdoix-2BH3BNxTcdS0nZMk4DJ7izm5p64JwQPNdFKlbx2uYCM-2BuVzNweG4ijeCspEmO5lhNu2-2BSXfWfD-2FgMmWB1IDI8CW7RwH-2FSEb0K6hAFO-2FMY3dD1k2evK60O2qBpwa1OwwN-2BaNUpnrqLXo7eCJfc3UGQGsm7lCqqYJeKN39T6C7HV-2FJBOQwiNTkQs1MyNPJVTxpAHQlTC6cMxjie-2F30B5GeFJapOYFFNLsYlVGpCMsGwOnRN-2F9MhxIrXDHuu2vgaXcMV97shIKVGRs8aiNx-2Fi7soj1-2Fu4s71fUeRSDhuLu9mHJDqyY0Gxm52OwBJRJ7LHmUh7iyIc4gb15fgHqGkDMKXPljYmL-2BbNuPellc" style="color:#e11d48;font-size:15px;">阅读原文 &rarr;</a></div>
-<div style="font-size:13px;color:#888;">原文标题：<i>The Briefing: Character, Bumble and OpenAI</i></div>
-<div style="font-size:13px;color:#888;margin-top:16px;">本期为摘要版：基于邮件内容的中文摘要与要点提炼，非全文翻译。</div>
-</div></body>
 ]]></content:encoded>
 </item>
 </channel>
