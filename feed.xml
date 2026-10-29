@@ -6,7 +6,47 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 29 Oct 2026 06:19:00 -0500</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 07:21:34 -0700</lastBuildDate>
+<item>
+<title>【AI Agenda】加密告急？OpenAI、Anthropic推翻關鍵密碼學定理</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#加密告急？OpenAI、Anthropi</guid>
+<pubDate>Thu, 29 Oct 2026 07:21:34 -0700</pubDate>
+<category>AI Agenda</category>
+<description>AI 摘要 OpenAI與Anthropic在本週一同日宣佈，各自的內部AI模型推翻了長期成立的計算機科學假設“指數時間假說”（Exponential Time Hypothesis），該假說預測了一類問題的最低求解難度，密碼學界長期將其視爲成立並在此基礎上構建其他結論。約翰斯·霍普金斯大學教授Matthew Green指出，這一推翻不會危及任何現行加密方法，但它是一個重大的理論步驟，表明某些問題比密碼學家原以爲的更容易求解。這也意味着…</description>
+<content:encoded><![CDATA[<html><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:16px 18px;margin-bottom:24px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
+<p style="font-size:14px;line-height:1.7;margin:0;">OpenAI與Anthropic在本週一同日宣佈，各自的內部AI模型推翻了長期成立的計算機科學假設“指數時間假說”（Exponential Time Hypothesis），該假說預測了一類問題的最低求解難度，密碼學界長期將其視爲成立並在此基礎上構建其他結論。約翰斯·霍普金斯大學教授Matthew Green指出，這一推翻不會危及任何現行加密方法，但它是一個重大的理論步驟，表明某些問題比密碼學家原以爲的更容易求解。這也意味着，支撐橢圓曲線加密等核心方法的其他假設同樣可能出錯——橢圓曲線加密支撐着互聯網的大部分流量。兩家公司已請外部複雜度理論專家複覈結果；有學者認爲，美國國家標準與技術研究院（NIST）可能因此提高對加密安全強度的建議，從而抬高各機構使用加密的內存與計算成本。</p>
+</div>
+<div style="font-size:26px;font-weight:bold;">The Information AI Agenda</div>
+<div style="font-size:13px;color:#71717a;margin:8px 0;">2026年10月29日（星期四）</div>
+<div style="font-size:24px;font-weight:bold;line-height:1.4;">加密告急？OpenAI、Anthropic推翻關鍵密碼學定理</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;">關鍵要點</h2>
+<ul style="font-size:15px;line-height:1.75;padding-left:20px;">
+<li style="margin-bottom:8px;">主線發現：OpenAI與Anthropic均稱，其內部模型推翻了“指數時間假說”；該假說預測某類問題的最低求解難度，密碼學家長期假定其爲真，並在此基礎上得出其他結論。</li>
+<li style="margin-bottom:8px;">現行加密暫無直接危險：約翰斯·霍普金斯大學計算機科學教授、加密初創公司Zeutro創始人Matthew Green表示，推翻該假說不會危及任何現行加密方法，但顯示某些問題比原以爲的更容易。</li>
+<li style="margin-bottom:8px;">更深層的擔憂：若密碼學家對難度的判斷在這一假設上出錯，他們也可能錯判支撐橢圓曲線加密等核心方法的其他假設；橢圓曲線加密支撐着互聯網的大部分流量，一旦出問題將需要緊急尋找新的互聯網安全方案。</li>
+<li style="margin-bottom:8px;">外部複覈進行中：兩家公司已聯繫複雜度理論領域的學術專家複覈；正在複覈OpenAI成果的麻省理工學院教授Ryan Williams稱，OpenAI告訴他並未發現會影響現有加密系統的東西，但這一成果本身正是會讓人產生這類疑問的那類發現。</li>
+<li style="margin-bottom:8px;">監管與成本影響：麻省理工學院教授Yael Kalai稱，該發現可能促使美國國家標準與技術研究院（NIST）提高對加密安全強度的建議，從而增加任何使用加密流程的組織的內存與計算成本。簡報還推測，若兩家公司真發現現有算法缺陷，很可能先通知美國國家安全局（NSA），遠早於公開披露；OpenAI發言人對是否嘗試用模型解決實際密碼學問題未予置評。</li>
+<li style="margin-bottom:8px;">Harvey收購Aida：法律AI初創公司Harvey獨家向The Information透露已收購Aida，後者爲銷售代表開發AI助手，幫助發現可能流失的交易；交易條款未披露，這是Harvey今年第五筆收購。Harvey希望藉助Aida的技術幫助客戶整理分散在不同組織中的專有數據，供其法律工具使用；Aida首席執行官Piyush Prahladka出身於AI搜索初創公司Glean。</li>
+<li style="margin-bottom:8px;">Moonshot網紅推廣風波：Moonshot AI上週發佈Kimi K3.1 Pro，本應是這家籌備上市的中國公司的重要突破，卻被指要求網紅付費推廣時不披露贊助關係；約旦軟件開發者Elshayib在X上貼出據稱是Moonshot給網紅的指引截圖，內含預設話術。Moonshot未公開回應、發言人拒絕置評；該公司近期私募估值500億美元，正推進在香港上市，但時間表不明，且MiniMax、Z.ai等已上市中國AI公司近月市場情緒轉弱。</li>
+<li style="margin-bottom:8px;">白宮關注Anthropic評估員：Anthropic公共政策負責人Sarah Heck在The Information女性科技與金融峯會上稱，白宮已向該公司瞭解其嵌入式評估員工作；現任評估員包括AI研究非營利組織METR和諮詢公司Accenture的員工，他們以類似員工的權限在公司內部評估安全風險與做法，該安排僅開展數週。</li>
+<li style="margin-bottom:8px;">財報速覽：甲骨文股價週三漲超10%，此前公司勾勒了放緩數據中心資本開支、恢復產生現金的時間表；微軟9月季度營收增長19%至923億美元，Azure雲業務加速（部分受OpenAI服務器租賃收入推動）抵消了Xbox與設備部門的小幅下滑；谷歌雲銷售大漲，但母公司Alphabet整體營收僅增長25%至1276億美元、慢於預期，令投資者失望；ServiceNow三季度財報後股價跌19%，公司稱AI產品採用持續增長，但投資者仍警惕AI對其業務的潛在威脅。</li>
+<li style="margin-bottom:8px;">交易與動態：芯片廠商Marvell Technologies據報正洽談收購數據中心光學廠商Lumentum，後者市值超800億美元，若成交將是半導體行業最大交易之一；AI編程初創公司Cognition在數週前剛宣佈480億美元估值後，正考慮年底前以700億至800億美元估值進行新一輪融資；谷歌發佈Gemini 4 Carbon，稱其能力顯著強於不到一個月前發佈的模型；Shopify爲Shop Pay結賬加入Visa、Mastercard和美國運通的智能體支付技術；亞馬遜將其Shop Direct計劃大幅擴展至列出超2.5億件來自競爭對手的產品（3月時約1億件）；Anthropic週三發佈新的報告工具，向客戶展示其代幣支出的價值構成。</li>
+</ul>
+<h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;">原文摘錄</h2>
+<blockquote style="border-left:3px solid #d4d4d8;margin:12px 0;padding:4px 0 4px 14px;color:#27272a;">我們對什麼是難的直覺非常人性化，而人類覺得難的東西已經不再重要了。<br><span style="color:#71717a;font-size:13px;">(Our intuition about what's hard is very human, and what human beings think is hard doesn't matter anymore)</span></blockquote>
+<blockquote style="border-left:3px solid #d4d4d8;margin:12px 0;padding:4px 0 4px 14px;color:#27272a;">這是那種會讓人對這些事情產生疑問的發現。<br><span style="color:#71717a;font-size:13px;">(the kind of finding that would make one wonder about those things)</span></blockquote>
+
+<div style="margin:18px 0;"><a href="https://www.theinformation.com" style="color:#e11d48;font-size:15px;">閱讀原文</a></div>
+<div style="font-size:13px;color:#71717a;">原文標題：<i>Encryption Under Siege? OpenAI, Anthropic Disprove Key Cryptography Theorem</i></div>
+<div style="font-size:13px;color:#71717a;margin-top:16px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+</div></body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【AM】谷歌一個月內推出第二款重磅AI模型Gemini 4 Carbon</title>
 <link>https://www.theinformation.com/briefings/google-launches-gemini-4-carbon-second-major-ai-model-month</link>
@@ -1495,43 +1535,6 @@ DeepSeek 週六發佈升級版輕量模型 V4.1-Flash-1017，Terminal-Bench 4.0 
 <div style="margin:20px 0;"><a href="https://www.theinformation.com" style="color:#e11d48;font-size:15px;">阅读原文</a></div>
 <div style="font-size:13px;color:#888;">原文标题：<i>The Briefing: CoreWeave in Hot Seat</i></div>
 <div style="font-size:13px;color:#888;margin-top:16px;">本期为摘要版：基于邮件内容的中文摘要与要点提炼，非全文翻译。</div>
-</div>
-</body>
-]]></content:encoded>
-</item>
-<item>
-<title>【电动】上市前夕，ZincFive 谈用镍锌电池取代数据中心超级电容</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#上市前夕，ZincFive 谈用镍锌电池</guid>
-<pubDate>Wed, 14 Oct 2026 12:18:24 -0700</pubDate>
-<category>电动</category>
-<description>AI 摘要 爱迪生时代的镍锌电池技术经过改良后重返舞台，正在为 AI 数据中心供电。俄勒冈初创公司 ZincFive 今年向 AI 数据中心销售镍锌电池预计达 1.05 亿美元，同比增长 60%，毛利率也由负转正。该公司计划在 12 月中旬前通过反向合并上市，并希望用新一代镍锌电池取代数据中心的超级电容——脉冲次数约两倍，成本约一半，预计 2028 年商用。 The Electric 2026 年 10 月 14 日 上市前夕，Zinc…</description>
-<content:encoded><![CDATA[<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
-<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
-<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:24px;">
-<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
-<div style="font-size:14px;line-height:1.7;">爱迪生时代的镍锌电池技术经过改良后重返舞台，正在为 AI 数据中心供电。俄勒冈初创公司 ZincFive 今年向 AI 数据中心销售镍锌电池预计达 1.05 亿美元，同比增长 60%，毛利率也由负转正。该公司计划在 12 月中旬前通过反向合并上市，并希望用新一代镍锌电池取代数据中心的超级电容——脉冲次数约两倍，成本约一半，预计 2028 年商用。</div>
-</div>
-<div style="font-size:26px;font-weight:bold;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;">The Electric</div>
-<div style="font-size:13px;color:#888;margin:6px 0 20px;">2026 年 10 月 14 日</div>
-<div style="font-size:24px;font-weight:bold;line-height:1.4;">上市前夕，ZincFive 谈用镍锌电池取代数据中心超级电容</div>
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 12px;">关键要点</div>
-<ul style="font-size:15px;line-height:1.75;margin:0;padding-left:22px;">
-<li>ZincFive 今年向 AI 数据中心销售镍锌电池预计达 1.05 亿美元，同比增长 60%；上半年毛利率为 9.5%，去年同期为 -14%。</li>
-<li>镍锌电池可在 4 分钟内完全放电，比传统电池快至 5 倍；停电时毫秒级供电、最长持续约 5 分钟，随后由柴油或天然气发电机接手，确保 GPU 不丢失数据。</li>
-<li>公司已向客户交付 1.3 吉瓦镍锌电池；最多 39 节电池叠装在约 7 英尺高的机柜中，多个机柜并排放置于数据中心。</li>
-<li>正在研发更快版本：2 分钟放完电、同样快速充满，以应对 GPU 仅 50 毫秒、峰值比正常需求高 70% 的功率脉冲——数据中心在数月内需要这样的脉冲数百万次。</li>
-<li>目标是取代超级电容：新电池的脉冲次数约为超级电容的两倍，成本约一半，预计 2028 年投入商用。</li>
-<li>今年 6 月已向美国证交会提交文件，计划通过与特殊目的收购公司（SPAC）反向合并上市，预计 12 月中旬完成。</li>
-<li>背景：AI 与无人机热潮带动此前低迷的新一代电池行业回暖；镍锌电池体积大、成本高、寿命较短，不适合电动车，但在数据中心备用电源场景中非常实用。</li>
-</ul>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 12px;">原文摘录</div>
-<blockquote style="border-left:3px solid #ccc;margin:0 0 14px;padding:4px 0 4px 14px;font-size:15px;line-height:1.75;color:#333;">“这是爱迪生的技术，只是在化学上做了一些新改进，让它能以非常高的速率循环。”（“It&rsquo;s Edison technology with some new twists on the chemistry, and it allows it to cycle at very high rates.”——ZincFive 首席执行官 Tod Higinbotham）</blockquote>
-<blockquote style="border-left:3px solid #ccc;margin:0 0 14px;padding:4px 0 4px 14px;font-size:15px;line-height:1.75;color:#333;">“这一直是 AI 和 GPU 面临的重大新挑战。”（“That&rsquo;s been the big new challenge for AI and GPUs.”——谈及数据中心对快如闪电的功率脉冲的需求）</blockquote>
-<div style="margin:24px 0 8px;"><a href="https://www.theinformation.com" style="color:#e11d48;font-size:15px;">阅读原文</a></div>
-<div style="font-size:13px;color:#888;margin:16px 0;">原文标题：<em>Ahead of a Public Listing, ZincFive Talks of Replacing Supercapacitors in Data Centers</em></div>
-<div style="font-size:13px;color:#888;margin-top:24px;">本期为摘要版：基于邮件内容的中文摘要与要点提炼，非全文翻译。</div>
 </div>
 </body>
 ]]></content:encoded>
