@@ -6,7 +6,52 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 03 Nov 2026 06:20:03 -0600</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 11:49:50 -0500</lastBuildDate>
+<item>
+<title>【AI Agenda】OpenAI 應該害怕黃仁勳嗎？</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#OpenAI 應該害怕黃仁勳嗎？</guid>
+<pubDate>Tue, 03 Nov 2026 11:49:50 -0500</pubDate>
+<category>AI Agenda</category>
+<description>AI 摘要 本期主線是英偉達與模型開發商之間相互依存、又相互忌憚的關係。英偉達控制着先進 AI 芯片的供應，OpenAI 因此在對華芯片銷售等議題上保持沉默，避免觸怒黃仁勳。但 OpenAI 與 Anthropic 同時也是英偉達最大的客戶之一，英偉達還爲 OpenAI 俄亥俄州巨型數據中心園區的租約提供超過 1000 億美元的擔保；真要削減供貨，只會加速 OpenAI 轉向 AMD、谷歌、Cerebras 與自研芯片。此外，簡報還關注…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html><head><meta charset="utf-8"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:20px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:6px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">本期主線是英偉達與模型開發商之間相互依存、又相互忌憚的關係。英偉達控制着先進 AI 芯片的供應，OpenAI 因此在對華芯片銷售等議題上保持沉默，避免觸怒黃仁勳。但 OpenAI 與 Anthropic 同時也是英偉達最大的客戶之一，英偉達還爲 OpenAI 俄亥俄州巨型數據中心園區的租約提供超過 1000 億美元的擔保；真要削減供貨，只會加速 OpenAI 轉向 AMD、谷歌、Cerebras 與自研芯片。此外，簡報還關注思維鏈可讀性下降的問題、Anthropic 與蘋果的最新財報，以及甲骨文 200 億美元融資等動態。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;">The Information AI Agenda</div>
+<div style="font-size:13px;color:#71717a;margin:6px 0 10px;">2026年11月3日（星期二）</div>
+<div style="font-size:24px;font-weight:bold;line-height:1.4;">OpenAI 應該害怕黃仁勳嗎？</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:18px 0 10px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;padding-left:22px;margin:0;">
+<li style="margin-bottom:8px;">硅谷許多人忌憚黃仁勳：英偉達資金與影響力雄厚，黃仁勳能直接接觸包括特朗普總統在內的多位政府高層；更關鍵的是，英偉達掌控着開發和運行當今最先進模型所需的 AI 芯片供應。</li>
+<li style="margin-bottom:8px;">這種忌憚影響了公開表態：OpenAI 一直避免在當前對華芯片銷售的爭論中公開站隊，以免疏遠英偉達；英偉達自身也希望進入中國市場並從中國公司獲得大量收入，而字節跳動、DeepSeek 等中國公司仍能通過境外渠道或走私硬件獲得芯片。</li>
+<li style="margin-bottom:8px;">但依賴是雙向的：OpenAI 與 Anthropic 是英偉達最大的客戶（直接或間接），英偉達同樣需要它們。Anthropic 一直直言支持對中國公司更嚴格地限制英偉達芯片銷售，卻似乎並未影響其獲得芯片的機會；英偉達去年底還表示將向這家 Claude 開發商投資多達 100 億美元，近期又討論成爲其本月 IPO 的錨定投資者。</li>
+<li style="margin-bottom:8px;">Anthropic 算力不足更多源於自身過去籤算力協議時過於保守，而非與英偉達的關係；其 IPO 招股書也把能否獲得足夠服務器列爲最大風險因素之一。</li>
+<li style="margin-bottom:8px;">若英偉達削減對 OpenAI 的芯片配額，受損的可能包括英偉達自己：OpenAI 正在多元化算力來源，已引入 AMD、谷歌和 Cerebras 的芯片，並與英偉達的勁敵博通合作開發自研推理芯片 Jalapeño；斷供只會加速這一進程。</li>
+<li style="margin-bottom:8px;">英偉達與 OpenAI 的財務綁定很深：英偉達爲 OpenAI 俄亥俄州巨型數據中心園區的租約提供擔保，規模超過 1000 億美元。這既給了 OpenAI 比其沉默所顯示的更大的話語權，也解釋了它爲何保持沉默——與現金生成多於消耗的 Anthropic 不同，OpenAI 依賴的不只是英偉達的芯片，還有它的資產負債表。</li>
+<li style="margin-bottom:8px;">思維鏈可讀性下降：英國 AI 安全研究所模型透明度負責人 Joseph Bloom 表示，作爲監控 AI 智能體決策關鍵手段的思維鏈正變得越來越難以解讀；業界正跨公司尋求共識，在其完全退化前保住可監控性，OpenAI 等公司使用的 loop transformers 新技術也可能讓模型更少顯露“思考”；機制可解釋性是潛在的補償手段，但他對它的預期已有所調低。</li>
+<li style="margin-bottom:8px;">人事：前美國陸軍部長 Dan Driscoll 加入 OpenAI，擔任專注於國家安全現代化的高級顧問，幫助擴大其技術在國防及其他軍事領域的應用。</li>
+<li style="margin-bottom:8px;">其他動態：英偉達近期告知部分雲計算客戶減少對中國公司的敞口，可能收窄中國 AI 開發商獲取先進算力的一條關鍵路徑；中國國家發改委週二表示將密切關注 AI 對就業的影響，並推進覆蓋 AI“全生命週期”的安全標準與倫理準則。</li>
+<li style="margin-bottom:8px;">財報：Anthropic 截至 9 月的第三季度營收近 170 億美元，環比增長 47%，增速在重磅 IPO 前放緩；蘋果在新任 CEO John Ternus 任內的首份財報顯示，9 月季度總營收 1145 億美元、同比增長 12%，爲全年最慢，iPhone 收入增長 17% 至 576 億美元，iPad 與可穿戴設備分別下降 10% 和 8%。</li>
+<li style="margin-bottom:8px;">大額融資與交易：甲骨文週一提交文件擬通過新債與股權融資籌集 200 億美元（100 億美元投資級債券 + 100 億美元普通股），繼續大舉投入 AI 基礎設施；Marvell 同意以約 800 億美元全股票交易收購激光器廠商 Lumentum；Salesforce 以 27 億美元收購客服 AI 語音智能體公司 Cresta；OpenAI 還與 Magnite、PubMatic 簽約，爲 ChatGPT 的閒置廣告位投放廣告。</li>
+<li style="margin-bottom:8px;">訴訟：《紐約時報》週一起訴瀏覽器與搜索 API 公司 Brave，指其抓取該報版權內容並分發給 Anthropic、Perplexity、Mistral、xAI、Cohere 等客戶。</li>
+</ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:22px 0 10px;">原文摘錄</div>
+<blockquote style="margin:12px 0;padding:8px 14px;border-left:3px solid #d4d4d8;color:#3f3f46;">突發消息：硅谷的很多人都害怕英偉達首席執行官黃仁勳。<br><span style="font-size:13px;color:#71717a;">(News flash: A lot of people in Silicon Valley are afraid of Nvidia CEO Jensen Huang.)</span></blockquote>
+<blockquote style="margin:12px 0;padding:8px 14px;border-left:3px solid #d4d4d8;color:#3f3f46;">在生物學裏，你往往能在某個細節層面理解一個系統在發生什麼，但它始終會有點混亂——這堂課同樣適用於 AI。<br><span style="font-size:13px;color:#71717a;">(you can understand often what's going on with a system at some level of detail, but it's still always going to be somewhat messy)</span></blockquote>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:22px 0 10px;">閱讀原文</div>
+<p style="font-size:15px;line-height:1.75;"><a href="https://www.theinformation.com" style="color:#e11d48;">https://www.theinformation.com</a></p>
+<p style="font-size:13px;color:#71717a;">原文標題：<i>Should OpenAI Be Afraid of Jensen Huang?</i></p>
+<p style="font-size:13px;color:#71717a;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</p>
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【AM】OpenAI聘前陸軍部長任高級顧問，Anthropic三季度營收達170億美元</title>
 <link>https://www.theinformation.com</link>
@@ -1716,16 +1761,6 @@ DeepSeek 週六發佈升級版輕量模型 V4.1-Flash-1017，Terminal-Bench 4.0 
 <category>资讯</category>
 <description>AI 摘要 特朗普政府为创业者开设新银行开了绿灯，一批风投支持的新银行涌现。但监管要求银行维持资本缓冲（以一级杠杆率衡量），存款和贷款增长会推高所需资本；老银行可以用利润补充资本，不盈利的新银行只能不断向投资人要钱。Palmer Luckey 的 Erebor Bank 正以 80 亿美元投前估值募资 15 亿美元，其存款已从上季度末的 40 亿美元增至 9 月底的 70 亿美元；a16z 支持的 Openreserve 在 9 月募资…</description>
 <content:encoded><![CDATA[<html><head><meta charset="utf-8"></head><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;"><div style="max-width:720px;margin:0 auto;padding:8px 16px;"><div style="background:#fef2f4;border-left:4px solid #e11d48;padding:12px 16px;margin-bottom:20px;"><div style="font-size:16px;font-weight:bold;margin-bottom:6px;">AI 摘要</div><div style="font-size:14px;line-height:1.7;">特朗普政府为创业者开设新银行开了绿灯，一批风投支持的新银行涌现。但监管要求银行维持资本缓冲（以一级杠杆率衡量），存款和贷款增长会推高所需资本；老银行可以用利润补充资本，不盈利的新银行只能不断向投资人要钱。Palmer Luckey 的 Erebor Bank 正以 80 亿美元投前估值募资 15 亿美元，其存款已从上季度末的 40 亿美元增至 9 月底的 70 亿美元；a16z 支持的 Openreserve 在 9 月募资 2500 万美元后还计划再募；Tiger Global 领投的 Augustus 7 月以 10 亿美元估值募资 1.8 亿美元。新银行前三年还面临更严的资本要求：Erebor 和 Openreserve 一级杠杆率最低 12%，Augustus 为 10%，而成熟银行通常只有 5–6%。</div></div><h1 style="font-size:26px;font-weight:bold;margin:0 0 4px 0;">The Information 财经（Finance）</h1><p style="font-size:13px;color:#888;margin:0 0 12px 0;">2026 年 10 月 18 日</p><h1 style="font-size:24px;font-weight:bold;margin:0 0 4px 0;">新银行的烦恼：越长大，越要不停融资</h1><div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;">关键要点</h2><ul style="font-size:15px;line-height:1.75;"><li>新银行的资本逻辑与普通创业公司相反：融资不是用来烧运营、扩业务，而是满足监管要求的资本缓冲——资本缓冲用于吸收潜在损失、保护储户，以一级杠杆率（资本相对资产的比例）衡量；12% 的最低要求意味着每 100 美元资产需至少 12 美元资本</li><li>银行吸收存款越多，贷款等资产通常也增长，所需资本随之增加；老银行可用利润补充资本，新银行不盈利，只能靠向投资人增发股权</li><li>Erebor Bank：正以 80 亿美元投前估值募资 15 亿美元；存款 9 月底达 70 亿美元（上季度末 40 亿）；2 月启动时承诺资本 6.25 亿美元；业务聚焦特朗普政府优先领域（国防初创、加密公司），并扩张到委内瑞拉、叙利亚等传统银行避开的地区</li><li>Openreserve（a16z 加密背景）：9 月募资 2500 万美元，计划明年初开业前再募一次以满足监管要求；目标做“链上 GSIB（全球系统重要性银行）”，计划发放以贸易应收账款为抵押的贷款并代币化、发行自有稳定币、提供计息的代币化存款</li><li>Augustus（服务金融科技公司）：7 月 Tiger Global 领投 1.8 亿美元、估值 10 亿美元，预计今年开业；聚焦用传统银行系统+稳定币做跨境资金流动，在欧洲已有 Kraken 等加密交易所客户；较少做信贷业务，资本比率要求较低（10%），且已超额募资，短期再融资压力较小</li><li>监管差异：新设银行（de novo）通常面临比成熟银行更严的资本要求，一般三年后放宽；FDIC 还对 Erebor 的存款保险批准附加了不寻常条件——资本催缴条款，资本不达标时投资人必须追加出资</li></ul><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;">原文摘录</h2><blockquote style="border-left:3px solid #ccc;margin:8px 0;padding:8px 12px;color:#555;font-size:15px;line-height:1.75;">银行的商业模式越是实质性依赖资产负债表来创造收入和利润，就越需要募更多资本来驱动增长。<br><span style="color:#888;">（To the extent the bank's business model is reliant materially on the balance sheet for revenue and net income, you're going to need to raise more capital to drive growth. — Klaros Group 联合创始人 Brian Graham）</span></blockquote><blockquote style="border-left:3px solid #ccc;margin:8px 0;padding:8px 12px;color:#555;font-size:15px;line-height:1.75;">我们的目标是成为链上的全球系统重要性银行。<br><span style="color:#888;">（Our ambition is to be the on-chain GSIB. — Openreserve 创始人兼 CEO Dee Choubey）</span></blockquote><p style="font-size:15px;"><a href="https://www.theinformation.com" style="color:#e11d48;">阅读原文 →</a></p><p style="font-size:13px;color:#888;">原文标题：<em>Why Upstart Banks May Have to Keep Raising Money</em></p><p style="font-size:13px;color:#888;margin-top:24px;">本期为摘要版：基于邮件内容的中文摘要与要点提炼，非全文翻译。</p></div></body></html>
-]]></content:encoded>
-</item>
-<item>
-<title>【AI 基建】Neocloud 洗牌在即，英伟达输不起</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#Neocloud 洗牌在即，英伟达输不起</guid>
-<pubDate>Sun, 18 Oct 2026 19:58:11 -0700</pubDate>
-<category>AI 基建</category>
-<description>AI 摘要 投资者开始担心数据中心建设热潮和新兴 AI 云服务商（neocloud）的风险：CoreWeave 负债累累，Firmus 和 Nscale 在缺乏业绩记录的情况下谋求上市，Firmus 上周突然撤回 IPO，CoreWeave 及较小对手股价下跌约 20%。多位业内高管认为市场容不下数百家 neocloud，几年内只会剩下 7–10 家，整合不可避免。Neocloud 对英伟达至关重要——“其他客户”（主要为 AI 云）占…</description>
-<content:encoded><![CDATA[<html><head><meta charset="utf-8"></head><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;"><div style="max-width:720px;margin:0 auto;padding:8px 16px;"><div style="background:#fef2f4;border-left:4px solid #e11d48;padding:12px 16px;margin-bottom:20px;"><div style="font-size:16px;font-weight:bold;margin-bottom:6px;">AI 摘要</div><div style="font-size:14px;line-height:1.7;">投资者开始担心数据中心建设热潮和新兴 AI 云服务商（neocloud）的风险：CoreWeave 负债累累，Firmus 和 Nscale 在缺乏业绩记录的情况下谋求上市，Firmus 上周突然撤回 IPO，CoreWeave 及较小对手股价下跌约 20%。多位业内高管认为市场容不下数百家 neocloud，几年内只会剩下 7–10 家，整合不可避免。Neocloud 对英伟达至关重要——“其他客户”（主要为 AI 云）占其 7 月季度数据中心收入 450 亿美元、占比 45%，同比翻倍还多；英伟达正通过股权投资、芯片配额、信用支持和客户引荐扶持它们，黄仁勋之婿 Nico Caprez 的团队甚至帮忙寻找有电力供应的建站地点。</div></div><h1 style="font-size:26px;font-weight:bold;margin:0 0 4px 0;">The Information AI 基础设施（AI Infrastructure）</h1><p style="font-size:13px;color:#888;margin:0 0 12px 0;">2026 年 10 月 18 日</p><h1 style="font-size:24px;font-weight:bold;margin:0 0 4px 0;">Neocloud 洗牌在即，英伟达输不起</h1><div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;">关键要点</h2><ul style="font-size:15px;line-height:1.75;"><li>Firmus 上周突然撤回 IPO；CoreWeave 及较小竞争对手股价下跌约 20%；担心情绪蔓延至 Oracle 等更大的 AI 云厂商</li><li>数据中心与 neocloud 高管认为：几年内只会剩下 7–10 家 neocloud，而目前有数百家在筹建；整合是成熟市场的必然特征，财力雄厚的资管巨头、大型电信和光纤公司可能出手收购</li><li>倒闭的影响并不对等：只租场地的云（如 CoreWeave）倒了，场地容易找到新租户；自建场地的（如 Nebius、IREN、Nscale）出问题会拖累整个建设潮——这更让英伟达担心，因为其芯片销量受限于“有多少通电的数据中心能装下芯片”</li><li>Gartner 预测到 2030 年 80% 的独立 neocloud 将“停止独立运营”；Bernstein 估计北美已宣布的数据中心容量中只有 35% 会真正建成</li><li>Neocloud 如此重要，是因为英伟达的大客户都在自研服务器芯片以降低对英伟达的依赖；英伟达今夏调整财报口径，单列“超大规模客户”与“其他客户”，后者（主要为 AI 云）7 月季度贡献 400 亿美元数据中心收入、占比 45%，同比翻倍以上</li><li>英伟达已调整对 neocloud 的信用支持方案：此前要求换取未来收入分成，大云厂商多未接受；现改为更短期、分成比例更小的支持；英伟达还签下 200 亿美元数据中心租约（截至 7 月季度），计划转给 neocloud 和其他芯片客户</li><li>黄仁勋上周在斯德哥尔摩安抚市场：CoreWeave 不需要英伟达进一步信用兜底；英伟达此前已同意在 CoreWeave 租不出 GPU 时回租（按 2025 年 9 月披露，价值 63 亿美元租金收入）</li><li>CoreWeave CEO Michael Intrator 在内部备忘录中（彭博报道）批评小对手“在没有执行力、收入、规模和软件方案的情况下就想融巨资”；Cirrascale CEO David Driggers 称公司年收入超 2 亿美元且产生自由现金流，自认会是幸存者之一</li></ul><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;">原文摘录</h2><blockquote style="border-left:3px solid #ccc;margin:8px 0;padding:8px 12px;color:#555;font-size:15px;line-height:1.75;">整合肯定会发生。<br><span style="color:#888;">（We'll definitely see consolidation. — Cirrascale CEO David Driggers）</span></blockquote><blockquote style="border-left:3px solid #ccc;margin:8px 0;padding:8px 12px;color:#555;font-size:15px;line-height:1.75;">试图在没有执行力、收入、规模和软件方案的情况下融取巨额资金。<br><span style="color:#888;">（…trying to raise enormous amounts of capital without the execution, revenue, scale, or software solutions that CoreWeave delivers to its customers. — CoreWeave CEO Michael Intrator 在内部备忘录中评价小对手（彭博报道））</span></blockquote><p style="font-size:15px;"><a href="https://www.theinformation.com" style="color:#e11d48;">阅读原文 →</a></p><p style="font-size:13px;color:#888;">原文标题：<em>Neocloud Shakeout Looms, and Nvidia Has a Lot to Lose</em></p><p style="font-size:13px;color:#888;margin-top:24px;">本期为摘要版：基于邮件内容的中文摘要与要点提炼，非全文翻译。</p></div></body></html>
 ]]></content:encoded>
 </item>
 </channel>
