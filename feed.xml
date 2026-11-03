@@ -6,7 +6,46 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 03 Nov 2026 11:49:50 -0500</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 10:51:07 -0800</lastBuildDate>
+<item>
+<title>【Applied AI】LinkedIn 的低成本 AI 配方：讓小模型學會模仿 OpenAI</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#LinkedIn 的低成本 AI 配方：</guid>
+<pubDate>Tue, 03 Nov 2026 10:51:07 -0800</pubDate>
+<category>Applied AI</category>
+<description>AI 摘要 微軟旗下的 LinkedIn 表示，其 AI 招聘助手 Hiring Assistant 在過去一年用戶持續增長的同時，運行成本大致保持平穩。祕訣是蒸餾：用 OpenAI 的大模型來教更小的開源模型，只在候選人搜索、排序和撰寫聯繫消息等有限任務上模仿大模型的效果，據稱可比一年前運行 OpenAI 模型的成本節省最高 67%。新功能仍先用前沿大模型上線，成熟後再換成自研小模型，這也是總成本只是持平、而非下降的原因。對微軟而言，…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html><head><meta charset="utf-8"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:16px 20px;margin-bottom:24px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">微軟旗下的 LinkedIn 表示，其 AI 招聘助手 Hiring Assistant 在過去一年用戶持續增長的同時，運行成本大致保持平穩。祕訣是蒸餾：用 OpenAI 的大模型來教更小的開源模型，只在候選人搜索、排序和撰寫聯繫消息等有限任務上模仿大模型的效果，據稱可比一年前運行 OpenAI 模型的成本節省最高 67%。新功能仍先用前沿大模型上線，成熟後再換成自研小模型，這也是總成本只是持平、而非下降的原因。對微軟而言，這種控成本至關重要，因爲數據中心資本開支正擠壓其自由現金流。</div></div>
+<div style="font-size:26px;font-weight:bold;line-height:1.3;">The Information Applied AI</div>
+<div style="font-size:13px;color:#71717a;margin-top:6px;">2026 年 11 月 3 日</div>
+<h1 style="font-size:24px;font-weight:bold;line-height:1.4;margin:16px 0 0 0;">LinkedIn 的低成本 AI 配方：讓小模型學會模仿 OpenAI</h1>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 12px 0;">關鍵要點</h2>
+<ul style="font-size:15px;line-height:1.75;padding-left:20px;margin:0;">
+<li style="margin-bottom:8px;">付費規模增長、成本持平：超過 25,000 家企業付費使用 Hiring Assistant，高於 9 月披露的 20,000 家；每位用戶每月收費從數百美元到 1,000 美元以上，但過去一年該產品的服務成本大致保持平穩，高管在採訪中稱。</li>
+<li style="margin-bottom:8px;">GPU 支出不打算增加：首席技術官 Erran Berger 表示，在截至 2027 年 6 月的財年裏，LinkedIn 不打算增加 GPU 支出，即便預計使用其 AI 功能的客戶還會增加。</li>
+<li style="margin-bottom:8px;">做法是蒸餾（distillation）：用 OpenAI 模型去教更小的開源模型，讓小模型在更有限的任務集內模仿大模型的質量；LinkedIn 拒絕透露具體用了哪些開源模型。</li>
+<li style="margin-bottom:8px;">已替換的任務：一年前推出時 Hiring Assistant 主要依賴 OpenAI 模型，如今小模型已承擔搜索候選人、按招聘者標準排序、起草聯繫候選人的消息等功能，效果相近，成本比一年前運行 OpenAI 模型節省最高 67%。</li>
+<li style="margin-bottom:8px;">對比口徑需注意：此後 OpenAI 也已下調多數模型價格並推出更高效的新模型；LinkedIn 拒絕說明自研模型是否比 OpenAI 當前產品更划算。</li>
+<li style="margin-bottom:8px;">新功能仍先用前沿模型：工程副總裁 Prashanthi Padmanabhan 表示，最新 AI 功能通常先由 OpenAI 模型驅動，等能開發出定製模型後再替換進來——這解釋了爲何總計算成本是持平而非下降。</li>
+<li style="margin-bottom:8px;">對微軟的意義：與其他大型雲廠商一樣，微軟在擴大數據中心資本開支、自由現金流受壓的同時，也面臨削減開支的壓力，控成本因此很關鍵。</li>
+<li style="margin-bottom:8px;">LinkedIn 的特殊優勢：依微軟與 OpenAI 的長期安排，LinkedIn 可免費使用 OpenAI 模型、只需付運行的計算成本，且協議允許其蒸餾 OpenAI 模型；OpenAI 則禁止其他公司蒸餾其模型來開發競品。因此 LinkedIn 的節省純粹來自運行更小、更高效的模型，而按全價付費使用 OpenAI 或 Anthropic 模型的公司，改用別處小模型的潛在收益可能更大。</li>
+<li style="margin-bottom:8px;">不用蒸餾也能定製：報道此前提到，AT&T、Cursor 等公司無需依賴蒸餾，也能有效地定製開源模型。</li>
+</ul>
+<h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 12px 0;">原文摘錄</h2>
+<blockquote style="margin:12px 0;padding:8px 16px;border-left:4px solid #d4d4d8;color:#3f3f46;">我們可以打造功能越來越強大、能力越來越強的工具，同時保持成本可控。<br><span style="font-size:13px;color:#71717a;">(We can build these ever more powerful capable tools while keeping costs manageable, — Erran Berger)</span></blockquote>
+<blockquote style="margin:12px 0;padding:8px 16px;border-left:4px solid #d4d4d8;color:#3f3f46;">我們許多場景仍會用前沿模型，但久而久之我們發現，這不是最好的規模化方式；我們希望兼顧創新與工程效率，讓端到端成本在產品增長的同時保持平穩。<br><span style="font-size:13px;color:#71717a;">(We still use frontier model for many of our use cases, but over time we've figured out it's not the best way to scale. — Prashanthi Padmanabhan)</span></blockquote>
+<p style="font-size:15px;line-height:1.75;"><a href="https://www.theinformation.com" style="color:#e11d48;">閱讀原文</a></p>
+<p style="font-size:13px;color:#71717a;">原文標題：<i>LinkedIn’s Recipe for Cheaper AI: Teach Small Models to Copy OpenAI’s</i></p>
+<p style="font-size:13px;color:#71717a;margin-top:24px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</p>
+</div></body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【AI Agenda】OpenAI 應該害怕黃仁勳嗎？</title>
 <link>https://www.theinformation.com</link>
@@ -1751,16 +1790,6 @@ DeepSeek 週六發佈升級版輕量模型 V4.1-Flash-1017，Terminal-Bench 4.0 
 <category>资讯</category>
 <description>AI 摘要 FBI 逮捕了 OpenAI 前工程师 Abdulrahman Alfozan，指控他在会议室放置了用卫生纸包裹的录音设备；司法部新闻稿刻意强调他是“沙特阿拉伯王国公民”，暗示其为沙特刺探 OpenAI。但作者提醒硅谷别幸灾乐祸——在咨询多位企业安全顾问和监控专家后，结论是很多公司都可能遭遇同样情况，尤其是在当今竞争白热化、快速扩张的公司。前 FBI 反间谍主管 Bill Priestap 指出，组织招人太快，对入职者的背景…</description>
 <content:encoded><![CDATA[<html><head><meta charset="utf-8"></head><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;"><div style="max-width:720px;margin:0 auto;padding:8px 16px;"><div style="background:#fef2f4;border-left:4px solid #e11d48;padding:12px 16px;margin-bottom:20px;"><div style="font-size:16px;font-weight:bold;margin-bottom:6px;">AI 摘要</div><div style="font-size:14px;line-height:1.7;">FBI 逮捕了 OpenAI 前工程师 Abdulrahman Alfozan，指控他在会议室放置了用卫生纸包裹的录音设备；司法部新闻稿刻意强调他是“沙特阿拉伯王国公民”，暗示其为沙特刺探 OpenAI。但作者提醒硅谷别幸灾乐祸——在咨询多位企业安全顾问和监控专家后，结论是很多公司都可能遭遇同样情况，尤其是在当今竞争白热化、快速扩张的公司。前 FBI 反间谍主管 Bill Priestap 指出，组织招人太快，对入职者的背景了解甚少。旧金山私家侦探 David Abbott 则说，窃听设备不到 100 美元就能买到，伪装成充电器、咖啡杯、烟雾报警器，大摇大摆地“藏”在明处；而且“发现一个，就意味着还有第二个”。</div></div><h1 style="font-size:26px;font-weight:bold;margin:0 0 4px 0;">The Information 周末版（Weekend）</h1><p style="font-size:13px;color:#888;margin:0 0 12px 0;">2026 年 10 月 17 日</p><h1 style="font-size:24px;font-weight:bold;margin:0 0 4px 0;">你的办公室防不住间谍：OpenAI 间谍案敲响警钟</h1><div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;">关键要点</h2><ul style="font-size:15px;line-height:1.75;"><li>FBI 逮捕 OpenAI 前工程师 Abdulrahman Alfozan：涉嫌在会议室放置用卫生纸包裹的录音设备；司法部新闻稿未明说动机，但刻意强调其“沙特阿拉伯王国公民”身份，暗示为沙特刺探 OpenAI</li><li>专家警告这不是个案：在当今竞争激烈、快速扩张的环境下，很多公司都面临同样风险；前 FBI 反间谍主管 Bill Priestap（现经营安全咨询公司 Trenchcoat Advisors）称，企业招人压力太大、速度太快，对入职人员的背景“了解甚少”</li><li>窃听门槛极低：合适的设备不到 100 美元就能买到；常见的伪装形态包括插在电源插座上的“手机充电器”、假咖啡杯、假烟雾报警器——大隐隐于市</li><li>私家侦探 David Abbott 的经验法则：做窃听器排查时，“找到一个不代表没有第二个；找到一个，就会有两个；找到两个，就会有三个——一直找下去”</li><li>Alfozan 实际放置了两个窃听器（其中一个装在包里后遗失，他还去公司失物招领处领了回来），远非 007 的料</li><li>反制方案：盐湖城初创 Strider Technologies（近年融资 1.1 亿美元）用 AI 软件监控企业邮件和内部通讯，标记可疑行为和间谍企图；联合创始人 Greg Levesque 称，涉案者很多并非受过训练的特工，而是被接近或脅涉的科学家、工程师，“会留下大量数字痕迹”</li></ul><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;">原文摘录</h2><blockquote style="border-left:3px solid #ccc;margin:8px 0;padding:8px 12px;color:#555;font-size:15px;line-height:1.75;">做窃听器排查时，找到一个不代表没有第二个。找到一个，就会有两个；找到两个，就会有三个。你得一直找下去。<br><span style="color:#888;">（If I'm doing a bug sweep, just because I find one does not mean there isn't a second. If you find one, there's going to be two. If you find two, there's going to be three. You just keep looking. — 旧金山私家侦探 David Abbott）</span></blockquote><blockquote style="border-left:3px solid #ccc;margin:8px 0;padding:8px 12px;color:#555;font-size:15px;line-height:1.75;">组织有时扩张太快，直到某人入职并开始作恶，才意识到这个人有问题。<br><span style="color:#888;">（Organizations can sometimes be moving so fast that they often don't understand that there's an issue associated with somebody until that person's on board and up to no good. — 前 FBI 反间谍主管 Bill Priestap）</span></blockquote><p style="font-size:15px;"><a href="https://www.theinformation.com" style="color:#e11d48;">阅读原文 →</a></p><p style="font-size:13px;color:#888;">原文标题：<em>Your Office Isn't Spy Proof</em></p><p style="font-size:13px;color:#888;margin-top:24px;">本期为摘要版：基于邮件内容的中文摘要与要点提炼，非全文翻译。</p></div></body></html>
-]]></content:encoded>
-</item>
-<item>
-<title>【资讯】新银行的烦恼：越长大，越要不停融资</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#新银行的烦恼：越长大，越要不停融资</guid>
-<pubDate>Sun, 18 Oct 2026 19:58:13 -0700</pubDate>
-<category>资讯</category>
-<description>AI 摘要 特朗普政府为创业者开设新银行开了绿灯，一批风投支持的新银行涌现。但监管要求银行维持资本缓冲（以一级杠杆率衡量），存款和贷款增长会推高所需资本；老银行可以用利润补充资本，不盈利的新银行只能不断向投资人要钱。Palmer Luckey 的 Erebor Bank 正以 80 亿美元投前估值募资 15 亿美元，其存款已从上季度末的 40 亿美元增至 9 月底的 70 亿美元；a16z 支持的 Openreserve 在 9 月募资…</description>
-<content:encoded><![CDATA[<html><head><meta charset="utf-8"></head><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;"><div style="max-width:720px;margin:0 auto;padding:8px 16px;"><div style="background:#fef2f4;border-left:4px solid #e11d48;padding:12px 16px;margin-bottom:20px;"><div style="font-size:16px;font-weight:bold;margin-bottom:6px;">AI 摘要</div><div style="font-size:14px;line-height:1.7;">特朗普政府为创业者开设新银行开了绿灯，一批风投支持的新银行涌现。但监管要求银行维持资本缓冲（以一级杠杆率衡量），存款和贷款增长会推高所需资本；老银行可以用利润补充资本，不盈利的新银行只能不断向投资人要钱。Palmer Luckey 的 Erebor Bank 正以 80 亿美元投前估值募资 15 亿美元，其存款已从上季度末的 40 亿美元增至 9 月底的 70 亿美元；a16z 支持的 Openreserve 在 9 月募资 2500 万美元后还计划再募；Tiger Global 领投的 Augustus 7 月以 10 亿美元估值募资 1.8 亿美元。新银行前三年还面临更严的资本要求：Erebor 和 Openreserve 一级杠杆率最低 12%，Augustus 为 10%，而成熟银行通常只有 5–6%。</div></div><h1 style="font-size:26px;font-weight:bold;margin:0 0 4px 0;">The Information 财经（Finance）</h1><p style="font-size:13px;color:#888;margin:0 0 12px 0;">2026 年 10 月 18 日</p><h1 style="font-size:24px;font-weight:bold;margin:0 0 4px 0;">新银行的烦恼：越长大，越要不停融资</h1><div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;">关键要点</h2><ul style="font-size:15px;line-height:1.75;"><li>新银行的资本逻辑与普通创业公司相反：融资不是用来烧运营、扩业务，而是满足监管要求的资本缓冲——资本缓冲用于吸收潜在损失、保护储户，以一级杠杆率（资本相对资产的比例）衡量；12% 的最低要求意味着每 100 美元资产需至少 12 美元资本</li><li>银行吸收存款越多，贷款等资产通常也增长，所需资本随之增加；老银行可用利润补充资本，新银行不盈利，只能靠向投资人增发股权</li><li>Erebor Bank：正以 80 亿美元投前估值募资 15 亿美元；存款 9 月底达 70 亿美元（上季度末 40 亿）；2 月启动时承诺资本 6.25 亿美元；业务聚焦特朗普政府优先领域（国防初创、加密公司），并扩张到委内瑞拉、叙利亚等传统银行避开的地区</li><li>Openreserve（a16z 加密背景）：9 月募资 2500 万美元，计划明年初开业前再募一次以满足监管要求；目标做“链上 GSIB（全球系统重要性银行）”，计划发放以贸易应收账款为抵押的贷款并代币化、发行自有稳定币、提供计息的代币化存款</li><li>Augustus（服务金融科技公司）：7 月 Tiger Global 领投 1.8 亿美元、估值 10 亿美元，预计今年开业；聚焦用传统银行系统+稳定币做跨境资金流动，在欧洲已有 Kraken 等加密交易所客户；较少做信贷业务，资本比率要求较低（10%），且已超额募资，短期再融资压力较小</li><li>监管差异：新设银行（de novo）通常面临比成熟银行更严的资本要求，一般三年后放宽；FDIC 还对 Erebor 的存款保险批准附加了不寻常条件——资本催缴条款，资本不达标时投资人必须追加出资</li></ul><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;">原文摘录</h2><blockquote style="border-left:3px solid #ccc;margin:8px 0;padding:8px 12px;color:#555;font-size:15px;line-height:1.75;">银行的商业模式越是实质性依赖资产负债表来创造收入和利润，就越需要募更多资本来驱动增长。<br><span style="color:#888;">（To the extent the bank's business model is reliant materially on the balance sheet for revenue and net income, you're going to need to raise more capital to drive growth. — Klaros Group 联合创始人 Brian Graham）</span></blockquote><blockquote style="border-left:3px solid #ccc;margin:8px 0;padding:8px 12px;color:#555;font-size:15px;line-height:1.75;">我们的目标是成为链上的全球系统重要性银行。<br><span style="color:#888;">（Our ambition is to be the on-chain GSIB. — Openreserve 创始人兼 CEO Dee Choubey）</span></blockquote><p style="font-size:15px;"><a href="https://www.theinformation.com" style="color:#e11d48;">阅读原文 →</a></p><p style="font-size:13px;color:#888;">原文标题：<em>Why Upstart Banks May Have to Keep Raising Money</em></p><p style="font-size:13px;color:#888;margin-top:24px;">本期为摘要版：基于邮件内容的中文摘要与要点提炼，非全文翻译。</p></div></body></html>
 ]]></content:encoded>
 </item>
 </channel>
