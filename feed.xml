@@ -6,7 +6,45 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 03 Nov 2026 20:20:51 -0500</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 12:19:14 +0000</lastBuildDate>
+<item>
+<title>【AM】德州民主黨大勝，給數據中心與馬斯克帶來不確定性</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#德州民主黨大勝，給數據中心與馬斯克帶來不</guid>
+<pubDate>Wed, 04 Nov 2026 12:19:14 +0000</pubDate>
+<category>AM</category>
+<description>AI 摘要 民主黨在本輪選舉中大獲全勝，預計將奪回美國參議院、衆議院及多個州長職位，其中德州數十年來首次選出民主黨州長與參議員，兩位勝選者都主張限制數據中心建設，佐治亞州新州長也主張全州暫停數據中心開發——這給正蓬勃擴張的 AI 數據中心行業、以及在德州重倉佈局的馬斯克帶來新的不確定性。科技方面，AMD 預計明年收入增長超過 80%，盤後股價大漲；谷歌給學校更多 AI 控制權，但想用搜索就必須用 AI 增強版。此外，Canva 在 AI…</description>
+<content:encoded><![CDATA[<!DOCTYPE html><html><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 18px;margin-bottom:24px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:6px;">AI 摘要</div>
+<p style="font-size:14px;line-height:1.7;margin:0;">民主黨在本輪選舉中大獲全勝，預計將奪回美國參議院、衆議院及多個州長職位，其中德州數十年來首次選出民主黨州長與參議員，兩位勝選者都主張限制數據中心建設，佐治亞州新州長也主張全州暫停數據中心開發——這給正蓬勃擴張的 AI 數據中心行業、以及在德州重倉佈局的馬斯克帶來新的不確定性。科技方面，AMD 預計明年收入增長超過 80%，盤後股價大漲；谷歌給學校更多 AI 控制權，但想用搜索就必須用 AI 增強版。此外，Canva 在 AI 上線受挫後啓動成立以來首次裁員，幣安披露 63 億美元黑客事件源於假面試與被篡改的 AI 工具，加州億萬富翁稅提案則在計票中落後。</p>
+</div>
+<div style="font-size:26px;font-weight:bold;">The Information AM</div>
+<div style="font-size:13px;color:#71717a;margin:6px 0 14px;">2026 年 11 月 4 日（星期三）</div>
+<div style="font-size:24px;font-weight:bold;line-height:1.4;">德州民主黨大勝，給數據中心與馬斯克帶來不確定性</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;padding-left:22px;margin:0;"><li style="margin-bottom:8px;">德州變天：民主黨人 Gina Hinojosa 預計擊敗現任共和黨州長 Greg Abbott 當選州長，James Talarico 預計擊敗 Ken Paxton 贏得參議員席位；這是德州自 1990 年和 1988 年以來首次選出民主黨州長與參議員。Hinojosa 競選核心包括暫停發放新數據中心許可、取消數據中心稅收優惠，Talarico 也主張加強數據中心監管。</li>
+<li style="margin-bottom:8px;">馬斯克處境尷尬：據報道他捐了近 4.5 億美元支持共和黨中期選舉候選人，卻把 SpaceX 與特斯拉總部都遷到德州，還宣佈了特斯拉與 SpaceX 合資的 Terafab 芯片綜合體計劃；他此前在 X 上多次攻擊 Talarico。</li>
+<li style="margin-bottom:8px;">民主黨藍色浪潮：民主黨預計掌控參衆兩院與多個州長職位，佐治亞州勝選的 Keisha Lance Bottoms 主張全州暫停數據中心開發；明年 1 月起特朗普與 AI 行業的關係、數據中心擴張可能面臨更多質詢與聽證，但特朗普仍握有否決權，聯邦 AI 立法前景仍渺茫。</li>
+<li style="margin-bottom:8px;">AMD 收入加速：AMD 稱本季度收入同比約增 66%，明年收入將增長超過 80%，是其一年前財務模型預期的兩倍多；毛利率第四季度預計再升 1 個百分點。第三季度服務器芯片業務近乎翻倍，佔 134 億美元總收入近三分之二；股價盤後漲超 8%，但第三季度自由現金流因資本開支翻倍而降至約 5.5 億美元。</li>
+<li style="margin-bottom:8px;">谷歌學校新規：K-12 學生賬戶的 Gemini、Notebook 與搜索默認關閉，由學校管理員決定是否開啓；但學校若想用谷歌搜索，只能用帶 AI 功能的版本——若禁用 AI，學生將無搜索可用。新功能 Guided Learning 會引導學生一步步解題，而非直接給答案。</li>
+<li style="margin-bottom:8px;">Synopsys 與 Cadence 股價一度跌 4%：The Information 報道 Anthropic 向投資者表示其正用自家 Claude 模型做定製芯片的工程與設計工作、且比傳統流程更快；若 AI 實驗室將來出售芯片設計工具，將直接衝擊這兩家 EDA 軟件商。收盤時 Cadence 跌 1.75%，Synopsys 基本持平。</li>
+<li style="margin-bottom:8px;">Shopify 股價跌 7.6%：9 月季度收入同比增 32% 至 37 億美元、營業利潤增 66% 至 5.68 億美元，但訂閱業務毛利率因 AI 助手 Sidekick 的 AI 支出上升，從 81.7% 降至 79%，重新引發投資者對 AI 成本侵蝕利潤率的擔憂。</li>
+<li style="margin-bottom:8px;">Canva 成立以來首次裁員：公司稱 22% 員工、即 1,271 人將需要轉崗、搬遷或離職；Canva 今年早些時候在 AI 產品成本上栽了跟頭，8 月把全年收入增速預期從 30% 下調至 20%，月活用戶同比減少 1,200 萬。</li>
+<li style="margin-bottom:8px;">幣安披露黑客鏈條：一名工程師爲假公司的面試任務下載惡意代碼，攻擊者隨後借內部 AI 工具控制另外兩名工程師的電腦（其中一人從搜索引擎下載了被篡改的 Homebrew 來裝 AI 編程工具），最終釀成 63 億美元被盜事件；幣安已補回 98% 被盜代幣，過去 24 小時淨流入 17 億美元。</li>
+<li style="margin-bottom:8px;">加州億萬富翁稅落後：對十億美元級財富一次性徵收 5% 的第 40 號提案，在約半數選票統計後以 56.5% 反對票落後；科技界人士（含 Sergey Brin、Patrick Collison、Eric Schmidt 等）共籌 3.3 億美元反對該提案。</li></ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 10px;">原文摘錄</div>
+<blockquote style="border-left:3px solid #d4d4d8;margin:12px 0;padding:4px 0 4px 14px;color:#3f3f46;">德州自 1990 年和 1988 年以來，就沒有選出過民主黨籍的州長或美國參議員。<br><span style="color:#71717a;font-size:13px;">（Texas hasn't elected Democrats to its governor's mansion or the U.S. Senate since 1990 and 1988, respectively.）</span></blockquote>
+<blockquote style="border-left:3px solid #d4d4d8;margin:12px 0;padding:4px 0 4px 14px;color:#3f3f46;">AMD 稱明年收入將增長超過 80%，是其一年前在財務模型中預期增速的兩倍多。<br><span style="color:#71717a;font-size:13px;">（it said revenue would grow more than 80% next year, or more than twice as fast as the growth it had projected in its financial model a year ago.）</span></blockquote>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 10px;">閱讀原文</div>
+<p style="font-size:15px;line-height:1.75;"><a href="https://www.theinformation.com" style="color:#e11d48;">https://www.theinformation.com</a></p>
+<p style="font-size:13px;color:#71717a;">原文標題：<i>Stunning Democratic Victories in Texas Bring Uncertainty for Data Centers, Musk</i></p>
+<p style="font-size:13px;color:#71717a;margin-top:20px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</p>
+</div></body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【简报】Salesforce的併購狂潮</title>
 <link>https://www.theinformation.com</link>
@@ -1766,56 +1804,6 @@
 <p style="font-size:13px;color:#999;margin-top:24px;border-top:1px solid #e5e5e5;padding-top:12px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</p>
 </div>
 </body></html>
-]]></content:encoded>
-</item>
-<item>
-<title>【AM】微軟因電力延誤退出 Nscale 英國數據中心</title>
-<link>https://www.theinformation.com/briefings/microsoft-pulls-nscale-u-k-data-center-following-delays</link>
-<guid isPermaLink="false">https://www.theinformation.com/briefings/microsoft-pulls-nscale-u-k-data-center-following-delays#微軟因電力延誤退出 Nscale 英國數</guid>
-<pubDate>Mon, 19 Oct 2026 04:19:27 -0700</pubDate>
-<category>AM</category>
-<description>AI 摘要 微軟因電力接入延誤、最早 2030 年才能供電，退出了 Nscale 爲其在英國建設的數據中心項目，給 Nscale 本月的上市計劃蒙上陰影——市場對 AI 雲廠商能否賺到足以還債的收入疑慮正在加深，CoreWeave 上週股價已跌超 23%。 Anthropic 宣佈設立公益基金、至少注入 5% 股權，約五分之一股份將用於公共利益，上市前夕治理結構再添特殊條款；中國商務部擬新增 40 項限制出口技術，其中 AI 佔 23 …</description>
-<content:encoded><![CDATA[<!DOCTYPE html>
-<html lang="zh-TW">
-<head><meta charset="utf-8"></head>
-<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
-<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
-<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:12px 16px;margin:0 0 20px 0;">
-<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
-<div style="font-size:14px;line-height:1.7;">
-微軟因電力接入延誤、最早 2030 年才能供電，退出了 Nscale 爲其在英國建設的數據中心項目，給 Nscale 本月的上市計劃蒙上陰影——市場對 AI 雲廠商能否賺到足以還債的收入疑慮正在加深，CoreWeave 上週股價已跌超 23%。
-Anthropic 宣佈設立公益基金、至少注入 5% 股權，約五分之一股份將用於公共利益，上市前夕治理結構再添特殊條款；中國商務部擬新增 40 項限制出口技術，其中 AI 佔 23 項。
-DeepSeek 週六發佈升級版輕量模型 V4.1-Flash-1017，Terminal-Bench 4.0 得分超過 OpenAI GPT5.6 Sol，峯時每百萬 token 輸出僅收費 1.20 美元，是 GPT5.6 Sol 的約 6%。
-英偉達要求三星、SK 海力士、美光用臺積電 3 納米工藝生產下一代定製 HBM 芯片的基礎裸片，以統一性能、簡化多供應商驗證。
-</div>
-</div>
-<div style="font-size:26px;font-weight:bold;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;">The Information AM</div>
-<div style="font-size:13px;color:#888;margin:6px 0 14px 0;">2026 年 10 月 19 日</div>
-<div style="font-size:24px;font-weight:bold;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;line-height:1.5;">微軟因電力延誤退出 Nscale 英國數據中心</div>
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px 0;">關鍵要點</div>
-<ul style="font-size:15px;line-height:1.75;padding-left:22px;margin:0;">
-<li>微軟已退出 Nscale 爲其在英國規劃建設的數據中心，Nscale 發言人確認原因爲電力接入延誤、無法按期投運。微軟是 Nscale 兩大客戶之一，去年秋天曾宣佈到 2028 年在英國投入 150 億美元建設數據中心產能，其中包括這座 Nscale 承建的園區。</li>
-<li>知情人士透露，供電方近期告知 Nscale，該園區可能到 2030 年才能接電。Nscale 上月披露微軟到 2033 年向其承諾的支出約 440 億美元，覆蓋英國、得克薩斯、葡萄牙和挪威的設施，但合同允許客戶撤銷承諾。</li>
-<li>此事可能打擊 Nscale 本月的上市計劃。投資者對 AI 雲廠商能否賺到足夠收入還債的疑慮加深：競爭對手 Firmus Grid 本月初突然撤回 IPO；CoreWeave 上週股價跌超 23%。</li>
-<li>Anthropic 宣佈設立 Anthropic Public Benefit Fund，至少注入 5% 的公司股份，用於應對 AI 對就業的影響等公益事業；公司價值每上漲 50%，董事會還可再追加最多 2%。約半數員工參與配捐計劃，計入新基金後約 20% 的股份將用於公共利益，基金的股權不得用於遊說或政治捐款。該基金分配方案還需股東批准。</li>
-<li>中國商務部上週五發布草案，擬將 AI、生物醫藥、光伏領域的 40 項技術列入限制出口技術清單，其中 AI 相關 23 項，包括大語言模型、AI 智能體等，戰略性 AI 模型與芯片設計的海外轉移或將受限。</li>
-<li>DeepSeek 週六發佈升級版輕量模型 V4.1-Flash-1017：體量小、定價低，性能卻大幅提升、接近前沿模型，在評估複雜多步任務能力的 Terminal-Bench 4.0 上得分高於 OpenAI GPT5.6 Sol；其 API 輸出價格峯時每百萬 token 1.20 美元、非峯時 0.60 美元，僅爲 GPT5.6 Sol（20 美元）的零頭。上月發佈的原版 V4.1-Flash 已在全球開發者中大受歡迎。</li>
-<li>據《首爾經濟日報》報道，英偉達要求其下一代定製高帶寬內存芯片的供應商統一採用臺積電 3 納米工藝生產基礎裸片，涉及三星電子、SK 海力士和美光；同時要求核心裸片採用第六代 DRAM 技術，目的是保證性能一致、簡化多供應商的產品驗證。三星已同意用於 8 月發佈的定製內存 NVHBM，這是三星首次在 HBM 製造環節與臺積電合作。</li>
-</ul>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px 0;">原文摘錄</div>
-<blockquote style="border-left:3px solid #ccc;margin:12px 0;padding:8px 16px;font-size:15px;line-height:1.75;color:#333;">
-微軟已退出 Nscale 爲其在英國建設的一個數據中心項目，Nscale 發言人稱原因是該雲計算公司在電力接入上遭遇延誤、無法按期投產。（"Microsoft has pulled out of a planned U.K. data center Nscale was building for it, an Nscale spokesperson said, after the cloud provider faced delays accessing power to bring the site online."）
-</blockquote>
-<blockquote style="border-left:3px solid #ccc;margin:12px 0;padding:8px 16px;font-size:15px;line-height:1.75;color:#333;">
-博文稱約半數 Anthropic 員工參與配捐計劃，計入新基金的初始份額後，約 20% 的公司股份將"用於公共利益"。（"roughly 20% of the company's shares 'will be dedicated to the public good.'"）
-</blockquote>
-<div style="margin:20px 0 8px 0;"><a href="https://www.theinformation.com/briefings/microsoft-pulls-nscale-u-k-data-center-following-delays" style="color:#e11d48;font-size:15px;font-weight:bold;">閱讀原文</a></div>
-<div style="font-size:13px;color:#888;margin:16px 0;">原文標題：<i>Microsoft Pulls Out of Nscale U.K. Data Center Following Delays</i></div>
-<div style="font-size:13px;color:#999;margin-top:16px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
-</div>
-</body>
-</html>
 ]]></content:encoded>
 </item>
 </channel>
