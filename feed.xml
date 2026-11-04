@@ -6,7 +6,43 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 03 Nov 2026 10:51:07 -0800</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 20:20:51 -0500</lastBuildDate>
+<item>
+<title>【简报】Salesforce的併購狂潮</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#Salesforce的併購狂潮</guid>
+<pubDate>Tue, 03 Nov 2026 20:20:51 -0500</pubDate>
+<category>简报</category>
+<description>AI 摘要 在中期選舉之夜，科技界關注的焦點不只是選情，更是當前寬鬆的反壟斷環境還能持續多久。文章指出，得益於特朗普政府的政策，企業大約還有兩年窗口期抓緊完成交易，今年以來已宣佈的交易總額已達2.6萬億美元，同比大增66%。其中最激進的收購方之一是Salesforce，過去12個月已花費或承諾至少250億美元完成八筆收購，幾乎全部以現金支付。CEO貝尼奧夫（Marc Benioff）在經歷激進投資者施壓、轉向效率優先並大幅提升自由現金流…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html><head><meta charset="utf-8"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:16px 18px;margin-bottom:24px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">在中期選舉之夜，科技界關注的焦點不只是選情，更是當前寬鬆的反壟斷環境還能持續多久。文章指出，得益於特朗普政府的政策，企業大約還有兩年窗口期抓緊完成交易，今年以來已宣佈的交易總額已達2.6萬億美元，同比大增66%。其中最激進的收購方之一是Salesforce，過去12個月已花費或承諾至少250億美元完成八筆收購，幾乎全部以現金支付。CEO貝尼奧夫（Marc Benioff）在經歷激進投資者施壓、轉向效率優先並大幅提升自由現金流後，重新開啓併購模式，但這些交易能否真正產生回報仍有待驗證。與此同時，20多個州的州長選舉正在決定數據中心建設的未來，暫停建設的呼聲可能讓AI基礎設施擴張放緩。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;line-height:1.3;">The Information Briefing</div>
+<div style="font-size:13px;color:#71717a;margin:6px 0 12px;">2026年11月3日（星期二）</div>
+<div style="font-size:24px;font-weight:bold;line-height:1.4;">Salesforce的併購狂潮</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 12px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;padding-left:20px;"><li style="margin-bottom:8px;">交易大年：據Dealogic統計，今年以來全球已宣佈交易總額達2.6萬億美元，比去年同期高66%；近期案例包括Marvell與Lumentum、DoorDash與Instacart、Fox與Roku等，科技業的併購熱被比作限時搶購的“超市大掃購”。</li>
+<li style="margin-bottom:8px;">Salesforce密集出手：週一（11月3日）宣佈以約27億美元收購AI聯絡中心自動化軟件公司Cresta，同日完成對Listen Labs的收購（9月宣佈，價格未披露）；上月以57億美元收購客戶互動平臺Braze，9月完成36億美元收購客戶智能體公司Fin。過去12個月八筆收購合計至少250億美元，幾乎每筆都在10億美元以上。</li>
+<li style="margin-bottom:8px;">從併購上癮到效率優先再回歸：貝尼奧夫在2010年代靠連續併購推動增長，2021年以277億美元收購Slack達到高峯，但交易壓低了利潤率和自由現金流，引發激進投資者施壓，迫使公司轉向效率。Salesforce自由現金流佔收入比已從2023財年的20%升至2026財年的35%，每年產生超過140億美元現金，支撐了更大規模回購和收購。</li>
+<li style="margin-bottom:8px;">幾乎全現金支付：與2020年前主要靠股票支付不同，本輪收購幾乎全用現金。貝尼奧夫今年早些時候表示，公司更懂得如何做對業務增值、又不稀釋投資者的收購；但無論現金還是股票，交易最終能否產生回報，結論尚不明確。</li>
+<li style="margin-bottom:8px;">選舉決定數據中心走向：20多個州有州長候選人支持暫停數據中心開發，呼籲暫停者有望在多達15個州獲勝，包括密歇根、俄亥俄、得克薩斯和俄勒岡。得克薩斯、佐治亞（亞特蘭大已是最大數據中心建設市場）和佛羅里達等關鍵州的競選尤爲激烈，限制措施可能讓建設放緩、成本上升，並加大科技巨頭AI投資回報的不確定性。</li>
+<li style="margin-bottom:8px;">其他新聞：AMD第三季度數據中心芯片收入近乎翻倍、總收入增長45%，並預計四季度加速；Shopify訂閱業務毛利率因AI支出上升而下滑，股價跌7.6%；幣安稱一名工程師爲虛假公司的面試任務誤下載惡意代碼，成爲63億美元黑客事件鏈條的一環；中國國家發改委表示將密切監測AI對就業的影響，並推進覆蓋AI全生命週期的安全標準與倫理規範。</li></ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 12px;">原文摘錄</div>
+<blockquote style="margin:12px 0;padding:8px 16px;border-left:3px solid #d4d4d8;color:#3f3f46;">今晚發生什麼都不會改變我們眼下寬鬆的反壟斷環境。<br><span style="color:#71717a;font-size:13px;">(Nothing that happens tonight will change the relaxed antitrust regime we’ve got right now.)</span></blockquote>
+<blockquote style="margin:12px 0;padding:8px 16px;border-left:3px solid #d4d4d8;color:#3f3f46;">我們現在更懂得如何做對業務有增值、又不稀釋投資者的收購。<br><span style="color:#71717a;font-size:13px;">(We have a much better understanding of how to do acquisitions that are accretive to the business but not dilutive to investors.)</span></blockquote>
+<div style="margin:20px 0;"><a href="https://www.theinformation.com" style="color:#e11d48;font-size:15px;">閱讀原文</a></div>
+<div style="font-size:13px;color:#71717a;">原文標題：<i>The Briefing: Salesforce’s M&A Blitz</i></div>
+<div style="font-size:13px;color:#71717a;margin-top:16px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【Applied AI】LinkedIn 的低成本 AI 配方：讓小模型學會模仿 OpenAI</title>
 <link>https://www.theinformation.com</link>
@@ -1780,16 +1816,6 @@ DeepSeek 週六發佈升級版輕量模型 V4.1-Flash-1017，Terminal-Bench 4.0 
 </div>
 </body>
 </html>
-]]></content:encoded>
-</item>
-<item>
-<title>【资讯】你的办公室防不住间谍：OpenAI 间谍案敲响警钟</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#你的办公室防不住间谍：OpenAI 间谍</guid>
-<pubDate>Sun, 18 Oct 2026 19:58:18 -0700</pubDate>
-<category>资讯</category>
-<description>AI 摘要 FBI 逮捕了 OpenAI 前工程师 Abdulrahman Alfozan，指控他在会议室放置了用卫生纸包裹的录音设备；司法部新闻稿刻意强调他是“沙特阿拉伯王国公民”，暗示其为沙特刺探 OpenAI。但作者提醒硅谷别幸灾乐祸——在咨询多位企业安全顾问和监控专家后，结论是很多公司都可能遭遇同样情况，尤其是在当今竞争白热化、快速扩张的公司。前 FBI 反间谍主管 Bill Priestap 指出，组织招人太快，对入职者的背景…</description>
-<content:encoded><![CDATA[<html><head><meta charset="utf-8"></head><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;"><div style="max-width:720px;margin:0 auto;padding:8px 16px;"><div style="background:#fef2f4;border-left:4px solid #e11d48;padding:12px 16px;margin-bottom:20px;"><div style="font-size:16px;font-weight:bold;margin-bottom:6px;">AI 摘要</div><div style="font-size:14px;line-height:1.7;">FBI 逮捕了 OpenAI 前工程师 Abdulrahman Alfozan，指控他在会议室放置了用卫生纸包裹的录音设备；司法部新闻稿刻意强调他是“沙特阿拉伯王国公民”，暗示其为沙特刺探 OpenAI。但作者提醒硅谷别幸灾乐祸——在咨询多位企业安全顾问和监控专家后，结论是很多公司都可能遭遇同样情况，尤其是在当今竞争白热化、快速扩张的公司。前 FBI 反间谍主管 Bill Priestap 指出，组织招人太快，对入职者的背景了解甚少。旧金山私家侦探 David Abbott 则说，窃听设备不到 100 美元就能买到，伪装成充电器、咖啡杯、烟雾报警器，大摇大摆地“藏”在明处；而且“发现一个，就意味着还有第二个”。</div></div><h1 style="font-size:26px;font-weight:bold;margin:0 0 4px 0;">The Information 周末版（Weekend）</h1><p style="font-size:13px;color:#888;margin:0 0 12px 0;">2026 年 10 月 17 日</p><h1 style="font-size:24px;font-weight:bold;margin:0 0 4px 0;">你的办公室防不住间谍：OpenAI 间谍案敲响警钟</h1><div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;">关键要点</h2><ul style="font-size:15px;line-height:1.75;"><li>FBI 逮捕 OpenAI 前工程师 Abdulrahman Alfozan：涉嫌在会议室放置用卫生纸包裹的录音设备；司法部新闻稿未明说动机，但刻意强调其“沙特阿拉伯王国公民”身份，暗示为沙特刺探 OpenAI</li><li>专家警告这不是个案：在当今竞争激烈、快速扩张的环境下，很多公司都面临同样风险；前 FBI 反间谍主管 Bill Priestap（现经营安全咨询公司 Trenchcoat Advisors）称，企业招人压力太大、速度太快，对入职人员的背景“了解甚少”</li><li>窃听门槛极低：合适的设备不到 100 美元就能买到；常见的伪装形态包括插在电源插座上的“手机充电器”、假咖啡杯、假烟雾报警器——大隐隐于市</li><li>私家侦探 David Abbott 的经验法则：做窃听器排查时，“找到一个不代表没有第二个；找到一个，就会有两个；找到两个，就会有三个——一直找下去”</li><li>Alfozan 实际放置了两个窃听器（其中一个装在包里后遗失，他还去公司失物招领处领了回来），远非 007 的料</li><li>反制方案：盐湖城初创 Strider Technologies（近年融资 1.1 亿美元）用 AI 软件监控企业邮件和内部通讯，标记可疑行为和间谍企图；联合创始人 Greg Levesque 称，涉案者很多并非受过训练的特工，而是被接近或脅涉的科学家、工程师，“会留下大量数字痕迹”</li></ul><h2 style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;">原文摘录</h2><blockquote style="border-left:3px solid #ccc;margin:8px 0;padding:8px 12px;color:#555;font-size:15px;line-height:1.75;">做窃听器排查时，找到一个不代表没有第二个。找到一个，就会有两个；找到两个，就会有三个。你得一直找下去。<br><span style="color:#888;">（If I'm doing a bug sweep, just because I find one does not mean there isn't a second. If you find one, there's going to be two. If you find two, there's going to be three. You just keep looking. — 旧金山私家侦探 David Abbott）</span></blockquote><blockquote style="border-left:3px solid #ccc;margin:8px 0;padding:8px 12px;color:#555;font-size:15px;line-height:1.75;">组织有时扩张太快，直到某人入职并开始作恶，才意识到这个人有问题。<br><span style="color:#888;">（Organizations can sometimes be moving so fast that they often don't understand that there's an issue associated with somebody until that person's on board and up to no good. — 前 FBI 反间谍主管 Bill Priestap）</span></blockquote><p style="font-size:15px;"><a href="https://www.theinformation.com" style="color:#e11d48;">阅读原文 →</a></p><p style="font-size:13px;color:#888;">原文标题：<em>Your Office Isn't Spy Proof</em></p><p style="font-size:13px;color:#888;margin-top:24px;">本期为摘要版：基于邮件内容的中文摘要与要点提炼，非全文翻译。</p></div></body></html>
 ]]></content:encoded>
 </item>
 </channel>
