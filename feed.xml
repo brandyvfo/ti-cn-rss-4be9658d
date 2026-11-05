@@ -6,7 +6,38 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 04 Nov 2026 20:20:39 -0500</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 12:20:35 +0000</lastBuildDate>
+<item>
+<title>【AM】微軟因 Iren 延期少花50億美元：數據中心延誤、新雲承壓與選舉衝擊</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#微軟因 Iren 延期少花50億美元：數</guid>
+<pubDate>Thu, 05 Nov 2026 12:20:35 +0000</pubDate>
+<category>AM</category>
+<description>AI 摘要 本期頭條揭示微軟第三季度資本開支比預期少約50億美元，原因之一是雲廠商 Iren 在得州 Childress 的數據中心延期交付，凸顯新雲廠商建設與融資的脆弱性。OpenAI 收購代碼工具初創 Pierre 以強化 Codex；中國以國家安全審查爲由叫停軟銀54億美元收購 ABB 機器人業務。選舉結果則讓市場分化：亞馬遜、微軟等已建成設施的大廠上漲，CoreWeave、Nebius 等新雲及芯片股下跌；紅杉關閉倫敦辦公室、U…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html><head><meta charset="utf-8"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:20px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">本期頭條揭示微軟第三季度資本開支比預期少約50億美元，原因之一是雲廠商 Iren 在得州 Childress 的數據中心延期交付，凸顯新雲廠商建設與融資的脆弱性。OpenAI 收購代碼工具初創 Pierre 以強化 Codex；中國以國家安全審查爲由叫停軟銀54億美元收購 ABB 機器人業務。選舉結果則讓市場分化：亞馬遜、微軟等已建成設施的大廠上漲，CoreWeave、Nebius 等新雲及芯片股下跌；紅杉關閉倫敦辦公室、Uber 大幅擴充自動駕駛車隊、Circle 裁員5%等消息共同勾勒出 AI 基礎設施從狂熱擴張轉向執行與風險定價的階段。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;">The Information AM</div>
+<div style="font-size:13px;color:#888;margin:6px 0 4px;">2026 年 11 月 5 日（星期四）</div>
+<div style="font-size:24px;font-weight:bold;margin:10px 0;">微軟因 Iren 延期少花50億美元：數據中心延誤、新雲承壓與選舉衝擊</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;margin:0;padding-left:20px;"><li>微軟與 Iren：微軟稱第三季度資本開支比此前預期少約50億美元，因計劃租賃的數據中心容量未按時就緒；知情人士稱未被點名的第三方之一是上市公司 Iren。微軟去年宣佈五年內斥資97億美元租賃 Iren 在得州開發的、配備英偉達 GPU 的服務器，原計劃在2026年內逐步上線，但 Childress 場地已延期。微軟同時向 Nscale、Lambda、CoreWeave、Nebius 等租賃容量，上月還因英國場地接入電網延期退出與 Nscale 的一處租賃計劃。</li><li>OpenAI 收購 Pierre：OpenAI 週三稱收購成立三年的 Pierre Computer Company，該公司開發幫助開發者管理和審查代碼的軟件工具，Codex 已在使用其開源工具 Code Storage；交易價格未披露，Pierre 此前已融資2300萬美元，創始人爲前 Coinbase 工程師。</li><li>中國叫停軟銀收購 ABB 機器人：中國國家發改委下屬外資安全審查機構告知軟銀，將禁止其以54億美元收購瑞士-瑞典 ABB 的機器人業務；同一機構今年早些時候曾要求撤銷 Meta 以20億美元收購中國 AI 初創 Manus 的交易。中國是 ABB 機器人最大市場，其在華銷售90%面向中國客戶；ABB 稱雙方仍在密切溝通、建設性推進交易。</li><li>紅杉關閉倫敦辦公室：紅杉資本週三稱將關閉倫敦辦公室、聚焦硅谷，併合並部分團隊、減少投資人員管理層級，以“重塑”自身；近年來紅杉已關閉華盛頓辦公室並與中國、東南亞關聯機構分拆。倫敦四位合夥人中三人選擇不遷往他處、將不再爲紅杉投資。</li><li>選舉衝擊新雲與芯片股：CoreWeave 週三跌9.9%、Nebius 跌6.7%，投資者將週二支持反數據中心候選人的投票結果解讀爲對新雲廠商尤其不利；亞馬遜漲6.2%、微軟漲6.7%、Alphabet 漲3.2%、蘋果漲5.3%，因大廠已在多州擁有運營中的數據中心、更不易受禁令影響。英偉達、博通及美光、SK海力士等存儲芯片股也被拋售，市場預期數據中心開發放緩將削弱 AI 芯片與存儲需求。</li><li>Uber 擴充自動駕駛：Uber 在第三季度業績中稱，計劃未來一年將平臺自動駕駛汽車數量增加一倍以上，並安排融資、引入外部資本建設車隊；今年底將有700輛，2027年底增至2000輛以上，2028年目標1萬輛以上。本季收入147.6億美元、同比增10%，總預訂額增20%，自由現金流增14%至25億美元。</li><li>AI 發現 Ubuntu 漏洞：Charge Robotics 首席技術官 Max Justicz 稱，他使用 OpenAI 專門模型發現熱門開源軟件 apt 的漏洞，攻擊者若接入數據中心光纖可運行自有代碼、劫持服務器與網站；他9月下旬已通知維護 Ubuntu 的 Canonical，公司週三發佈補丁，暫無已知利用案例。</li><li>其他消息：美國司法部上週傳喚薪酬初創 Rippling，要求提供其起訴競爭對手 Deel 涉嫌商業間諜案中證據開示的全部文件，Deel 表示反對；Snap 第三季度收入17億美元、增14%，但廣告僅增4%、增長主要靠訂閱，淨利5650萬美元，盤後股價跌9%，公司將改以月活爲主要受衆指標；穩定幣發行商 Circle 第三季度收入增17%至8.75億美元（部分來自 ARC 代幣預售的一次性提振）、淨利2.26億美元，同時裁員5%，並稱在 Binance 遭63億美元黑客攻擊後一小時內凍結了逾8億美元被盜 USDC。</li></ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">原文摘錄</div>
+<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;padding-left:14px;margin:0 0 12px;color:#3f3f46;">“我們的基礎設施策略建立在靈活性與選擇權之上，結合微軟自有數據中心、租賃設施與第三方戰略合作，以可靠、高效地讓容量上線。”（“Our approach to infrastructure is built on flexibility and optionality… — Microsoft spokesperson”）</blockquote><blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;padding-left:14px;margin:0 0 12px;color:#3f3f46;">“中國是 ABB 機器人最大的市場，其在華銷售的90%面向中國客戶。”（“China is the biggest market for ABB Robotics, and 90% of the sales in China were for Chinese customers.”）</blockquote>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">閱讀原文</div>
+<div style="font-size:15px;line-height:1.75;margin:0 0 12px;"><a href="https://www.theinformation.com" style="color:#e11d48;">theinformation.com</a>（本期郵件中的鏈接均爲追蹤跳轉鏈接，無該文章的直接原文鏈接）</div>
+<div style="font-size:13px;color:#888;margin:14px 0;">原文標題：<i>Exclusive: Microsoft Lowered Data Center Spending Following Delays By Cloud Firm Iren</i></div>
+<div style="font-size:13px;color:#888;margin:14px 0 4px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【简报】選民送給大科技的禮物：民主黨勝選爲何利好巨頭、傷及新雲廠商</title>
 <link>https://www.theinformation.com</link>
@@ -1739,37 +1770,6 @@
 <p style="font-size:13px;color:#71717a;margin-top:24px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</p>
 </div>
 </body>
-]]></content:encoded>
-</item>
-<item>
-<title>【简报】SpaceX 算力增長驚人：SI 業務收入近三倍，馬斯克談與特斯拉合併</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#SpaceX 算力增長驚人：SI 業務收</guid>
-<pubDate>Tue, 20 Oct 2026 20:23:33 -0400</pubDate>
-<category>简报</category>
-<description>AI 摘要 SpaceX 週二的財報電話會上，最搶風頭的不是火箭，而是它的"超級智能"（SI）業務：第三季度營收近三倍增長至 75.6 億美元，一舉成爲 SpaceX 第一大業務板塊，並從二季度的 12.6 億美元虧損扭虧爲盈，實現 4.31 億美元營業利潤；財報後股價盤後大漲近 7%。該板塊包括 X 社交平臺、Grok 智能體平臺，以及向 Anthropic 等外部客戶出租的雲基礎設施服務——馬斯克稱每一家超大規模雲廠商和數十家小公司…</description>
-<content:encoded><![CDATA[<!DOCTYPE html>
-<html><head><meta charset="utf-8"></head>
-<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
-<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
-<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:20px;">
-<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
-<div style="font-size:14px;line-height:1.7;">SpaceX 週二的財報電話會上，最搶風頭的不是火箭，而是它的"超級智能"（SI）業務：第三季度營收近三倍增長至 75.6 億美元，一舉成爲 SpaceX 第一大業務板塊，並從二季度的 12.6 億美元虧損扭虧爲盈，實現 4.31 億美元營業利潤；財報後股價盤後大漲近 7%。該板塊包括 X 社交平臺、Grok 智能體平臺，以及向 Anthropic 等外部客戶出租的雲基礎設施服務——馬斯克稱每一家超大規模雲廠商和數十家小公司都在沒完沒了地纏着他租用算力，CFO 則表示新建數據中心投產後不到一年就能回本。馬斯克還回應了 SpaceX 與特斯拉的潛在合併：兩家公司已各自成立特別委員會評估，由於身兼兩家公司 CEO，他已迴避相關討論；他認爲合併"大有可爲"，但強調仍需股東批准，"絕非板上釘釘"。另一家巨頭則在失意：Netflix 第三季度營收增速降至三年來最弱，並預警四季度更差，盤後股價下跌 5%。</div>
-</div>
-<div style="font-size:26px;font-weight:bold;">The Information Briefing</div>
-<div style="font-size:13px;color:#888;margin:6px 0 4px;">2026 年 10 月 20 日 · 作者：Nick Wingfield</div>
-<div style="font-size:24px;font-weight:bold;margin:10px 0;">SpaceX 算力增長驚人：SI 業務收入近三倍，馬斯克談與特斯拉合併</div>
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">關鍵要點</div>
-<ul style="font-size:15px;line-height:1.75;margin:0;padding-left:20px;"><li>SpaceX "超級智能"（SI）業務爆發：第三季度營收近三倍增長至 75.6 億美元，成爲公司第一大業務板塊；實現營業利潤 4.31 億美元，較二季度的 12.6 億美元虧損大幅扭虧。</li><li>財報公佈後，SpaceX 股價盤後上漲近 7%。</li><li>雲算力需求火爆：馬斯克稱每一家超大規模雲廠商和數十家小公司都在纏着他租用更多算力，"如果對每個人都答應，我們的算力能租出去好幾倍"；CFO Bret Johnsen 形容需求"非同尋常"，按當前價格新建數據中心投產後不到一年就能回本。</li><li>與特斯拉合併進展：馬斯克透露兩家公司已各自成立特別委員會研究合併方案；因同時擔任兩家公司 CEO，他已迴避相關討論；他個人認爲"合併有很多可取之處"，但強調仍需股東批准，"有些人以爲 SpaceX 與特斯拉的合併是板上釘釘，我覺得這麼說言過其實"——不過作者調侃，他的股東向來很"聽話"。</li><li>Netflix 本期翻車：第三季度營收增長 11.8% 至 128.7 億美元，爲三年來最弱增速（上一次低於此數還是 2023 年三季度）；公司預計四季度增速進一步降至 11.5%；盤後股價下跌 5%。一週前 Netflix 剛裁員約 1000 人（6%），包括首席內容官 Bela Bajaria 和電影業務負責人 David Lin——作者認爲，兩位 CEO Ted Sarandos 和 Greg Peters 顯然對現狀不滿，想在影視內容上"換打法"。</li><li>其他要聞：《華爾街日報》報道，Anthropic 的 IPO 招股草案披露上半年淨虧損超 800 億美元（反映其融資協議的會計處理），同期營收 163 億美元，約五分之一來自兩個客戶；馬斯克下令減緩烏克蘭軍用版 Starlink 的服務；Salesforce 同意以約 56.6 億美元（含債務）收購客戶互動平臺 Braze；Meta 首席全球事務官 Joel Kaplan 在任 15 年多後計劃離職。</li><li>本期記者新作預告：私募機構曾考慮以 1000 億美元以上收購微軟 Xbox；英偉達已爲新雲（neoclouds）押注超 1700 億美元；CoreWeave 的債務狂歡如何迎來清算時刻；TITV：World Mechanics CEO Sonia Joseph 談"可解釋性是物理 AI 的關鍵"。</li><li>活動預告：10 月 27–28 日 The Information 2026 WTF 峯會在納帕谷舉行；11 月 9 日與 EY 在舊金山合辦小型晚宴；11 月 10 日 SF Tech Week 舉辦"The Long Road to an IPO"圓桌。</li></ul>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">原文摘錄</div>
-<blockquote style="border-left:3px solid #ccc;padding-left:12px;color:#444;margin:0 0 12px;font-size:15px;line-height:1.7;">"每一家超大規模雲廠商、還有數十家小公司都在沒完沒了地纏着我們，想租用更多算力。如果對每個人都說 yes，我們的算力能租出去好幾倍。"（"We are hounded relentlessly by every hyperscaler and by dozens of smaller companies to rent more of our compute. We could rent out our compute several times over if we said yes to everyone."）——馬斯克，談雲算力租賃需求</blockquote>
-<blockquote style="border-left:3px solid #ccc;padding-left:12px;color:#444;margin:0 0 12px;font-size:15px;line-height:1.7;">"我確實認爲合併兩家公司有很多可取之處。"（"I do think there's a lot of merit to combining both companies."）——馬斯克，談 SpaceX 與特斯拉的潛在合併</blockquote>
-<p><a href="https://www.theinformation.com" style="color:#e11d48;font-size:16px;font-weight:bold;text-decoration:none;">閱讀原文 &rarr;</a></p>
-<p style="font-size:13px;color:#888;">原文標題：<em>The Briefing: SpaceX Compute Growth Soars</em></p>
-<p style="font-size:13px;color:#999;margin-top:24px;border-top:1px solid #e5e5e5;padding-top:12px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</p>
-</div>
-</body></html>
 ]]></content:encoded>
 </item>
 </channel>
