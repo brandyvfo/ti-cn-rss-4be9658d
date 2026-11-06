@@ -6,7 +6,35 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 05 Nov 2026 17:21:09 -0800</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 04:19:06 -0800</lastBuildDate>
+<item>
+<title>【AM】Anthropic爲Claude推出個人理財功能</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#Anthropic爲Claude推出個人</guid>
+<pubDate>Fri, 06 Nov 2026 04:19:06 -0800</pubDate>
+<category>AM</category>
+<description>AI 摘要 本期AM簡報以Anthropic爲Claude推出個人理財功能爲頭條，用戶可通過Plaid只讀連接銀行賬戶，且相關對話不用於訓練模型。Unity同時成爲焦點：Silver Lake與沙特PIF組成的財團已提出收購意向，按30%溢價估算交易至少260億美元，其AI廣告業務則推動營收增長32%。英偉達CEO黃仁勳被美國衆議院三個委員會要求就其與被指爲中國間諜的Alice Huang的關係作閉門簡報，定於11月18日（星期三）舉行…</description>
+<content:encoded><![CDATA[<html><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:20px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:6px;">AI 摘要</div>
+<p style="font-size:14px;line-height:1.7;margin:0;">本期AM簡報以Anthropic爲Claude推出個人理財功能爲頭條，用戶可通過Plaid只讀連接銀行賬戶，且相關對話不用於訓練模型。Unity同時成爲焦點：Silver Lake與沙特PIF組成的財團已提出收購意向，按30%溢價估算交易至少260億美元，其AI廣告業務則推動營收增長32%。英偉達CEO黃仁勳被美國衆議院三個委員會要求就其與被指爲中國間諜的Alice Huang的關係作閉門簡報，定於11月18日（星期三）舉行。此外，METR報告稱AI內部使用可能已讓Anthropic的研發速度翻倍，亞馬遜則改用Uber Eats爲Prime會員提供免配送費外賣。</p>
+</div>
+<div style="font-size:26px;font-weight:bold;">The Information AM</div>
+<div style="font-size:13px;color:#71717a;margin:6px 0 10px;">2026年11月6日（星期五）</div>
+<div style="font-size:24px;font-weight:bold;line-height:1.4;">Anthropic爲Claude推出個人理財功能</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:18px 0 10px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;padding-left:20px;"><li style='margin-bottom:8px;'>Anthropic爲Claude推出個人理財功能：用戶可通過Plaid連接銀行賬戶、授予只讀權限，Claude不能轉移、管理或投資資金；公司稱該功能並非提供投資建議，Personal Finance hub中的對話不用於訓練模型。此舉在公司計劃IPO之前推出，OpenAI已於今年5月在ChatGPT推出類似功能。</li><li style='margin-bottom:8px;'>Silver Lake與沙特阿拉伯公共投資基金PIF組成的投資者財團已向遊戲軟件商Unity Software提出潛在收購意向，Unity正與投行評估選項。Unity當前市值約200億美元，按公開收購通常30%溢價估算，交易價值至少260億美元；Silver Lake已持有Unity股份多年。</li><li style='margin-bottom:8px;'>美國衆議院三個委員會的負責人已傳喚英偉達CEO黃仁勳於11月18日（星期三）作閉門簡報，內容涉及其與新加坡數據中心公司Megaspeed高管Alice Huang的關係；《紐約時報》上月報道稱美方官員認定黃仁勳與被指曾向北京提供情報的Alice Huang關係密切。</li><li style='margin-bottom:8px;'>亞馬遜推出由Uber Eats承接配送的新外賣服務，Prime會員在亞馬遜下單可免配送費，該安排取代此前通過Grubhub（現屬Wonder）的類似權益，Grubhub權益已於週四結束。此舉對DoorDash構成競爭威脅，而DoorDash數週前剛達成收購Instacart的交易。</li><li style='margin-bottom:8px;'>非營利機構METR報告稱，Anthropic內部使用AI可能已使公司AI研發速度翻倍：截至今年10月其模型改進速率約爲2024年3月至2025年10月期間的兩倍，METR估計約80%的加速來自內部AI使用；報告同時稱AI研究尚不能在Anthropic完全自動化，但已出現進一步加速的跡象。</li><li style='margin-bottom:8px;'>Unity財報：股價上漲13%，營收增長32%，由今年早些時候推出的AI廣告產品Vector AI快速增長推動；公司預計第四季度新廣告業務營收翻倍至最高5.2億美元，整體營收近7億美元、增幅最高38%，而舊的IronSource廣告網絡貢獻將在第四季度基本消失。</li><li style='margin-bottom:8px;'>Lyft第三季度營收增速大幅放緩至8%，總預訂量增速從第二季度的23%降至17%，公司預計第四季度進一步放緩至13%至17%；自由現金流爲2.947億美元，高於上年同期的2.778億美元，股價盤後下跌6%。</li><li style='margin-bottom:8px;'>媒體大亨John Malone放棄Liberty Media控制權：將超級投票權股份換爲普通股，投票權從48%降至3%；Liberty稱Malone曾收到第三方收購其超級投票權股份的非邀約報價，此次換股是爲了避免他人僅靠買下該股份就取得Liberty控制權，Liberty旗下仍擁有F1等賽車業務。</li></ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:18px 0 10px;">原文摘錄</div>
+<blockquote style='border-left:3px solid #d4d4d8;margin:12px 0;padding:4px 12px;color:#3f3f46;'><p style='margin:4px 0;font-size:15px;line-height:1.75;'>國會必須確定美國國家安全被置於多大的風險之中。（It is vital that Congress determine the extent to which U.S. national security has been placed at risk）</p></blockquote><blockquote style='border-left:3px solid #d4d4d8;margin:12px 0;padding:4px 12px;color:#3f3f46;'><p style='margin:4px 0;font-size:15px;line-height:1.75;'>METR稱，AI研究在Anthropic尚不能完全自動化，但已出現AI很快可能帶來進一步研發加速的跡象。（signs of life that it was possible for further R&D acceleration to take place from AI soon）</p></blockquote>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:18px 0 10px;">閱讀原文</div>
+<p style="font-size:15px;line-height:1.75;"><a href="https://www.theinformation.com" style="color:#e11d48;">https://www.theinformation.com</a></p>
+<p style="font-size:13px;color:#71717a;">原文標題：<i>Anthropic Launches Personal Finance Feature for Claude</i></p>
+<p style="font-size:13px;color:#71717a;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</p>
+</div></body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【简报】Airbnb首席執行官的額外工作：切斯基的AI實驗室引發治理質疑</title>
 <link>https://www.theinformation.com</link>
@@ -1758,45 +1786,6 @@
 <div style="font-size:15px;line-height:1.75;margin:0 0 12px;"><a href="https://www.theinformation.com" style="color:#e11d48;">theinformation.com</a>（本期郵件中的鏈接均爲追蹤跳轉鏈接，無該文章的直接原文鏈接）</div>
 <div style="font-size:13px;color:#888;margin:14px 0;">原文標題：<i>Can Private Equity Still Win in Cybersecurity?</i></div>
 <div style="font-size:13px;color:#888;margin:14px 0 4px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div></div></body></html>
-]]></content:encoded>
-</item>
-<item>
-<title>【电动】Enovix 爲拿下無人機大單，改用傳統電池架構</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#Enovix 爲拿下無人機大單，改用傳統</guid>
-<pubDate>Wed, 21 Oct 2026 15:20:12 -0400</pubDate>
-<category>电动</category>
-<description>AI 摘要 五年前上市時承諾今年要做到約 10 億美元電池銷售額的 Enovix，如今全年收入預期只剩約 4100 萬美元。峯迴路轉的是，上週一家軍用無人機製造商向它訂購了 10 萬顆電池——這只是預期中的一連串訂單中的首批。耐人尋味的是，這筆救命訂單用的不是 Enovix 花了十年打磨的招牌"不鏽鋼籠"硅陽極電池，而是更傳統、風險更低的常規架構。執行董事長坦言，無人機業務"火得一塌糊塗"，而且完全出乎意料。這一幕並非孤例：無人機、機器…</description>
-<content:encoded><![CDATA[<!DOCTYPE html>
-<html><head><meta charset="utf-8"></head>
-<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
-<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
-<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:20px;">
-<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
-<div style="font-size:14px;line-height:1.7;">五年前上市時承諾今年要做到約 10 億美元電池銷售額的 Enovix，如今全年收入預期只剩約 4100 萬美元。峯迴路轉的是，上週一家軍用無人機製造商向它訂購了 10 萬顆電池——這只是預期中的一連串訂單中的首批。耐人尋味的是，這筆救命訂單用的不是 Enovix 花了十年打磨的招牌"不鏽鋼籠"硅陽極電池，而是更傳統、風險更低的常規架構。執行董事長坦言，無人機業務"火得一塌糊塗"，而且完全出乎意料。這一幕並非孤例：無人機、機器人這些新風口上，各家都在悄悄放下最激進的新電池方案，轉向當下能用的折中路線。</div>
-</div>
-<div style="font-size:26px;font-weight:bold;">The Information Electric</div>
-<div style="font-size:13px;color:#888;margin:6px 0 4px;">2026 年 10 月 21 日（星期三） · 作者：Steve LeVine</div>
-<div style="font-size:24px;font-weight:bold;margin:10px 0;">Enovix 爲拿下無人機大單，改用傳統電池架構</div>
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">關鍵要點</div>
-<ul style="font-size:15px;line-height:1.75;margin:0;padding-left:20px;"><li>落差巨大：五年前 IPO 時，Enovix 承諾今年實現約 10 億美元的年銷售額，聲稱智能手錶、智能眼鏡和智能手機大廠都急着買它的"不鏽鋼籠"電池。如今公司預計，今年全年收入只有約 4100 萬美元，承諾的訂單從未兌現。</li>
-<li>從天而降的大單：上週公司宣佈，一位此前並未接觸過的軍用無人機製造商簽下合同，訂購 10 萬顆電池，明年年中前交付。執行董事長 T.J. Rodgers（1980 年代賽普拉斯半導體的創始人、億萬富豪）不願透露客戶名稱，但他說僅這一筆訂單，就超過了 Enovix 整個第二季度 900 萬美元的收入；這是預期中一連串訂單的第一批，下一批從明年下半年開始。</li>
-<li>最大意外在於產品本身：這批訂單用的不是 Enovix 花了十年開發的招牌不鏽鋼籠電池（用鋼籠抑制硅陽極膨脹），而是沒有鋼籠的常規架構——同樣是硅陽極，但用碳等其他方式抑制膨脹。</li>
-<li>戰爭紅利外溢：俄烏戰爭與伊朗戰爭引發的無人機熱潮，正外溢到陷入困境的電池行業，給 Enovix 這類初創公司帶來新生。但這些銷售主要流向了願意暫時放下長期研發的"異國情調"電池、改供更傳統低風險產品的公司。同一動態也出現在機器人領域：上週 Agility Robotics 宣佈新一代人形機器人 Digit 將採用英國 Nyobolt 的電池——不是 Nyobolt 聞名的鈮陽極 exotic 電池，而是更傳統的石墨陽極電池。</li>
-<li>SES AI 也在轉向：週一宣佈在明年第二季度前，把韓國工廠的無人機電池產能翻三倍至年產 300 萬顆。SES 曾花十多年爲電動車開發鋰金屬陽極電池，一個車企客戶都沒拿下；在韓國產的將是硅陽極無人機電池，鋰金屬電池只小規模生產。</li>
-<li>爲什麼"常規"贏了：無人機、人形機器人廠商並未完全拋棄下一代電池（這些交易都多少帶點非常規），但暫時沒有擁抱最激進的方案。一是成本——exotic 電池指標再亮眼，缺乏規模化生產、從未經歷成本打磨，就是貴；二是風險——像 Enovix 不鏽鋼籠電池這樣的產品尚未商業落地，真實部署表現無人知曉。</li>
-<li>華爾街依舊不看好：10 月 13 日宣佈訂單後股價兩天漲了 10%，隨後暴跌，週三又反彈；過去一年跌幅 68%，這筆訂單沒有改變市場的基本情緒。</li>
-<li>Rodgers 的"翻盤論"：他還透露，已向一家正在研發新機的智能手機廠商交付了 5 萬顆電芯；預計 2027 年收入約 1 億美元（主要來自智能手機客戶）。軍用無人機在他眼裏是完美的客戶——國防客戶願意爲性能付溢價，"一旦進入無人機且通過軍用認證，他們需要各種各樣的電池"。</li></ul>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">原文摘錄</div>
-<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;padding-left:14px;margin:0 0 12px;color:#3f3f46;">"無人機業務火得一塌糊塗。無人機業務完全出乎意料，絕對地、徹徹底底地出乎意料。"（"The drone business is going apeshit. The drone business is totally unexpected, absolutely, totally unexpected." —— T.J. Rodgers，Enovix 執行董事長）</blockquote>
-<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;padding-left:14px;margin:0 0 12px;color:#3f3f46;">"軍用生意對一家年輕公司來說是完美的：製造還不成熟、成本高、還沒起量攤薄固定開銷——所有標準問題都存在。"（"Military business is perfect for a young company that's immature in manufacturing and therefore has high costs, and hasn't ramped the volume and amortized overhead—all the standard stuff." —— T.J. Rodgers，Enovix 執行董事長）</blockquote>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">閱讀原文</div>
-<div style="font-size:15px;line-height:1.75;margin:0 0 12px;"><a href="https://www.theinformation.com" style="color:#e11d48;">theinformation.com</a>（本期郵件中的鏈接均爲追蹤跳轉鏈接，無該文章的直接原文鏈接）</div>
-<div style="font-size:13px;color:#888;margin:14px 0;">原文標題：<i>Enovix Went Conventional to Land Its Big Drone Deal</i></div>
-<div style="font-size:13px;color:#888;margin:14px 0 4px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
-</div>
-</body></html>
 ]]></content:encoded>
 </item>
 </channel>
