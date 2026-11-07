@@ -6,7 +6,46 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 07 Nov 2026 07:20:18 -0800</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 08:20:08 -0800</lastBuildDate>
+<item>
+<title>【周末版】民主黨會扼殺數據中心嗎？</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#民主黨會扼殺數據中心嗎？</guid>
+<pubDate>Sat, 07 Nov 2026 08:20:08 -0800</pubDate>
+<category>周末版</category>
+<description>AI 摘要 民主黨在週二選舉中大勝後，硅谷與華爾街對AI時代的焦慮急劇升溫，納斯達克週四一度大跌5.5%。市場擔憂選民對數據中心的不滿會轉化爲更嚴格的限制，銀行開始拋售相關貸款，Anthropic的IPO估值預期也承壓。作者判斷，競選時的反AI言論在執政後大概率會降溫，德州新任民主黨官員已向馬斯克釋放合作信號。科技公司也在尋找海外與太空等替代選址，以分散政策風險。 The Information Weekend 2026年11月7日（星…</description>
+<content:encoded><![CDATA[<html><head><meta charset="utf-8"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 18px;margin-bottom:24px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">民主黨在週二選舉中大勝後，硅谷與華爾街對AI時代的焦慮急劇升溫，納斯達克週四一度大跌5.5%。市場擔憂選民對數據中心的不滿會轉化爲更嚴格的限制，銀行開始拋售相關貸款，Anthropic的IPO估值預期也承壓。作者判斷，競選時的反AI言論在執政後大概率會降溫，德州新任民主黨官員已向馬斯克釋放合作信號。科技公司也在尋找海外與太空等替代選址，以分散政策風險。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;line-height:1.3;">The Information Weekend</div>
+<div style="font-size:13px;color:#71717a;margin-top:6px;">2026年11月7日（星期六）</div>
+<div style="font-size:24px;font-weight:bold;line-height:1.4;margin-top:14px;">民主黨會扼殺數據中心嗎？</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 12px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;padding-left:22px;margin:0;">
+<li style="margin-bottom:8px;">選舉衝擊：民主黨週二大勝被部分解讀爲選民對AI時代的一次公投，焦慮情緒在硅谷和華爾街蔓延；科技股週四重挫，納斯達克下跌5.5%，週五有所收復。</li>
+<li style="margin-bottom:8px;">信貸與IPO承壓：一家荷蘭銀行正急於拋售約5億美元的數據中心貸款，其中包括與OpenAI的Project Stargate相關的貸款；Anthropic的投資者則擔憂，公司在幾周後的IPO中難以拿到其尋求的1.5萬億美元估值。</li>
+<li style="margin-bottom:8px;">焦點在數據中心：公衆對AI的擔憂很大程度上集中在數據中心上，選民對這類設施觀感不佳，硅谷擔心民主黨會讓數據中心建設停擺。</li>
+<li style="margin-bottom:8px;">尋找替代選址：海外是一條出路——谷歌週三宣佈將投入150億美元擴大其在馬來西亞的數據中心和雲計算業務；另一條更激進的設想是太空數據中心，投資者Ron Baron週五在CNBC上稱其最快2028年就能形成可觀容量，但作者指出其經濟性仍高度存疑。</li>
+<li style="margin-bottom:8px;">作者的判斷：民主黨若強力打壓AI，可能進一步惡化選民本已不滿的經濟感受；左翼的反AI競選言論在真正上任後大概率會消退。作者以紐約市長Zohran Mamdani的公營雜貨店至今未見落地爲例，預計到明年AI公司將找到足夠的操作空間，把許多數據中心項目推過民主黨這一關。</li>
+<li style="margin-bottom:8px;">德州信號偏溫和：AI投資者Gavin Baker對德州新任州長Gina Hinojosa的數據中心規劃做了樂觀解讀，認爲她聽起來是講道理的；該州新當選的民主黨參議員James Talarico週三向馬斯克伸出橄欖枝，稱其爲偉大的商業領袖並表示願與其合作，馬斯克回應稱讚許很好。</li>
+<li style="margin-bottom:8px;">本期必讀還包括：英偉達如何運用軟實力影響客戶與政策、Airbnb創始人Chesky自掏腰包創辦新的AI公司、Anthropic向IPO投資者推介Claude的芯片設計能力，以及走私者如何將昂貴的存儲芯片從韓國運往中國。</li>
+</ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 12px;">原文摘錄</div>
+<blockquote style="margin:12px 0;padding:10px 16px;border-left:3px solid #d4d4d8;color:#3f3f46;font-size:15px;line-height:1.75;">前X產品負責人Nikita Bier對行業前景的焦慮表述：這將像是針對AI研究人員的紐倫堡審判。（This is going to be like the Nuremberg trials for AI researchers.）</blockquote>
+<blockquote style="margin:12px 0;padding:10px 16px;border-left:3px solid #d4d4d8;color:#3f3f46;font-size:15px;line-height:1.75;">德州新任參議員James Talarico這樣評價馬斯克：他是一位偉大的商業領袖、企業家和創新者，並表示願與其合作。（a great business leader and entrepreneur and innovator）</blockquote>
+
+<div style="margin-top:24px;font-size:15px;"><a href="https://www.theinformation.com" style="color:#e11d48;text-decoration:none;">閱讀原文</a></div>
+<div style="font-size:13px;color:#71717a;margin-top:16px;">原文標題：<i>Will Democrats Crush Data Centers?</i></div>
+<div style="font-size:13px;color:#71717a;margin-top:10px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【AI 基建】蓝色浪潮未必能挡住马斯克在得州的数据中心野心</title>
 <link>https://www.theinformation.com</link>
@@ -1766,37 +1805,6 @@
 <div style="font-size:13px;color:#71717a;margin-top:12px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
 
 </div></body></html>
-]]></content:encoded>
-</item>
-<item>
-<title>【简报】"防守者窗口"正在關閉：AI 網絡安全攻防賽提速，Meta 擬發 C 類股融資</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#"防守者窗口"正在關閉：AI 網絡安全攻</guid>
-<pubDate>Wed, 21 Oct 2026 20:23:19 -0400</pubDate>
-<category>简报</category>
-<description>AI 摘要 本期 The Briefing 聚焦 AI 時代的網絡安全攻防賽：OpenAI 提出的"防守者窗口"——安全人員藉助先進 AI 搶在攻擊者之前發現並修復漏洞的關鍵時間——正在迅速收窄，因爲中國開源模型（如 Z.ai 的 GLM-5.3）與美國前沿模型的差距已縮至約四個月，而開源模型不受美國實驗室的能力限制。好消息是 OpenAI 牽頭的聯盟自 8 月起修復 PHP 關鍵漏洞，而特朗普政府新設的"超智能部隊"首次介入協調，施壓…</description>
-<content:encoded><![CDATA[<!DOCTYPE html>
-<html lang="zh-CN"><head><meta charset="utf-8"/></head>
-<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
-<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
-<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin:0 0 20px;">
-<div style="font-size:16px;font-weight:bold;color:#b3122f;margin-bottom:8px;">AI 摘要</div>
-<div style="font-size:14px;line-height:1.7;color:#333;">本期 The Briefing 聚焦 AI 時代的網絡安全攻防賽：OpenAI 提出的"防守者窗口"——安全人員藉助先進 AI 搶在攻擊者之前發現並修復漏洞的關鍵時間——正在迅速收窄，因爲中國開源模型（如 Z.ai 的 GLM-5.3）與美國前沿模型的差距已縮至約四個月，而開源模型不受美國實驗室的能力限制。好消息是 OpenAI 牽頭的聯盟自 8 月起修復 PHP 關鍵漏洞，而特朗普政府新設的"超智能部隊"首次介入協調，施壓相關方部署補丁。同時 Meta 第三季度營收增長 26% 至 646 億美元，宣佈發行無投票權 C 類股爲 AI 投入融資而不稀釋扎克伯格的控制權；Muse 應用上線六週即獲千萬用戶，Tesla 則因汽車業務疲軟盤後下跌。</div>
-</div>
-<div style="font-size:26px;font-weight:bold;">The Briefing</div>
-<div style="font-size:13px;color:#888;margin:6px 0 0;">2026 年 10 月 21 日</div>
-<div style="font-size:24px;font-weight:bold;margin:14px 0 0;line-height:1.4;">"防守者窗口"正在關閉：AI 網絡安全攻防賽提速，Meta 擬發 C 類股融資</div>
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">關鍵要點</div>
-<ul style="font-size:15px;line-height:1.75;padding-left:22px;margin:0 0 12px;"><li style="margin-bottom:8px;"><b>PHP 關鍵漏洞與"防守者窗口"：</b>OpenAI 牽頭的聯盟自 8 月起修復 PHP（支撐互聯網的開源編程語言）的關鍵漏洞，補丁正在推進。OpenAI 所謂的"防守者窗口"，是指安全專家藉助先進 AI 模型、在攻擊者之前發現並修復漏洞的關鍵時間段。</li><li style="margin-bottom:8px;"><b>攻防差距收窄：</b>Anthropic 在 9 月底的博客中警告，中國實驗室 Z.ai 的 GLM-5.3 模型僅落後美國前沿模型約四個月；中國開源模型不受美國實驗室對模型能力的限制，長期"慢工出細活"的漏洞響應方式可能很快不再可行。</li><li style="margin-bottom:8px;"><b>新設"超智能部隊"介入：</b>特朗普政府新設 Super Intelligence Force，由國家情報總監 Jay Clayton 和國防部高級官員 Emil Michael 牽頭。OpenAI 發言人稱已向上周向包括 CISA 在內的多個機構及 Clayton、Michael 簡報了 PHP 漏洞，是雙方首次"重大接觸"；該機構提供跨政府協調，並向相關方施壓部署補丁。</li><li style="margin-bottom:8px;"><b>政策轉折點：</b>一位前白宮官員表示，7 月成立的 Gold Eagle 漏洞共享清算所可能已經過時；中國網絡能力開源模型的到來可能成爲"Mythos 2.0 時刻"。下一次重大互聯網漏洞，很可能不會再有長達兩個月的防守者窗口。</li><li style="margin-bottom:8px;"><b>Meta Q3 超預期：</b>第三季度營收增長 26% 至 646 億美元；Reality Labs 虧損收窄；自由現金流爲 -21.2 億美元（去年同期爲 +106.3 億美元），主因 AI 投入，但好於分析師預期；全年資本開支預計 1350–1450 億美元，符合此前指引。盤後股價漲 2%。</li><li style="margin-bottom:8px;"><b>Meta 設 C 類股 + Muse 增長：</b>Meta 宣佈設立無投票權 C 類普通股，用於爲 AI 鉅額投入融資：1 月 19 日生效，老股東每股 A/B 股獲派 1 股 C 股，未來用 C 類股融資不會稀釋扎克伯格的投票權。扎克伯格稱 Muse 智能體應用在美加上線六週即獲 1000 萬用戶，增速超過 Threads；對多數人免費，未來靠商家交易佣金和高級用戶付費盈利。</li><li style="margin-bottom:8px;"><b>Meta 法律成本高企：</b>Q3 營業利潤同比下降 37% 至不足 130 億美元，主因近 100 億美元的法律相關費用；8 月以 185.9 億美元與 52 位州總檢察長就兒童網絡安全案和解；新墨西哥州法官本週判令 Meta 在劍橋分析案中支付 250 億美元。</li><li style="margin-bottom:8px;"><b>Tesla 財報平淡：</b>馬斯克在財報電話會上對 SpaceX 合併話題表示"該說的都說了"；汽車營收同比降 3% 至 205.6 億美元，總營收持平 280 億美元。盤後股價跌 3%。</li><li style="margin-bottom:8px;"><b>其他消息：</b>EA 計劃裁員約 400 人（約 3% 員工）並關閉 BioWare 工作室；微軟提請股東批准因 Xbox 收入下滑給 CEO 納德拉降薪 6%，並提名 Stripe 聯創 John Collison 進入董事會；Google 將不再要求地方政府官員在數據中心規劃中籤署保密協議。記者獨家：黑客利用 Claude 和 Grok 自動化攻擊銀行。</li></ul>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">原文摘錄</div>
-<blockquote style="border-left:3px solid #ccc;padding-left:12px;color:#444;margin:0 0 12px;font-size:15px;line-height:1.7;">"下一次重大互聯網漏洞，很可能不會再有長達兩個月的防守者窗口。"<br/><span style="color:#888;font-size:13px;">"The next major internet bug likely won't have the luxury of a two-month-long defender's window."</span></blockquote><blockquote style="border-left:3px solid #ccc;padding-left:12px;color:#444;margin:0 0 12px;font-size:15px;line-height:1.7;">"設立 C 類普通股將延續自公司成立以來推動其成功的創始人領導模式，"Meta 表示。<br/><span style="color:#888;font-size:13px;">"The creation of the Class C common stock will continue the founder-led model that has driven the company's success since its inception," Meta said.</span></blockquote>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">閱讀原文</div>
-<p><a href="https://www.theinformation.com" style="color:#e11d48;font-size:16px;font-weight:bold;text-decoration:none;">閱讀原文 &rarr;</a></p>
-<p style="font-size:13px;color:#888;">原文標題：<em>The Briefing: The 'Defender's Window' Could Be Closing</em></p>
-<p style="font-size:13px;color:#999;margin-top:24px;border-top:1px solid #e5e5e5;padding-top:12px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</p>
-</div>
-</body></html>
 ]]></content:encoded>
 </item>
 </channel>
