@@ -6,7 +6,51 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 06 Nov 2026 04:19:06 -0800</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 07:20:18 -0800</lastBuildDate>
+<item>
+<title>【AI 基建】蓝色浪潮未必能挡住马斯克在得州的数据中心野心</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#蓝色浪潮未必能挡住马斯克在得州的数据中心</guid>
+<pubDate>Sat, 07 Nov 2026 07:20:18 -0800</pubDate>
+<category>AI 基建</category>
+<description>AI 摘要 民主党人吉娜·伊诺霍萨意外当选得州州长，让马斯克在得州快速扩张 AI 数据中心的计划陡增变数，但大概率只会拖慢而非彻底叫停。公开记录、招聘信息和现场钢结构显示，SpaceX 已在星舰基地 Starbase 悄然开建多吉瓦级的“Starbase 超级计算机”，并在附近港口锁定浮动电站、在奥斯汀附近的 Bastrop 预留 700 至 800 兆瓦电网电力。真正的瓶颈是空气排放许可——现任州长阿博特已暂停并网与许可审批，审计至少…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html><head><meta charset="utf-8"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:20px;">
+<div style="font-size:16px;font-weight:bold;color:#e11d48;margin-bottom:6px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">民主党人吉娜·伊诺霍萨意外当选得州州长，让马斯克在得州快速扩张 AI 数据中心的计划陡增变数，但大概率只会拖慢而非彻底叫停。公开记录、招聘信息和现场钢结构显示，SpaceX 已在星舰基地 Starbase 悄然开建多吉瓦级的“Starbase 超级计算机”，并在附近港口锁定浮动电站、在奥斯汀附近的 Bastrop 预留 700 至 800 兆瓦电网电力。真正的瓶颈是空气排放许可——现任州长阿博特已暂停并网与许可审批，审计至少拖到 12 月。许可拖延既会让 SpaceX 错失高溢价的即时算力收入，又要为已向 Apollo 租下的芯片买单。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;line-height:1.3;">The Information AI Infrastructure</div>
+<div style="font-size:13px;color:#71717a;margin:6px 0 10px 0;">2026 年 11 月 7 日（星期六）</div>
+<div style="font-size:24px;font-weight:bold;line-height:1.4;">蓝色浪潮未必能挡住马斯克在得州的数据中心野心</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px 0;">关键要点</div>
+<ul style="font-size:15px;line-height:1.75;padding-left:22px;margin:8px 0;">
+<li style="margin-bottom:8px;">先行优势与得州布局：马斯克已在田纳西和密西西比抢先建成 AI 数据中心并获益，如今追随进度更快的 OpenAI 等公司，把重心转向得州，SpaceX 的多个项目正在同步推进。</li>
+<li style="margin-bottom:8px;">Starbase 超级计算机：公共记录、招聘启事以及旁边停着燃气轮机的快速竖起的钢结构表明，SpaceX 已在美墨边境 Rio Grande Valley 的 Starbase 扩建区开建多吉瓦级设施，招聘启事直接用了“Starbase supercomputer”一词。</li>
+<li style="margin-bottom:8px;">浮动电力：据熟悉融资讨论的人士透露，SpaceX 已支付此前未报道的预付款，向土耳其模块化电力与造船商 Karpowership 锁定 Brownsville 港附近最高约 1 吉瓦的浮动发电能力。</li>
+<li style="margin-bottom:8px;">Bastrop 第二落点：据公用事业委员会的变电站批文和土地契据，SpaceX 正准备在其 Bastrop 卫星制造基地使用 700 至 800 兆瓦并网电力，可能支撑另一座大型 AI 数据中心，当地还在招聘数据中心技术员。</li>
+<li style="margin-bottom:8px;">更多潜在选址：Grimes County 听证会披露 SpaceX 计划在距休斯顿约 80 英里的 Terafab 芯片工厂内建数据中心；其今年收购的涡轮经销商 APR Energy 此前还曾寻求在 Texas Panhandle 的 Pampa 建数据中心并已部署移动涡轮。</li>
+<li style="margin-bottom:8px;">10 吉瓦目标与政治押注落空：马斯克 10 月 20 日告诉股东，可在 2027 年建成并通电 10 吉瓦地面数据中心；他向在中期选举中落败的得州共和党人捐款估计达 2.24 亿美元，原本假设得州是友好地盘。</li>
+<li style="margin-bottom:8px;">新州长的 brakes：伊诺霍萨将于 2027 年 1 月 19 日上任，竞选时誓言在立法者考虑新保障措施期间阻止新的数据中心审批，并明确以马斯克等亿万富翁“买下得州人的土地、能源和资源”为竞选议题；她本人成长于 Rio Grande Valley。</li>
+<li style="margin-bottom:8px;">许可才是卡点：自备化石燃料发电的数据中心需污染许可。阿博特在选举前已暂停全州数据中心的并网与空气许可，州审计至少到 12 月才结束、可能更久；SpaceX 9 月提交的 Starbase 现场发电空气许可申请正被卡住。分析称一块 444 英亩的 Starbase 地块可支撑 1.5 至 2.6 吉瓦现场燃气发电。</li>
+<li style="margin-bottom:8px;">拖延的双重成本：一是收入——田纳西和密西西比的即时可用算力曾以溢价租出，晚交付的容量拿不到这种溢价；二是芯片——SpaceX 已同意向 Apollo Global Management 租赁芯片，部分 2027 年上半年就到货，即使没有通电的数据中心也要付费。</li>
+<li style="margin-bottom:8px;">算力已成最大业务：向 Anthropic 等客户出售 AI 算力的 SI（超级智能）业务第三季度销售额环比近乎翻三倍至 75.6 亿美元，已成 SpaceX 最大业务；任何严重扰动都可能让 SpaceX 与特斯拉的合并更难推进，两家公司董事会委员会正在考虑该交易。</li>
+<li style="margin-bottom:8px;">为何未必挡得住：Starbase 自控分区规划、可发低成本市政债，8 月至 10 月已抢先吞并土地、谈妥供水并铺设港口水下燃气管道；Brownsville 等附近城镇刚出台临时禁令，但 Starbase 已赶在听证前让 Brownsville “去吞并”一块土地再自行吞并。伊诺霍萨本周对 CNN 语气趋温和，称可与马斯克建立强有力合作关系、但必须按得州的条件来；得州环境质量委员会委员均为阿博特近期任命、任期还有数年，州长对空气许可的法律权限本身有限。</li>
+<li style="margin-bottom:8px;">对冲到亚利桑那：中期选举次日，SpaceX 能源与数据中心负责人在亚利桑那 Cochise County 市政厅提出，要在一块 747 英亩土地上建最高 6 吉瓦数据中心、电池储能和备用燃气发电。业内人士普遍判断，民主党胜选只会放缓而非叫停全国 AI 建设，问题只是建在哪里、何时建、附带什么条件。</li>
+</ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px 0;">原文摘录</div>
+<blockquote style="margin:12px 0;padding:10px 14px;border-left:3px solid #d4d4d8;color:#3f3f46;font-size:15px;line-height:1.75;">空气许可才是真正的瓶颈。<br><span style="color:#71717a;font-size:13px;">(Air permitting is the chokepoint)</span></blockquote>
+<blockquote style="margin:12px 0;padding:10px 14px;border-left:3px solid #d4d4d8;color:#3f3f46;font-size:15px;line-height:1.75;">我不是讨厌数据中心，我讨厌的是它们占得州便宜的方式。<br><span style="color:#71717a;font-size:13px;">(It is not that I hate data centers. I hate the way they are taking advantage of Texas.)</span></blockquote>
+<div style="font-size:15px;line-height:1.75;margin:18px 0;"><a href="https://www.theinformation.com" style="color:#e11d48;">阅读原文</a></div>
+<div style="font-size:13px;color:#71717a;">原文标题：<i>The Blue Wave May Not Stop Musk’s Texas Data Center Ambitions</i></div>
+<div style="font-size:13px;color:#71717a;margin-top:16px;">本期为摘要版：基于邮件内容的中文摘要与要点提炼，非全文翻译。</div>
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【AM】Anthropic爲Claude推出個人理財功能</title>
 <link>https://www.theinformation.com</link>
@@ -1753,39 +1797,6 @@
 <p style="font-size:13px;color:#999;margin-top:24px;border-top:1px solid #e5e5e5;padding-top:12px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</p>
 </div>
 </body></html>
-]]></content:encoded>
-</item>
-<item>
-<title>【财经】私募股權還能在網絡安全領域獲勝嗎？</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#私募股權還能在網絡安全領域獲勝嗎？</guid>
-<pubDate>Wed, 21 Oct 2026 15:50:42 -0400</pubDate>
-<category>财经</category>
-<description>AI 摘要 在整體軟件併購陷入低迷之際，網絡安全成了唯一的亮點賽道——背後的賭注是 AI 普及會持續拉動安全需求。但私募股權很難進場：企業買家瘋狂搶籌推高估值，加上利率高企，負債型收購幾乎出不到留得住回報的價格。Thoma Bravo 用旗下 Proofpoint 以 63 億美元收購股價腰斬的 Varonis 撕開了缺口——約 6 倍遠期 ARR，比 Qualys 等同行明顯便宜；該公司未來 12 個月還打算再來一單同等量級的交易，選…</description>
-<content:encoded><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"></head><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;"><div style="max-width:720px;margin:0 auto;padding:8px 16px;"><div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin:0 0 24px;">
-<div style="font-size:16px;font-weight:bold;color:#be123c;margin:0 0 8px;">AI 摘要</div>
-<div style="font-size:14px;line-height:1.7;color:#333;">在整體軟件併購陷入低迷之際，網絡安全成了唯一的亮點賽道——背後的賭注是 AI 普及會持續拉動安全需求。但私募股權很難進場：企業買家瘋狂搶籌推高估值，加上利率高企，負債型收購幾乎出不到留得住回報的價格。Thoma Bravo 用旗下 Proofpoint 以 63 億美元收購股價腰斬的 Varonis 撕開了缺口——約 6 倍遠期 ARR，比 Qualys 等同行明顯便宜；該公司未來 12 個月還打算再來一單同等量級的交易，選股新標準是「必須有智能體收入，而不只是智能體願景」。同版簡報還提到 Anthropic 的 IPO 文件可能本週公開，但市場人士認爲它不會爲 IPO 潮開閘，只會等水先動起來再拓寬河面。</div></div>
-<div style="font-size:26px;font-weight:bold;margin:0 0 6px;">The Information Finance</div>
-<div style="font-size:13px;color:#888;margin:0 0 4px;">2026 年 10 月 21 日 · 作者：Alex Eichenstein</div>
-<div style="font-size:24px;font-weight:bold;margin:18px 0 0;">私募股權還能在網絡安全領域獲勝嗎？</div>
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">關鍵要點</div>
-<ul style="font-size:15px;line-height:1.75;margin:0;padding-left:22px;">
-<li style="margin:0 0 8px;">網絡安全是軟件併購裏唯一的亮點賽道，動力是 AI 普及會拉動安全需求；但私募股權很難入場——企業買家搶購推高估值、利率高企壓低負債收購的出價空間。</li>
-<li style="margin:0 0 8px;">Thoma Bravo 旗下 Proofpoint 以 63 億美元收購數據安全公司 Varonis（約 6 倍遠期 ARR，低於 Qualys 的 8 倍），交易預計 2027 年上半年完成；這是 PE 在火熱賽道找到的實際開口。</li>
-<li style="margin:0 0 8px;">Thoma Bravo 計劃未來 12 個月再做至少一單 Varonis 量級的網絡安全收購，標準是「必須有智能體收入，而不只是智能體願景」，並要有能捕捉智能體爆發的定價模型。</li>
-<li style="margin:0 0 8px;">Varonis 股價自去年 10 月跌近 50%：客戶從許可證向雲訂閱遷移拖累收入增速、2026 年底前淘汰老產品——低價提供了 PE 的入場時機。</li>
-<li style="margin:0 0 8px;">Proofpoint 自 2021 年以 123 億美元被 Thoma Bravo 收購，年 EBITDA 超 10 億美元（不含 Varonis）；持有 5 年已進入 PE 典型的退出壓力期。Varonis 讓它從郵件安全擴展到數據安全與 AI 智能體訪問控制，也可能成爲更受青睞的 IPO 標的。</li>
-<li style="margin:0 0 8px;">行業熱度：三季度歐美網絡安全併購達創紀錄的 170 筆；Alphabet 320 億美元收購 Wiz、Palo Alto Networks 約 250 億美元收購 CyberArk（均爲 2025 年宣佈）；埃森哲收購工業安全公司 Dragos 多數股權及兩家小公司，企業價值合計超 40 億美元。</li>
-<li style="margin:0 0 8px;">IPO 窗口搖擺：Anthropic 6 月祕密遞交、曾籌備 9 月底上市，最新傳聞本週內公開文件；但數據中心與芯片融資成本、美債波動壓制市場，Edward Best 認爲 Anthropic 不會打開閘門，只會等「水開始流動」再拓寬河面。</li>
-</ul>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">原文摘錄</div>
-<blockquote style="margin:0 0 14px;padding:8px 14px;border-left:3px solid #ccc;color:#555;font-size:14px;line-height:1.7;">“必須有智能體收入，而不只是智能體願景，智能體收入是必需的。”（Having agentic revenue, not just an agentic vision, but agentic revenue, is a must. —— Thoma Bravo 合夥人 Andrew Almeida）</blockquote>
-<blockquote style="margin:0 0 14px;padding:8px 14px;border-left:3px solid #ccc;color:#555;font-size:14px;line-height:1.7;">“人們逐漸意識到，威脅向量實際上增長到了近乎無限。”（People ended up realizing that the…threat vector effectively multiplied to infinity. —— Brown Gibbons Lang & Co 管理總監 Brian Thom）</blockquote>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">閱讀原文</div>
-<div style="font-size:15px;line-height:1.75;margin:0 0 12px;"><a href="https://www.theinformation.com" style="color:#e11d48;">theinformation.com</a>（本期郵件中的鏈接均爲追蹤跳轉鏈接，無該文章的直接原文鏈接）</div>
-<div style="font-size:13px;color:#888;margin:14px 0;">原文標題：<i>Can Private Equity Still Win in Cybersecurity?</i></div>
-<div style="font-size:13px;color:#888;margin:14px 0 4px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div></div></body></html>
 ]]></content:encoded>
 </item>
 </channel>
