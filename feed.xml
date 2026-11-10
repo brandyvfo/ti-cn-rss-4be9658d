@@ -6,7 +6,40 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 10 Nov 2026 10:21:31 -0500</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:19:07 -0600</lastBuildDate>
+<item>
+<title>【Applied AI】Booz Allen 改用英偉達 Nemotron：政府承包商以開源模型降本</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#Booz Allen 改用英偉達 Nem</guid>
+<pubDate>Tue, 10 Nov 2026 15:19:07 -0600</pubDate>
+<category>Applied AI</category>
+<description>AI 摘要 在英偉達因首席執行官相關報道承受聲譽壓力之際，其開源模型業務出現早期突破：市值約100億美元的政府承包商 Booz Allen Hamilton 數月前已將網絡安全與國防軟件的運行模型從 Anthropic 爲主切換至英偉達 Nemotron，首席技術官稱此舉顯著節省了成本。Nemotron 借與 Palantir 的合作加速進入政府與承包商市場，Kilo Code 平臺上其 token 份額10月已升至近17%。不過從 O…</description>
+<content:encoded><![CDATA[<html><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:16px 20px;margin-bottom:24px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">在英偉達因首席執行官相關報道承受聲譽壓力之際，其開源模型業務出現早期突破：市值約100億美元的政府承包商 Booz Allen Hamilton 數月前已將網絡安全與國防軟件的運行模型從 Anthropic 爲主切換至英偉達 Nemotron，首席技術官稱此舉顯著節省了成本。Nemotron 借與 Palantir 的合作加速進入政府與承包商市場，Kilo Code 平臺上其 token 份額10月已升至近17%。不過從 OpenRouter 的全市場數據看，Nemotron 的 token 與支出份額仍遠低於 Anthropic 等前沿廠商。文章另一條線索是，企業工程師的 token 預算正成爲招聘談判中的新籌碼，若價格居高不下，token 有可能演變爲正式員工福利。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;">Applied AI</div>
+<div style="font-size:13px;color:#71717a;margin:6px 0 12px;">2026 年 11 月 10 日（星期二）</div>
+<div style="font-size:24px;font-weight:bold;line-height:1.4;">Booz Allen 改用英偉達 Nemotron：政府承包商以開源模型降本</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 12px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;padding-left:20px;"><li style="margin-bottom:8px;">Booz Allen Hamilton 數月前將其網絡安全與國防軟件的運行模型，從以 Anthropic 模型爲主切換至英偉達 Nemotron 模型，首席技術官 Bill Vass 表示已帶來顯著成本節省；公司未披露具體金額，知情人士稱其每年 AI 支出達數千萬美元。</li>
+<li style="margin-bottom:8px;">Vass 稱公司的做法與追求儘可能多用 AI 的 tokenmaxxing 正好相反。在軟件開發環節，Booz Allen 開發者仍主要使用 Anthropic 的 Claude Code，除非客戶要求其他工具；Vass 表示有意在 Nemotron 編程能力提升後讓開發者更多使用它。</li>
+<li style="margin-bottom:8px;">Nemotron 正借與 Palantir 的合作打入承包商與政府機構：Palantir 6 月底推出幫助美國政府機構與企業通過其軟件使用英偉達開源模型的產品，首席執行官 Alex Karp 今年夏天稱已有政府客戶從閉源前沿模型切換至 Nemotron；英偉達近期也簽約在內部使用 Palantir 軟件管理供應鏈。</li>
+<li style="margin-bottom:8px;">開源編程平臺 Kilo Code 稱，10 月英偉達 Nemotron 模型佔其處理的約 50 萬億 token 的近 17%，高於 9 月的 8%。</li>
+<li style="margin-bottom:8px;">但整體份額仍被前沿模型壓制：過去一個月 Nemotron 僅佔 OpenRouter 處理 token 的約 4%，低於 8 月某一週 7% 的峯值；11 月至今 Anthropic 佔 OpenRouter 客戶支出的 31% 居首，英偉達佔比不足 1%。</li>
+<li style="margin-bottom:8px;">企業在是否給工程師設定 token 上限上出現分化。人力資源軟件初創公司 Syndio 首席執行官 Maria Colacurcio 稱，其大企業客戶的招聘負責人開始收到新候選人要求更高 token 預算的請求，涉及更高或無限額度及最新 OpenAI 與 Anthropic 模型訪問；目前多爲口頭附加約定，尚未寫成正式政策。</li></ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 12px;">原文摘錄</div>
+<blockquote style="margin:12px 0;padding:8px 16px;border-left:3px solid #d4d4d8;color:#3f3f46;">我們所做的與 tokenmaxxing 正好相反。（What we've been doing is the opposite of tokenmaxxing）</blockquote>
+<blockquote style="margin:12px 0;padding:8px 16px;border-left:3px solid #d4d4d8;color:#3f3f46;">目前這些還不是正式福利。沒人把它寫下來，它還不是政策的一部分。（Nobody's writing it down. It's not really part of policy）</blockquote>
+<div style="margin:20px 0;"><a href="https://www.theinformation.com" style="color:#e11d48;font-size:15px;">閱讀原文</a></div>
+<div style="font-size:13px;color:#71717a;">原文標題：<i>Booz Allen Switches to Nvidia’s Nemotron</i></div>
+<div style="font-size:13px;color:#71717a;margin-top:16px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+</div></body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【AI Agenda】獨家：Mosaic融資4700萬美元做半自主手術導管，Anthropic啓動IPO路演</title>
 <link>https://www.theinformation.com</link>
@@ -1814,47 +1847,6 @@
 <div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">閱讀原文</div>
 <div style="font-size:15px;line-height:1.75;margin:0 0 12px;"><a href="https://www.theinformation.com" style="color:#e11d48;">theinformation.com</a>（本期郵件中的鏈接均爲追蹤跳轉鏈接，無該文章的直接原文鏈接）</div>
 <div style="font-size:13px;color:#888;margin:14px 0;">原文標題：<i>The Briefing: Anthropic’s Moment Arrives</i></div>
-<div style="font-size:13px;color:#888;margin:14px 0 4px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
-</div>
-</body></html>
-]]></content:encoded>
-</item>
-<item>
-<title>【电动】獨家：Unusual Machines 如何拿下大型無人機電池收購</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#獨家：Unusual Machines </guid>
-<pubDate>Sun, 25 Oct 2026 14:19:10 -0700</pubDate>
-<category>电动</category>
-<description>AI 摘要 一個從給牧場主做無人機起步、後來被 GPS 耳標"搶了生意"的創業者，轉而專做無人機電池包，最終把公司以 5200 萬美元賣給了美國軍用無人機零部件供應商 Unusual Machines。這筆交易的關鍵不在於發明了新電池，而在於把現成的好電芯組裝成最適合無人機的電池包——而電池正是無人機上最貴的單個部件。在五角大樓力推本土供應鏈、限制中國零部件的背景下，這次收購讓 Unusual Machines 在爭奪 11 億美元"無…</description>
-<content:encoded><![CDATA[<!DOCTYPE html>
-<html><head><meta charset="utf-8"></head>
-<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
-<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
-<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:20px;">
-<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
-<div style="font-size:14px;line-height:1.7;">一個從給牧場主做無人機起步、後來被 GPS 耳標"搶了生意"的創業者，轉而專做無人機電池包，最終把公司以 5200 萬美元賣給了美國軍用無人機零部件供應商 Unusual Machines。這筆交易的關鍵不在於發明了新電池，而在於把現成的好電芯組裝成最適合無人機的電池包——而電池正是無人機上最貴的單個部件。在五角大樓力推本土供應鏈、限制中國零部件的背景下，這次收購讓 Unusual Machines 在爭奪 11 億美元"無人機主導"計劃合同的競爭中又添了一塊重要拼圖。</div>
-</div>
-<div style="font-size:26px;font-weight:bold;">The Information Electric</div>
-<div style="font-size:13px;color:#888;margin:6px 0 4px;">2026 年 10 月 25 日（星期日） · 作者：Steve LeVine</div>
-<div style="font-size:24px;font-weight:bold;margin:10px 0;">獨家：Unusual Machines 如何拿下大型無人機電池收購</div>
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">關鍵要點</div>
-<ul style="font-size:15px;line-height:1.75;margin:0;padding-left:20px;"><li>交易本身：上週，創始人 Matt Barnard 把加州無人機電池製造商 Upgrade Energy 以 5200 萬美元現金加股票賣給了佛羅里達的 Unusual Machines。Barnard 說，他完全是白手起家，沒有融過風險投資、也沒有借過債。</li>
-<li>從牧場到電池的轉身：2020 年，Barnard 在密蘇里老家手工做了一架無人機，本想賣給俄克拉荷馬的牧場主用來追蹤放牧的牛羣，結果牧場主改用夾在牛耳朵上的 GPS 定位器，訂單沒了。他轉而創業，專門設計無人機電池包。</li>
-<li>不發明、只組裝的打法：Barnard 的核心洞察是避開其他電池初創公司"發明並量產全新化學體系"的高風險，轉而用市面上最好的現成電芯——如臺灣 Molicel 和加州 Amprius 的硅負極新一代電芯——研究怎麼爲無人機做最優封裝，再推給無人機製造商。</li>
-<li>工廠現狀：Upgrade 位於加州 Torrance 的工廠約有 50 名工人，把下一代圓柱電芯裝進可單手握持的黑色長方形電池包，每天出貨約 400 包。客戶包括 Perennial Autonomy、Neros、Anduril 和 AeroVironment。</li>
-<li>爲什麼買家看重它：Unusual Machines 正把自己打造成美國軍用無人機零部件的首選供應商。在五角大樓 11 億美元的"無人機主導"（Drone Dominance）計劃最新一輪中，它向入圍的 9 家公司中的 4 家供貨，包括優勝者 Perennial Autonomy（由前谷歌董事長 Eric Schmidt 創立）和 Neros；Upgrade 也是這兩家的供應商，而電池是無人機上最貴的單個部件。</li>
-<li>去中國化的背景：中國廠商（如大疆）製造了全球大部分無人機及其零部件，但五角大樓爲扶持本土無人機產業、擺脫對中國供應商的依賴，已嚴格限制"無人機主導"計劃參與者使用中國製造的零部件。</li>
-<li>市場反應：自 5 月宣佈這筆交易以來，Unusual Machines 股價上漲 21%，過去一年上漲 32%。首席執行官 Allan Evans 說，公司已經過了"賭一把"的階段，現在進入規模化擴張。</li>
-<li>談判花了不少飯局：Evans 說，去年年底他找上 Barnard 時，對方起初並不想賣，是幾頓晚飯後才談成——Evans 承諾了大量業務和擴張前景，包括憑藉採購量成爲"把電芯生產搬到美國"的錨定客戶。Barnard 則說，單打獨鬥沒法跟手握上千萬美元融資的對手競爭，依附資金支持是保持競爭力的辦法。</li>
-<li>業務軌跡：2023 年，Upgrade 拿到爲佐治亞州 Papa Johns 送餐無人機供電的訂單，同年簽下第一個重要合同——供應 Neros；Barnard 隨後把公司從密蘇里搬到南加州。去年，軍用無人機電池訂單開始湧入。</li>
-<li>本期其他值得注意的消息：通用汽車領投鈉離子電池系統公司 Peak Energy 的 1.08 億美元 B 輪融資，該公司累計股權融資已達 1.73 億美元，鈉離子電池將用於電網部署；高鎳電池製造商 Forge Nano 通過與特殊目的收購公司合併上市，計劃在北卡羅來納州 Morrisville 建廠、2028 年投產；中國收緊了對可用於作戰的大型無人機零部件出口禁令，新限制將於 11 月 18 日生效。</li></ul>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">原文摘錄</div>
-<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;padding-left:14px;margin:0 0 12px;color:#3f3f46;">"我們之所以存在，是因爲我們押了這一注、有人爲這一注投了資。我們已經過了'賭一把'的階段——賭成了，現在我們正在規模化。"（"We exist because we took this gamble and people invested in this gamble. We're a little past it being a gamble—it’s worked out and now we’re scaling." —— Allan Evans，Unusual Machines 首席執行官）</blockquote>
-<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;padding-left:14px;margin:0 0 12px;color:#3f3f46;">"我意識到，要保持競爭力，我需要依附於其中一部分資金。我很高興我這麼做了。"（"I recognized that to stay competitive, I needed to attach myself to some of that funding. I’m glad I did." —— Matt Barnard，Upgrade Energy 創始人）</blockquote>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">閱讀原文</div>
-<div style="font-size:15px;line-height:1.75;margin:0 0 12px;"><a href="https://www.theinformation.com" style="color:#e11d48;">theinformation.com</a>（本期郵件中的鏈接均爲追蹤跳轉鏈接，無該文章的直接原文鏈接）</div>
-<div style="font-size:13px;color:#888;margin:14px 0;">原文標題：<i>Exclusive: How Unusual Machines Closed Its Big Drone Battery Acquisition</i></div>
 <div style="font-size:13px;color:#888;margin:14px 0 4px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
 </div>
 </body></html>
