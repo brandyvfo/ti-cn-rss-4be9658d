@@ -6,7 +6,45 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 09 Nov 2026 17:19:57 -0800</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 04:19:05 -0800</lastBuildDate>
+<item>
+<title>【AM】特朗普稱FBI調查黃仁勳與中國籍人士關係：英偉達股價跌4%、Anthropic IPO文件烏龍與谷歌新TPU</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#特朗普稱FBI調查黃仁勳與中國籍人士關係</guid>
+<pubDate>Tue, 10 Nov 2026 04:19:05 -0800</pubDate>
+<category>AM</category>
+<description>AI 摘要 本期頭條是特朗普稱FBI正在調查英偉達CEO黃仁勳與被指爲中國情報提供信息的商人Alice Huang的關係，英偉達董事會已啓動獨立調查，公司稱業務不會放緩，但股價週一收跌4.3%，博通與AMD則大漲。Anthropic上市前夕出現文件烏龍，其外部律師向銀行誤發又撤回一份IPO招股文件；同時公司發佈Claude Fable 5.2與Mythos 5.2新模型。谷歌則推出TPU 8tx與8i Max兩款更強、更安全的AI芯片，…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html><head><meta charset="utf-8"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:20px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">本期頭條是特朗普稱FBI正在調查英偉達CEO黃仁勳與被指爲中國情報提供信息的商人Alice Huang的關係，英偉達董事會已啓動獨立調查，公司稱業務不會放緩，但股價週一收跌4.3%，博通與AMD則大漲。Anthropic上市前夕出現文件烏龍，其外部律師向銀行誤發又撤回一份IPO招股文件；同時公司發佈Claude Fable 5.2與Mythos 5.2新模型。谷歌則推出TPU 8tx與8i Max兩款更強、更安全的AI芯片，繼續挑戰英偉達的市場地位。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;">The Information AM</div>
+<div style="font-size:13px;color:#888;margin:6px 0 4px;">2026 年 11 月 10 日（星期二）</div>
+<div style="font-size:24px;font-weight:bold;margin:10px 0;">特朗普稱FBI調查黃仁勳與中國籍人士關係：英偉達股價跌4%、Anthropic IPO文件烏龍與谷歌新TPU</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;margin:0;padding-left:20px;">
+<li>特朗普稱FBI調查黃仁勳：特朗普週一在即興記者會上稱，FBI正在調查黃仁勳與中國商人Alice Huang的戀情關係，其他美國官員懷疑Alice Huang向中國情報部門提供信息。特朗普稱當天與黃仁勳通話，並稱贊他是“非常正直的人”。此前英偉達董事會稱已就《紐約時報》等關於黃仁勳成爲“外國情報行動目標”的廣泛報道啓動獨立調查；英偉達發言人稱週日的消息“不會讓英偉達放緩，黃仁勳致力於繼續毫無中斷地領導英偉達”。Alice Huang與黃仁勳無親屬關係。</li>
+<li>Anthropic IPO文件烏龍：Anthropic在加拿大的外部律師週一晚間向銀行發送更新版IPO招股文件後又撤回，稱部分細節有誤。據知情人士，首版文件（此前由路透報道）顯示Anthropic計劃以每股70至80美元發行約8.67億股、募資最高700億美元；律師稱將更新。投資者預期其募資超800億美元、估值達1.5萬億美元；公司預計週二啓動路演、最快下週四開始交易。</li>
+<li>谷歌發佈新TPU：谷歌宣佈新一代AI芯片TPU 8tx與TPU 8i Max，稱更安全、能處理更重負載，進一步威脅英偉達在AI芯片市場的地位。8tx面向加密敏感數據與受監管行業；8i Max面向大型智能體負載，算力與內存帶寬爲前代兩倍。谷歌十多年前爲內部使用開發TPU，今年開始對外銷售，10月宣佈與甲骨文合作，OpenAI也計劃採購；谷歌雲CEO稱TPU銷售已是“有意義的貢獻者”，擁有近100家客戶。</li>
+<li>Anthropic發佈新前沿模型：Anthropic週一發佈Claude Fable 5.2與Claude Mythos 5.2，兩款模型底層技術相同，Fable在網絡安全與生物濫用方面防護更強。Fable面向所有用戶，Mythos需通過其生命科學與網絡驗證項目申請。公司稱新模型輸出速度比前代快最高30%、成本低約20%，定價爲每百萬輸入token 8美元、輸出40美元；工程師已用其完成此前難以實現的軟件遷移並解決兩個黑洞物理開放問題。</li>
+<li>英偉達股價下跌、對手上漲：英偉達週一收跌4.3%，反映投資者對公司調查黃仁勳被指成爲外國情報目標的擔憂；博通漲8.8%、AMD漲13%。英偉達在週日聲明中稱董事會“沒有理由相信國家安全或英偉達機密已遭泄露”，但將審查所有可用信息。該調查爲黃仁勳在英偉達的未來蒙上陰影，也可能波及依賴英偉達芯片的新雲廠商如CoreWeave。</li>
+</ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">原文摘錄</div>
+<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;padding-left:14px;margin:0 0 12px;color:#3f3f46;">“特朗普稱他當天與黃仁勳通話，並稱贊他是‘非常正直的人’。”（“Trump said he spoke to Huang earlier in the day and praised him as a ‘very honorable man.’”）</blockquote>
+<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;padding-left:14px;margin:0 0 12px;color:#3f3f46;">“週日的消息不會讓英偉達放緩。黃仁勳致力於繼續毫無中斷地領導英偉達擔任CEO。”（“Sunday’s news ‘will not slow Nvidia. Jensen is committed to continuing to lead Nvidia as CEO without interruption.’”）</blockquote>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">閱讀原文</div>
+<div style="font-size:15px;line-height:1.75;margin:0 0 12px;"><a href="https://www.theinformation.com" style="color:#e11d48;">theinformation.com</a>（本期郵件中的鏈接均爲追蹤跳轉鏈接，無該文章的直接原文鏈接）</div>
+<div style="font-size:13px;color:#888;margin:14px 0;">原文標題：<i>President Trump Says FBI is Probing Nvidia CEO’s Relationship with Chinese National</i></div>
+<div style="font-size:13px;color:#888;margin:14px 0 4px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【简报】英偉達CEO黃仁勳爲何可能不得不離任</title>
 <link>https://www.theinformation.com</link>
@@ -1832,16 +1870,6 @@
 <div style="font-size:13px;color:#888888;">原文標題：<i>Data Center Late Fees Hit $5 Million or More Per Day, Spawning New Insurance</i></div>
 <div style="font-size:13px;color:#888888;margin-top:16px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
 </div></body></html>
-]]></content:encoded>
-</item>
-<item>
-<title>【资讯】CoreWeave 究竟有多危險？</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#CoreWeave 究竟有多危險？</guid>
-<pubDate>Sat, 24 Oct 2026 08:20:20 -0700</pubDate>
-<category>资讯</category>
-<description>AI 摘要 AI 算力新貴 CoreWeave 在短短 12 天裏股價幾近腰斬，導火索不是需求消失，而是債務：投資者擔心利率上行會抬高它借新債的成本，也懷疑它能否扛住已有債務的利息負擔。就連英偉達 CEO 黃仁勳出面爲新雲廠商的需求背書，也沒能止住跌勢。更讓市場不安的是，SpaceX、Meta 這些巨頭正自己下場賣算力、建數據中心，CoreWeave 曾經的客戶與護城河都在生變——華爾街的擔憂一旦蔓延，便很難獨善其身。 The Info…</description>
-<content:encoded><![CDATA[<html><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;"><div style="max-width:720px;margin:0 auto;padding:8px 16px;"><div style="background:#fef2f4;border-left:4px solid #e11d48;padding:16px 18px;margin-bottom:24px;"><div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div><div style="font-size:14px;line-height:1.7;">AI 算力新貴 CoreWeave 在短短 12 天裏股價幾近腰斬，導火索不是需求消失，而是債務：投資者擔心利率上行會抬高它借新債的成本，也懷疑它能否扛住已有債務的利息負擔。就連英偉達 CEO 黃仁勳出面爲新雲廠商的需求背書，也沒能止住跌勢。更讓市場不安的是，SpaceX、Meta 這些巨頭正自己下場賣算力、建數據中心，CoreWeave 曾經的客戶與護城河都在生變——華爾街的擔憂一旦蔓延，便很難獨善其身。</div></div><div style="font-size:26px;font-weight:bold;line-height:1.3;">The Information 週末版</div><div style="font-size:13px;color:#71717a;margin:6px 0 4px;">2026年10月24日</div><div style="font-size:24px;font-weight:bold;line-height:1.35;margin:10px 0;">CoreWeave 究竟有多危險？</div><div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div><div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:22px 0 10px;">關鍵要點</div><ul style="font-size:15px;line-height:1.75;padding-left:20px;"><li style="margin-bottom:8px;">12 天內股價幾近腰斬：本週內 CoreWeave 股價從週一約 60 美元跌至週五約 54 美元，且本週並無新的通脹數據出爐，跌勢仍在繼續。</li><li style="margin-bottom:8px;">債務是核心焦慮：投資者擔心利率上升會抬高 CoreWeave 融資的成本——它靠舉債來擴張雲計算業務；同時也擔心它能否負擔已有大筆債務的成本。上週 9 月通脹跳升、加息預期升溫，進一步點燃了這種擔憂。</li><li style="margin-bottom:8px;">黃仁勳背書也未能止血：英偉達 CEO 週四表示，像 CoreWeave 這樣的新雲廠商（neoclouds）需求旺盛，但股價跌勢並未因此停下。</li><li style="margin-bottom:8px;">SpaceX 既是需求信號也是競爭對手：SpaceX 出售富餘 AI 算力的業務需求激增，Barron's 認爲這是 CoreWeave 的利好；但作者提醒，SpaceX 實力雄厚、無需揹負高風險債務即可擴張算力銷售，已成爲 CoreWeave 實實在在的競爭者，且其股價不太會因利率擔憂而被砸盤。</li><li style="margin-bottom:8px;">Meta 的動作喜憂參半：Meta 宣佈明年 1 月新設一類股票（相當於一拆二）以便爲 AI 籌集更多資金，董事會稱此舉也與幫助扎克伯格應對可能獲批的加州億萬富翁稅有關；Meta 是 CoreWeave 約 350 億美元的大客戶，但新資金未必會迴流給 CoreWeave——Meta 近來一直在自建數據中心、籌備自研 AI 芯片，還考慮過自己出售算力。</li><li style="margin-bottom:8px;">週四全市場承壓：Meta 股價週四跌近 9%，納斯達克指數跌 2.6%，CoreWeave 跌 10%，另外兩家上市新雲廠商 Nebius 跌 7.2%、IREN 跌 8.3%，週五跌勢仍在持續。</li><li style="margin-bottom:8px;">本期週末推薦：播客《Bear Brook》第三季（失蹤的聖誕樹農場主懸案）、新書《Kobuk the Destroyer》（產品測試科學與 AI 安全測試之難）、亞馬遜新版劇集《Carrie》（斯蒂芬·金《魔女嘉莉》的現代改編）。</li></ul><div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:22px 0 10px;">原文摘錄</div><blockquote style="margin:12px 0;padding:10px 14px;border-left:4px solid #d4d4d8;color:#3f3f46;font-size:15px;line-height:1.75;">像 CoreWeave 這樣的新雲廠商，需求“高得離譜”。<br><span style="color:#71717a;font-size:14px;">（the demand for companies like CoreWeave—neoclouds—is “off the charts.”（英偉達 CEO 黃仁勳））</span></blockquote><blockquote style="margin:12px 0;padding:10px 14px;border-left:4px solid #d4d4d8;color:#3f3f46;font-size:15px;line-height:1.75;">華爾街的擔憂是會傳染的。<br><span style="color:#71717a;font-size:14px;">（worry on Wall Street is contagious.）</span></blockquote><div style="margin:22px 0;"><a href="https://www.theinformation.com" style="color:#e11d48;font-size:15px;">閱讀原文</a></div><div style="font-size:13px;color:#71717a;">原文標題：<i>How Doomed Is CoreWeave?</i></div><div style="font-size:13px;color:#71717a;margin-top:16px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div></div></body></html>
 ]]></content:encoded>
 </item>
 </channel>
