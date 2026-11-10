@@ -6,7 +6,34 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 10 Nov 2026 04:19:05 -0800</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 10:21:31 -0500</lastBuildDate>
+<item>
+<title>【AI Agenda】獨家：Mosaic融資4700萬美元做半自主手術導管，Anthropic啓動IPO路演</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#獨家：Mosaic融資4700萬美元做半</guid>
+<pubDate>Tue, 10 Nov 2026 10:21:31 -0500</pubDate>
+<category>AI Agenda</category>
+<description>AI 摘要 本期頭條是成立僅一年的 Mosaic Intelligence Labs 獨家披露完成兩輪種子融資共4700萬美元，領投方爲8VC和Fundomo，公司正在開發能自行在血管網絡中導航的半自主導管，併爲外科醫生提供實時更新的3D循環系統地圖。本期同時披露Anthropic已於週二啓動IPO路演，暫定估值1.26萬億至1.4萬億美元，略低於投資者最初預期，也接近OpenAI近期以約1.25萬億美元估值融資110億美元的水平，儘管…</description>
+<content:encoded><![CDATA[<html><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:20px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:6px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">本期頭條是成立僅一年的 Mosaic Intelligence Labs 獨家披露完成兩輪種子融資共4700萬美元，領投方爲8VC和Fundomo，公司正在開發能自行在血管網絡中導航的半自主導管，併爲外科醫生提供實時更新的3D循環系統地圖。本期同時披露Anthropic已於週二啓動IPO路演，暫定估值1.26萬億至1.4萬億美元，略低於投資者最初預期，也接近OpenAI近期以約1.25萬億美元估值融資110億美元的水平，儘管Anthropic收入更高。此外，簡報還討論了AI數據中心安全、英偉達相關調查的後續，以及多筆AI與機器人領域融資。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;line-height:1.3;">The Information AI Agenda</div>
+<div style="font-size:13px;color:#71717a;margin:6px 0 12px;">2026年11月10日</div>
+<div style="font-size:24px;font-weight:bold;line-height:1.4;">獨家：Mosaic融資4700萬美元做半自主手術導管，Anthropic啓動IPO路演</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:18px 0 10px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;padding-left:22px;"><li style="margin-bottom:8px;">Anthropic週二啓動爲期7至10天的IPO路演，向共同基金、養老基金和對沖基金等機構投資者推介；暫定估值1.26萬億至1.4萬億美元，文章稱這可能爲上市後股價留出上漲空間。</li><li style="margin-bottom:8px;">Mosaic Intelligence Labs成立一年，已完成兩輪種子融資共4700萬美元，由8VC和Fundomo領投；聯合創始人兼CEO Ileana Pirozzi與聯合創始人Alison Mackanic均爲斯坦福大學博士，公司使用英偉達的仿真軟件並與英偉達密切合作。</li><li style="margin-bottom:8px;">Mosaic的半自主導管在醫生送入人體時，尖端可向不同方向彎曲，沿正確的靜脈和動脈前進；長遠目標是實現大部分自主運行，近期則先提供實時3D循環系統地圖，替代目前依賴術前數天快照和術中二維X光的做法。</li><li style="margin-bottom:8px;">該公司用計算機仿真生成的合成數據訓練模型；Pirozzi稱，針對血管這類柔軟可變形對象，合成數據訓練的模型表現優於僅用真實數據訓練的模型。公司已與亞利桑那州醫療系統HonorHealth合作，血管外科負責人Hasan Aldailami稱其方案可能帶來範式轉變。</li><li style="margin-bottom:8px;">機器人領域資深人士Rodney Brooks擔任Mosaic顧問並持有股權期權，他表示目標之一是最終消除手術中的X光暴露，讓患者和醫生更健康。</li><li style="margin-bottom:8px;">數據中心安全板塊：Security Level 5聯合創始人兼CEO Lisa Thiergart稱，美國AI公司裏很可能還有其他間諜，且目前公開已知沒有任何AI數據中心能抵禦另一個國家發動的高優先級網絡攻擊。</li><li style="margin-bottom:8px;">其他動態：特朗普稱FBI正在調查英偉達CEO黃仁勳與Alice Huang的關係；Anthropic在加拿大的外部律師週一晚曾向銀行發送更新後的招股文件隨後撤回，稱部分細節有誤，原文件顯示其擬以每股70至80美元發行約8.67億股、最高募資700億美元；Anthropic週一發佈Claude Fable 5.2和Claude Mythos 5.2，谷歌發佈TPU 8tx和TPU 8i Max；Nominal完成2.4億美元C輪，newmo完成208億日元B輪，Mavria累計融資1.3億美元、估值達10億美元。</li></ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:18px 0 10px;">原文摘錄</div>
+<blockquote style="margin:12px 0;padding:8px 16px;border-left:3px solid #d4d4d8;color:#3f3f46;">當你和世界上最好的外科醫生交談，他們會告訴你，他們能想象自己身處導管之中。Mosaic做的，就是把那個畫面、把他們腦海中的3D世界，放上屏幕。<br><span style="color:#71717a;font-size:13px;">(When you talk to the world’s best surgeons, they tell you that they can see themselves inside the catheter.)</span></blockquote><blockquote style="margin:12px 0;padding:8px 16px;border-left:3px solid #d4d4d8;color:#3f3f46;">我們的目標是最終徹底消除所有X光，這對患者和醫生都健康得多。<br><span style="color:#71717a;font-size:13px;">(The goal is to get rid of all that X-ray, ultimately, which is just much healthier for the patient and the doctors.)</span></blockquote>
+<div style="margin:18px 0;"><a href="https://www.theinformation.com" style="color:#e11d48;font-size:15px;">閱讀原文</a></div>
+<div style="font-size:13px;color:#71717a;">原文標題：<i>Exclusive: Mosaic Raises Funds for Robotic Surgery</i></div>
+<div style="font-size:13px;color:#71717a;margin-top:16px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+</div></body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【AM】特朗普稱FBI調查黃仁勳與中國籍人士關係：英偉達股價跌4%、Anthropic IPO文件烏龍與谷歌新TPU</title>
 <link>https://www.theinformation.com</link>
@@ -1831,45 +1858,6 @@
 <div style="font-size:13px;color:#888;margin:14px 0 4px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
 </div>
 </body></html>
-]]></content:encoded>
-</item>
-<item>
-<title>【AI 基建】數據中心遲交罰金每天高達500萬美元，催生新型保險</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#數據中心遲交罰金每天高達500萬美元，催</guid>
-<pubDate>Sun, 25 Oct 2026 08:48:29 -0700</pubDate>
-<category>AI 基建</category>
-<description>AI 摘要 數據中心交付延期正成爲 AI 基建最昂貴的新風險：今年春季租戶索賠還是一天 100 萬美元，短短數月已漲到每天 500 萬美元以上。保險經紀巨頭 Marsh 爲此發明了專爲數據中心設計的“延遲交付”險，試圖爲開發商、貸款方和債券持有人兜底。但風險規模已大到單個保險公司難以承受——今年數據中心保險保費約 100 億美元，已是全球航空保險市場的兩倍，標普警告超大規模項目的承保能力將受限。與此同時，GPU 殘值、新設備故障、公用事…</description>
-<content:encoded><![CDATA[<html><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
-<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
-<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:20px;">
-<div style="font-size:16px;font-weight:bold;margin-bottom:6px;">AI 摘要</div>
-<div style="font-size:14px;line-height:1.7;">數據中心交付延期正成爲 AI 基建最昂貴的新風險：今年春季租戶索賠還是一天 100 萬美元，短短數月已漲到每天 500 萬美元以上。保險經紀巨頭 Marsh 爲此發明了專爲數據中心設計的“延遲交付”險，試圖爲開發商、貸款方和債券持有人兜底。但風險規模已大到單個保險公司難以承受——今年數據中心保險保費約 100 億美元，已是全球航空保險市場的兩倍，標普警告超大規模項目的承保能力將受限。與此同時，GPU 殘值、新設備故障、公用事業升級擔保等新型風險也在催生新險種，而勞動力短缺、老鼠啃食光纖這類“老風險”同樣在放大。</div>
-</div>
-<div style="font-size:26px;font-weight:bold;">AI Infrastructure</div>
-<div style="font-size:13px;color:#888888;margin:6px 0 16px;">2026 年 10 月 25 日</div>
-<div style="font-size:24px;font-weight:bold;">數據中心遲交罰金每天高達500萬美元，催生新型保險</div>
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 8px;">關鍵要點</div>
-<ul style="font-size:15px;line-height:1.75;">
-<li>遲交罰金數月內翻了 5 倍：從每天 100 萬美元漲至 500 萬美元以上，租戶以更高的收入損失預期爲由索賠。</li>
-<li>兩個月延期可致約 3 億美元罰金：以 1 吉瓦數據中心爲例，聖誕節到 2 月底的延期按每天 500 萬美元計，罰金約 3 億美元，且開發商同時損失租金收入，對貸款償還構成雙重打擊。</li>
-<li>保險市場規模驚人：2026 年數據中心保險保費約 100 億美元（全球航空保險市場的兩倍）；瑞士再保險預計 2030 年接近 240 億美元；可保價值總額約 2 萬億美元，每年新增 3000 億美元。</li>
-<li>標普警告承保能力不足：單個項目可保價值達 200–300 億美元，保險公司需通過多項目風險池分攤風險，保險連接證券等替代安排將增長。</li>
-<li>新型風險催生新險種：GPU 殘值保險尚處早期（舊芯片保值甚至升值，定價困難）；新設備故障導致的服務中斷、多十億美元的公用事業升級擔保也在納入保障範圍。</li>
-<li>開發商爲取悅債券持有人加碼投保：Hut 8 在颶風頻發的得州科珀斯克里斯蒂項目上投保遠超最大可預見損失，還買了 19 個月“延遲開業”險，並談下租約在特定延期下不可終止。</li>
-<li>其他罰金同樣驚人：RBC 稱某數據中心溫度偏離安全目標一個月可面臨 1.5 億美元罰金；Gallagher Re 稱一次 45 分鐘斷電若按 99.999% 可用性承諾計罰，可抹掉數據中心全年現金流的 40%。</li>
-<li>並非所有風險都可保：Marsh 建築負責人指出，建築工人不足是最大的不可保風險之一；老鼠啃食光纖的“害蟲”附加險也重新受到關注。</li>
-</ul>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 8px;">原文摘錄</div>
-<blockquote style="border-left:4px solid #cccccc;margin:12px 0;padding:8px 16px;font-size:15px;line-height:1.75;color:#333333;">
-<p>“我敢打賭，遲交罰金將讓比利率更多的開發商破產。”（“My bet is late penalties will bankrupt more developers than interest rates ever will.”——KKR 全球數字基建負責人 Waldemar Szlezak）</p>
-<p>“過去 100 年，保險業大概只前進了五分鐘。但看看數字基建和數據中心，它轉得像秒錶一樣快。”（“Over the past 100 years, insurance has maybe changed five minutes. But if you look at digital and data centers, it spins like a stopwatch.”——Marsh 的 Mike Mathews）</p>
-</blockquote>
-<div style="font-size:15px;margin:20px 0;"><a href="https://www.theinformation.com" style="color:#e11d48;">閱讀原文</a></div>
-<div style="font-size:13px;color:#888888;">原文標題：<i>Data Center Late Fees Hit $5 Million or More Per Day, Spawning New Insurance</i></div>
-<div style="font-size:13px;color:#888888;margin-top:16px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
-</div></body></html>
 ]]></content:encoded>
 </item>
 </channel>
