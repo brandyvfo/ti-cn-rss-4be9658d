@@ -6,7 +6,44 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 11 Nov 2026 07:20:49 -0500</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 10:20:50 -0500</lastBuildDate>
+<item>
+<title>【AI Agenda】50家最具潛力初創榜單發佈，AI研發加速讓安全研究者的末日概率飆升</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#50家最具潛力初創榜單發佈，AI研發加速</guid>
+<pubDate>Wed, 11 Nov 2026 10:20:50 -0500</pubDate>
+<category>AI Agenda</category>
+<description>AI 摘要 本期發佈年度50家最具潛力初創公司榜單，入選門檻爲融資不足1億美元、估值低於10億美元，其中AI基礎設施與安全類別競爭尤爲激烈。與此同時，兩份新報告顯示AI研發正在加速：非營利機構METR稱，Anthropic內部使用AI已使其模型能力進步速度達到此前的約兩倍；AI Futures Project則把“超人類AI研究員”的出現時間提前至2027年底。研究者 increasingly 相信，遞歸自我改進——一代模型幫助構建下一…</description>
+<content:encoded><![CDATA[<html><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 18px;margin-bottom:20px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">本期發佈年度50家最具潛力初創公司榜單，入選門檻爲融資不足1億美元、估值低於10億美元，其中AI基礎設施與安全類別競爭尤爲激烈。與此同時，兩份新報告顯示AI研發正在加速：非營利機構METR稱，Anthropic內部使用AI已使其模型能力進步速度達到此前的約兩倍；AI Futures Project則把“超人類AI研究員”的出現時間提前至2027年底。研究者 increasingly 相信，遞歸自我改進——一代模型幫助構建下一代模型的持續循環——可能正比預期更快成爲現實，安全研究者的“末日概率”P(doom)因此明顯上升。Anthropic已更新IPO文件並觸發更強的安全承諾，但批評者認爲其披露仍遠遠不夠，且先進模型高昂的開發與運行成本可能構成制約。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;">The Information AI Agenda</div>
+<div style="font-size:13px;color:#71717a;margin:6px 0 12px;">2026 年 11 月 11 日</div>
+<div style="font-size:24px;font-weight:bold;line-height:1.4;">50家最具潛力初創榜單發佈，AI研發加速讓安全研究者的末日概率飆升</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;padding-left:22px;"><li style="margin-bottom:8px;">榜單往年命中率不俗：此前上榜的OpenRouter當時估值5億美元，後被Stripe以超過70億美元收購；Cursor當時估值4億美元，今年8月被SpaceX以600億美元收購；Perplexity當時估值1.5億美元，最新一輪融資估值超過300億美元。</li>
+<li style="margin-bottom:8px;">今年篩選明顯更難：年輕AI公司只要稍有收入勢頭就會被投資者追逐。團隊在AI基礎設施與安全類別尤其難以取捨，入圍者涵蓋幫助開發者用多個雲平臺訓練模型的公司，以及用AI保護員工設備的公司——隨着AI驅動的網絡攻擊增加，這類公司愈發重要。</li>
+<li style="margin-bottom:8px;">METR報告：Anthropic向METR開放了內部信息。報告發現，Anthropic內部使用AI正幫助其以約兩倍於此前的速度提升模型能力；METR警告，AI研發加速可能帶來“極端且危險的能力”。</li>
+<li style="margin-bottom:8px;">AI Futures Project週二發佈新報告：把超人類AI研究員——強到Anthropic可能寧願解僱全部人類研究員的模型——的出現時間預測從原先的2029年或更晚，提前至2027年底。其“AI 2027”舊預測曾準確預言AI智能體與助手的興起、以及模型加速AI研究。</li>
+<li style="margin-bottom:8px;">Anthropic週二上午更新IPO文件，稱其模型現已能把非AI輔助的能力進步速率翻倍。由於已達到該閾值，按其安全承諾，公司應採取更強的安全與監測措施，例如系統性測試Claude的行爲與傾向是否與人類價值對齊。</li>
+<li style="margin-bottom:8px;">質疑與保留意見：9月因超級智能努力公開辭職的前Anthropic員工Jacob Coxon歡迎披露，但認爲分享的信息“遠遠不夠”；普林斯頓教授Arvind Narayanan等認爲能力快速進步影響社會仍需時間；谷歌DeepMind研究員Sebastian Krier批評METR報告依賴有缺陷的衡量方法，並指出開發和運行超先進模型的成本已變得極高，可能拖慢Anthropic。</li>
+<li style="margin-bottom:8px;">財報速覽：CoreWeave第三季度收入36.6億美元，較上年同期的13.65億美元翻倍以上，但虧損也大幅擴大；軟銀核銷37億美元爲 securing 數據中心設備支付的不可退預付款，反映其對數據中心計劃的複查，其中包括9億美元與合同修改及和解相關的核銷。</li>
+<li style="margin-bottom:8px;">交易速覽：Anthropic過去一個月與微軟和谷歌新籤承諾，至2033年在雲服務器租賃上的支出將比此前披露多約100億美元；其週二還推出電子表格、演示文稿和筆記類辦公軟件應用，微軟股價大跌。Mercor以200億美元估值完成7.5億美元D輪融資；芯片開發商Fractile以70億美元投後估值完成7.2億美元C輪融資；智能戒指廠商Oura同意以6.25億美元現金收購AI初級醫療平臺Counsel Health，預計2026年底前後交割。</li>
+<li style="margin-bottom:8px;">其他動態：英偉達董事會週二宣佈已聘請Wachtell, Lipton, Rosen & Katz律所，對CEO黃仁勳的行爲開展獨立調查；OpenAI收購AI旅行規劃平臺Odessia，其創始人將加入OpenAI；OpenAI還推出測試版“Business Hub”，允許企業在ChatGPT中認領商家信息；穩定幣支付初創Rain推出面向AI智能體的金庫產品——帶預算限額的智能體支出賬戶，將與Stripe競爭。</li></ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">原文摘錄</div>
+<blockquote style="margin:12px 0;padding:8px 16px;border-left:3px solid #d4d4d8;color:#3f3f46;">我們正處在起飛期的開端。那些多年來、甚至幾十年來人們一直在警告的事情——超級智能、遞歸自我改進、災難性的失控——看起來在2027年都有真實發生的可能。<br><span style="color:#71717a;font-size:13px;">(We’re at the beginning of the takeoff period. — Daniel Kokotajlo, AI Futures Project)</span></blockquote>
+<blockquote style="margin:12px 0;padding:8px 16px;border-left:3px solid #d4d4d8;color:#3f3f46;">如果我們經歷這個反饋循環，我預計從另一端出來的AI系統將能很快開發出新型武器，並很容易在衝突中壓倒人類文明。<br><span style="color:#71717a;font-size:13px;">(If we go through this feedback loop, I expect that the AI systems that come out the other side will be able to very quickly develop novel weapons. — Ajeya Cotra, METR)</span></blockquote>
+<div style="font-size:15px;line-height:1.75;margin:20px 0;"><a href="https://www.theinformation.com" style="color:#e11d48;">閱讀原文</a></div>
+<div style="font-size:13px;color:#71717a;">原文標題：<i>Most Promising AI Startups; What’s Hiking P(Doom) Scores</i></div>
+<div style="font-size:13px;color:#71717a;margin-top:16px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【AM】Anthropic與微軟谷歌新增超100億美元算力協議，Lambda 349億美元交易或取消</title>
 <link>https://www.theinformation.com/briefings/anthropic-discloses-10-billion-new-deals-microsoft-google-says-lambda-deal-may-cancelled</link>
@@ -1776,47 +1813,6 @@
 <a href="https://www.theinformation.com" style="color:#e11d48;font-size:15px;">閱讀原文</a>
 </div>
 <div style="font-size:13px;color:#71717a;">原文標題：<i>The Briefing: Sucking Up the Air</i></div>
-<div style="font-size:13px;color:#71717a;margin-top:16px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
-</div>
-</body></html>
-]]></content:encoded>
-</item>
-<item>
-<title>【AI Agenda】爲分檔融資辯護：AI 初創公司爲何接受多檔估值</title>
-<link>https://www.theinformation.com</link>
-<guid isPermaLink="false">https://www.theinformation.com#爲分檔融資辯護：AI 初創公司爲何接受多</guid>
-<pubDate>Mon, 26 Oct 2026 07:49:12 -0700</pubDate>
-<category>AI Agenda</category>
-<description>AI 摘要 如今 AI 初創公司的融資普遍採用多檔結構，不同投資者以不同估值入場，熱門輪次甚至出現三檔以上。批評者認爲，這讓大型風投得以迫使小型機構接受更貴的一檔，也讓公司得以對外宣稱更高的估值。但創始人與多位投資者指出，AI 公司對算力的剛性需求才是這一結構流行的根源：租用約 2500 張英偉達芯片開發模型，兩年就可能需要 1.5 億至 2 億美元，低估值融資會過度稀釋，高估值又會嚇退追求回報的機構，分檔融資讓創始人得以兼顧兩者。本期…</description>
-<content:encoded><![CDATA[<html><body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
-<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
-<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:16px 18px;margin-bottom:24px;">
-<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
-<div style="font-size:14px;line-height:1.7;">如今 AI 初創公司的融資普遍採用多檔結構，不同投資者以不同估值入場，熱門輪次甚至出現三檔以上。批評者認爲，這讓大型風投得以迫使小型機構接受更貴的一檔，也讓公司得以對外宣稱更高的估值。但創始人與多位投資者指出，AI 公司對算力的剛性需求才是這一結構流行的根源：租用約 2500 張英偉達芯片開發模型，兩年就可能需要 1.5 億至 2 億美元，低估值融資會過度稀釋，高估值又會嚇退追求回報的機構，分檔融資讓創始人得以兼顧兩者。本期還提到 Anthropic 已於週一上午提交備受期待的公開 S-1 文件，以及 DeepSeek 與 OpenAI 的大額融資動態。</div>
-</div>
-<div style="font-size:26px;font-weight:bold;line-height:1.3;">The Information AI Agenda</div>
-<div style="font-size:13px;color:#71717a;margin:6px 0 12px 0;">2026 年 10 月 26 日</div>
-<div style="font-size:24px;font-weight:bold;line-height:1.4;">爲分檔融資辯護：AI 初創公司爲何接受多檔估值</div>
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 12px 0;">關鍵要點</div>
-<ul style="font-size:15px;line-height:1.75;padding-left:20px;margin:0;">
-<li style="margin-bottom:8px;">多檔融資成爲常態：起初兩檔已屬少見，如今格外熱門的 AI 融資輪次出現三檔或更多，不同投資者以不同估值進入同一輪。</li>
-<li style="margin-bottom:8px;">批評聲音：未能進入低估值檔的投資者不滿，認爲大風投藉此施壓、迫使小機構進入第二檔更貴的價格；公司也能據此宣稱更高估值，儘管部分甚至大部分新資金實際以更低價格進入。</li>
-<li style="margin-bottom:8px;">算力成本是核心驅動：一家年輕初創若想租用約 2500 張英偉達 GPU 開發新模型，兩年從雲廠商租用可能需融資 1.5 億至 2 億美元；低估值融資會重度稀釋現有股東，高估值（10 億美元以上）又會嚇退機構投資者。</li>
-<li style="margin-bottom:8px;">分檔如何兼顧兩端：英偉達等大型企業投資者往往湧入高估值檔，且在許多案例中出資佔該檔總額的 25% 以上，從而支撐起更高的標稱估值。</li>
-<li style="margin-bottom:8px;">誰來領投高價檔：英偉達歷史上並不領投——它常投資於相互競爭的公司、不願被視爲定價者，也可能不願招致投資客戶的監管審查；最熱門的輪次中，部分風投別無選擇只能投或領投更貴的一檔。</li>
-<li style="margin-bottom:8px;">名義領投安排：有投資者稱，其機構有時將絕大部分資金投入低價檔，僅拿出數百萬美元投入高價檔併名義上領投，爲企業投資者大額進入高價檔提供掩護，使其無需承擔領投責任與失敗時的 scrutiny。</li>
-<li style="margin-bottom:8px;">Anthropic 動態：Anthropic 於週一上午遞交了備受期待的公開 S-1 文件；作者團隊將解析其算力效率改善、支出與現金消耗，以及可能預示其 Long-Term Benefit Trust 走向終結的新披露——該信託由非股東成員就安全與社會議題提供建議，並可任命董事會多數成員。</li>
-<li style="margin-bottom:8px;">大額融資動態：DeepSeek 已完成第二輪融資，募資 1060 億元人民幣（約 159 億美元），爲中國 AI 領域規模最大的融資之一；OpenAI 目標在下週末前關閉一輪 300 億美元融資，投前估值最高達 1.25 萬億美元（不含新投資）。</li>
-<li style="margin-bottom:8px;">其他交易精選：北京芯片公司 Huixi Intelligence 完成 Pre-B+ 與 B 輪（金額未披露，北京人工智能產業投資基金領投），2026 年股權融資累計超 25 億元人民幣（約 3.75 億美元）；Pathos AI 以 30 億美元投後估值完成 2.37 億美元 E 輪（Bristol Myers Squibb 領投）；Warp Sciences 以 8.65 億美元投後估值攜 2.15 億美元融資走出隱身（Lightspeed 領投）；Tractian 以 14 億美元估值完成 1.3 億美元 D 輪（Sapphire Ventures 領投）。</li>
-</ul>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 12px 0;">原文摘錄</div>
-<blockquote style="margin:12px 0;padding:8px 16px;border-left:3px solid #d4d4d8;color:#3f3f46;">如今似乎每一筆 AI 初創融資都有多個檔次，不同投資者以不同估值入場。<br><span style="font-size:13px;color:#71717a;">(It seems like every AI startup financing these days has multiple tranches in which different investors get in at different valuations.)</span></blockquote>
-<blockquote style="margin:12px 0;padding:8px 16px;border-left:3px solid #d4d4d8;color:#3f3f46;">在許多案例中，英偉達會在高估值檔提供相當大一塊資金，往往超過該檔總額的 25%。<br><span style="font-size:13px;color:#71717a;">(In many cases, Nvidia will provide a significant chunk of capital in the higher-valued tranche, often more than 25% of the total tranche.)</span></blockquote>
-<div style="margin:24px 0;">
-<a href="https://www.theinformation.com" style="color:#e11d48;font-size:15px;">閱讀原文</a>
-</div>
-<div style="font-size:13px;color:#71717a;">原文標題：<i>The Argument in Favor of Tranched Rounds</i></div>
 <div style="font-size:13px;color:#71717a;margin-top:16px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
 </div>
 </body></html>
