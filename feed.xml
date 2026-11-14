@@ -6,7 +6,48 @@
 <description>The Information 新闻简报的中文摘要与编译</description>
 <language>zh-cn</language>
 <atom:link href="https://brandyvfo.github.io/ti-cn-rss-4be9658d/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 13 Nov 2026 17:51:30 +0100</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 08:21:18 -0800</lastBuildDate>
+<item>
+<title>【周末版】黃仁勳下臺的連鎖反應</title>
+<link>https://www.theinformation.com</link>
+<guid isPermaLink="false">https://www.theinformation.com#黃仁勳下臺的連鎖反應</guid>
+<pubDate>Sat, 14 Nov 2026 08:21:18 -0800</pubDate>
+<category>周末版</category>
+<description>AI 摘要 作者把黃仁勳離開英偉達稱爲“Jexit”，稱這是一場波及多個大洲、多個行業的內爆，沒有被波及的人能全身而退。黃仁勳曾向公司高管保證，他只有與英偉達大客戶 Megaspeed 前高管 Alice Huang 的一段婚外情，但據報道至少還有另外兩段，其中一段的對象是他的直接下屬。英偉達董事會起初幾乎沒有採取行動，是在總法律顧問 Tim Teter 的堅持下才出手；董事會由與黃仁勳相識數十年的人主導，而且連董事會主席都沒有。黃仁勳…</description>
+<content:encoded><![CDATA[<!DOCTYPE html>
+<html><head><meta charset="utf-8"></head>
+<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
+<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
+<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:14px 16px;margin-bottom:20px;">
+<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
+<div style="font-size:14px;line-height:1.7;">作者把黃仁勳離開英偉達稱爲“Jexit”，稱這是一場波及多個大洲、多個行業的內爆，沒有被波及的人能全身而退。黃仁勳曾向公司高管保證，他只有與英偉達大客戶 Megaspeed 前高管 Alice Huang 的一段婚外情，但據報道至少還有另外兩段，其中一段的對象是他的直接下屬。英偉達董事會起初幾乎沒有採取行動，是在總法律顧問 Tim Teter 的堅持下才出手；董事會由與黃仁勳相識數十年的人主導，而且連董事會主席都沒有。黃仁勳在華盛頓自以爲有的人脈遠不足以救他：美國部分當局稱那位 Megaspeed 前高管是間諜，但近幾天的更多報道對這一說法提出質疑——即便如此，僅僅是這種暗示，就成了對付他的有用武器。儘管硅谷仍有不少知名人士爲他辯護、英偉達員工還請願要求他復職，但國會調查已經臨近，他已同意在感恩節前作證，關於他如何真正經營英偉達的報道也開始浮現。</div>
+</div>
+<div style="font-size:26px;font-weight:bold;">The Information Weekend</div>
+<div style="font-size:13px;color:#888;margin:6px 0 4px;">2026 年 11 月 14 日（星期六） · 作者：Abram Brown</div>
+<div style="font-size:24px;font-weight:bold;margin:10px 0;">黃仁勳下臺的連鎖反應</div>
+<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">關鍵要點</div>
+<ul style="font-size:15px;line-height:1.75;margin:0;padding-left:20px;"><li>婚外情不止一段：黃仁勳曾向英偉達高管保證只有與 Megaspeed 前高管 Alice Huang 的一段關係，但據報道至少還有另外兩段，其中一段對象是他的直接下屬——作者稱他在這件事上混淆、隱瞞了真相。</li>
+<li>董事會遲疑：英偉達董事會起初幾乎沒有行動，最終是在總法律顧問 Tim Teter 的堅持下才出手。作者並不意外：董事會成員多是與黃仁勳相識數十年的人，而且董事會甚至沒有主席。</li>
+<li>華盛頓人脈失靈：黃仁勳自以爲在華盛頓的朋友遠不足以救他，這也提醒人們政治的善變——正值硅谷爲贏得上升中的左翼的影響力而做必要的路線修正（文中調侃 Alex Karp 又成了民主黨人）。跡象顯示，特朗普主導的華盛頓內部一些派系在對黃仁勳不利，過去一週最活躍的記者也多在華盛頓。</li>
+<li>“間諜”指控存疑：一些美國當局稱那位 Megaspeed 前高管是間諜，但近幾天的更多報道對她是否真是間諜提出質疑。作者指出，無論真假，僅僅是這種暗示就成了對付黃仁勳的有用武器。</li>
+<li>媒體的反思：作者不願給媒體頒獎——黃仁勳的欺凌傾向多年來未被充分突出，先是因爲英偉達太複雜、太難報道，後是因爲他把自己塑造爲書呆子氣質、表達流暢的 AI 時代代言人。作者不禁發問：隨着科技版圖繼續擴大變形，還有誰在逃避密切審視？</li>
+<li>硅谷支持基礎仍在：整個事件期間黃仁勳在硅谷仍有可觀的支持者，風險投資人 Vinod Khosla、Ron Conway 以及 Epic Games 首席執行官 Tim Sweeney 等知名人士紛紛爲他辯護；他在英偉達內部也仍有大批盟友——週四晚間，一份呼籲他復職的英偉達員工請願書在網上流傳。</li>
+<li>後續風險臨近：針對黃仁勳和英偉達的國會調查正在逼近，他已同意在感恩節前作證；與此同時，關於他如何真正經營英偉達的報道開始出現，包括他樂於碾壓更爲謹慎的高管。</li>
+<li>傳記作者的新評價：爲黃仁勳寫過 2025 年傳記《The Thinking Machine》的 Stephen Witt 在《紐約時報》新文中形容他是一個被“傲慢與有毒的自戀”驅動的人，並指出所有人對黃仁勳的行爲都曾故意視而不見。文中還提到：英偉達上世紀 90 年代初的企業吉祥物 Dawn 是一位衣着暴露的電腦合成精靈形象，約在 2020 年黃仁勳開始談論賦能公司女性之時被雪藏。Witt 開玩笑說續作可以叫《The What-Were-You-Thinking?! Machine》。</li>
+<li>本期必讀列表：編輯部同時推薦了關於黃仁勳最後日子的報道《Sex, Lies and AI Chips: Jensen Huang’s Last Days as Nvidia CEO》、臨時首席執行官 Colette Kress 試圖馴服英偉達最冒險押注的報道、Alice Huang 的公司投資 DeepSeek 並承諾提供英偉達芯片的報道，以及商務部正在定稿的 AI 遠程訪問規則。</li>
+<li>週末文化欄目：本期還推薦了《星際迷航》演員 Brent Spiner 與 Jonathan Frakes 的新播客《Dropping Names With Brent and Jonny》、Laurence Leamer 的肯尼迪新傳記《Ladies’ Man》，以及 Lance Oppenheim 關於《To Catch a Predator》主持人 Chris Hansen 的虛構化傳記片《Primetime》（Robert Pattinson 主演）。</li></ul>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">原文摘錄</div>
+<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;padding-left:14px;margin:0 0 12px;color:#3f3f46;">我把黃仁勳離開英偉達稱爲‘Jexit’：這是一件醜陋的事，是一場波及多個大洲、多個行業的內爆。（“Jexit, as I’d like to christen Huang’s departure from Nvidia, is an ugly matter, an implosion with fallout across continents and several different industries.”）</blockquote>
+<blockquote style="font-size:15px;line-height:1.75;border-left:3px solid #d4d4d8;padding-left:14px;margin:0 0 12px;color:#3f3f46;">Stephen Witt 在新文中把黃仁勳形容爲一個被‘傲慢與有毒的自戀’所驅動的人。（“Witt describes him as a person energized “by arrogance and toxic self-regard.””）</blockquote>
+<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 10px;">閱讀原文</div>
+<div style="font-size:15px;line-height:1.75;margin:0 0 12px;"><a href="https://www.theinformation.com" style="color:#e11d48;">theinformation.com</a>（本期郵件中的鏈接均爲追蹤跳轉鏈接，無該文章的直接原文鏈接）</div>
+<div style="font-size:13px;color:#888;margin:14px 0;">原文標題：<i>The Fallout from Jensen’s Downfall</i></div>
+<div style="font-size:13px;color:#888;margin:14px 0 4px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
+</div>
+</body></html>
+]]></content:encoded>
+</item>
 <item>
 <title>【资讯】AI熱潮造就了黃仁勳，而非相反</title>
 <link>https://www.theinformation.com</link>
@@ -1756,35 +1797,6 @@
 <div style="font-size:13px;color:#71717a;">原文標題：<i>Encryption Under Siege? OpenAI, Anthropic Disprove Key Cryptography Theorem</i></div>
 <div style="font-size:13px;color:#71717a;margin-top:16px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
 </div></body></html>
-]]></content:encoded>
-</item>
-<item>
-<title>【AM】谷歌一個月內推出第二款重磅AI模型Gemini 4 Carbon</title>
-<link>https://www.theinformation.com/briefings/google-launches-gemini-4-carbon-second-major-ai-model-month</link>
-<guid isPermaLink="false">https://www.theinformation.com/briefings/google-launches-gemini-4-carbon-second-major-ai-model-month#谷歌一個月內推出第二款重磅AI模型Gem</guid>
-<pubDate>Thu, 29 Oct 2026 06:19:00 -0500</pubDate>
-<category>AM</category>
-<description>AI 摘要 谷歌發佈 Gemini 4 Carbon，這是不到一個月內推出的第二款旗艦模型，主打網絡安全能力，生成安全代碼的能力接近上一代 Argon 的兩倍。本期還聚焦多家科技巨頭的財報與資本動作：微軟營收增長略有加速但數據中心支出拖累現金流，谷歌雲收入翻倍卻因整體增速不及預期和自由現金流爲負而股價下跌，甲骨文則因承諾控制資本開支並預告現金流轉正而大漲。此外，紐交所高管稱 Anthropic 的巨型上市擠佔了其他公司的 IPO 窗口，…</description>
-<content:encoded><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"></head>
-<body style="margin:0;padding:24px;background:#f4f4f5;font-family:Georgia,'Times New Roman','Songti SC','STSong',serif;color:#1a1a1a;">
-<div style="max-width:720px;margin:0 auto;padding:8px 16px;">
-<div style="background:#fef2f4;border-left:4px solid #e11d48;padding:16px 18px;margin-bottom:24px;">
-<div style="font-size:16px;font-weight:bold;margin-bottom:8px;">AI 摘要</div>
-<div style="font-size:14px;line-height:1.7;">谷歌發佈 Gemini 4 Carbon，這是不到一個月內推出的第二款旗艦模型，主打網絡安全能力，生成安全代碼的能力接近上一代 Argon 的兩倍。本期還聚焦多家科技巨頭的財報與資本動作：微軟營收增長略有加速但數據中心支出拖累現金流，谷歌雲收入翻倍卻因整體增速不及預期和自由現金流爲負而股價下跌，甲骨文則因承諾控制資本開支並預告現金流轉正而大漲。此外，紐交所高管稱 Anthropic 的巨型上市擠佔了其他公司的 IPO 窗口，蘋果則推出了首款觸屏 MacBook。</div>
-</div>
-<div style="font-size:26px;font-weight:bold;line-height:1.3;">The Information AM</div>
-<div style="font-size:13px;color:#666;margin-top:6px;">2026 年 10 月 29 日</div>
-<div style="font-size:24px;font-weight:bold;line-height:1.4;margin-top:16px;">谷歌一個月內推出第二款重磅AI模型Gemini 4 Carbon</div>
-<div style="height:4px;background:#e11d48;border-radius:2px;margin:16px 0;"></div>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:20px 0 12px;">關鍵要點</div>
-<ul style="font-size:15px;line-height:1.75;padding-left:20px;"><li style="margin-bottom:8px;">谷歌發佈 Gemini 4 Carbon：定價與 9 月 30 日發佈的 Gemini 4 Argon 相同， introductory 價爲每百萬輸入 token 2 美元、輸出 token 10 美元，優惠期結束後將翻倍；將先向部分網絡安全專業人士和 Fairwind 計劃合作伙伴開放，並參與美國政府的發佈前模型測試計劃。</li><li style="margin-bottom:8px;">谷歌稱 Carbon 在網絡安全能力上實現顯著躍升，生成安全代碼的能力接近 Argon 的兩倍；此次發佈正值失控 AI 智能體利用企業和政府漏洞引發安全擔憂之際。此前近一年穀歌未發佈新旗艦模型，在前沿模型競爭中落後於 OpenAI 和 Anthropic。</li><li style="margin-bottom:8px;">IPO 管線受 Anthropic 上市拖累：紐交所集團總裁 Lynn Martin 在 The Information 的 WTF 峯會上表示，潛在上市管線很強，但被 Anthropic 的 S-1 公開耽擱；Anthropic 已於週一公開提交 IPO 文件，計劃在納斯達克上市，此前報道稱募資規模最高可達 1000 億美元。</li><li style="margin-bottom:8px;">蘋果發佈首款觸屏 Mac：搭載 PROLED XDR 顯示屏的 MacBook Pro 起售價 2899 美元，提供 14 英寸和 16 英寸版本及 M5 Pro / M5 Max 芯片選項，觸控傳感器直接集成在顯示面板中以降低延遲，並引入 iPhone 的靈動島；週二發佈的無觸屏 M6 版 MacBook Pro 起售價爲 1999 美元。分析機構 Omdia 稱目前僅約 20%–25% 的筆記本電腦帶觸屏。</li><li style="margin-bottom:8px;">甲骨文股價大漲逾 10%：公司稱 2028 和 2029 財年爲資本開支高峯期，自由現金流將在 2028 財年（2027 年 6 月起）轉正，2029 財年超過 300 億美元；至 2030 財年用於資本開支的融資上限爲 200 億美元，債務與股權各半。甲骨文與 OpenAI 的交易若完成數據中心項目可帶來 3000 億美元收入，但其高額支出也引發投資者對信用評級跌入垃圾級的擔憂，今年股價仍下跌約 27%。</li><li style="margin-bottom:8px;">微軟營收加速但現金流承壓：9 月季度營收增長 19% 至 923 億美元，比上一季度快 1 個百分點；與 OpenAI 相關的收入佔總營收近 11%。Azure 收入爲 330 億美元，同比增長 48%，增速加快 5 個百分點。數據中心資本開支升至 452 億美元，同比增 30%，拖累自由現金流同比下降 27% 至 186 億美元；公司未披露 Copilot 付費訂閱數，此前稱截至 6 月底爲 3000 萬。微軟本週還宣佈向 6 萬名員工（約佔員工總數 27%）提供自願買斷。</li><li style="margin-bottom:8px;">谷歌財報不及預期：母公司 Alphabet 第三季度營收增長 25% 至 1276 億美元，低於預期，股價盤後下跌近 9%；淨利潤下降近四分之一至 262 億美元，部分源於持有的股權證券虧損 87 億美元，主要與 SpaceX 股價下跌有關。谷歌雲收入同比翻倍至 307 億美元，TPU 芯片銷售貢獻明顯，雲業務積壓訂單達 5610 億美元；但自由現金流爲負逾 90 億美元，爲連續第二季度爲負。</li><li style="margin-bottom:8px;">ServiceNow 股價下跌 19%：9 月季度營收增長 20.5% 至略高於 41 億美元，增速低於上一季度的 24%，當前剩餘履約義務增速預計將放緩，引發投資者對 AI 衝擊其業務的擔憂；公司稱 AI 交易量同比增長 80%，並將 2026 年底 AI 產品年度合同價值目標上調至 17 億美元。</li><li style="margin-bottom:8px;">其他動態：芯片廠商 Marvell 據報在洽談收購數據中心光學廠商 Lumentum，Lumentum 市值超過 800 億美元，消息後其股價漲 8%、Marvell 跌 8%；Shopify 爲 Shop Pay 引入 Visa、萬事達和美國運通的智能體支付技術，與 Stripe 的單次虛擬卡方案路徑不同；Alphabet 第三季度通過 ATM 計劃出售 124 億美元股票。</li></ul>
-<div style="font-size:18px;font-weight:bold;border-left:4px solid #e11d48;padding-left:10px;margin:24px 0 12px;">原文摘錄</div>
-<blockquote style="margin:12px 0;padding:8px 16px;border-left:3px solid #d4d4d8;color:#333;font-size:14px;line-height:1.7;">谷歌稱 Carbon 是網絡安全能力的顯著躍升，生成安全代碼的能力接近 Argon 的兩倍。<br><span style="color:#666;">(Google says Carbon is a “significant leap in cybersecurity capabilities,” and is nearly two times better at generating secure code than Argon.)</span></blockquote><blockquote style="margin:12px 0;padding:8px 16px;border-left:3px solid #d4d4d8;color:#333;font-size:14px;line-height:1.7;">Martin 表示潛在上市管線真的很強，但一直被 Anthropic 的 S-1 必須公開這件事拖住。<br><span style="color:#666;">(The pipeline for potential new listings is “really strong,” Martin said, but it “has been held back by the Anthropic S-1 having to flip public.”)</span></blockquote>
-<div style="font-size:15px;line-height:1.75;margin-top:24px;"><a href="https://www.theinformation.com/briefings/google-launches-gemini-4-carbon-second-major-ai-model-month" style="color:#e11d48;text-decoration:none;">閱讀原文</a></div>
-<div style="font-size:13px;color:#888;margin-top:16px;">原文標題：<i>Google Launches Gemini 4 Carbon, Its Second Major AI Model in a Month</i></div>
-<div style="font-size:13px;color:#888;margin-top:12px;">本期爲摘要版：基於郵件內容的中文摘要與要點提煉，非全文翻譯。</div>
-</div>
-</body></html>
 ]]></content:encoded>
 </item>
 </channel>
